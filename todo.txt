@@ -1,9 +1,0 @@
-TODO:
-
-change placement of macguffins for relive spirits
-
-change starting items based on yaml options
-
-add descriptions to remaining yaml options
-
-add option to turn off trials and/or auto wl
