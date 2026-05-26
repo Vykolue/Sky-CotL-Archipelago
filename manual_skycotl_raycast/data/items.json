@@ -1,0 +1,2229 @@
+[
+  {
+    "count": 1,
+    "name": "Home Key",
+    "category": [
+      "Area - Home"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Aviary Village Key",
+    "category": [
+      "Area - Aviary"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nesting Workshop Key",
+    "category": [
+      "Area - Aviary"
+    ],
+    "progression": false
+  },
+  {
+    "count": 1,
+    "name": "Concert Hall Key",
+    "category": [
+      "Area - Aviary"
+    ],
+    "progression": "{YamlEnabled(Relive_Spirits)}"
+  },
+  {
+    "count": 1,
+    "name": "Dye Workshop Key",
+    "category": [
+      "Area - Aviary"
+    ],
+    "progression": "{YamlEnabled(Relive_Spirits)}"
+  },
+  {
+    "count": 1,
+    "name": "Wandering Carnival Key",
+    "category": [
+      "Area - Aviary"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Passage Rock Key",
+    "category": [
+      "Area - Isle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dawn Circle Key",
+    "category": [
+      "Area - Isle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Passage Stone Key",
+    "category": [
+      "Area - Isle"
+    ],
+    "progression": "{YamlEnabled(Relive_Spirits)}"
+  },
+  {
+    "count": 1,
+    "name": "Temple of the Isle Key",
+    "category": [
+      "Area - Isle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dawn Overlook Key",
+    "category": [
+      "Area - Isle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cave of Prophecies Key",
+    "category": [
+      "Area - Isle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Trial of Water Key",
+    "category": [
+      "Area - Isle",
+      "Trial Keys"
+    ],
+    "progression": "{YamlEnabled(Winged_Light_Run)}"
+  },
+  {
+    "count": 1,
+    "name": "Trial of Earth Key",
+    "category": [
+      "Area - Isle",
+      "Trial Keys"
+    ],
+    "progression": "{YamlEnabled(Winged_Light_Run)}"
+  },
+  {
+    "count": 1,
+    "name": "Trial of Air Key",
+    "category": [
+      "Area - Isle",
+      "Trial Keys"
+    ],
+    "progression": "{YamlEnabled(Winged_Light_Run)}"
+  },
+  {
+    "count": 1,
+    "name": "Trial of Fire Key",
+    "category": [
+      "Area - Isle",
+      "Trial Keys"
+    ],
+    "progression": "{YamlEnabled(Winged_Light_Run)}"
+  },
+  {
+    "count": 1,
+    "name": "Prairie Rest Key",
+    "category": [
+      "Area - Prairie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Butterfly Fields Key",
+    "category": [
+      "Area - Prairie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Prairie Cave Key",
+    "category": [
+      "Area - Prairie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Prairie Village Key",
+    "category": [
+      "Area - Prairie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bird Nest Key",
+    "category": [
+      "Area - Prairie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Prairie Peaks Key",
+    "category": [
+      "Area - Prairie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Prairie Heights Key",
+    "category": [
+      "Area - Prairie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sanctuary Islands Key",
+    "category": [
+      "Area - Prairie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Temple of the Prairie Key",
+    "category": [
+      "Area - Prairie"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Forest Rest Key",
+    "category": [
+      "Area - Forest"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Forest Courtyard Key",
+    "category": [
+      "Area - Forest"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Treehouse Key",
+    "category": [
+      "Area - Forest"
+    ],
+    "progression": "{YamlEnabled(Winged_Light_Run)}"
+  },
+  {
+    "count": 1,
+    "name": "Forest Brook Key",
+    "category": [
+      "Area - Forest"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Elevated Clearing Key",
+    "category": [
+      "Area - Forest"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blue Bird Theater Key",
+    "category": [
+      "Area - Forest"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Forest Cavern Key",
+    "category": [
+      "Area - Forest"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boneyard Key",
+    "category": [
+      "Area - Forest"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Temple of the Forest Key",
+    "category": [
+      "Area - Forest"
+    ],
+    "progression": "{YamlEnabled(Winged_Light_Run)}"
+  },
+  {
+    "count": 1,
+    "name": "Sacred Pond Key",
+    "category": [
+      "Area - Forest"
+    ],
+    "progression": "{YamlEnabled(Winged_Light_Run)}"
+  },
+  {
+    "count": 1,
+    "name": "The Wind Paths Key",
+    "category": [
+      "Area - Forest"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Valley Rest Key",
+    "category": [
+      "Area - Valley"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Frozen Lake Key",
+    "category": [
+      "Area - Valley"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Citadel Key",
+    "category": [
+      "Area - Valley"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lower Valley Track Key",
+    "category": [
+      "Area - Valley"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Upper Valley Track Key",
+    "category": [
+      "Area - Valley"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Temple of the Valley Key",
+    "category": [
+      "Area - Valley"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Village of Dreams Key",
+    "category": [
+      "Area - Valley"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Harmony Hall Key",
+    "category": [
+      "Area - Valley"
+    ],
+    "progression": "{YamlEnabled(Daily_Music_Challenge)}"
+  },
+  {
+    "count": 1,
+    "name": "Village Theater Key",
+    "category": [
+      "Area - Valley"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hermit Valley Key",
+    "category": [
+      "Area - Valley"
+    ],
+    "progression": "{YamlEnabled(Winged_Light_Run)}"
+  },
+  {
+    "count": 1,
+    "name": "Wasteland Rest Key",
+    "category": [
+      "Area - Wasteland"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Outer Bailey Key",
+    "category": [
+      "Area - Wasteland"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Treasure Reef Key",
+    "category": [
+      "Area - Wasteland"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Graveyard Key",
+    "category": [
+      "Area - Wasteland"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crab Fields Key",
+    "category": [
+      "Area - Wasteland"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Forgotten Ark Key",
+    "category": [
+      "Area - Wasteland"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Battlefield Key",
+    "category": [
+      "Area - Wasteland"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Temple of the Wasteland Key",
+    "category": [
+      "Area - Wasteland"
+    ],
+    "progression": "{YamlEnabled(Winged_Light_Run)}"
+  },
+  {
+    "count": 1,
+    "name": "The Last City Key",
+    "category": [
+      "Area - Wasteland"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vault Rest Key",
+    "category": [
+      "Area - Vault"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Secret Area Key",
+    "category": [
+      "Area - Vault"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Vault Archive Key",
+    "category": [
+      "Area - Vault"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Repository of Refuge Key",
+    "category": [
+      "Area - Vault"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fractured Lantern Storage Key",
+    "category": [
+      "Area - Vault"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lower Vault Key",
+    "category": [
+      "Area - Vault"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Upper Vault Key",
+    "category": [
+      "Area - Vault"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Temple of the Vault Key",
+    "category": [
+      "Area - Vault"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hall of Stories Key",
+    "category": [
+      "Area - Vault"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Starlight Desert Key",
+    "category": [
+      "Area - Vault"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Moominvalley Key",
+    "category": [
+      "Area - Vault"
+    ],
+    "progression": "{YamlEnabled(Winged_Light_Run)}"
+  },
+  {
+    "count": 1,
+    "name": "Crescent Oasis Key",
+    "category": [
+      "Area - Vault"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gate of Eden Key",
+    "category": [
+      "Area - Eden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Path of Eden Key",
+    "category": [
+      "Area - Eden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Eye of Eden Key",
+    "category": [
+      "Area - Eden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Passage Key",
+    "category": [
+      "Area - Eden"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Pointing Candlemaker",
+    "category": [
+      "Regular Isle Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Ushering Stargazer",
+    "category": [
+      "Regular Isle Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Rejecting Voyager",
+    "category": [
+      "Regular Isle Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Butterfly Charmer",
+    "category": [
+      "Regular Prairie Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Applauding Bellmaker",
+    "category": [
+      "Regular Prairie Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Waving Bellmaker",
+    "category": [
+      "Regular Prairie Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Slumbering Shipwright",
+    "category": [
+      "Regular Prairie Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Laughing Light Catcher",
+    "category": [
+      "Regular Prairie Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Bird Whisperer",
+    "category": [
+      "Regular Prairie Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Exhausted Dock Worker",
+    "category": [
+      "Regular Prairie Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Ceremonial Worshiper",
+    "category": [
+      "Regular Prairie Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Shivering Trailblazer",
+    "category": [
+      "Regular Forest Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Blushing Prospector",
+    "category": [
+      "Regular Forest Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Hide'n'Seek Pioneer",
+    "category": [
+      "Regular Forest Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Pouty Porter",
+    "category": [
+      "Regular Forest Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Dismayed Hunter",
+    "category": [
+      "Regular Forest Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Apologetic Lumberjack",
+    "category": [
+      "Regular Forest Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Tearful Light Miner",
+    "category": [
+      "Regular Forest Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Whale Whisperer",
+    "category": [
+      "Regular Forest Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Confident Sightseer",
+    "category": [
+      "Regular Valley Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Handstanding Thrillseeker",
+    "category": [
+      "Regular Valley Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Manta Whisperer",
+    "category": [
+      "Regular Valley Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Backflipping Champion",
+    "category": [
+      "Regular Valley Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Cheerful Spectator",
+    "category": [
+      "Regular Valley Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Bowing Medalist",
+    "category": [
+      "Regular Valley Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Proud Victor",
+    "category": [
+      "Regular Valley Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Frightened Refugee",
+    "category": [
+      "Regular Wasteland Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Fainting Warrior",
+    "category": [
+      "Regular Wasteland Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Courageous Soldier",
+    "category": [
+      "Regular Wasteland Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Stealthy Survivor",
+    "category": [
+      "Regular Wasteland Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Saluting Captain",
+    "category": [
+      "Regular Wasteland Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Lookout Scout",
+    "category": [
+      "Regular Wasteland Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Levitating Adept",
+    "category": [
+      "Regular Vault Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Meditating Monastic",
+    "category": [
+      "Regular Vault Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Memory Whisperer",
+    "category": [
+      "Regular Vault Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Polite Scholar",
+    "category": [
+      "Regular Vault Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Praying Acolyte",
+    "category": [
+      "Regular Vault Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "progression": true
+  },
+  {
+    "count": "6",
+    "name": "Eye of Eden Progress",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sky Cinema Key",
+    "category": [
+      "Area - Vault"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Choice of Hair",
+    "category": [
+      "Cosmetic"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Choice of Mask",
+    "category": [
+      "Cosmetic"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Choice of Outfit",
+    "category": [
+      "Cosmetic"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Choice of Cape",
+    "category": [
+      "Cosmetic"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Choice of Prop",
+    "category": [
+      "Cosmetic"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Choice of Hair Accessory",
+    "category": [
+      "Cosmetic"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Choice of Face Accessory",
+    "category": [
+      "Cosmetic"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Choice of Shoes",
+    "category": [
+      "Cosmetic"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Choice of Necklace",
+    "category": [
+      "Cosmetic"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Choice of Head Accessory",
+    "category": [
+      "Cosmetic"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dyed Outfits",
+    "category": [
+      "Cosmetic"
+    ],
+    "filler": true
+  },
+  {
+    "count": 50,
+    "name": "Confetti",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 5,
+    "name": "Send a Friend a Heart",
+    "category": [
+      "Heart Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Rescued Greeting Shaman",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Leaping Dancer",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Provoking Performer",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Saluting Protector",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Sassy Drifter",
+    "filler": true,
+    "category": [
+      "Seasonal Isle Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Stretching Guru",
+    "filler": true,
+    "category": [
+      "Seasonal Prairie Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Crab Whisperer",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Doublefive Light Catcher",
+    "filler": true,
+    "category": [
+      "Seasonal Prairie Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Laidback Pioneer",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Piggyback Lightseeker",
+    "filler": true,
+    "category": [
+      "Seasonal Isle Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Shushing Light Scholar",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Twirling Champion",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Boogie Kid",
+    "filler": true,
+    "category": [
+      "Seasonal Isle Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Confetti Cousin",
+    "filler": true,
+    "category": [
+      "Seasonal Prairie Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Hairtousle Teen",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Pleaful Parent",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Sparkler Parent",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Wise Grandparent",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Admiring Actor",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Festival Spin Dancer",
+    "filler": true,
+    "category": [
+      "Seasonal Prairie Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Respectful Pianist",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Thoughtful Director",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Troupe Greeter",
+    "filler": true,
+    "category": [
+      "Seasonal Isle Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Troupe Juggler",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Crab Walker",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Indifferent Alchemist",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Nodding Muralist",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Playfighting Herbalist",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Scarecrow Farmer",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Snoozing Carpenter",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Chill Sunbather",
+    "filler": true,
+    "category": [
+      "Seasonal Prairie Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Grateful Shell Collector",
+    "filler": true,
+    "category": [
+      "Seasonal Prairie Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Hiking Grouch",
+    "filler": true,
+    "category": [
+      "Seasonal Prairie Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Jelly Whisperer",
+    "filler": true,
+    "category": [
+      "Seasonal Prairie Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Rallying Thrillseeker",
+    "filler": true,
+    "category": [
+      "Seasonal Prairie Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Timid Bookworm",
+    "filler": true,
+    "category": [
+      "Seasonal Prairie Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Prophet of Air",
+    "filler": true,
+    "category": [
+      "Seasonal Isle Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Prophet of Earth",
+    "filler": true,
+    "category": [
+      "Seasonal Isle Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Prophet of Fire",
+    "filler": true,
+    "category": [
+      "Seasonal Isle Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Prophet of Water",
+    "filler": true,
+    "category": [
+      "Seasonal Isle Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Bearhug Hermit",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Dancing Performer",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Peeking Postman",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Spinning Mentor",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Baffled Botanist",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Scolding Student",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Chuckling Scout",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Daydream Forester",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Marching Adventurer",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Scaredy Cadet",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Beckoning Ruler",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Gloating Narcissist",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Slouching Soldier",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Sneezing Geographer",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Star Collector",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Stretching Lamplighter",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Light Whisperer",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Lively Navigator",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Talented Builder",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Tinkering Chimesmith",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Anxious Angler",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Bumbling Boatswain",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Cackling Cannoneer",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Ceasing Commodore",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Forgetful Storyteller",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Frantic Stagehand",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Mellow Musician",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Modest Dancer",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Ancient Darkness",
+    "filler": true,
+    "category": [
+      "Seasonal Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Ancient Light",
+    "filler": true,
+    "category": [
+      "Seasonal Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Mindful Miner",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Running Wayfarer",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Seed of Hope",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Warrior of Love",
+    "filler": true,
+    "category": [
+      "Seasonal Valley Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Bereft Veteran",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Pleading Child",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Tiptoeing Tea-Brewer",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Wounded Warrior",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Melancholy Mope",
+    "filler": true,
+    "category": [
+      "Seasonal Isle Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Oddball Outcast",
+    "filler": true,
+    "category": [
+      "Seasonal Isle Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Overactive Overachiever",
+    "filler": true,
+    "category": [
+      "Seasonal Isle Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Tumbling Troublemaker",
+    "filler": true,
+    "category": [
+      "Seasonal Isle Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Ascetic Monk",
+    "filler": true,
+    "category": [
+      "Seasonal Prairie Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Jolly Geologist",
+    "filler": true,
+    "category": [
+      "Seasonal Prairie Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Nightbird Whisperer",
+    "filler": true,
+    "category": [
+      "Seasonal Prairie Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Reassuring Ranger",
+    "filler": true,
+    "category": [
+      "Seasonal Prairie Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Echo of an Abandoned Refuge",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Memory of a Lost Village",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Remnant of a Forgotten Haven",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Vestige of a Deserted Oasis",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Feudal Lord",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Herb Gatherer",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Hunter",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Princess",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Nesting Atrium",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Nesting Loft",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Nesting Nook",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Nesting Solarium",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Compassionate Cellist",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued The Cellist's Beginnings",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued The Cellist's Flourishing",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued The Musicians' Legacy",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued The Pianist's Beginnings",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued The Pianist's Flourishing",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Comfort of Kindness",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Inspiration of Inclusion",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Senre of Self",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Spirit of Adventure",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Radiance Greeting Shaman",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Radiance Leaping Dancer",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Radiance Provoking Performer",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Costumed Confetti Cousin",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Divining Wise Grandparent",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Nostalgic Sparkler Parent",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Royal Hairtousle Teen",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Woodcutting Pleaful Parent",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Caring Companion",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Resourceful Recluse",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Scarred Sentry",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Stern Shepherd",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Tender Toymaker",
+    "filler": true,
+    "category": [
+      "Seasonal Wasteland Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Migrating Bellmaker",
+    "filler": true,
+    "category": [
+      "Seasonal Isle Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Migrating Bird Whisperer",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Migrating Butterfly Charmer",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Migrating Jelly Whisperer",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Migrating Manta Whisperer",
+    "filler": true,
+    "category": [
+      "Seasonal Forest Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Lightmending Champion",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Lightmending Lightcatcher",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Lightmending Light Scholar",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Lightmending Pioneer",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Carnival Athletic Dancer",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Carnival Juggler",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Carnival Puzzle Director",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Carnival Stunt Actor",
+    "filler": true,
+    "category": [
+      "Seasonal  Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  }
+]
