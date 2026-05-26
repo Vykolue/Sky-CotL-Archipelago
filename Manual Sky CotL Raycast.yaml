@@ -1,0 +1,182 @@
+# Q. What is this file?
+# A. This file contains options which allow you to configure your multiworld experience while allowing
+#    others to play how they want as well.
+#
+# Q. How do I use it?
+# A. The options in this file are weighted. This means the higher number you assign to a value, the
+#    more chances you have for that option to be chosen. For example, an option like this:
+#
+#    Daily_Music_Challenge:
+#      on: 5
+#      off: 15
+#
+#    Means you have 5 chances for the Daily Music Challenge to be a check, and 15 chances for it to be turned
+#    off.
+#
+#    It may be helpful to use numbers that add to 100, in which case the number used will represent the percent
+#    chance of that option occurring. For example:
+#
+#    Daily_Music_Challenge:
+#      on: 20
+#      off: 80
+#
+#    In this case, the Daily Music Challenge has a 20% chance of being a check in the game.
+#
+# Q. I've never seen a file like this before. What characters am I allowed to use?
+# A. This is a .yaml file. You are allowed to use most characters.
+#    To test if your yaml is valid or not, you can use this website:
+#        http://www.yamllint.com/
+#    You can also verify that your Archipelago options are valid at this site:
+#        https://archipelago.gg/check
+
+# Your name in-game, limited to 16 characters.
+#     {player} will be replaced with the player's slot number.
+#     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
+#     {number} will be replaced with the counter value of the name.
+#     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
+name: Sky Kid
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default Template for Manual Sky CotL by Raycast
+
+game: Manual_SkyCotL_raycast
+requires:
+  version: 0.6.7 # Version of Archipelago required for this yaml to work as expected.
+
+Manual_SkyCotL_raycast:
+  # Game Options
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # 
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 100 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # 
+    # **Full:** ensure everything can be reached and acquired.
+    # 
+    # **Minimal:** ensure what is needed to reach your goal can be acquired.
+    full: 100
+    minimal: 0
+
+  plando_items:
+    # Generic items plando.
+    []
+  
+  filler_traps:
+    default: 100
+
+  # Game Type
+  Winged_Light_Run:
+    # Determines if finding Children of Light (aka. Winged Light) are considered checks
+    #
+    # Please set at least one Game Type to true
+    # This will determine what your checks and goal will be
+    # 
+    # **on:** your goal and progression will be tied to finding Children of Light
+    #
+    # **off:** your goal and progression will not be tied to finding Children of Light
+    on: 100
+    off: 0
+  
+  Relive_Spirits:
+    # Determines if reliving Spirit Memories are considered checks
+    #
+    # Please set at least one Game Type to true
+    # This will determine what your checks and goal will be
+    # 
+    # **on:** your goal and progression will be tied to reliving Spirit Memories
+    #
+    # **off:** your goal and progression will not be tied to reliving Spirit Memories
+    on: 0
+    off: 100
+  
+  Daily_Music_Challenge:
+    # Determines if completing the Daily Music Challenge is considered a check
+    #
+    # Please set at least one OTHER Game Type to true
+    # This will determine what your checks and goal will be
+    # The Daily Music Challenge only provides one check
+    # 
+    # **on:** you may earn a check by completing the Daily Music Challenge
+    #
+    # **off:** you will neither be required to, nor earn a check from completing the Daily Music Challenge
+    on: 100
+    off: 0
+
+  # Locks
+  Spirit_Emote_Locks:
+    # Determines if Rescue Spirit items are required to pass through Spirit Gates and use emotes necessary to
+    # earn certain checks
+    # For example: requiring the "Rescued Levitating Adept" item in order to open the 4 player door on the ground
+    # floor of the Vault of Knowledge
+    #
+    # **on:** Rescue Spirit items will be required to progress
+    #
+    # **off:** Rescue Spirit items will not be required to progress
+    on: 100
+    off: 0
+  
+  Cosmetic_Locks:
+    # Determines if the player is locked from using certain cosmetics until they are earned
+    #
+    # **on:** you start with only the default cosmetics unlocked and must receive Cosmetic items to
+    # use anything else
+    #
+    # **off:** you are free to use any cosmetics at any point during the game
+    on: 0
+    off: 100
+  
+  # Traps
+  Heart_Traps:
+    # If this is enabled, you will be required to send a heart to a friend whenever this trap is received
+    on: 100
+    off: 0
+  
+  # Item & Location Options
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_inventory_pool:
+    # Start with these items and don't place them in the world.
+    # 
+    # The game decides what the replacement items will be.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  start_inventory_from_pool:
+    {}
