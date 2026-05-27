@@ -5,7 +5,7 @@ This archipelago is a manual, meaning there is no mod and you will need to manua
 You will also be responsible for not using items you don't have unlocked.
 
 ## Hosting
-Make sure you have the [[https://github.com/ArchipelagoMW/Archipelago/releases/latest|Archipelago Launcher]]
+Make sure you have the [Archipelago Launcher](https://github.com/ArchipelagoMW/Archipelago/releases/latest)
 
 Download and install "manual_skycotl_raycast.apworld" from the latest release
 Do NOT rename this file, as it may cause errors
@@ -29,7 +29,7 @@ Hosting on the Archipelago website:
 
 
 ## Playing
-To play this game, you will need the [[https://github.com/ArchipelagoMW/Archipelago/releases/latest|Archipelago Launcher]]
+To play this game, you will need the [Archipelago Launcher](https://github.com/ArchipelagoMW/Archipelago/releases/latest)
 
 Download and install "manual_skycotl_raycast.apworld" from the latest release
 Do NOT rename this file, as it may cause errors
