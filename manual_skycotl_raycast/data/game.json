@@ -5,11 +5,11 @@
   "filler_item_name": "Sky Kid",
   "starting_items": [
     {
-        "items": ["Home Key", "Aviary Village Key", "Path of Eden Key", "Eye of Eden Key", "The Passage Key"]
+        "items": ["Home Key", "Aviary Village Key"]
     },
     {
         "items": ["Wandering Carnival Key", "Passage Rock Key", "Prairie Rest Key", 
-                  "Forest Rest Key", "Valley Rest Key", "Harmony Hall Key", "Wasteland Rest Key",
+                  "Forest Rest Key", "Valley Rest Key", "Wasteland Rest Key",
                   "Vault Rest Key", "Hall of Stories Key"],
         "random": 1
     },

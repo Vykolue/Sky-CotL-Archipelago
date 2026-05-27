@@ -28,23 +28,16 @@
             ],
             "type": "Toggle",
             "default": true,
-            "group": "Checks Type"
+            "group": "Game Mode"
         },
-        "Relive_Spirits": {
-            "description": [
-                "Relive Spirit Memories to earn checks"
-            ],
-            "type": "Toggle",
-            "default": false,
-            "group": "Checks Type"
-        },
+
         "Daily_Music_Challenge": {
             "description": [
                 "Complete the Daily Music Challenge to earn a check"
             ],
             "type": "Toggle",
             "default": true,
-            "group": "Checks Type"
+            "group": "Other Checks"
         },
         
         "Spirit_Emote_Locks": {
@@ -53,6 +46,14 @@
             ],
             "type": "Toggle",
             "default": true,
+            "group": "Locks"
+        },
+        "Seasonal_Emote_Locks": {
+            "description": [
+                "Require Rescue Seasonal Spirit items to use Emotes"
+            ],
+            "type": "Toggle",
+            "default": false,
             "group": "Locks"
         },
         "Cosmetic_Locks": {

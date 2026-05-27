@@ -1,9 +1,60 @@
 TODO:
 
+
+MACGUFFINS:
+
 change placement of macguffins for relive spirits
 
-change starting items based on yaml options
+yaml instructions on how to change macguffin placement
+
+prefill macguffin locations into the hint command?
+
+
+OPTIONS:
+
+change starting item pool based on game mode and other checks 
+like harmony hall key
 
 add descriptions to remaining yaml options
 
+add a distinction between needing spirits due to spirit gates versus needing emotes, 
+that way both can be toggled separately in the yaml
+
 add option to turn off trials and/or auto wl
+
+maybe change game mode to a single yaml option instead of multiple toggles?
+but that would prevent players from choosing multiple
+
+
+RELIVE SPIRITS:
+
+fix typo on Sense of Self
+
+don't rescue non-spirit entities
+
+option to turn off reliving spirits that don't have memory fragments?
+or always off
+
+
+WEDGES:
+
+add wedge restrictions and lock locations based on wedge count
+
+also check how many children of light are accessible to ensure the
+player actually has enough wedges
+
+can use a "starting WL count" yaml option to further customise
+
+add max wedges to reduce wedge items in the pool, 
+and maybe exclude inaccessible locations?
+
+
+SEASONAL QUESTS:
+
+add this as a game mode
+
+
+SHARDS/DAILY QUESTS:
+
+as fun as this would be, it's unpredictable, and would be difficult 
+to ensure they are accessible when the game expects them to be

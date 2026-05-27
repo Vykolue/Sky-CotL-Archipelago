@@ -34,7 +34,7 @@
 #     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
 #     {number} will be replaced with the counter value of the name.
 #     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
-name: Sky Kid
+name: Sky Kid{NUMBER}
 
 # Used to describe your yaml. Useful if you have multiple files.
 description: Default Template for Manual Sky CotL by Raycast
@@ -76,11 +76,11 @@ Manual_SkyCotL_raycast:
   filler_traps:
     default: 100
 
-  # Game Type
+  # Game Mode
   Winged_Light_Run:
     # Determines if finding Children of Light (aka. Winged Light) are considered checks
     #
-    # Please set at least one Game Type to true
+    # Please turn at least one Game Mode on
     # This will determine what your checks and goal will be
     # 
     # **on:** your goal and progression will be tied to finding Children of Light
@@ -89,24 +89,9 @@ Manual_SkyCotL_raycast:
     on: 100
     off: 0
   
-  Relive_Spirits:
-    # Determines if reliving Spirit Memories are considered checks
-    #
-    # Please set at least one Game Type to true
-    # This will determine what your checks and goal will be
-    # 
-    # **on:** your goal and progression will be tied to reliving Spirit Memories
-    #
-    # **off:** your goal and progression will not be tied to reliving Spirit Memories
-    on: 0
-    off: 100
-  
+  # Other Checks
   Daily_Music_Challenge:
     # Determines if completing the Daily Music Challenge is considered a check
-    #
-    # Please set at least one OTHER Game Type to true
-    # This will determine what your checks and goal will be
-    # The Daily Music Challenge only provides one check
     # 
     # **on:** you may earn a check by completing the Daily Music Challenge
     #
@@ -116,7 +101,7 @@ Manual_SkyCotL_raycast:
 
   # Locks
   Spirit_Emote_Locks:
-    # Determines if Rescue Spirit items are required to pass through Spirit Gates and use emotes necessary to
+    # Determines if Rescue Spirit items are required to pass through Spirit Gates AND use emotes necessary to
     # earn certain checks
     # For example: requiring the "Rescued Levitating Adept" item in order to open the 4 player door on the ground
     # floor of the Vault of Knowledge
@@ -126,6 +111,14 @@ Manual_SkyCotL_raycast:
     # **off:** Rescue Spirit items will not be required to progress
     on: 100
     off: 0
+  
+  Seasonal_Emote_Locks:
+    # Determines if Rescue Seasonal Spirit items are required to use seasonal emotes
+    #
+    # These do nothing for progression and are considered filler items, which means some may be 
+    # left out of the game
+    on: 0
+    off: 100
   
   Cosmetic_Locks:
     # Determines if the player is locked from using certain cosmetics until they are earned
