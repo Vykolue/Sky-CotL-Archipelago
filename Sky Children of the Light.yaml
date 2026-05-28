@@ -71,6 +71,24 @@ Manual_SkyCotL_raycast:
 
   plando_items:
     # Generic items plando.
+    # 
+    # Use this if you want to change the default requirements for unlocking the Eye of Eden
+    # A guide can be found here: https://archipelago.gg/tutorial/Archipelago/plando_en
+    # 
+    # Default locations are:
+    # - Cave of Prophecies Find 1 WL
+    # - Prairie Peaks Find 2 WL
+    # - Forest Cavern Find 2 WL
+    # - Hermit Valley Find 2 WL
+    # - The Graveyard Find 5 WL
+    # - Starlight Desert Find 3 WL
+    # 
+    # Items to place are:
+    # - Eye of Eden Progress: 3
+    # - Gate of Eden Key (if you prefer it not be random)
+    # - Path of Eden Key
+    # - Eye of Eden Key
+    # - The Passage Key
     []
   
   filler_traps:

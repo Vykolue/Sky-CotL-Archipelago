@@ -131,7 +131,7 @@ If you receive a heart trap, send a heart to a friend `(on by default)`
 The win condition is to be reborn<br />
 All areas of the Eye of Eden as well as three "Eye of Eden Progress" must first be unlocked
 
-The "Path of Eden" (first area) is in a random location in the multiworld<br />
+The "Gate of Eden" (first area) is in a random location in the multiworld<br />
 The other areas and Eye of Eden Progress are in the following locations by default:
 - Cave of Prophecies Find 1 WL
 - Prairie Peaks Find 2 WL
@@ -139,6 +139,14 @@ The other areas and Eye of Eden Progress are in the following locations by defau
 - Hermit Valley Find 2 WL
 - The Graveyard Find 5 WL
 - Starlight Desert Find 3 WL
+
+If you wish to change the default locations, you can use [Plando](https://archipelago.gg/tutorial/Archipelago/plando_en)<br />
+The items to place are:
+- Eye of Eden Progress: 3
+- Gate of Eden Key (if you prefer it not be random)
+- Path of Eden Key
+- Eye of Eden Key
+- The Passage Key
 
 The area a Winged Light is in corresponds to where it appears when looking at your map
 except Cave of Prophecies Winged Light, which are all grouped in your checks<br />
