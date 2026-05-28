@@ -123,7 +123,7 @@
     "connects_to": [
       "Prairie Peaks"
     ],
-    "requires": "|Prairie Cave Key|"
+    "requires": "|Prairie Cave Key| AND ((|@Regular Isle Spirit:2| AND |@Regular Prairie Spirit:3|) OR {YamlDisabled(Spirit_Emote_Locks)})"
   },
   "Prairie Village": {
     "connects_to": [
@@ -136,7 +136,7 @@
     "connects_to": [
       "Sanctuary Islands"
     ],
-    "requires": "|Bird Nest Key|"
+    "requires": "|Bird Nest Key| AND (|@Regular Prairie Spirit:4| OR {YamlDisabled(Spirit_Emote_Locks)})"
   },
   "Prairie Peaks": {
     "connects_to": [],
@@ -146,7 +146,7 @@
     "connects_to": [
       "Temple of the Prairie"
     ],
-    "requires": "|Prairie Heights Key|"
+    "requires": "|Prairie Heights Key| AND ((|@Regular Prairie Spirit:6| AND |Rescued Butterfly Charmer|) OR {YamlDisabled(Spirit_Emote_Locks)})"
   },
   "Sanctuary Islands": {
     "connects_to": [
@@ -180,7 +180,7 @@
       "Forest Brook",
       "Boneyard"
     ],
-    "requires": "|The Treehouse Key|"
+    "requires": "|The Treehouse Key| AND (|@Regular Valley Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})"
   },
   "Forest Brook": {
     "connects_to": [
@@ -195,7 +195,7 @@
       "Blue Bird Theater",
       "Forest Cavern"
     ],
-    "requires": "|Elevated Clearing Key|"
+    "requires": "|Elevated Clearing Key| AND (|@Regular Forest Spirit:8| OR {YamlDisabled(Spirit_Emote_Locks)})"
   },
   "Blue Bird Theater": {
     "connects_to": [],
@@ -238,7 +238,7 @@
       "Forgotten Ark",
       "Starlight Desert"
     ],
-    "requires": "|The Wind Paths Key|"
+    "requires": "|The Wind Paths Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})"
   },
   "Valley Rest": {
     "connects_to": [
@@ -258,7 +258,7 @@
     "connects_to": [
       "Upper Valley Track"
     ],
-    "requires": "|The Citadel Key|"
+    "requires": "|The Citadel Key| AND (|@Regular Valley Spirit:2| OR {YamlDisabled(Spirit_Emote_Locks)})"
   },
   "Lower Valley Track": {
     "connects_to": [
@@ -285,7 +285,7 @@
       "Village Theater",
       "Hermit Valley"
     ],
-    "requires": "|Village of Dreams Key|"
+    "requires": "|Village of Dreams Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})"
   },
   "Harmony Hall": {
     "connects_to": [
@@ -332,7 +332,7 @@
     "connects_to": [
       "The Battlefield"
     ],
-    "requires": "|Crab Fields Key|"
+    "requires": "|Crab Fields Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})"
   },
   "Forgotten Ark": {
     "connects_to": [
