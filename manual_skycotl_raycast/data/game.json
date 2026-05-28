@@ -2,7 +2,7 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
   "game": "SkyCotL",
   "creator": "raycast",
-  "filler_item_name": "Confetti",
+  "filler_item_name": "filler",
   "starting_items": [
     {
         "items": ["Home Key", "Aviary Village Key"]
