@@ -1,0 +1,20 @@
+{
+    "Find WL": {
+        "yaml_option": ["Winged_Light_Run"]
+    },
+    "Daily Music Challenge": {
+        "yaml_option": ["Daily_Music_Challenge"]
+    },
+    "Rescue Spirit": {
+        "yaml_option": ["Spirit_Emote_Locks"]
+    },
+    "Rescue Seasonal Spirit": {
+        "yaml_option": ["Seasonal_Emote_Locks"]
+    },
+    "Cosmetic": {
+        "yaml_option": ["Cosmetic_Locks"]
+    },
+    "Heart Trap": {
+        "yaml_option": ["Heart_Traps"]
+    }
+}

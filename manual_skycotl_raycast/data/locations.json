@@ -1,0 +1,1008 @@
+[
+  {
+    "name": "Passage Rock Find 1 WL",
+    "category": [
+      "Isle of Dawn",
+      "Find WL"
+    ],
+    "requires": "|Passage Rock Key|",
+    "region": "Passage Rock"
+  },
+  {
+    "name": "Passage Rock Find 2 WL",
+    "category": [
+      "Isle of Dawn",
+      "Find WL"
+    ],
+    "requires": "|Passage Rock Key|",
+    "region": "Passage Rock"
+  },
+  {
+    "name": "Dawn Circle Find 1 WL",
+    "category": [
+      "Isle of Dawn",
+      "Find WL"
+    ],
+    "requires": "|Dawn Circle Key|",
+    "region": "Dawn Circle"
+  },
+  {
+    "name": "Dawn Circle Find 2 WL",
+    "category": [
+      "Isle of Dawn",
+      "Find WL"
+    ],
+    "requires": "|Dawn Circle Key|",
+    "region": "Dawn Circle"
+  },
+  {
+    "name": "Dawn Circle Find 3 WL",
+    "category": [
+      "Isle of Dawn",
+      "Find WL"
+    ],
+    "requires": "(|Dawn Circle Key|) AND (|@Regular Isle Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Dawn Circle"
+  },
+  {
+    "name": "Dawn Overlook Find 1 WL",
+    "category": [
+      "Isle of Dawn",
+      "Find WL"
+    ],
+    "requires": "|Dawn Overlook Key|",
+    "region": "Dawn Overlook"
+  },
+  {
+    "name": "Cave of Prophecies Find 1 WL",
+    "category": [
+      "Isle of Dawn",
+      "Find WL"
+    ],
+    "requires": "|Cave of Prophecies Key| AND |@Trial Keys:1| AND ((|@Regular Forest Spirit:2| OR (|The Wind Paths Key| AND |@Regular Vault Spirit:1|)) OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "place_item": [
+      "Path of Eden Key"
+    ],
+    "region": "Cave of Prophecies"
+  },
+  {
+    "name": "Cave of Prophecies Find 2 WL",
+    "category": [
+      "Isle of Dawn",
+      "Find WL"
+    ],
+    "requires": "|Cave of Prophecies Key| AND |@Trial Keys:2| AND ((|@Regular Forest Spirit:2| OR (|The Wind Paths Key| AND |@Regular Vault Spirit:1|)) OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Cave of Prophecies"
+  },
+  {
+    "name": "Cave of Prophecies Find 3 WL",
+    "category": [
+      "Isle of Dawn",
+      "Find WL"
+    ],
+    "requires": "|Cave of Prophecies Key| AND |@Trial Keys:3| AND ((|@Regular Forest Spirit:2| OR (|The Wind Paths Key| AND |@Regular Vault Spirit:1|)) OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Cave of Prophecies"
+  },
+  {
+    "name": "Cave of Prophecies Find 4 WL",
+    "category": [
+      "Isle of Dawn",
+      "Find WL"
+    ],
+    "requires": "|Cave of Prophecies Key| AND |@Trial Keys:4| AND ((|@Regular Forest Spirit:2| OR (|The Wind Paths Key| AND |@Regular Vault Spirit:1|)) OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Cave of Prophecies"
+  },
+  {
+    "name": "Prairie Rest Find 1 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Prairie Rest Key|",
+    "region": "Prairie Rest"
+  },
+  {
+    "name": "Butterfly Fields Find 1 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Butterfly Fields Key|",
+    "region": "Butterfly Fields"
+  },
+  {
+    "name": "Butterfly Fields Find 2 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "(|Butterfly Fields Key|) AND (|@Regular Prairie Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Butterfly Fields"
+  },
+  {
+    "name": "Prairie Village Find 1 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Prairie Village Key|",
+    "region": "Prairie Village"
+  },
+  {
+    "name": "Prairie Village Find 2 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Prairie Village Key|",
+    "region": "Prairie Village"
+  },
+  {
+    "name": "Prairie Village Find 3 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Prairie Village Key|",
+    "region": "Prairie Village"
+  },
+  {
+    "name": "Prairie Heights Find 1 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Prairie Heights Key| AND ((|@Regular Prairie Spirit:6| AND |Rescued Butterfly Charmer|) OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Prairie Heights"
+  },
+  {
+    "name": "Temple of the Prairie Find 1 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Temple of the Prairie Key|",
+    "region": "Temple of the Prairie"
+  },
+  {
+    "name": "Temple of the Prairie Find 2 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Temple of the Prairie Key|",
+    "region": "Temple of the Prairie"
+  },
+  {
+    "name": "Prairie Cave Find 1 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Prairie Cave Key| AND ((|@Regular Isle Spirit:2| AND |@Regular Prairie Spirit:3|) OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Prairie Cave"
+  },
+  {
+    "name": "Prairie Cave Find 2 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Prairie Cave Key| AND ((|@Regular Isle Spirit:2| AND |@Regular Prairie Spirit:3|) OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Prairie Cave"
+  },
+  {
+    "name": "Bird Nest Find 1 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Bird Nest Key| AND (|@Regular Prairie Spirit:4| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Bird Nest"
+  },
+  {
+    "name": "Bird Nest Find 2 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Bird Nest Key| AND (|@Regular Prairie Spirit:4| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Bird Nest"
+  },
+  {
+    "name": "Sanctuary Islands Find 1 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Sanctuary Islands Key|",
+    "region": "Sanctuary Islands"
+  },
+  {
+    "name": "Sanctuary Islands Find 2 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Sanctuary Islands Key|",
+    "region": "Sanctuary Islands"
+  },
+  {
+    "name": "Sanctuary Islands Find 3 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Sanctuary Islands Key|",
+    "region": "Sanctuary Islands"
+  },
+  {
+    "name": "Sanctuary Islands Find 4 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Sanctuary Islands Key|",
+    "region": "Sanctuary Islands"
+  },
+  {
+    "name": "Sanctuary Islands Find 5 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Sanctuary Islands Key|",
+    "region": "Sanctuary Islands"
+  },
+  {
+    "name": "Sanctuary Islands Find 6 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Sanctuary Islands Key|",
+    "region": "Sanctuary Islands"
+  },
+  {
+    "name": "Sanctuary Islands Find 7 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Sanctuary Islands Key|",
+    "region": "Sanctuary Islands"
+  },
+  {
+    "name": "Sanctuary Islands Find 8 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Sanctuary Islands Key|",
+    "region": "Sanctuary Islands"
+  },
+  {
+    "name": "Prairie Peaks Find 1 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Prairie Peaks Key|",
+    "region": "Prairie Peaks"
+  },
+  {
+    "name": "Prairie Peaks Find 2 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Prairie Peaks Key|",
+    "place_item": [
+      "Eye of Eden Key"
+    ],
+    "region": "Prairie Peaks"
+  },
+  {
+    "name": "Prairie Peaks Find 3 WL",
+    "category": [
+      "Daylight Prairie",
+      "Find WL"
+    ],
+    "requires": "|Prairie Peaks Key|",
+    "region": "Prairie Peaks"
+  },
+  {
+    "name": "Forest Courtyard Find 1 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Forest Courtyard Key|",
+    "region": "Forest Courtyard"
+  },
+  {
+    "name": "Forest Courtyard Find 2 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Forest Courtyard Key|",
+    "region": "Forest Courtyard"
+  },
+  {
+    "name": "Forest Brook Find 1 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Forest Brook Key|",
+    "region": "Forest Brook"
+  },
+  {
+    "name": "Forest Brook Find 2 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Forest Brook Key|",
+    "region": "Forest Brook"
+  },
+  {
+    "name": "Forest Brook Find 3 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Forest Brook Key|",
+    "region": "Forest Brook"
+  },
+  {
+    "name": "Forest Brook Find 4 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Forest Brook Key|",
+    "region": "Forest Brook"
+  },
+  {
+    "name": "Boneyard Find 1 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Boneyard Key|",
+    "region": "Boneyard"
+  },
+  {
+    "name": "Boneyard Find 2 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Boneyard Key|",
+    "region": "Boneyard"
+  },
+  {
+    "name": "Boneyard Find 3 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "(|Boneyard Key|) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Boneyard"
+  },
+  {
+    "name": "Elevated Clearing Find 1 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Elevated Clearing Key| AND (|@Regular Forest Spirit:8| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Elevated Clearing"
+  },
+  {
+    "name": "Elevated Clearing Find 2 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Elevated Clearing Key| AND (|@Regular Forest Spirit:8| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Elevated Clearing"
+  },
+  {
+    "name": "Blue Bird Theater Find 1 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Blue Bird Theater Key|",
+    "region": "Blue Bird Theater"
+  },
+  {
+    "name": "Forest Cavern Find 1 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Forest Cavern Key|",
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Forest Cavern Find 2 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Forest Cavern Key|",
+    "place_item": [
+      "The Passage Key"
+    ],
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Forest Cavern Find 3 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Forest Cavern Key|",
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Forest Cavern Find 4 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Forest Cavern Key|",
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Sacred Pond Find 1 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|Sacred Pond Key|",
+    "region": "Sacred Pond"
+  },
+  {
+    "name": "The Treehouse Find 1 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|The Treehouse Key| AND (|@Regular Valley Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "The Treehouse"
+  },
+  {
+    "name": "The Treehouse Find 2 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|The Treehouse Key| AND (|@Regular Valley Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "The Treehouse"
+  },
+  {
+    "name": "The Wind Paths Find 1 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|The Wind Paths Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "The Wind Paths"
+  },
+  {
+    "name": "The Wind Paths Find 2 WL",
+    "category": [
+      "Hidden Forest",
+      "Find WL"
+    ],
+    "requires": "|The Wind Paths Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "The Wind Paths"
+  },
+  {
+    "name": "Valley Rest Find 1 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Valley Rest Key|",
+    "region": "Valley Rest"
+  },
+  {
+    "name": "Frozen Lake Find 1 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Frozen Lake Key|",
+    "region": "Frozen Lake"
+  },
+  {
+    "name": "Frozen Lake Find 2 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Frozen Lake Key|",
+    "region": "Frozen Lake"
+  },
+  {
+    "name": "Lower Valley Track Find 1 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Lower Valley Track Key|",
+    "region": "Lower Valley Track"
+  },
+  {
+    "name": "The Citadel Find 1 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|The Citadel Key| AND (|@Regular Valley Spirit:2| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "The Citadel"
+  },
+  {
+    "name": "The Citadel Find 2 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|The Citadel Key| AND (|@Regular Valley Spirit:2| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "The Citadel"
+  },
+  {
+    "name": "Upper Valley Track Find 1 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Upper Valley Track Key|",
+    "region": "Upper Valley Track"
+  },
+  {
+    "name": "Upper Valley Track Find 2 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Upper Valley Track Key|",
+    "region": "Upper Valley Track"
+  },
+  {
+    "name": "Temple of the Valley Find 1 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Temple of the Valley Key|",
+    "region": "Temple of the Valley"
+  },
+  {
+    "name": "Temple of the Valley Find 2 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Temple of the Valley Key|",
+    "region": "Temple of the Valley"
+  },
+  {
+    "name": "Temple of the Valley Find 3 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Temple of the Valley Key|",
+    "region": "Temple of the Valley"
+  },
+  {
+    "name": "Village of Dreams Find 1 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Village of Dreams Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Village of Dreams"
+  },
+  {
+    "name": "Village of Dreams Find 2 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Village of Dreams Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Village of Dreams"
+  },
+  {
+    "name": "Village of Dreams Find 3 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Village of Dreams Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Village of Dreams"
+  },
+  {
+    "name": "Hermit Valley Find 1 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Hermit Valley Key|",
+    "region": "Hermit Valley"
+  },
+  {
+    "name": "Hermit Valley Find 2 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Hermit Valley Key|",
+    "place_item": [
+      "Eye of Eden Progress"
+    ],
+    "region": "Hermit Valley"
+  },
+  {
+    "name": "Village Theater Find 1 WL",
+    "category": [
+      "Valley of Triumph",
+      "Find WL"
+    ],
+    "requires": "|Village Theater Key|",
+    "region": "Village Theater"
+  },
+  {
+    "name": "The Outer Bailey Find 1 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|The Outer Bailey Key|",
+    "region": "The Outer Bailey"
+  },
+  {
+    "name": "The Outer Bailey Find 2 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|The Outer Bailey Key|",
+    "region": "The Outer Bailey"
+  },
+  {
+    "name": "The Graveyard Find 1 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|The Graveyard Key|",
+    "region": "The Graveyard"
+  },
+  {
+    "name": "The Graveyard Find 2 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|The Graveyard Key|",
+    "region": "The Graveyard"
+  },
+  {
+    "name": "The Graveyard Find 3 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|The Graveyard Key|",
+    "region": "The Graveyard"
+  },
+  {
+    "name": "The Graveyard Find 4 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|The Graveyard Key|",
+    "region": "The Graveyard"
+  },
+  {
+    "name": "The Graveyard Find 5 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|The Graveyard Key|",
+    "place_item": [
+      "Eye of Eden Progress"
+    ],
+    "region": "The Graveyard"
+  },
+  {
+    "name": "The Graveyard Find 6 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|The Graveyard Key|",
+    "region": "The Graveyard"
+  },
+  {
+    "name": "Crab Fields Find 1 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|Crab Fields Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Crab Fields"
+  },
+  {
+    "name": "Crab Fields Find 2 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|Crab Fields Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Crab Fields"
+  },
+  {
+    "name": "Crab Fields Find 3 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|Crab Fields Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Crab Fields"
+  },
+  {
+    "name": "The Battlefield Find 1 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|The Battlefield Key|",
+    "region": "The Battlefield"
+  },
+  {
+    "name": "The Battlefield Find 2 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|The Battlefield Key|",
+    "region": "The Battlefield"
+  },
+  {
+    "name": "Temple of the Wasteland Find 1 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|Temple of the Wasteland Key|",
+    "region": "Temple of the Wasteland"
+  },
+  {
+    "name": "Forgotten Ark Find 1 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|Forgotten Ark Key|",
+    "region": "Forgotten Ark"
+  },
+  {
+    "name": "Forgotten Ark Find 2 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|Forgotten Ark Key|",
+    "region": "Forgotten Ark"
+  },
+  {
+    "name": "Treasure Reef Find 1 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|Treasure Reef Key|",
+    "region": "Treasure Reef"
+  },
+  {
+    "name": "Treasure Reef Find 2 WL",
+    "category": [
+      "Golden Wasteland",
+      "Find WL"
+    ],
+    "requires": "|Treasure Reef Key|",
+    "region": "Treasure Reef"
+  },
+  {
+    "name": "Vault Rest Find 1 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Vault Rest Key|",
+    "region": "Vault Rest"
+  },
+  {
+    "name": "Lower Vault Find 1 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Lower Vault Key|",
+    "region": "Lower Vault"
+  },
+  {
+    "name": "Upper Vault Find 1 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Upper Vault Key|",
+    "region": "Upper Vault"
+  },
+  {
+    "name": "Upper Vault Find 2 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Upper Vault Key|",
+    "region": "Upper Vault"
+  },
+  {
+    "name": "Upper Vault Find 3 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Upper Vault Key|",
+    "region": "Upper Vault"
+  },
+  {
+    "name": "Temple of the Vault Find 1 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Temple of the Vault Key|",
+    "region": "Temple of the Vault"
+  },
+  {
+    "name": "Vault Archive Find 1 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Vault Archive Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Vault Archive"
+  },
+  {
+    "name": "Vault Archive Find 2 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Vault Archive Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Vault Archive"
+  },
+  {
+    "name": "Starlight Desert Find 1 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Starlight Desert Key|",
+    "region": "Starlight Desert"
+  },
+  {
+    "name": "Starlight Desert Find 2 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Starlight Desert Key|",
+    "region": "Starlight Desert"
+  },
+  {
+    "name": "Starlight Desert Find 3 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Starlight Desert Key|",
+    "place_item": [
+      "Eye of Eden Progress"
+    ],
+    "region": "Starlight Desert"
+  },
+  {
+    "name": "Repository of Refuge Find 1 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Repository of Refuge Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "region": "Repository of Refuge"
+  },
+  {
+    "name": "Crescent Oasis Find 1 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Crescent Oasis Key|",
+    "region": "Crescent Oasis"
+  },
+  {
+    "name": "Crescent Oasis Find 2 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Crescent Oasis Key|",
+    "region": "Crescent Oasis"
+  },
+  {
+    "name": "Crescent Oasis Find 3 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Crescent Oasis Key|",
+    "region": "Crescent Oasis"
+  },
+  {
+    "name": "Moominvalley Find 1 WL",
+    "category": [
+      "Vault of Knowledge",
+      "Find WL"
+    ],
+    "requires": "|Moominvalley Key|",
+    "region": "Moominvalley"
+  },
+  {
+    "name": "Rebirth",
+    "victory": true,
+    "category": [],
+    "requires": "(|The Passage Key|) AND (|Eye of Eden Progress:3|)",
+    "region": "The Passage"
+  },
+  {
+    "name": "Wandering Carnival Find 1 WL",
+    "category": [
+      "Aviary Village",
+      "Find WL"
+    ],
+    "requires": "(|Wandering Carnival Key|) AND (|Wandering Carnival Key|)",
+    "region": "Wandering Carnival"
+  },
+  {
+    "name": "Wandering Carnival Find 2 WL",
+    "category": [
+      "Aviary Village",
+      "Find WL"
+    ],
+    "requires": "(|Wandering Carnival Key|) AND (|Wandering Carnival Key|)",
+    "region": "Wandering Carnival"
+  },
+  {
+    "name": "Daily Music Challenge",
+    "region": "Harmony Hall",
+    "category": [
+      "Valley of Triumph",
+      "Daily Music Challenge"
+    ],
+    "requires": "|Harmony Hall Key|"
+  }
+]
