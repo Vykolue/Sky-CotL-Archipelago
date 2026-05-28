@@ -115,7 +115,7 @@ Likewise, you shouldn't have a friend drag you through a locked Spirit Gate
 
 "Find WL" means you can either collect it, or stand on where it normally is
 
-You can lose all your Winged Light before playing, 
+You can lose all your Winged Light before playing,
 but I can't guarantee that the game will give you access to 
 enough WL for the checks it expects you to get
 
