@@ -1,7 +1,5 @@
 TODO:
 
-fix region/location requirements to include spirit gate locks (if enabled)
-
 maybe redo regions entirely so that region keys and other requirements 
 are only considered progression if there is a necessary item in that region
 
