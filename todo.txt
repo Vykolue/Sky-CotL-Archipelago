@@ -34,8 +34,6 @@ RELIVE SPIRITS:
 
 fix typo on Sense of Self
 
-don't rescue non-spirit entities
-
 option to turn off reliving spirits that don't have memory fragments?
 or always off
 
