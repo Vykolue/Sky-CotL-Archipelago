@@ -1,5 +1,7 @@
 TODO:
 
+fix end line sequence on readme so it shows correctly on github
+
 
 MACGUFFINS:
 
@@ -24,6 +26,8 @@ add option to turn off trials and/or auto wl
 
 maybe change game mode to a single yaml option instead of multiple toggles?
 but that would prevent players from choosing multiple
+
+option to disable shortcuts (individually)
 
 
 RELIVE SPIRITS:
