@@ -123,6 +123,7 @@ Additionally, you may run into impossible scenerios if your account has not:
 - relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
 - unlocked shortcuts for The Wind Paths, The Treehouse, Harmony Hall, and Hall of Stories
 - progressed through the first three Cave of Prophecy quests
+- completed the 5th Nine-Colored Deer Quest
 - progressed through the Vault of Knowledge
 
 If you receive a heart trap, send a heart to a friend `(on by default)`

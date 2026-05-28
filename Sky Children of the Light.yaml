@@ -91,8 +91,9 @@ Manual_SkyCotL_raycast:
     # - The Passage Key
     []
   
-  filler_traps:
-    default: 100
+  # The percent of filler items that will be replaced with traps 
+  # ON TOP of the default number of traps
+  filler_traps: 0
 
   # Game Mode
   Winged_Light_Run:
