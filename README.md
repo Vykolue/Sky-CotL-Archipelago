@@ -1,24 +1,24 @@
 # Sky-CotL-Archipelago
 A Manual Archipelago for Sky: Children of the Light
 
-This archipelago is a manual, meaning there is no mod and you will need to manually input all checks you get.
+This archipelago is a manual, meaning there is no mod and you will need to manually input all checks you get.<br />
 You will also be responsible for not using items you don't have unlocked.
 
 ## Hosting
 Make sure you have the [Archipelago Launcher](https://github.com/ArchipelagoMW/Archipelago/releases/latest)
 
-Download and install "manual_skycotl_raycast.apworld" from the latest release
+Download and install "manual_skycotl_raycast.apworld" from the latest release<br />
 Do NOT rename this file, as it may cause errors
 
 To install manually:
 - Locate your archipelago installation
 - place the file in your custom_worlds folder
 
-Get a YAML file from the player (more on this below)
+Get a YAML file from the player (more on this below)<br />
 Place it in the Archipelago/Players/ folder
 
-When you have all apworlds and YAMLs needed for your game, run the launcher
-Use "Generate" to create your world
+When you have all apworlds and YAMLs needed for your game, run the launcher<br />
+Use "Generate" to create your world<br />
 The generated world will show up in your Archipelago/output/
 
 Hosting on the Archipelago website:
@@ -31,7 +31,7 @@ Hosting on the Archipelago website:
 ## Playing
 To play this game, you will need the [Archipelago Launcher](https://github.com/ArchipelagoMW/Archipelago/releases/latest)
 
-Download and install "manual_skycotl_raycast.apworld" from the latest release
+Download and install "manual_skycotl_raycast.apworld" from the latest release<br />
 Do NOT rename this file, as it may cause errors
 
 To install manually:
@@ -60,11 +60,11 @@ Option 3:
 5. Send the file to your host
 
 ### Connecting to a game
-Run the Archipelago Launcher
-Open the "Manual Client"
+Run the Archipelago Launcher<br />
+Open the "Manual Client"<br />
 Connect to the server that your game is running on
 - Type the server name and port next to "Server:"
-- If you don't know it, ask your host
+- If you don't know it, ask your host<br />
 Enter your name (and password, if prompted) in the command line
 
 #### If you can't connect
@@ -82,8 +82,8 @@ To send a check:
 3. Find the check you got under "Remaining Locations"
 4. Click it to send it
 
-You can see checks you send and receive in real time under the "Archipelago" tab
-Items you receive will also show up under "Items Received" in the "Manual" tab
+You can see checks you send and receive in real time under the "Archipelago" tab<br />
+Items you receive will also show up under "Items Received" in the "Manual" tab<br />
 You can see hints in the "Hints" tab
 
 Tips:
@@ -91,7 +91,7 @@ Tips:
 - Use "/items" to see the names of all items
 
 ### Rules (follow them or don't idc)
-Don't use items that haven't been unlocked
+Don't use items that haven't been unlocked<br />
 Your locked items will depend on your YAML settings, but may include:
 - areas of the game `(always on)`
 - passing through spirit gates `(on by default)`
@@ -99,23 +99,23 @@ Your locked items will depend on your YAML settings, but may include:
 - base emotes `(on by default)`
 - seasonal emotes `(off by default)`
 
-If emote locks are on, you should have the required emote before entering that area, 
-even if other players opened the door
+If emote locks are on, you should have the required emote before entering that area,
+even if other players opened the door<br />
 Likewise, you shouldn't have a friend drag you through a locked Spirit Gate
 
 "Find WL" means you can either collect it, or stand on where it normally is
 
-You can lose all your Winged Light before playing, 
+You can lose all your Winged Light before playing,
 but I can't guarantee that the game will give you access to 
 enough WL for the checks it expects you to get
 
 If you receive a heart trap, send a heart to a friend `(on by default)`
 
 ### Winning
-The win condition is to be reborn
+The win condition is to be reborn<br />
 All areas of the Eye of Eden as well as 3 "Eye of Eden Progress" must first be unlocked
 
-The "Path of Eden" (first area) is in a random location in the multiworld
+The "Path of Eden" (first area) is in a random location in the multiworld<br />
 The other areas and Eye of Eden Progress are in the following locations by default:
 - Cave of Prophecies Find 1 WL
 - Prairie Peaks Find 2 WL
@@ -124,8 +124,8 @@ The other areas and Eye of Eden Progress are in the following locations by defau
 - The Graveyard Find 5 WL
 - Starlight Desert Find 3 WL
 
-The area a Winged Light is in corresponds to where it appears when looking at your map
-except Cave of Prophecies Winged Light, which are all grouped in your checks
+The area a Winged Light is in corresponds to where it appears when looking at your map,
+except Cave of Prophecies Winged Light, which are all grouped in your checks<br />
 (you will still need the corresponding trial key to get to it)
 
 Note: these areas may not match the Sky: Children of the Light wiki exactly
