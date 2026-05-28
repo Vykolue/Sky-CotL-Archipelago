@@ -49,7 +49,7 @@ What is a YAML?
 There are a few ways to get your YAML:
 
 Option 1:
-1. Download "Sky Children of the Light.yaml" from the [latest release](https://github.com/Vykolue/Sky-Cotl-Archipelago/releases/latest)
+1. Download "Sky_Children_of_the_Light.yaml" from the [latest release](https://github.com/Vykolue/Sky-Cotl-Archipelago/releases/latest)
 2. No need to change anything if you want to use the default options
 3. Send it to your host
 
