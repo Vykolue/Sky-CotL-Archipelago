@@ -49,7 +49,7 @@ What is a YAML?
 There are a few ways to get your YAML:
 
 Option 1:
-1. Download "Manual Sky Cotl Raycast.yaml" from the [latest release](https://github.com/Vykolue/Sky-Cotl-Archipelago/releases/latest)
+1. Download "Sky Children of the Light.yaml" from the [latest release](https://github.com/Vykolue/Sky-Cotl-Archipelago/releases/latest)
 2. No need to change anything if you want to use the default options
 3. Send it to your host
 
@@ -145,4 +145,4 @@ except Cave of Prophecies Winged Light, which are all grouped in your checks<br 
 (you will still need the corresponding trial key to get to it)
 
 Note: these areas may not match the Sky: Children of the Light wiki exactly<br />
-I use the term Winged Light (WL) to refer to what are technically Children of Light
+I also use the term Winged Light (WL) to refer to what are technically Children of Light
