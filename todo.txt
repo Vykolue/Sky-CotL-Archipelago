@@ -56,6 +56,14 @@ can use a "starting WL count" yaml option to further customise
 add max wedges to reduce wedge items in the pool, 
 and maybe exclude inaccessible locations?
 
+finish checking required wedge count
+
+how to check for starting wl count?
+need to remove wl items exceeding starting num + 108
+and give starting amount at start
+
+eventually want one button for each wl
+
 
 SEASONAL QUESTS:
 

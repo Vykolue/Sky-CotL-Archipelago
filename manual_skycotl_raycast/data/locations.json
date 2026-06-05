@@ -1,1000 +1,2395 @@
 [
   {
-    "name": "Passage Rock Find 1 WL",
+    "name": "Passage Rock Find 1 Child of Light",
     "category": [
       "Isle of Dawn",
-      "Find WL"
+      "Find Children of Light"
     ],
-    "requires": "|Passage Rock Key|",
+    "requires": "",
     "region": "Passage Rock"
   },
   {
-    "name": "Passage Rock Find 2 WL",
+    "name": "Passage Rock Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Passage Rock Key|",
+    "requires": "",
+    "region": "Passage Rock",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Passage Rock Find 2 Children of Light",
+    "category": [
+      "Isle of Dawn",
+      "Find Children of Light"
+    ],
+    "requires": "|@Wedges:3|",
     "region": "Passage Rock"
   },
   {
-    "name": "Dawn Circle Find 1 WL",
+    "name": "Passage Rock Collect 2 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Dawn Circle Key|",
+    "requires": "|@Wedges:3|",
+    "region": "Passage Rock",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Dawn Circle Find 1 Child of Light",
+    "category": [
+      "Isle of Dawn",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Dawn Circle"
   },
   {
-    "name": "Dawn Circle Find 2 WL",
+    "name": "Dawn Circle Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Dawn Circle Key|",
+    "requires": "",
+    "region": "Dawn Circle",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Dawn Circle Find 2 Children of Light",
+    "category": [
+      "Isle of Dawn",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Dawn Circle"
   },
   {
-    "name": "Dawn Circle Find 3 WL",
+    "name": "Dawn Circle Collect 2 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "(|Dawn Circle Key|) AND (|@Regular Isle Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Dawn Circle",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Dawn Circle Find 3 Children of Light",
+    "category": [
+      "Isle of Dawn",
+      "Find Children of Light"
+    ],
+    "requires": "|@Regular Isle Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)}",
     "region": "Dawn Circle"
   },
   {
-    "name": "Dawn Overlook Find 1 WL",
+    "name": "Dawn Circle Collect 3 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Dawn Overlook Key|",
+    "requires": "|@Regular Isle Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)}",
+    "region": "Dawn Circle",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Dawn Overlook Find 1 Child of Light",
+    "category": [
+      "Isle of Dawn",
+      "Find Children of Light"
+    ],
+    "requires": "|@Wedges:3|",
     "region": "Dawn Overlook"
   },
   {
-    "name": "Cave of Prophecies Find 1 WL",
+    "name": "Dawn Overlook Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Cave of Prophecies Key| AND |@Trial Keys:1| AND ((|@Regular Forest Spirit:2| OR (|The Wind Paths Key| AND |@Regular Vault Spirit:1|)) OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "|@Wedges:3|",
+    "region": "Dawn Overlook",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Trial of Water Find 1 Child of Light",
+    "category": [
+      "Isle of Dawn",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "place_item": [
       "Path of Eden Key"
     ],
-    "region": "Cave of Prophecies"
+    "region": "Trial of Water"
   },
   {
-    "name": "Cave of Prophecies Find 2 WL",
+    "name": "Trial of Water Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Cave of Prophecies Key| AND |@Trial Keys:2| AND ((|@Regular Forest Spirit:2| OR (|The Wind Paths Key| AND |@Regular Vault Spirit:1|)) OR {YamlDisabled(Spirit_Emote_Locks)})",
-    "region": "Cave of Prophecies"
+    "requires": "",
+    "place_item": [
+      "Winged Light"
+    ],
+    "region": "Trial of Water"
   },
   {
-    "name": "Cave of Prophecies Find 3 WL",
+    "name": "Trial of Earth Find 1 Child of Light",
     "category": [
       "Isle of Dawn",
-      "Find WL"
+      "Find Children of Light"
     ],
-    "requires": "|Cave of Prophecies Key| AND |@Trial Keys:3| AND ((|@Regular Forest Spirit:2| OR (|The Wind Paths Key| AND |@Regular Vault Spirit:1|)) OR {YamlDisabled(Spirit_Emote_Locks)})",
-    "region": "Cave of Prophecies"
+    "requires": "",
+    "region": "Trial of Earth"
   },
   {
-    "name": "Cave of Prophecies Find 4 WL",
+    "name": "Trial of Earth Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Cave of Prophecies Key| AND |@Trial Keys:4| AND ((|@Regular Forest Spirit:2| OR (|The Wind Paths Key| AND |@Regular Vault Spirit:1|)) OR {YamlDisabled(Spirit_Emote_Locks)})",
-    "region": "Cave of Prophecies"
+    "requires": "",
+    "region": "Trial of Earth",
+    "place_item": [
+      "Winged Light"
+    ]
   },
   {
-    "name": "Prairie Rest Find 1 WL",
+    "name": "Trial of Air Find 1 Child of Light",
+    "category": [
+      "Isle of Dawn",
+      "Find Children of Light"
+    ],
+    "requires": "",
+    "region": "Trial of Air"
+  },
+  {
+    "name": "Trial of Air Collect 1 Winged Light",
+    "category": [
+      "Isle of Dawn",
+      "Collect Winged Light"
+    ],
+    "requires": "",
+    "region": "Trial of Air",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Trial of Fire Find 1 Child of Light",
+    "category": [
+      "Isle of Dawn",
+      "Find Children of Light"
+    ],
+    "requires": "",
+    "region": "Trial of Fire"
+  },
+  {
+    "name": "Trial of Fire Collect 1 Winged Light",
+    "category": [
+      "Isle of Dawn",
+      "Collect Winged Light"
+    ],
+    "requires": "",
+    "region": "Trial of Fire",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Prairie Rest Find 1 Child of Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Find Children of Light"
     ],
-    "requires": "|Prairie Rest Key|",
+    "requires": "",
     "region": "Prairie Rest"
   },
   {
-    "name": "Butterfly Fields Find 1 WL",
+    "name": "Prairie Rest Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Butterfly Fields Key|",
+    "requires": "",
+    "region": "Prairie Rest",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Butterfly Fields Find 1 Child of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Butterfly Fields"
   },
   {
-    "name": "Butterfly Fields Find 2 WL",
+    "name": "Butterfly Fields Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "(|Butterfly Fields Key|) AND (|@Regular Prairie Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Butterfly Fields",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Butterfly Fields Find 2 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "|@Regular Prairie Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)}",
     "region": "Butterfly Fields"
   },
   {
-    "name": "Prairie Village Find 1 WL",
+    "name": "Butterfly Fields Collect 2 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Prairie Village Key|",
+    "requires": "|@Regular Prairie Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)}",
+    "region": "Butterfly Fields",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Prairie Village Find 1 Child of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Prairie Village"
   },
   {
-    "name": "Prairie Village Find 2 WL",
+    "name": "Prairie Village Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Prairie Village Key|",
+    "requires": "",
+    "region": "Prairie Village",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Prairie Village Find 2 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Prairie Village"
   },
   {
-    "name": "Prairie Village Find 3 WL",
+    "name": "Prairie Village Collect 2 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Prairie Village Key|",
+    "requires": "",
+    "region": "Prairie Village",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Prairie Village Find 3 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Prairie Village"
   },
   {
-    "name": "Prairie Heights Find 1 WL",
+    "name": "Prairie Village Collect 3 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Prairie Heights Key| AND ((|@Regular Prairie Spirit:6| AND |Rescued Butterfly Charmer|) OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Prairie Village",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Prairie Heights Find 1 Child of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Prairie Heights"
   },
   {
-    "name": "Temple of the Prairie Find 1 WL",
+    "name": "Prairie Heights Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Temple of the Prairie Key|",
+    "requires": "",
+    "region": "Prairie Heights",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Temple of the Prairie Find 1 Child of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Temple of the Prairie"
   },
   {
-    "name": "Temple of the Prairie Find 2 WL",
+    "name": "Temple of the Prairie Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Temple of the Prairie Key|",
+    "requires": "",
+    "region": "Temple of the Prairie",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Temple of the Prairie Find 2 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Temple of the Prairie"
   },
   {
-    "name": "Prairie Cave Find 1 WL",
+    "name": "Temple of the Prairie Collect 2 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Prairie Cave Key| AND ((|@Regular Isle Spirit:2| AND |@Regular Prairie Spirit:3|) OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Temple of the Prairie",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Prairie Cave Find 1 Child of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Prairie Cave"
   },
   {
-    "name": "Prairie Cave Find 2 WL",
+    "name": "Prairie Cave Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Prairie Cave Key| AND ((|@Regular Isle Spirit:2| AND |@Regular Prairie Spirit:3|) OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Prairie Cave",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Prairie Cave Find 2 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Prairie Cave"
   },
   {
-    "name": "Bird Nest Find 1 WL",
+    "name": "Prairie Cave Collect 2 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Bird Nest Key| AND (|@Regular Prairie Spirit:4| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Prairie Cave",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Bird Nest Find 1 Child of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Bird Nest"
   },
   {
-    "name": "Bird Nest Find 2 WL",
+    "name": "Bird Nest Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Bird Nest Key| AND (|@Regular Prairie Spirit:4| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Bird Nest",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Bird Nest Find 2 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Bird Nest"
   },
   {
-    "name": "Sanctuary Islands Find 1 WL",
+    "name": "Bird Nest Collect 2 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Sanctuary Islands Key|",
+    "requires": "",
+    "region": "Bird Nest",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Sanctuary Islands Find 1 Child of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Find 2 WL",
+    "name": "Sanctuary Islands Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Sanctuary Islands Key|",
+    "requires": "",
+    "region": "Sanctuary Islands",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Sanctuary Islands Find 2 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Find 3 WL",
+    "name": "Sanctuary Islands Collect 2 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Sanctuary Islands Key|",
+    "requires": "",
+    "region": "Sanctuary Islands",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Sanctuary Islands Find 3 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Find 4 WL",
+    "name": "Sanctuary Islands Collect 3 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Sanctuary Islands Key|",
+    "requires": "",
+    "region": "Sanctuary Islands",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Sanctuary Islands Find 4 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Find 5 WL",
+    "name": "Sanctuary Islands Collect 4 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Sanctuary Islands Key|",
+    "requires": "",
+    "region": "Sanctuary Islands",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Sanctuary Islands Find 5 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Find 6 WL",
+    "name": "Sanctuary Islands Collect 5 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Sanctuary Islands Key|",
+    "requires": "",
+    "region": "Sanctuary Islands",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Sanctuary Islands Find 6 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Find 7 WL",
+    "name": "Sanctuary Islands Collect 6 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Sanctuary Islands Key|",
+    "requires": "",
+    "region": "Sanctuary Islands",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Sanctuary Islands Find 7 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Find 8 WL",
+    "name": "Sanctuary Islands Collect 7 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Sanctuary Islands Key|",
+    "requires": "",
+    "region": "Sanctuary Islands",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Sanctuary Islands Find 8 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Sanctuary Islands"
   },
   {
-    "name": "Prairie Peaks Find 1 WL",
+    "name": "Sanctuary Islands Collect 8 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Prairie Peaks Key|",
+    "requires": "",
+    "region": "Sanctuary Islands",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Prairie Peaks Find 1 Child of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Prairie Peaks"
   },
   {
-    "name": "Prairie Peaks Find 2 WL",
+    "name": "Prairie Peaks Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Prairie Peaks Key|",
+    "requires": "",
+    "region": "Prairie Peaks",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Prairie Peaks Find 2 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "place_item": [
       "Eye of Eden Key"
     ],
     "region": "Prairie Peaks"
   },
   {
-    "name": "Prairie Peaks Find 3 WL",
+    "name": "Prairie Peaks Collect 2 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Prairie Peaks Key|",
+    "requires": "",
+    "place_item": [
+      "Winged Light"
+    ],
     "region": "Prairie Peaks"
   },
   {
-    "name": "Forest Courtyard Find 1 WL",
+    "name": "Prairie Peaks Find 3 Children of Light",
+    "category": [
+      "Daylight Prairie",
+      "Find Children of Light"
+    ],
+    "requires": "",
+    "region": "Prairie Peaks"
+  },
+  {
+    "name": "Prairie Peaks Collect 3 Winged Light",
+    "category": [
+      "Daylight Prairie",
+      "Collect Winged Light"
+    ],
+    "requires": "",
+    "region": "Prairie Peaks",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Forest Courtyard Find 1 Child of Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Find Children of Light"
     ],
-    "requires": "|Forest Courtyard Key|",
+    "requires": "",
     "region": "Forest Courtyard"
   },
   {
-    "name": "Forest Courtyard Find 2 WL",
+    "name": "Forest Courtyard Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Forest Courtyard Key|",
+    "requires": "",
+    "region": "Forest Courtyard",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Forest Courtyard Find 2 Children of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Forest Courtyard"
   },
   {
-    "name": "Forest Brook Find 1 WL",
+    "name": "Forest Courtyard Collect 2 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Forest Brook Key|",
+    "requires": "",
+    "region": "Forest Courtyard",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Forest Brook Find 1 Child of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Forest Brook"
   },
   {
-    "name": "Forest Brook Find 2 WL",
+    "name": "Forest Brook Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Forest Brook Key|",
+    "requires": "",
+    "region": "Forest Brook",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Forest Brook Find 2 Children of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Forest Brook"
   },
   {
-    "name": "Forest Brook Find 3 WL",
+    "name": "Forest Brook Collect 2 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Forest Brook Key|",
+    "requires": "",
+    "region": "Forest Brook",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Forest Brook Find 3 Children of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Forest Brook"
   },
   {
-    "name": "Forest Brook Find 4 WL",
+    "name": "Forest Brook Collect 3 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Forest Brook Key|",
+    "requires": "",
+    "region": "Forest Brook",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Forest Brook Find 4 Children of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Forest Brook"
   },
   {
-    "name": "Boneyard Find 1 WL",
+    "name": "Forest Brook Collect 4 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Boneyard Key|",
+    "requires": "",
+    "region": "Forest Brook",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Boneyard Find 1 Child of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Boneyard"
   },
   {
-    "name": "Boneyard Find 2 WL",
+    "name": "Boneyard Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Boneyard Key|",
+    "requires": "",
+    "region": "Boneyard",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Boneyard Find 2 Children of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Boneyard"
   },
   {
-    "name": "Boneyard Find 3 WL",
+    "name": "Boneyard Collect 2 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "(|Boneyard Key|) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Boneyard",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Boneyard Find 3 Children of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "|@Regular Forest Spirit:4| OR {YamlDisabled(Spirit_Emote_Locks)}",
     "region": "Boneyard"
   },
   {
-    "name": "Elevated Clearing Find 1 WL",
+    "name": "Boneyard Collect 3 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Elevated Clearing Key| AND (|@Regular Forest Spirit:8| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "|@Regular Forest Spirit:4| OR {YamlDisabled(Spirit_Emote_Locks)}",
+    "region": "Boneyard",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Elevated Clearing Find 1 Child of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Elevated Clearing"
   },
   {
-    "name": "Elevated Clearing Find 2 WL",
+    "name": "Elevated Clearing Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Elevated Clearing Key| AND (|@Regular Forest Spirit:8| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Elevated Clearing",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Elevated Clearing Find 2 Children of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Elevated Clearing"
   },
   {
-    "name": "Blue Bird Theater Find 1 WL",
+    "name": "Elevated Clearing Collect 2 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Blue Bird Theater Key|",
+    "requires": "",
+    "region": "Elevated Clearing",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Blue Bird Theater Find 1 Child of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Blue Bird Theater"
   },
   {
-    "name": "Forest Cavern Find 1 WL",
+    "name": "Blue Bird Theater Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Forest Cavern Key|",
+    "requires": "",
+    "region": "Blue Bird Theater",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Forest Cavern Find 1 Child of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Forest Cavern"
   },
   {
-    "name": "Forest Cavern Find 2 WL",
+    "name": "Forest Cavern Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Forest Cavern Key|",
+    "requires": "",
+    "region": "Forest Cavern",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Forest Cavern Find 2 Children of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "place_item": [
       "The Passage Key"
     ],
     "region": "Forest Cavern"
   },
   {
-    "name": "Forest Cavern Find 3 WL",
+    "name": "Forest Cavern Collect 2 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Forest Cavern Key|",
+    "requires": "",
+    "place_item": [
+      "Winged Light"
+    ],
     "region": "Forest Cavern"
   },
   {
-    "name": "Forest Cavern Find 4 WL",
+    "name": "Forest Cavern Find 3 Children of Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Find Children of Light"
     ],
-    "requires": "|Forest Cavern Key|",
+    "requires": "",
     "region": "Forest Cavern"
   },
   {
-    "name": "Sacred Pond Find 1 WL",
+    "name": "Forest Cavern Collect 3 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Sacred Pond Key|",
+    "requires": "",
+    "region": "Forest Cavern",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Forest Cavern Find 4 Children of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Forest Cavern Collect 4 Winged Light",
+    "category": [
+      "Hidden Forest",
+      "Collect Winged Light"
+    ],
+    "requires": "",
+    "region": "Forest Cavern",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Sacred Pond Find 1 Child of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Sacred Pond"
   },
   {
-    "name": "The Treehouse Find 1 WL",
+    "name": "Sacred Pond Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Treehouse Key| AND (|@Regular Valley Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Sacred Pond",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Treehouse Find 1 Child of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "The Treehouse"
   },
   {
-    "name": "The Treehouse Find 2 WL",
+    "name": "The Treehouse Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Treehouse Key| AND (|@Regular Valley Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "The Treehouse",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Treehouse Find 2 Children of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "The Treehouse"
   },
   {
-    "name": "The Wind Paths Find 1 WL",
+    "name": "The Treehouse Collect 2 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Wind Paths Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "The Treehouse",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Wind Paths Find 1 Child of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "The Wind Paths"
   },
   {
-    "name": "The Wind Paths Find 2 WL",
+    "name": "The Wind Paths Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Wind Paths Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "The Wind Paths",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Wind Paths Find 2 Children of Light",
+    "category": [
+      "Hidden Forest",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "The Wind Paths"
   },
   {
-    "name": "Valley Rest Find 1 WL",
+    "name": "The Wind Paths Collect 2 Winged Light",
+    "category": [
+      "Hidden Forest",
+      "Collect Winged Light"
+    ],
+    "requires": "",
+    "region": "The Wind Paths",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Valley Rest Find 1 Child of Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Find Children of Light"
     ],
-    "requires": "|Valley Rest Key|",
+    "requires": "",
     "region": "Valley Rest"
   },
   {
-    "name": "Frozen Lake Find 1 WL",
+    "name": "Valley Rest Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Frozen Lake Key|",
+    "requires": "",
+    "region": "Valley Rest",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Frozen Lake Find 1 Child of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Frozen Lake"
   },
   {
-    "name": "Frozen Lake Find 2 WL",
+    "name": "Frozen Lake Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Frozen Lake Key|",
+    "requires": "",
+    "region": "Frozen Lake",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Frozen Lake Find 2 Children of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Frozen Lake"
   },
   {
-    "name": "Lower Valley Track Find 1 WL",
+    "name": "Frozen Lake Collect 2 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Lower Valley Track Key|",
+    "requires": "",
+    "region": "Frozen Lake",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Lower Valley Track Find 1 Child of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Lower Valley Track"
   },
   {
-    "name": "The Citadel Find 1 WL",
+    "name": "Lower Valley Track Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Citadel Key| AND (|@Regular Valley Spirit:2| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Lower Valley Track",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Citadel Find 1 Child of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "The Citadel"
   },
   {
-    "name": "The Citadel Find 2 WL",
+    "name": "The Citadel Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Citadel Key| AND (|@Regular Valley Spirit:2| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "The Citadel",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Citadel Find 2 Children of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "The Citadel"
   },
   {
-    "name": "Upper Valley Track Find 1 WL",
+    "name": "The Citadel Collect 2 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Upper Valley Track Key|",
+    "requires": "",
+    "region": "The Citadel",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Upper Valley Track Find 1 Child of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Upper Valley Track"
   },
   {
-    "name": "Upper Valley Track Find 2 WL",
+    "name": "Upper Valley Track Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Upper Valley Track Key|",
+    "requires": "",
+    "region": "Upper Valley Track",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Upper Valley Track Find 2 Children of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Upper Valley Track"
   },
   {
-    "name": "Temple of the Valley Find 1 WL",
+    "name": "Upper Valley Track Collect 2 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Temple of the Valley Key|",
+    "requires": "",
+    "region": "Upper Valley Track",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Temple of the Valley Find 1 Child of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Temple of the Valley"
   },
   {
-    "name": "Temple of the Valley Find 2 WL",
+    "name": "Temple of the Valley Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Temple of the Valley Key|",
+    "requires": "",
+    "region": "Temple of the Valley",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Temple of the Valley Find 2 Children of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Temple of the Valley"
   },
   {
-    "name": "Temple of the Valley Find 3 WL",
+    "name": "Temple of the Valley Collect 2 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Temple of the Valley Key|",
+    "requires": "",
+    "region": "Temple of the Valley",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Temple of the Valley Find 3 Children of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Temple of the Valley"
   },
   {
-    "name": "Village of Dreams Find 1 WL",
+    "name": "Temple of the Valley Collect 3 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Village of Dreams Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Temple of the Valley",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Village of Dreams Find 1 Child of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Village of Dreams"
   },
   {
-    "name": "Village of Dreams Find 2 WL",
+    "name": "Village of Dreams Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Village of Dreams Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Village of Dreams",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Village of Dreams Find 2 Children of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Village of Dreams"
   },
   {
-    "name": "Village of Dreams Find 3 WL",
+    "name": "Village of Dreams Collect 2 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Village of Dreams Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Village of Dreams",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Village of Dreams Find 3 Children of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Village of Dreams"
   },
   {
-    "name": "Hermit Valley Find 1 WL",
+    "name": "Village of Dreams Collect 3 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Hermit Valley Key|",
+    "requires": "",
+    "region": "Village of Dreams",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Hermit Valley Find 1 Child of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Hermit Valley"
   },
   {
-    "name": "Hermit Valley Find 2 WL",
+    "name": "Hermit Valley Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Hermit Valley Key|",
+    "requires": "",
+    "region": "Hermit Valley",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Hermit Valley Find 2 Children of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "place_item": [
       "Eye of Eden Progress"
     ],
     "region": "Hermit Valley"
   },
   {
-    "name": "Village Theater Find 1 WL",
+    "name": "Hermit Valley Collect 2 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Village Theater Key|",
+    "requires": "",
+    "place_item": [
+      "Winged Light"
+    ],
+    "region": "Hermit Valley"
+  },
+  {
+    "name": "Village Theater Find 1 Child of Light",
+    "category": [
+      "Valley of Triumph",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Village Theater"
   },
   {
-    "name": "The Outer Bailey Find 1 WL",
+    "name": "Village Theater Collect 1 Winged Light",
+    "category": [
+      "Valley of Triumph",
+      "Collect Winged Light"
+    ],
+    "requires": "",
+    "region": "Village Theater",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Outer Bailey Find 1 Child of Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Find Children of Light"
     ],
-    "requires": "|The Outer Bailey Key|",
+    "requires": "",
     "region": "The Outer Bailey"
   },
   {
-    "name": "The Outer Bailey Find 2 WL",
+    "name": "The Outer Bailey Collect 1 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Outer Bailey Key|",
+    "requires": "",
+    "region": "The Outer Bailey",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Outer Bailey Find 2 Children of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "The Outer Bailey"
   },
   {
-    "name": "The Graveyard Find 1 WL",
+    "name": "The Outer Bailey Collect 2 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Graveyard Key|",
+    "requires": "",
+    "region": "The Outer Bailey",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Graveyard Find 1 Child of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "The Graveyard"
   },
   {
-    "name": "The Graveyard Find 2 WL",
+    "name": "The Graveyard Collect 1 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Graveyard Key|",
+    "requires": "",
+    "region": "The Graveyard",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Graveyard Find 2 Children of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "The Graveyard"
   },
   {
-    "name": "The Graveyard Find 3 WL",
+    "name": "The Graveyard Collect 2 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Graveyard Key|",
+    "requires": "",
+    "region": "The Graveyard",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Graveyard Find 3 Children of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "The Graveyard"
   },
   {
-    "name": "The Graveyard Find 4 WL",
+    "name": "The Graveyard Collect 3 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Graveyard Key|",
+    "requires": "",
+    "region": "The Graveyard",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Graveyard Find 4 Children of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "The Graveyard"
   },
   {
-    "name": "The Graveyard Find 5 WL",
+    "name": "The Graveyard Collect 4 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Graveyard Key|",
+    "requires": "",
+    "region": "The Graveyard",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Graveyard Find 5 Children of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "place_item": [
       "Eye of Eden Progress"
     ],
     "region": "The Graveyard"
   },
   {
-    "name": "The Graveyard Find 6 WL",
+    "name": "The Graveyard Collect 5 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Graveyard Key|",
+    "requires": "",
+    "place_item": [
+      "Winged Light"
+    ],
     "region": "The Graveyard"
   },
   {
-    "name": "Crab Fields Find 1 WL",
+    "name": "The Graveyard Find 6 Children of Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Find Children of Light"
     ],
-    "requires": "|Crab Fields Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "The Graveyard"
+  },
+  {
+    "name": "The Graveyard Collect 6 Winged Light",
+    "category": [
+      "Golden Wasteland",
+      "Collect Winged Light"
+    ],
+    "requires": "",
+    "region": "The Graveyard",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Crab Fields Find 1 Child of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Crab Fields"
   },
   {
-    "name": "Crab Fields Find 2 WL",
+    "name": "Crab Fields Collect 1 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Crab Fields Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Crab Fields",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Crab Fields Find 2 Children of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Crab Fields"
   },
   {
-    "name": "Crab Fields Find 3 WL",
+    "name": "Crab Fields Collect 2 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Crab Fields Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Crab Fields",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Crab Fields Find 3 Children of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Crab Fields"
   },
   {
-    "name": "The Battlefield Find 1 WL",
+    "name": "Crab Fields Collect 3 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Battlefield Key|",
+    "requires": "",
+    "region": "Crab Fields",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Battlefield Find 1 Child of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "The Battlefield"
   },
   {
-    "name": "The Battlefield Find 2 WL",
+    "name": "The Battlefield Collect 1 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|The Battlefield Key|",
+    "requires": "",
+    "region": "The Battlefield",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "The Battlefield Find 2 Children of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "The Battlefield"
   },
   {
-    "name": "Temple of the Wasteland Find 1 WL",
+    "name": "The Battlefield Collect 2 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Temple of the Wasteland Key|",
+    "requires": "",
+    "region": "The Battlefield",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Temple of the Wasteland Find 1 Child of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Temple of the Wasteland"
   },
   {
-    "name": "Forgotten Ark Find 1 WL",
+    "name": "Temple of the Wasteland Collect 1 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Forgotten Ark Key|",
+    "requires": "",
+    "region": "Temple of the Wasteland",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Forgotten Ark Find 1 Child of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Forgotten Ark"
   },
   {
-    "name": "Forgotten Ark Find 2 WL",
+    "name": "Forgotten Ark Collect 1 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Forgotten Ark Key|",
+    "requires": "",
+    "region": "Forgotten Ark",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Forgotten Ark Find 2 Children of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Forgotten Ark"
   },
   {
-    "name": "Treasure Reef Find 1 WL",
+    "name": "Forgotten Ark Collect 2 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Treasure Reef Key|",
+    "requires": "",
+    "region": "Forgotten Ark",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Treasure Reef Find 1 Child of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Treasure Reef"
   },
   {
-    "name": "Treasure Reef Find 2 WL",
+    "name": "Treasure Reef Collect 1 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Treasure Reef Key|",
+    "requires": "",
+    "region": "Treasure Reef",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Treasure Reef Find 2 Children of Light",
+    "category": [
+      "Golden Wasteland",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Treasure Reef"
   },
   {
-    "name": "Vault Rest Find 1 WL",
+    "name": "Treasure Reef Collect 2 Winged Light",
+    "category": [
+      "Golden Wasteland",
+      "Collect Winged Light"
+    ],
+    "requires": "",
+    "region": "Treasure Reef",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Vault Rest Find 1 Child of Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Find Children of Light"
     ],
-    "requires": "|Vault Rest Key|",
+    "requires": "",
     "region": "Vault Rest"
   },
   {
-    "name": "Lower Vault Find 1 WL",
+    "name": "Vault Rest Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Lower Vault Key|",
+    "requires": "",
+    "region": "Vault Rest",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Lower Vault Find 1 Child of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Lower Vault"
   },
   {
-    "name": "Upper Vault Find 1 WL",
+    "name": "Lower Vault Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Upper Vault Key|",
+    "requires": "",
+    "region": "Lower Vault",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Upper Vault Find 1 Child of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Upper Vault"
   },
   {
-    "name": "Upper Vault Find 2 WL",
+    "name": "Upper Vault Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Upper Vault Key|",
+    "requires": "",
+    "region": "Upper Vault",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Upper Vault Find 2 Children of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Upper Vault"
   },
   {
-    "name": "Upper Vault Find 3 WL",
+    "name": "Upper Vault Collect 2 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Upper Vault Key|",
+    "requires": "",
+    "region": "Upper Vault",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Upper Vault Find 3 Children of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Upper Vault"
   },
   {
-    "name": "Temple of the Vault Find 1 WL",
+    "name": "Upper Vault Collect 3 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Temple of the Vault Key|",
+    "requires": "",
+    "region": "Upper Vault",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Temple of the Vault Find 1 Child of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Temple of the Vault"
   },
   {
-    "name": "Vault Archive Find 1 WL",
+    "name": "Temple of the Vault Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Vault Archive Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Temple of the Vault",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Vault Archive Find 1 Child of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Vault Archive"
   },
   {
-    "name": "Vault Archive Find 2 WL",
+    "name": "Vault Archive Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Vault Archive Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "region": "Vault Archive",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Vault Archive Find 2 Children of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Vault Archive"
   },
   {
-    "name": "Starlight Desert Find 1 WL",
+    "name": "Vault Archive Collect 2 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Starlight Desert Key|",
+    "requires": "",
+    "region": "Vault Archive",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Starlight Desert Find 1 Child of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Starlight Desert"
   },
   {
-    "name": "Starlight Desert Find 2 WL",
+    "name": "Starlight Desert Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Starlight Desert Key|",
+    "requires": "",
+    "region": "Starlight Desert",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Starlight Desert Find 2 Children of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Starlight Desert"
   },
   {
-    "name": "Starlight Desert Find 3 WL",
+    "name": "Starlight Desert Collect 2 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Starlight Desert Key|",
+    "requires": "",
+    "region": "Starlight Desert",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Starlight Desert Find 3 Children of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "place_item": [
       "Eye of Eden Progress"
     ],
     "region": "Starlight Desert"
   },
   {
-    "name": "Repository of Refuge Find 1 WL",
+    "name": "Starlight Desert Collect 3 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Repository of Refuge Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})",
+    "requires": "",
+    "place_item": [
+      "Winged Light"
+    ],
+    "region": "Starlight Desert"
+  },
+  {
+    "name": "Repository of Refuge Find 1 Child of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Repository of Refuge"
   },
   {
-    "name": "Crescent Oasis Find 1 WL",
+    "name": "Repository of Refuge Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Crescent Oasis Key|",
+    "requires": "",
+    "region": "Repository of Refuge",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Crescent Oasis Find 1 Child of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Crescent Oasis"
   },
   {
-    "name": "Crescent Oasis Find 2 WL",
+    "name": "Crescent Oasis Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Crescent Oasis Key|",
+    "requires": "",
+    "region": "Crescent Oasis",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Crescent Oasis Find 2 Children of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Crescent Oasis"
   },
   {
-    "name": "Crescent Oasis Find 3 WL",
+    "name": "Crescent Oasis Collect 2 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Crescent Oasis Key|",
+    "requires": "",
+    "region": "Crescent Oasis",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Crescent Oasis Find 3 Children of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Crescent Oasis"
   },
   {
-    "name": "Moominvalley Find 1 WL",
+    "name": "Crescent Oasis Collect 3 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "|Moominvalley Key|",
+    "requires": "",
+    "region": "Crescent Oasis",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Moominvalley Find 1 Child of Light",
+    "category": [
+      "Vault of Knowledge",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Moominvalley"
+  },
+  {
+    "name": "Moominvalley Collect 1 Winged Light",
+    "category": [
+      "Vault of Knowledge",
+      "Collect Winged Light"
+    ],
+    "requires": "",
+    "region": "Moominvalley",
+    "place_item": [
+      "Winged Light"
+    ]
   },
   {
     "name": "Rebirth",
     "victory": true,
     "category": [],
-    "requires": "(|The Passage Key|) AND (|Eye of Eden Progress:3|)",
+    "requires": "|Eye of Eden Progress:3|",
     "region": "The Passage"
   },
   {
-    "name": "Wandering Carnival Find 1 WL",
+    "name": "Wandering Carnival Find 1 Child of Light",
     "category": [
       "Aviary Village",
-      "Find WL"
+      "Find Children of Light"
     ],
-    "requires": "(|Wandering Carnival Key|) AND (|Wandering Carnival Key|)",
+    "requires": "",
     "region": "Wandering Carnival"
   },
   {
-    "name": "Wandering Carnival Find 2 WL",
+    "name": "Wandering Carnival Collect 1 Winged Light",
     "category": [
       "Aviary Village",
-      "Find WL"
+      "Collect Winged Light"
     ],
-    "requires": "(|Wandering Carnival Key|) AND (|Wandering Carnival Key|)",
+    "requires": "",
+    "region": "Wandering Carnival",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Wandering Carnival Find 2 Children of Light",
+    "category": [
+      "Aviary Village",
+      "Find Children of Light"
+    ],
+    "requires": "",
     "region": "Wandering Carnival"
+  },
+  {
+    "name": "Wandering Carnival Collect 2 Winged Light",
+    "category": [
+      "Aviary Village",
+      "Collect Winged Light"
+    ],
+    "requires": "",
+    "region": "Wandering Carnival",
+    "place_item": [
+      "Winged Light"
+    ]
+  },
+  {
+    "name": "Wing Level 1",
+    "category": [
+      "Wing Level Up"
+    ],
+    "requires": "|Winged Light:1|",
+    "region": "",
+    "place_item": [
+      "Wedge"
+    ]
+  },
+  {
+    "name": "Wing Level 2",
+    "category": [
+      "Wing Level Up"
+    ],
+    "requires": "|Winged Light:2|",
+    "region": "",
+    "place_item": [
+      "Wedge"
+    ]
+  },
+  {
+    "name": "Wing Level 3",
+    "category": [
+      "Wing Level Up"
+    ],
+    "requires": "|Winged Light:5|",
+    "region": "",
+    "place_item": [
+      "Wedge"
+    ]
+  },
+  {
+    "name": "Wing Level 4",
+    "category": [
+      "Wing Level Up"
+    ],
+    "requires": "|Winged Light:10|",
+    "region": "",
+    "place_item": [
+      "Wedge"
+    ]
+  },
+  {
+    "name": "Wing Level 5",
+    "category": [
+      "Wing Level Up"
+    ],
+    "requires": "|Winged Light:20|",
+    "region": "",
+    "place_item": [
+      "Wedge"
+    ]
+  },
+  {
+    "name": "Wing Level 6",
+    "category": [
+      "Wing Level Up"
+    ],
+    "requires": "|Winged Light:35|",
+    "region": "",
+    "place_item": [
+      "Wedge"
+    ]
+  },
+  {
+    "name": "Wing Level 7",
+    "category": [
+      "Wing Level Up"
+    ],
+    "requires": "|Winged Light:55|",
+    "region": "",
+    "place_item": [
+      "Wedge"
+    ]
+  },
+  {
+    "name": "Wing Level 8",
+    "category": [
+      "Wing Level Up"
+    ],
+    "requires": "|Winged Light:75|",
+    "region": "",
+    "place_item": [
+      "Wedge"
+    ]
+  },
+  {
+    "name": "Wing Level 9",
+    "category": [
+      "Wing Level Up"
+    ],
+    "requires": "|Winged Light:100|",
+    "region": "",
+    "place_item": [
+      "Wedge"
+    ]
   },
   {
     "name": "Daily Music Challenge",
@@ -1003,6 +2398,6 @@
       "Valley of Triumph",
       "Daily Music Challenge"
     ],
-    "requires": "|Harmony Hall Key|"
+    "requires": ""
   }
 ]

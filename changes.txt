@@ -1,2 +1,13 @@
 CHANGES:
 
+fixed Aviary Village to Sky Cinema connection
+
+replaced area keys with realm keys
+
+removed area-specific requirements from locations and only included them in region requirements
+
+updated rescue spirit items to only be progression if spirit and emote locks are enabled
+
+renamed WL to Children of Light
+
+added WL and wedge items
