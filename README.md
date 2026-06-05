@@ -69,9 +69,10 @@ Option 3:
 ### Connecting to a game
 Run the Archipelago Launcher<br />
 Open the "Manual Client"<br />
-Connect to the server that your game is running on
+Connect to the server that your game is running on:
 - Type the server name and port next to "Server:"
-- If you don't know it, ask your host<br />
+- If you don't know it, ask your host
+
 Enter your name (and password, if prompted) in the command line
 
 #### If you can't connect
@@ -84,7 +85,7 @@ Make sure:
 You can play Sky: Children of the Light on any device
 
 To send a check:
-1. Connect to the Manual Client
+1. Connect to the Manual Client (as described above)
 2. Switch to the "Manual" tab
 3. Find the check you got under "Remaining Locations"
 4. Click it to send it
@@ -115,9 +116,10 @@ Likewise, you shouldn't have a friend drag you through a locked Spirit Gate
 
 "Find WL" means you can either collect it, or stand on where it normally is
 
-You can lose all your Winged Light before playing,
-but I can't guarantee that the game will give you access to 
-enough WL for the checks it expects you to get
+I recommend against losing all your Winged Light before playing,
+as I can't guarantee that the game will give you access to 
+enough WL for the checks it expects you to get<br />
+I plan to fix this in a future update
 
 Additionally, you may run into impossible scenerios if your account has not:
 - relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
@@ -144,7 +146,7 @@ The other areas and Eye of Eden Progress are in the following locations by defau
 If you wish to change the default locations, you can use [Plando](https://archipelago.gg/tutorial/Archipelago/plando_en)<br />
 The items to place are:
 - Eye of Eden Progress: 3
-- Gate of Eden Key (if you prefer it not be random)
+- Gate of Eden Key `(if you prefer it not be random)`
 - Path of Eden Key
 - Eye of Eden Key
 - The Passage Key
