@@ -2246,7 +2246,9 @@
   {
     "name": "Rebirth",
     "victory": true,
-    "category": [],
+    "category": [
+      "Goal"
+    ],
     "requires": "|Eye of Eden Progress:3|",
     "region": "The Passage"
   },
@@ -2298,7 +2300,6 @@
       "Wing Level Up"
     ],
     "requires": "|Winged Light:1|",
-    "region": "",
     "place_item": [
       "Wedge"
     ]
@@ -2309,7 +2310,6 @@
       "Wing Level Up"
     ],
     "requires": "|Winged Light:2|",
-    "region": "",
     "place_item": [
       "Wedge"
     ]
@@ -2320,7 +2320,6 @@
       "Wing Level Up"
     ],
     "requires": "|Winged Light:5|",
-    "region": "",
     "place_item": [
       "Wedge"
     ]
@@ -2331,7 +2330,6 @@
       "Wing Level Up"
     ],
     "requires": "|Winged Light:10|",
-    "region": "",
     "place_item": [
       "Wedge"
     ]
@@ -2342,7 +2340,6 @@
       "Wing Level Up"
     ],
     "requires": "|Winged Light:20|",
-    "region": "",
     "place_item": [
       "Wedge"
     ]
@@ -2353,7 +2350,6 @@
       "Wing Level Up"
     ],
     "requires": "|Winged Light:35|",
-    "region": "",
     "place_item": [
       "Wedge"
     ]
@@ -2364,7 +2360,6 @@
       "Wing Level Up"
     ],
     "requires": "|Winged Light:55|",
-    "region": "",
     "place_item": [
       "Wedge"
     ]
@@ -2375,7 +2370,6 @@
       "Wing Level Up"
     ],
     "requires": "|Winged Light:75|",
-    "region": "",
     "place_item": [
       "Wedge"
     ]
@@ -2386,7 +2380,6 @@
       "Wing Level Up"
     ],
     "requires": "|Winged Light:100|",
-    "region": "",
     "place_item": [
       "Wedge"
     ]

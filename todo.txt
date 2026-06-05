@@ -17,6 +17,8 @@ change placement of macguffins for relive spirits
 
 prefill macguffin locations into the hint command?
 
+place path of eden in a random trial
+
 
 OPTIONS:
 

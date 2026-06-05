@@ -73,7 +73,7 @@
   },
   {
     "count": 1,
-    "name": "Hall of Stories Key",
+    "name": "Hall of Stories",
     "category": [
       "Shortcuts"
     ],
@@ -559,14 +559,17 @@
   {
     "count": 50,
     "name": "Confetti",
-    "category": [],
+    "category": [
+      "Filler"
+    ],
     "filler": true
   },
   {
     "count": 5,
     "name": "Send a Friend a Heart",
     "category": [
-      "Heart Trap"
+      "Heart Trap",
+      "Traps"
     ],
     "trap": true
   },

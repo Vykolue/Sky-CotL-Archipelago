@@ -99,7 +99,7 @@
   },
   "Trial of Air": {
     "connects_to": [],
-    "requires": "|Isle of Dawn Key| AND |Wedges:5|"
+    "requires": "|Isle of Dawn Key| AND |@Wedges:5|"
   },
   "Trial of Fire": {
     "connects_to": [],
@@ -206,7 +206,7 @@
       "The Wind Paths",
       "Elevated Clearing"
     ],
-    "requires": "|Hidden Forest Key| AND (|@Rescued Pouty Porter| OR {YamlDisabled(Spirit_Emote_Locks)}))"
+    "requires": "|Hidden Forest Key| AND (|Rescued Pouty Porter| OR {YamlDisabled(Spirit_Emote_Locks)})"
   },
   "Boneyard": {
     "connects_to": [

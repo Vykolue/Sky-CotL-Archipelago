@@ -11,3 +11,7 @@ updated rescue spirit items to only be progression if spirit and emote locks are
 renamed WL to Children of Light
 
 added WL and wedge items
+
+updated starting items to match new item names
+
+updated category names and set hidden categories

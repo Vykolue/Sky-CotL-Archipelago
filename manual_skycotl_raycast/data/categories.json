@@ -1,12 +1,18 @@
 {
-    "Find WL": {
-        "yaml_option": ["Winged_Light_Run"]
+    "Find Children of Light": {
+        "yaml_option": ["Winged_Light_Run"],
+        "hidden": true
+    },
+    "Collect Winged Light": {
+        "yaml_option": ["Winged_Light_Run"],
+        "hidden": true
     },
     "Daily Music Challenge": {
         "yaml_option": ["Daily_Music_Challenge"]
     },
-    "Rescue Spirit": {
-        "yaml_option": ["Spirit_Emote_Locks"]
+    "Rescue Regular Spirit": {
+        "yaml_option": ["Spirit_Emote_Locks"],
+        "hidden": true
     },
     "Rescue Seasonal Spirit": {
         "yaml_option": ["Seasonal_Emote_Locks"]
@@ -15,6 +21,31 @@
         "yaml_option": ["Cosmetic_Locks"]
     },
     "Heart Trap": {
-        "yaml_option": ["Heart_Traps"]
+        "yaml_option": ["Heart_Traps"],
+        "hidden": true
+    },
+    "Seasonal Aviary Spirit": {
+        "hidden": true
+    },
+    "Seasonal Isle Spirit": {
+        "hidden": true
+    },
+    "Seasonal Prairie Spirit": {
+        "hidden": true
+    },
+    "Seasonal Forest Spirit": {
+        "hidden": true
+    },
+    "Seasonal Valley Spirit": {
+        "hidden": true
+    },
+    "Seasonal Wasteland Spirit": {
+        "hidden": true
+    },
+    "Seasonal Vault Spirit": {
+        "hidden": true
+    },
+    "Seasonal Spirit": {
+        "hidden": true
     }
 }
