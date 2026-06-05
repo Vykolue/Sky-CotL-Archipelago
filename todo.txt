@@ -3,6 +3,13 @@ TODO:
 maybe redo regions entirely so that region keys and other requirements 
 are only considered progression if there is a necessary item in that region
 
+fix aviary to hall of stories connection
+(should lead to sky cinema instead)
+
+try removing area keys and replace with realm keys to help world generation and accessibility
+
+how to use default filler item instead of setting a specific number?
+
 
 MACGUFFINS:
 

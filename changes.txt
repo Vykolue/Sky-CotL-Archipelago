@@ -1,16 +1,2 @@
 CHANGES:
 
-remove relive spirit locations
-
-remove relive spirit yaml option
-
-updated readme with setup instructions
-
-added seasonal emote locks yaml options
-
-reformatted TODO
-
-minor changes to yaml structure and wording
-
-changed 3 eye of eden progress macguffins to be Path of Eden Key, Eye of Eden Key, and The Passage Key
-and removed them from starting items
