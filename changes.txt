@@ -15,3 +15,9 @@ added WL and wedge items
 updated starting items to match new item names
 
 updated category names and set hidden categories
+
+placed Path of Eden Key in Trial of Air
+
+added hard mode
+
+added some wedge requirements

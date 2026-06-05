@@ -10,6 +10,8 @@ try removing area keys and replace with realm keys to help world generation and 
 
 how to use default filler item instead of setting a specific number?
 
+update readme and yaml if needed to match changes
+
 
 MACGUFFINS:
 
