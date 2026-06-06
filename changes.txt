@@ -21,3 +21,5 @@ placed Path of Eden Key in Trial of Air
 added hard mode
 
 added some wedge requirements
+
+added wedge capacity items so that wedges can be randomized

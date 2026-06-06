@@ -99,7 +99,7 @@
   },
   "Trial of Air": {
     "connects_to": [],
-    "requires": "|Isle of Dawn Key| AND |@Wedges:5|"
+    "requires": "|Isle of Dawn Key| AND |@Wedges:5| AND |@Wedge Capacity:5|"
   },
   "Trial of Fire": {
     "connects_to": [],

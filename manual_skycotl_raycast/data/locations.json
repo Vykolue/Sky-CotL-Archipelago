@@ -680,7 +680,7 @@
       "Daylight Prairie",
       "Find Children of Light"
     ],
-    "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(Hard_Mode)})",
+    "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|@Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(Hard_Mode)})",
     "place_item": [
       "Eye of Eden Key"
     ],
@@ -692,7 +692,7 @@
       "Daylight Prairie",
       "Collect Winged Light"
     ],
-    "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(Hard_Mode)})",
+    "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|@Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(Hard_Mode)})",
     "place_item": [
       "Winged Light"
     ],
@@ -746,7 +746,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Forest Courtyard"
   },
   {
@@ -755,7 +755,7 @@
       "Hidden Forest",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Forest Courtyard",
     "place_item": [
       "Winged Light"
@@ -788,7 +788,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Forest Brook"
   },
   {
@@ -797,7 +797,7 @@
       "Hidden Forest",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Forest Brook",
     "place_item": [
       "Winged Light"
@@ -809,7 +809,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Forest Brook"
   },
   {
@@ -818,7 +818,7 @@
       "Hidden Forest",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Forest Brook",
     "place_item": [
       "Winged Light"
@@ -830,7 +830,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Forest Brook"
   },
   {
@@ -839,7 +839,7 @@
       "Hidden Forest",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Forest Brook",
     "place_item": [
       "Winged Light"
@@ -893,7 +893,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "|@Regular Forest Spirit:4| OR {YamlDisabled(Spirit_Emote_Locks)}",
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(Spirit_Emote_Locks)})",
     "region": "Boneyard"
   },
   {
@@ -902,7 +902,7 @@
       "Hidden Forest",
       "Collect Winged Light"
     ],
-    "requires": "|@Regular Forest Spirit:4| OR {YamlDisabled(Spirit_Emote_Locks)}",
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(Spirit_Emote_Locks)})",
     "region": "Boneyard",
     "place_item": [
       "Winged Light"
@@ -935,7 +935,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Elevated Clearing"
   },
   {
@@ -944,7 +944,7 @@
       "Hidden Forest",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Elevated Clearing",
     "place_item": [
       "Winged Light"
@@ -977,7 +977,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
     "region": "Forest Cavern"
   },
   {
@@ -986,7 +986,7 @@
       "Hidden Forest",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
     "region": "Forest Cavern",
     "place_item": [
       "Winged Light"
@@ -998,7 +998,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
     "place_item": [
       "The Passage Key"
     ],
@@ -1010,7 +1010,7 @@
       "Hidden Forest",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
     "place_item": [
       "Winged Light"
     ],
@@ -1022,7 +1022,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
     "region": "Forest Cavern"
   },
   {
@@ -1031,7 +1031,7 @@
       "Hidden Forest",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
     "region": "Forest Cavern",
     "place_item": [
       "Winged Light"
@@ -1043,7 +1043,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:6| AND |@Wedge Capacity:6|",
     "region": "Forest Cavern"
   },
   {
@@ -1052,7 +1052,7 @@
       "Hidden Forest",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:6| AND |@Wedge Capacity:6|",
     "region": "Forest Cavern",
     "place_item": [
       "Winged Light"
@@ -1106,7 +1106,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "The Treehouse"
   },
   {
@@ -1115,7 +1115,7 @@
       "Hidden Forest",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "The Treehouse",
     "place_item": [
       "Winged Light"
@@ -1148,7 +1148,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(Hard_Mode)}",
     "region": "The Wind Paths"
   },
   {
@@ -1157,7 +1157,7 @@
       "Hidden Forest",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(Hard_Mode)}",
     "region": "The Wind Paths",
     "place_item": [
       "Winged Light"
