@@ -129,6 +129,14 @@
   },
   {
     "count": 9,
+    "name": "Wedge Capacity",
+    "category": [
+      "Wedge Capacity"
+    ],
+    "progression": true
+  },
+  {
+    "count": 9,
     "name": "Wedge",
     "category": [
       "Wedges"

@@ -26,7 +26,7 @@
       "Isle of Dawn",
       "Find Children of Light"
     ],
-    "requires": "|@Wedges:3| OR (|@Wedges:2| AND {YamlEnabled(Hard_Mode)})",
+    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(Hard_Mode)})",
     "region": "Passage Rock"
   },
   {
@@ -35,7 +35,7 @@
       "Isle of Dawn",
       "Collect Winged Light"
     ],
-    "requires": "|@Wedges:3| OR (|@Wedges:2| AND {YamlEnabled(Hard_Mode)})",
+    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(Hard_Mode)})",
     "region": "Passage Rock",
     "place_item": [
       "Winged Light"
@@ -110,7 +110,7 @@
       "Isle of Dawn",
       "Find Children of Light"
     ],
-    "requires": "|@Wedges:3|",
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
     "region": "Dawn Overlook"
   },
   {
@@ -119,7 +119,7 @@
       "Isle of Dawn",
       "Collect Winged Light"
     ],
-    "requires": "|@Wedges:3|",
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
     "region": "Dawn Overlook",
     "place_item": [
       "Winged Light"
@@ -344,7 +344,7 @@
       "Daylight Prairie",
       "Find Children of Light"
     ],
-    "requires": "|@Wedges:1|",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Prairie Heights"
   },
   {
@@ -353,7 +353,7 @@
       "Daylight Prairie",
       "Collect Winged Light"
     ],
-    "requires": "|@Wedges:1|",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Prairie Heights",
     "place_item": [
       "Winged Light"
@@ -365,7 +365,7 @@
       "Daylight Prairie",
       "Find Children of Light"
     ],
-    "requires": "|@Wedges:1|",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Temple of the Prairie"
   },
   {
@@ -374,7 +374,7 @@
       "Daylight Prairie",
       "Collect Winged Light"
     ],
-    "requires": "|@Wedges:1|",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Temple of the Prairie",
     "place_item": [
       "Winged Light"
@@ -386,7 +386,7 @@
       "Daylight Prairie",
       "Find Children of Light"
     ],
-    "requires": "|@Wedges:9|",
+    "requires": "|@Wedges:9| AND |@Wedge Capacity:9|",
     "region": "Temple of the Prairie"
   },
   {
@@ -395,7 +395,7 @@
       "Daylight Prairie",
       "Collect Winged Light"
     ],
-    "requires": "|@Wedges:9|",
+    "requires": "|@Wedges:9| AND |@Wedge Capacity:9|",
     "region": "Temple of the Prairie",
     "place_item": [
       "Winged Light"
@@ -407,7 +407,7 @@
       "Daylight Prairie",
       "Find Children of Light"
     ],
-    "requires": "|@Wedges:1|",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Prairie Cave"
   },
   {
@@ -416,7 +416,7 @@
       "Daylight Prairie",
       "Collect Winged Light"
     ],
-    "requires": "|@Wedges:1|",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Prairie Cave",
     "place_item": [
       "Winged Light"
@@ -428,7 +428,7 @@
       "Daylight Prairie",
       "Find Children of Light"
     ],
-    "requires": "|@Wedges:2|",
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Prairie Cave"
   },
   {
@@ -437,7 +437,7 @@
       "Daylight Prairie",
       "Collect Winged Light"
     ],
-    "requires": "|@Wedges:2|",
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Prairie Cave",
     "place_item": [
       "Winged Light"
@@ -470,7 +470,7 @@
       "Daylight Prairie",
       "Find Children of Light"
     ],
-    "requires": "|@Wedges:1| OR {YamlEnabled(Hard_Mode)}",
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(Hard_Mode)}",
     "region": "Bird Nest"
   },
   {
@@ -479,7 +479,7 @@
       "Daylight Prairie",
       "Collect Winged Light"
     ],
-    "requires": "|@Wedges:1| OR {YamlEnabled(Hard_Mode)}",
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(Hard_Mode)}",
     "region": "Bird Nest",
     "place_item": [
       "Winged Light"
@@ -638,7 +638,7 @@
       "Daylight Prairie",
       "Find Children of Light"
     ],
-    "requires": "|@Wedges:2|",
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Sanctuary Islands"
   },
   {
@@ -647,7 +647,7 @@
       "Daylight Prairie",
       "Collect Winged Light"
     ],
-    "requires": "|@Wedges:2|",
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Sanctuary Islands",
     "place_item": [
       "Winged Light"
@@ -680,7 +680,7 @@
       "Daylight Prairie",
       "Find Children of Light"
     ],
-    "requires": "|@Wedges:7| OR (|Wedges:5| AND {YamlEnabled(Hard_Mode)})",
+    "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(Hard_Mode)})",
     "place_item": [
       "Eye of Eden Key"
     ],
@@ -692,7 +692,7 @@
       "Daylight Prairie",
       "Collect Winged Light"
     ],
-    "requires": "|@Wedges:7| OR (|Wedges:5| AND {YamlEnabled(Hard_Mode)})",
+    "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(Hard_Mode)})",
     "place_item": [
       "Winged Light"
     ],
@@ -704,7 +704,7 @@
       "Daylight Prairie",
       "Find Children of Light"
     ],
-    "requires": "|@Wedges:9|",
+    "requires": "|@Wedges:9| AND |@Wedge Capacity:9|",
     "region": "Prairie Peaks"
   },
   {
@@ -713,7 +713,7 @@
       "Daylight Prairie",
       "Collect Winged Light"
     ],
-    "requires": "|@Wedges:9|",
+    "requires": "|@Wedges:9| AND |@Wedge Capacity:9|",
     "region": "Prairie Peaks",
     "place_item": [
       "Winged Light"
@@ -2279,7 +2279,7 @@
       "Aviary Village",
       "Find Children of Light"
     ],
-    "requires": "|@Wedges:2| OR (|@Wedges:1| AND {YamlEnabled(Hard_Mode)})",
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(Hard_Mode)})",
     "region": "Wandering Carnival"
   },
   {
@@ -2288,7 +2288,7 @@
       "Aviary Village",
       "Collect Winged Light"
     ],
-    "requires": "|@Wedges:2|",
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(Hard_Mode)})",
     "region": "Wandering Carnival",
     "place_item": [
       "Winged Light"
@@ -2301,7 +2301,7 @@
     ],
     "requires": "|Winged Light:1|",
     "place_item": [
-      "Wedge"
+      "Wedge Capacity"
     ]
   },
   {
@@ -2311,7 +2311,7 @@
     ],
     "requires": "|Winged Light:2|",
     "place_item": [
-      "Wedge"
+      "Wedge Capacity"
     ]
   },
   {
@@ -2321,7 +2321,7 @@
     ],
     "requires": "|Winged Light:5|",
     "place_item": [
-      "Wedge"
+      "Wedge Capacity"
     ]
   },
   {
@@ -2331,7 +2331,7 @@
     ],
     "requires": "|Winged Light:10|",
     "place_item": [
-      "Wedge"
+      "Wedge Capacity"
     ]
   },
   {
@@ -2341,7 +2341,7 @@
     ],
     "requires": "|Winged Light:20|",
     "place_item": [
-      "Wedge"
+      "Wedge Capacity"
     ]
   },
   {
@@ -2351,7 +2351,7 @@
     ],
     "requires": "|Winged Light:35|",
     "place_item": [
-      "Wedge"
+      "Wedge Capacity"
     ]
   },
   {
@@ -2361,7 +2361,7 @@
     ],
     "requires": "|Winged Light:55|",
     "place_item": [
-      "Wedge"
+      "Wedge Capacity"
     ]
   },
   {
@@ -2371,7 +2371,7 @@
     ],
     "requires": "|Winged Light:75|",
     "place_item": [
-      "Wedge"
+      "Wedge Capacity"
     ]
   },
   {
@@ -2381,7 +2381,7 @@
     ],
     "requires": "|Winged Light:100|",
     "place_item": [
-      "Wedge"
+      "Wedge Capacity"
     ]
   },
   {
