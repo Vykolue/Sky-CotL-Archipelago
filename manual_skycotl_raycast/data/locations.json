@@ -1931,7 +1931,7 @@
       "Vault of Knowledge",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(Hard_Mode)})",
     "region": "Lower Vault"
   },
   {
@@ -1940,7 +1940,7 @@
       "Vault of Knowledge",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(Hard_Mode)})",
     "region": "Lower Vault",
     "place_item": [
       "Winged Light"
@@ -1973,7 +1973,7 @@
       "Vault of Knowledge",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Upper Vault"
   },
   {
@@ -1982,7 +1982,7 @@
       "Vault of Knowledge",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Upper Vault",
     "place_item": [
       "Winged Light"
@@ -1994,7 +1994,7 @@
       "Vault of Knowledge",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
     "region": "Upper Vault"
   },
   {
@@ -2003,7 +2003,7 @@
       "Vault of Knowledge",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
     "region": "Upper Vault",
     "place_item": [
       "Winged Light"
@@ -2036,7 +2036,7 @@
       "Vault of Knowledge",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
     "region": "Vault Archive"
   },
   {
@@ -2045,7 +2045,7 @@
       "Vault of Knowledge",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
     "region": "Vault Archive",
     "place_item": [
       "Winged Light"
@@ -2057,7 +2057,7 @@
       "Vault of Knowledge",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
     "region": "Vault Archive"
   },
   {
@@ -2066,7 +2066,7 @@
       "Vault of Knowledge",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
     "region": "Vault Archive",
     "place_item": [
       "Winged Light"
@@ -2099,7 +2099,7 @@
       "Vault of Knowledge",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(Hard_Mode)}",
     "region": "Starlight Desert"
   },
   {
@@ -2108,7 +2108,7 @@
       "Vault of Knowledge",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(Hard_Mode)}",
     "region": "Starlight Desert",
     "place_item": [
       "Winged Light"
@@ -2120,7 +2120,7 @@
       "Vault of Knowledge",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(Hard_Mode)}",
     "place_item": [
       "Eye of Eden Progress"
     ],
@@ -2132,7 +2132,7 @@
       "Vault of Knowledge",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(Hard_Mode)}",
     "place_item": [
       "Winged Light"
     ],
@@ -2144,7 +2144,7 @@
       "Vault of Knowledge",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:3| AND |@Wedge Capacity:3| AND {YamlEnabled(Hard_Mode)})",
     "region": "Repository of Refuge"
   },
   {
@@ -2153,7 +2153,7 @@
       "Vault of Knowledge",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:3| AND |@Wedge Capacity:3| AND {YamlEnabled(Hard_Mode)})",
     "region": "Repository of Refuge",
     "place_item": [
       "Winged Light"
@@ -2207,7 +2207,7 @@
       "Vault of Knowledge",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(Hard_Mode)}",
     "region": "Crescent Oasis"
   },
   {
@@ -2216,7 +2216,7 @@
       "Vault of Knowledge",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(Hard_Mode)}",
     "region": "Crescent Oasis",
     "place_item": [
       "Winged Light"
@@ -2228,7 +2228,7 @@
       "Vault of Knowledge",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Moominvalley"
   },
   {
@@ -2237,7 +2237,7 @@
       "Vault of Knowledge",
       "Collect Winged Light"
     ],
-    "requires": "",
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Moominvalley",
     "place_item": [
       "Winged Light"
