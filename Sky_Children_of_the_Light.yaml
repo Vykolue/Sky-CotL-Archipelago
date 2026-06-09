@@ -94,9 +94,17 @@ Manual_SkyCotL_raycast:
   # The percent of filler items that will be replaced with traps 
   # ON TOP of the default number of traps
   filler_traps: 0
+  
+  death_link:
+    # If enabled, you and other players with death link enabled will all die whenever one player with death link dies
+    # 
+    # See the Setup Guide for details on how death link works
+    # https://github.com/Vykolue/Sky-CotL-Archipelago
+    on: 0
+    off: 100
 
   # Game Mode
-  Winged_Light_Run:
+  winged_light_run:
     # Determines if finding Children of Light (aka. Winged Light) are considered checks
     #
     # Please turn at least one Game Mode on
@@ -107,19 +115,9 @@ Manual_SkyCotL_raycast:
     # **off:** your goal and progression will not be tied to finding Children of Light
     on: 100
     off: 0
-  
-  # Other Checks
-  Daily_Music_Challenge:
-    # Determines if completing the Daily Music Challenge is considered a check
-    # 
-    # **on:** you may earn a check by completing the Daily Music Challenge
-    #
-    # **off:** you will neither be required to, nor earn a check from completing the Daily Music Challenge
-    on: 100
-    off: 0
 
   # Locks
-  Spirit_Emote_Locks:
+  spirit_emote_locks:
     # Determines if Rescue Spirit items are required to pass through Spirit Gates AND use emotes necessary to
     # earn certain checks
     # For example: requiring the "Rescued Levitating Adept" item in order to open the 4 player door on the ground
@@ -131,7 +129,7 @@ Manual_SkyCotL_raycast:
     on: 100
     off: 0
   
-  Seasonal_Emote_Locks:
+  seasonal_emote_locks:
     # Determines if Rescue Seasonal Spirit items are required to use seasonal emotes
     #
     # These do nothing for progression and are considered filler items, which means some may be 
@@ -139,8 +137,15 @@ Manual_SkyCotL_raycast:
     on: 0
     off: 100
   
-  Cosmetic_Locks:
-    # Determines if the player is locked from using certain cosmetics until they are earned
+  friendship_emote_locks:
+    # Determines if Rescue Seasonal Spirit items are required to use friendship emotes
+    #
+    # Some are considered filler items, and may be left out of the game
+    on: 100
+    off: 0
+  
+  cosmetic_locks:
+    # Determines if you are locked from using certain cosmetics until they are earned
     #
     # **on:** you start with only the default cosmetics unlocked and must receive Cosmetic items to
     # use anything else
@@ -149,9 +154,48 @@ Manual_SkyCotL_raycast:
     on: 0
     off: 100
   
+  prop_locks:
+    # Determines if you are locked from using props until they are earned
+    #
+    # **on:** you start with no props unlocked and must receive Prop items to
+    # use anything else
+    #
+    # **off:** you are free to use any props at any point during the game
+    on: 100
+    off: 0
+  
+  # Extra Challenges
+  daily_music_challenge:
+    # Determines if completing the Daily Music Challenge is considered a check
+    # 
+    # **on:** you may earn a check by completing the Daily Music Challenge
+    #
+    # **off:** you will neither be required to, nor earn a check from completing the Daily Music Challenge
+    on: 100
+    off: 0
+  
+  hard_mode:
+    # Determines how many wedges are required to reach hard-to-reach places
+    # 
+    # **on:** you may be expected to use difficult strategies to reach certain places
+    #
+    # **off:** you will not be expected to use unreasonably difficult strategies
+    on: 0
+    off: 100
+  
   # Traps
-  Heart_Traps:
+  heart_traps:
     # If this is enabled, you will be required to send a heart to a friend whenever this trap is received
+    on: 100
+    off: 0
+  
+  unskippable_cutscene:
+    # If this is enabled, you will be required to sit through the next cutscene whenever this trap is received
+    on: 100
+    off: 0
+  
+  watch_the_incense_burn:
+    # If this is enabled, you will be required to visit the Tranquil Garden to watch the incense burn whenever this trap is received
     on: 100
     off: 0
   

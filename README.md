@@ -19,14 +19,19 @@ Get a YAML file from the player (more on this below)<br />
 Place it in the Archipelago/Players/ folder
 
 When you have all apworlds and YAMLs needed for your game, run the launcher<br />
+(if it is already running, restart it)<br />
 Use "Generate" to create your world<br />
-The generated world will show up in your Archipelago/output/
+The generated world will show up in your Archipelago/output/ folder
 
 Hosting on the Archipelago website:
 1. Run the world on the archipelago website by uploading it to https://archipelago.gg/uploads
-2. After hosting the world, save the link you are redirected to for future reference
-3. The port will be listed on that page, but it may change
-4. If your players have trouble connecting, refresh the page to ensure the server is running
+2. After hosting the world, save the room link you are redirected to for future reference
+3. The port will be listed on the room page, but it may change after a period of inactivity
+4. If your players have trouble connecting:
+    - refresh the room to ensure the server is running
+    - ensure they are using the correct server and port number (for example: archipelago.gg:12345)
+    - ensure the name they are using to connect matches their slot name listed under the "Name" column (case sensitive)
+    - ensure they are using the correct password if you set a password
 
 
 ## Setup for Players
@@ -131,6 +136,32 @@ When you receive a Death Link from another player:
 - go lose some Winged Light (how many is up to you)
 - do not send a Death Link when you lose Winged Light for this reason
 
+The Death Link button is located in the top right corner of the Manual Client<br />
+When not in use, this button will be grey with the text "Death Link: Primed"
+
+When you receive a Death Link, this button will turn red and display "Death Link:" followed by the slot name of the player who died<br />
+You will also see a Death Link message in the Archipelago tab<br />
+Once you have finished what you need to with Death Link, you can click the button to reset it to "Death Link: Primed"
+
+To send a Death Link, make sure the button says "Death Link: Primed", and click it<br />
+It will turn green and say "Death Link: Sent"<br />
+You will also see a Death Link message in the Archipelago tab<br />
+Click the button again to reset it to "Death Link: Primed"
+
+### Using the Universal Tracker
+Universal Tracker shows you which checks are in logic<br />
+(that is, which checks Archipelago expects you to be able to get)
+
+To use it, you will need to download and install [Universal Tracker](https://github.com/FarisTheAncient/Archipelago/releases/latest) 
+the same way you did with the apworld for this game<br />
+Place the same YAML file that you sent to your host in your Archipelago/Players folder<br />
+If you have other YAMLs in your Players folder, they may cause Universal Tracker to crash<br />
+Restart the Archipelago Launcher<br />
+Open the Manual Client<br />
+You will now see a "Tracker Page" tab<br />
+Once you are connected to your slot, you will see a list of in-logic locations in the Tracker Page tab, 
+and they will be highlighted green in the Manual tab
+
 ### Rules (follow them or don't idc)
 Don't send checks you didn't earn
 
@@ -151,7 +182,7 @@ Likewise, you shouldn't have a friend drag you through a locked Spirit Gate
 
 I recommend against using props, shared spaces, white candle, piggy rocket, etc. 
 to easily get somewhere that is possible to reach otherwise, or to get somewhere out of logic<br />
-This is why I have enabled Prop and Friendship Emote Locks by default<br />
+This is why I recommend enabling Prop and Friendship Emote Locks<br />
 If you receive the item, feel free to use it in this way, though
 
 "Find Children of Light" means you can either collect it, or stand on where it normally is<br />
@@ -203,3 +234,12 @@ The items to place are:
 - Path of Eden Key
 - Eye of Eden Key
 - The Passage Key
+
+## Updating the APWorld
+To update, you will follow the same steps as when you first installed the apworld:
+- Download and install "manual_skycotl_raycast.apworld" from the [latest release](https://github.com/Vykolue/Sky-Cotl-Archipelago/releases/latest)
+- Do NOT rename this file, as it may cause errors
+
+Make sure that all Sky: CotL players and the host are using the same version of the apworld<br />
+It is a good idea to update your YAML at the same time you update the apworld, 
+as options may change between versions

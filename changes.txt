@@ -33,3 +33,9 @@ separated prop locks into their own category
 set rescued piggyback lightseeker and rescued feudal lord items as useful
 
 updated readme
+
+added instructions for using Universal Tracker and death link
+
+updated yaml
+
+updated option names to match naming convention of other options
