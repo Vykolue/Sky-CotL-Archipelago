@@ -3,6 +3,7 @@
   "game": "SkyCotL",
   "creator": "raycast",
   "filler_item_name": "filler",
+  "death_link": true,
   "starting_items": [
     {
         "items": []

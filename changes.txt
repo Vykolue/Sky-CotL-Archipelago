@@ -23,3 +23,13 @@ added hard mode
 added some wedge requirements
 
 added wedge capacity items so that wedges can be randomized
+
+added unskippable cutscene and watch the incense burn trap
+
+added death link
+
+separated prop locks into their own category
+
+set rescued piggyback lightseeker and rescued feudal lord items as useful
+
+updated readme

@@ -99,36 +99,89 @@ Tips:
 - You will need points to afford a hint, which can be earned by sending checks
 - Use "/items" to see the names of all items
 
+The area a Child of Light is in corresponds to where it appears when looking at your map
+
+Note: these areas may not match the Sky: Children of the Light wiki exactly
+If you lose all Winged Light before playing (or are reborn and don't collect any new Winged Light), 
+you will be able to use your map to track how many Children of Light you have found in each area
+
+#### Why are there two checks for each Child of Light and Wedge?
+The "Find Children of Light" locations are for sending items to other players
+whereas the "Collect Winged Light" locations are for Archipelago to keep track of 
+how much Winged Light your Sky Kid actually has, so you won't be expected to reach somewhere unreachable
+
+Likewise, the "Wedge Capacity" items are purely there to ensure accessibility, 
+while "Wedge" items determine how many wedges you are allowed to use
+
+I hope to eventually get rid of the duplicates
+
+#### How does Death Link work?
+Death Link is an option you can enable in your YAML `(off by default)`<br />
+When enabled, if you or anyone else with Death Link enabled dies in their game, 
+every other player with Death Link will also die
+
+You can send a Death Link when:
+- your Sky Kid starts to lose Winged Light, turn dark, or grow crystals 
+(except when giving away Winged Light in the Eye of Eden)
+- you use more wedges than you've received 
+(or are caused to go below that number by rain, Dark Dragons, etc.)
+- you die in the Eye of Eden
+
+When you receive a Death Link from another player:
+- go lose some Winged Light (how many is up to you)
+- do not send a Death Link when you lose Winged Light for this reason
+
 ### Rules (follow them or don't idc)
 Don't send checks you didn't earn
 
 Don't use items that haven't been unlocked<br />
 Your locked items will depend on your YAML settings, but may include:
-- areas of the game `(always on)`
+- realms `(always on)`
+- wedges `(always on)`
 - passing through spirit gates `(on by default)`
 - cosmetics `(off by default)`
+- props `(on by default)`
 - base emotes `(on by default)`
-- seasonal emotes `(off by default)`
+- friendship emotes `(on by default)`
+- other seasonal emotes `(off by default)`
 
 If emote locks are on, you should have the required emote before entering that area, 
 even if other players opened the door<br />
 Likewise, you shouldn't have a friend drag you through a locked Spirit Gate
 
-"Find WL" means you can either collect it, or stand on where it normally is
+I recommend against using props, shared spaces, white candle, piggy rocket, etc. 
+to easily get somewhere that is possible to reach otherwise, or to get somewhere out of logic<br />
+This is why I have enabled Prop and Friendship Emote Locks by default<br />
+If you receive the item, feel free to use it in this way, though
 
-I recommend against losing all your Winged Light before playing,
-as I can't guarantee that the game will give you access to 
-enough WL for the checks it expects you to get<br />
-I plan to fix this in a future update
+"Find Children of Light" means you can either collect it, or stand on where it normally is<br />
+"Collect Winged Light" is when you collect it, and is used by Archipelago to ensure accessibility
 
-Additionally, you may run into impossible scenerios if your account has not:
+"Wedge Capacity" is how many wedges your Sky Kid has, while "Wedges" are how many wedges you are allowed to use<br />
+Claim a "Wing Level" item when you level up your wing
+
+Feel free to lose all your Winged Light before playing<br />
+If you start with extra, you won't be able to use it until someone unlocks your wedges for you
+
+You may run into impossible scenerios if your account has not:
 - relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
-- unlocked shortcuts for The Wind Paths, The Treehouse, Harmony Hall, and Hall of Stories
+- unlocked shortcuts for The Wind Paths and The Treehouse
 - progressed through the first three Cave of Prophecy quests
 - completed the 5th Nine-Colored Deer Quest
 - progressed through the Vault of Knowledge
 
-If you receive a heart trap, send a heart to a friend `(on by default)`
+#### Traps
+Heart Trap: `(on by default)`
+- send a heart to a friend
+
+Unskippable Cutscene: `(on by default)`
+- make sure 'skip all skippable cutscenes' is off
+- sit through the next cutscene
+
+Watch the Incense Burn: `(on by default)`
+- visit the Tranquil Garden in Aviary Village
+- walk through the arch and sit at the incense
+- wait for it to burn out
 
 ### Winning
 The win condition is to be reborn<br />
@@ -150,10 +203,3 @@ The items to place are:
 - Path of Eden Key
 - Eye of Eden Key
 - The Passage Key
-
-The area a Winged Light is in corresponds to where it appears when looking at your map
-except Cave of Prophecies Winged Light, which are all grouped in your checks<br />
-(you will still need the corresponding trial key to get to it)
-
-Note: these areas may not match the Sky: Children of the Light wiki exactly<br />
-I also use the term Winged Light (WL) to refer to what are technically Children of Light

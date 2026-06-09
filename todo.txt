@@ -12,6 +12,8 @@ how to use default filler item instead of setting a specific number?
 
 update readme and yaml if needed to match changes
 
+sort items in the client (using "sort-key")
+
 
 MACGUFFINS:
 

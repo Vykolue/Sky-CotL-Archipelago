@@ -17,11 +17,25 @@
     "Rescue Seasonal Spirit": {
         "yaml_option": ["Seasonal_Emote_Locks"]
     },
+    "Rescue Friendship Emote Spirit": {
+        "yaml_option": ["Friendship_Emote_Locks"]
+    },
     "Cosmetic": {
         "yaml_option": ["Cosmetic_Locks"]
     },
+    "Props": {
+        "yaml_option": ["Prop_Locks"]
+    },
     "Heart Trap": {
         "yaml_option": ["Heart_Traps"],
+        "hidden": true
+    },
+    "Unskippable Cutscene": {
+        "yaml_option": ["Unskippable_Cutscenes"],
+        "hidden": true
+    },
+    "Watch the Incense Burn": {
+        "yaml_option": ["Watch_the_Incense_Burn"],
         "hidden": true
     },
     "Seasonal Aviary Spirit": {
