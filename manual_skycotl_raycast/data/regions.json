@@ -140,7 +140,7 @@
   },
   "Prairie Peaks": {
     "connects_to": [],
-    "requires": "|Daylight Prairie Key|"
+    "requires": "|Daylight Prairie Key| AND (|@Regular Forest Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})"
   },
   "Prairie Heights": {
     "connects_to": [

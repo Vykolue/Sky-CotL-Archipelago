@@ -183,23 +183,29 @@ Likewise, you shouldn't have a friend drag you through a locked Spirit Gate
 I recommend against using props, shared spaces, white candle, piggy rocket, etc. 
 to easily get somewhere that is possible to reach otherwise, or to get somewhere out of logic<br />
 This is why I recommend enabling Prop and Friendship Emote Locks<br />
-If you receive the item, feel free to use it in this way, though
+If you receive the item, feel free to use it in this way, however, they will not be required to progress
 
 "Find Children of Light" means you can either collect it, or stand on where it normally is<br />
 "Collect Winged Light" is when you collect it, and is used by Archipelago to ensure accessibility
 
 "Wedge Capacity" is how many wedges your Sky Kid has, while "Wedges" are how many wedges you are allowed to use<br />
+You are free to use a partial wedge, even if it causes you to use part of a wedge you don't have unlocked<br />
 Claim a "Wing Level" item when you level up your wing
 
-Feel free to lose all your Winged Light before playing<br />
+You can lose all your Winged Light before playing<br />
 If you start with extra, you won't be able to use it until someone unlocks your wedges for you
 
 You may run into impossible scenerios if your account has not:
 - relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
 - unlocked shortcuts for The Wind Paths and The Treehouse
 - progressed through the first three Cave of Prophecy quests
-- completed the 5th Nine-Colored Deer Quest
 - progressed through the Vault of Knowledge
+
+You may also be required to:
+- complete all Nine-Colored Deer quests
+- complete all Season of Moomin quests
+
+Capeless/Wingless gameplay is not currently supported
 
 #### Traps
 Heart Trap: `(on by default)`
@@ -220,7 +226,7 @@ All areas of the Eye of Eden as well as three "Eye of Eden Progress" must first 
 
 The "Gate of Eden" (first area) is in a random location in the multiworld<br />
 The other areas and Eye of Eden Progress are in the following locations by default:
-- Cave of Prophecies Find 1 WL
+- Trial of Air Find 1 WL
 - Prairie Peaks Find 2 WL
 - Forest Cavern Find 2 WL
 - Hermit Valley Find 2 WL

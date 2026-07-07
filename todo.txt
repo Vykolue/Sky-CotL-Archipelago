@@ -41,6 +41,8 @@ but that would prevent players from choosing multiple
 
 option to disable shortcuts (individually)
 
+update options.json so the default yaml can be generated using Generate Template Options
+
 
 RELIVE SPIRITS:
 
