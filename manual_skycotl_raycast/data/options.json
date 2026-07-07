@@ -32,15 +32,6 @@
             "default": true,
             "group": "Game Mode"
         },
-
-        "Daily_Music_Challenge": {
-            "description": [
-                "Complete the Daily Music Challenge to earn a check"
-            ],
-            "type": "Toggle",
-            "default": true,
-            "group": "Other Checks"
-        },
         
         "spirit_emote_locks": {
             "description": [
