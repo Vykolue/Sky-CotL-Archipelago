@@ -3,29 +3,15 @@
   "game": "SkyCotL",
   "creator": "raycast",
   "filler_item_name": "filler",
+  "death_link": true,
   "starting_items": [
     {
-        "items": ["Home Key", "Aviary Village Key"]
+        "items": []
     },
     {
-        "items": ["Wandering Carnival Key", "Passage Rock Key", "Prairie Rest Key", 
-                  "Forest Rest Key", "Valley Rest Key", "Wasteland Rest Key",
-                  "Vault Rest Key", "Hall of Stories Key"],
-        "random": 1
-    },
-    {
-        "if_previous_item": "Forest Rest Key",
-        "items": ["Forest Courtyard Key"],
-        "random": 1
-    },
-    {
-        "if_previous_item": "Wasteland Rest Key",
-        "items": ["The Outer Bailey Key"],
-        "random": 1
-    },
-    {
-        "if_previous_item": "Hall of Stories Key",
-        "items": ["Moominvalley Key", "Crescent Oasis Key", "Starlight Desert Key"],
+        "items": ["Wandering Carnival Key", "Isle of Dawn Key", "Daylight Prairie Key", 
+                  "Hidden Forest Key", "Valley of Triumph Key", "Golden Wasteland Key",
+                  "Vault of Knowledge Key"],
         "random": 1
     }
   ]

@@ -22,7 +22,7 @@
         }
     },
     "user": {
-        "Winged_Light_Run": {
+        "winged_light_run": {
             "description": [
                 "Find Winged Light to earn checks and unlock your goal",
                 "",
@@ -42,7 +42,7 @@
             "group": "Other Checks"
         },
         
-        "Spirit_Emote_Locks": {
+        "spirit_emote_locks": {
             "description": [
                 "Require Rescue Spirit items to pass through Spirit Gates or use Emotes",
                 "",
@@ -52,7 +52,7 @@
             "default": true,
             "group": "Locks"
         },
-        "Seasonal_Emote_Locks": {
+        "seasonal_emote_locks": {
             "description": [
                 "Require Rescue Seasonal Spirit items to use Seasonal Emotes",
                 "",
@@ -62,7 +62,15 @@
             "default": false,
             "group": "Locks"
         },
-        "Cosmetic_Locks": {
+        "friendship_emote_locks": {
+            "description": [
+                "Require Rescue Friendship Emote Spirit items to use Friendship Emotes"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Locks"
+        },
+        "cosmetic_locks": {
             "description": [
                 "Start with no cosmetics or dyes unlocked"
             ],
@@ -70,10 +78,51 @@
             "default": false,
             "group": "Locks"
         },
+        "prop_locks": {
+            "description": [
+                "Start with no props unlocked"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Locks"
+        },
 
-        "Heart_Traps": {
+        "daily_music_challenge": {
+            "description": [
+                "Complete the Daily Music Challenge to earn a check"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Challenges"
+        },
+        "hard_mode": {
+            "description": [
+                "Less wedges will be provided for reaching hard-to-reach places"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Challenges"
+        },
+
+        "heart_traps": {
             "description": [
                 "This trap will make you send a heart to a friend"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Traps"
+        },
+        "unskippable_cutscenes": {
+            "description": [
+                "This trap will make you sit through the next cutscene"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Traps"
+        },
+        "watch_the_incense_burn": {
+            "description": [
+                "This trap will make you visit the Tranquil Garden for a few minutes"
             ],
             "type": "Toggle",
             "default": true,
