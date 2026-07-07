@@ -87,7 +87,7 @@
       "Trial of Air",
       "Trial of Fire"
     ],
-    "requires": "|Isle of Dawn Key| AND ((|@Regular Forest Spirit:2| OR (|The Wind Paths| AND |@Regular Vault Spirit:1|)) OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Isle of Dawn Key| AND ((|@Regular Forest Spirit:2| OR (|The Wind Paths| AND |@Regular Vault Spirit:1|)) OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Trial of Water": {
     "connects_to": [],
@@ -123,7 +123,7 @@
     "connects_to": [
       "Prairie Peaks"
     ],
-    "requires": "|Daylight Prairie Key| AND ((|@Regular Isle Spirit:2| AND |@Regular Prairie Spirit:3|) OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Daylight Prairie Key| AND ((|@Regular Isle Spirit:2| AND |@Regular Prairie Spirit:3|) OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Prairie Village": {
     "connects_to": [
@@ -136,17 +136,17 @@
     "connects_to": [
       "Sanctuary Islands"
     ],
-    "requires": "|Daylight Prairie Key| AND (|@Regular Prairie Spirit:4| OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Daylight Prairie Key| AND (|@Regular Prairie Spirit:4| OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Prairie Peaks": {
     "connects_to": [],
-    "requires": "|Daylight Prairie Key| AND (|@Regular Forest Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Daylight Prairie Key| AND (|@Regular Forest Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Prairie Heights": {
     "connects_to": [
       "Temple of the Prairie"
     ],
-    "requires": "|Daylight Prairie Key| AND ((|@Regular Prairie Spirit:6| AND |Rescued Butterfly Charmer|) OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Daylight Prairie Key| AND ((|@Regular Prairie Spirit:6| AND |Rescued Butterfly Charmer|) OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Sanctuary Islands": {
     "connects_to": [
@@ -180,7 +180,7 @@
       "Forest Brook",
       "Boneyard"
     ],
-    "requires": "|Hidden Forest Key| AND |The Treehouse| AND (|@Regular Valley Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Hidden Forest Key| AND |The Treehouse| AND (|@Regular Valley Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Forest Brook": {
     "connects_to": [
@@ -195,7 +195,7 @@
       "Blue Bird Theater",
       "Forest Cavern"
     ],
-    "requires": "|Hidden Forest Key| AND (|@Regular Forest Spirit:8| OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Hidden Forest Key| AND (|@Regular Forest Spirit:8| OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Blue Bird Theater": {
     "connects_to": [],
@@ -206,7 +206,7 @@
       "The Wind Paths",
       "Elevated Clearing"
     ],
-    "requires": "|Hidden Forest Key| AND (|Rescued Pouty Porter| OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Hidden Forest Key| AND (|Rescued Pouty Porter| OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Boneyard": {
     "connects_to": [
@@ -238,7 +238,7 @@
       "Forgotten Ark",
       "Starlight Desert"
     ],
-    "requires": "|The Wind Paths| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|The Wind Paths| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Valley Rest": {
     "connects_to": [
@@ -258,7 +258,7 @@
     "connects_to": [
       "Upper Valley Track"
     ],
-    "requires": "|Valley of Triumph Key| AND (|@Regular Valley Spirit:2| OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Valley of Triumph Key| AND (|@Regular Valley Spirit:2| OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Lower Valley Track": {
     "connects_to": [
@@ -285,13 +285,13 @@
       "Village Theater",
       "Hermit Valley"
     ],
-    "requires": "|Valley of Triumph Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Valley of Triumph Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Harmony Hall": {
     "connects_to": [
       "Village Theater"
     ],
-    "requires": "|Valley of Triumph Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Valley of Triumph Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Village Theater": {
     "connects_to": [],
@@ -332,7 +332,7 @@
     "connects_to": [
       "The Battlefield"
     ],
-    "requires": "|Golden Wasteland Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Golden Wasteland Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Forgotten Ark": {
     "connects_to": [
@@ -373,15 +373,15 @@
   },
   "Vault Archive": {
     "connects_to": [],
-    "requires": "|Vault of Knowledge Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Vault of Knowledge Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Repository of Refuge": {
     "connects_to": [],
-    "requires": "|Vault of Knowledge Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Vault of Knowledge Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Fractured Lantern Storage": {
     "connects_to": [],
-    "requires": "|Vault of Knowledge Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(Spirit_Emote_Locks)})"
+    "requires": "|Vault of Knowledge Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Lower Vault": {
     "connects_to": [
