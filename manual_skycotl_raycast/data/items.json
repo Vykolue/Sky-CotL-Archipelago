@@ -37,7 +37,7 @@
     "category": [
       "Shortcuts"
     ],
-    "progression": "{YamlEnabled(Winged_Light_Run)}"
+    "progression": "{YamlEnabled(winged_light_run)}"
   },
   {
     "count": 1,
@@ -150,7 +150,7 @@
       "Regular Isle Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -159,7 +159,7 @@
       "Regular Isle Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -168,7 +168,7 @@
       "Regular Isle Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -177,7 +177,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -186,7 +186,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -195,7 +195,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -204,7 +204,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -213,7 +213,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -222,7 +222,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -231,7 +231,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -240,7 +240,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -249,7 +249,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -258,7 +258,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -267,7 +267,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -276,7 +276,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -285,7 +285,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -294,7 +294,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -303,7 +303,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -312,7 +312,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -321,7 +321,7 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -330,7 +330,7 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -339,7 +339,7 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -348,7 +348,7 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -357,7 +357,7 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -366,7 +366,7 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -375,7 +375,7 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -384,7 +384,7 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -393,7 +393,7 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -402,7 +402,7 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -411,7 +411,7 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -420,7 +420,7 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -429,7 +429,7 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -438,7 +438,7 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -447,7 +447,7 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -456,7 +456,7 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -465,7 +465,7 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -474,7 +474,7 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(Spirit_Emote_Locks)}"
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
