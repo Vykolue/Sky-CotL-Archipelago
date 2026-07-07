@@ -54,7 +54,7 @@ What is a YAML?
 There are a few ways to get your YAML:
 
 Option 1:
-1. Download "Sky_Children_of_the_Light.yaml" from the [latest release](https://github.com/Vykolue/Sky-Cotl-Archipelago/releases/latest)
+1. Download "Manual_SkyCotL_raycast.yaml" from the [latest release](https://github.com/Vykolue/Sky-Cotl-Archipelago/releases/latest)
 2. No need to change anything if you want to use the default options
 3. Send it to your host
 
@@ -154,7 +154,7 @@ Universal Tracker shows you which checks are in logic<br />
 
 To use it, you will need to download and install [Universal Tracker](https://github.com/FarisTheAncient/Archipelago/releases/latest) 
 the same way you did with the apworld for this game<br />
-Place the same YAML file that you sent to your host in your Archipelago/Players folder<br />
+Place the same YAML file that you sent to your host in your Archipelago/Players/ folder<br />
 If you have other YAMLs in your Players folder, they may cause Universal Tracker to crash<br />
 Restart the Archipelago Launcher<br />
 Open the Manual Client<br />
