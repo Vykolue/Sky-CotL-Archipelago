@@ -47,8 +47,7 @@
             "description": [
                 "Require Rescue Seasonal Spirit items to use Seasonal Emotes",
                 "",
-                "These are considered filler items and may be left out of the game",
-                "if there are more items than locations"
+                "These are considered filler items and may be left out of the game if there are more items than locations"
             ],
             "type": "Toggle",
             "default": false,
