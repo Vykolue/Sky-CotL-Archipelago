@@ -3,12 +3,25 @@ TODO:
 maybe redo regions entirely so that region keys and other requirements 
 are only considered progression if there is a necessary item in that region
 
+fix aviary to hall of stories connection
+(should lead to sky cinema instead)
+
+try removing area keys and replace with realm keys to help world generation and accessibility
+
+how to use default filler item instead of setting a specific number?
+
+update readme and yaml if needed to match changes
+
+sort items in the client (using "sort-key")
+
 
 MACGUFFINS:
 
 change placement of macguffins for relive spirits
 
 prefill macguffin locations into the hint command?
+
+place path of eden in a random trial
 
 
 OPTIONS:
@@ -27,6 +40,8 @@ maybe change game mode to a single yaml option instead of multiple toggles?
 but that would prevent players from choosing multiple
 
 option to disable shortcuts (individually)
+
+update options.json so the default yaml can be generated using Generate Template Options
 
 
 RELIVE SPIRITS:
@@ -48,6 +63,14 @@ can use a "starting WL count" yaml option to further customise
 
 add max wedges to reduce wedge items in the pool, 
 and maybe exclude inaccessible locations?
+
+finish checking required wedge count
+
+how to check for starting wl count?
+need to remove wl items exceeding starting num + 108
+and give starting amount at start
+
+eventually want one button for each wl
 
 
 SEASONAL QUESTS:

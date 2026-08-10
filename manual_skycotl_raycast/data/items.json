@@ -1,541 +1,81 @@
 [
   {
     "count": 1,
-    "name": "Home Key",
-    "category": [
-      "Area - Home"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Aviary Village Key",
-    "category": [
-      "Area - Aviary"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Nesting Workshop Key",
-    "category": [
-      "Area - Aviary"
-    ],
-    "filler": true
-  },
-  {
-    "count": 1,
-    "name": "Concert Hall Key",
-    "category": [
-      "Area - Aviary"
-    ],
-    "filler": true
-  },
-  {
-    "count": 1,
-    "name": "Dye Workshop Key",
-    "category": [
-      "Area - Aviary"
-    ],
-    "filler": true
-  },
-  {
-    "count": 1,
     "name": "Wandering Carnival Key",
     "category": [
-      "Area - Aviary"
+      "Areas"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Passage Rock Key",
+    "name": "Isle of Dawn Key",
     "category": [
-      "Area - Isle"
+      "Realms"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Dawn Circle Key",
+    "name": "Daylight Prairie Key",
     "category": [
-      "Area - Isle"
+      "Realms"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Passage Stone Key",
+    "name": "Hidden Forest Key",
     "category": [
-      "Area - Isle"
-    ],
-    "filler": true
-  },
-  {
-    "count": 1,
-    "name": "Temple of the Isle Key",
-    "category": [
-      "Area - Isle"
+      "Realms"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Dawn Overlook Key",
+    "name": "The Treehouse",
     "category": [
-      "Area - Isle"
+      "Shortcuts"
+    ],
+    "progression": "{YamlEnabled(winged_light_run)}"
+  },
+  {
+    "count": 1,
+    "name": "The Wind Paths",
+    "category": [
+      "Shortcuts"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Cave of Prophecies Key",
+    "name": "Valley of Triumph Key",
     "category": [
-      "Area - Isle"
+      "Realms"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Trial of Water Key",
+    "name": "Golden Wasteland Key",
     "category": [
-      "Area - Isle",
-      "Trial Keys"
-    ],
-    "progression": "{YamlEnabled(Winged_Light_Run)}"
-  },
-  {
-    "count": 1,
-    "name": "Trial of Earth Key",
-    "category": [
-      "Area - Isle",
-      "Trial Keys"
-    ],
-    "progression": "{YamlEnabled(Winged_Light_Run)}"
-  },
-  {
-    "count": 1,
-    "name": "Trial of Air Key",
-    "category": [
-      "Area - Isle",
-      "Trial Keys"
-    ],
-    "progression": "{YamlEnabled(Winged_Light_Run)}"
-  },
-  {
-    "count": 1,
-    "name": "Trial of Fire Key",
-    "category": [
-      "Area - Isle",
-      "Trial Keys"
-    ],
-    "progression": "{YamlEnabled(Winged_Light_Run)}"
-  },
-  {
-    "count": 1,
-    "name": "Prairie Rest Key",
-    "category": [
-      "Area - Prairie"
+      "Realms"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Butterfly Fields Key",
+    "name": "Vault of Knowledge Key",
     "category": [
-      "Area - Prairie"
+      "Realms"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Prairie Cave Key",
+    "name": "Hall of Stories",
     "category": [
-      "Area - Prairie"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Prairie Village Key",
-    "category": [
-      "Area - Prairie"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Bird Nest Key",
-    "category": [
-      "Area - Prairie"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Prairie Peaks Key",
-    "category": [
-      "Area - Prairie"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Prairie Heights Key",
-    "category": [
-      "Area - Prairie"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Sanctuary Islands Key",
-    "category": [
-      "Area - Prairie"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Temple of the Prairie Key",
-    "category": [
-      "Area - Prairie"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Forest Rest Key",
-    "category": [
-      "Area - Forest"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Forest Courtyard Key",
-    "category": [
-      "Area - Forest"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Treehouse Key",
-    "category": [
-      "Area - Forest"
-    ],
-    "progression": "{YamlEnabled(Winged_Light_Run)}"
-  },
-  {
-    "count": 1,
-    "name": "Forest Brook Key",
-    "category": [
-      "Area - Forest"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Elevated Clearing Key",
-    "category": [
-      "Area - Forest"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Blue Bird Theater Key",
-    "category": [
-      "Area - Forest"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Forest Cavern Key",
-    "category": [
-      "Area - Forest"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Boneyard Key",
-    "category": [
-      "Area - Forest"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Temple of the Forest Key",
-    "category": [
-      "Area - Forest"
-    ],
-    "progression": "{YamlEnabled(Winged_Light_Run)}"
-  },
-  {
-    "count": 1,
-    "name": "Sacred Pond Key",
-    "category": [
-      "Area - Forest"
-    ],
-    "progression": "{YamlEnabled(Winged_Light_Run)}"
-  },
-  {
-    "count": 1,
-    "name": "The Wind Paths Key",
-    "category": [
-      "Area - Forest"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Valley Rest Key",
-    "category": [
-      "Area - Valley"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Frozen Lake Key",
-    "category": [
-      "Area - Valley"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Citadel Key",
-    "category": [
-      "Area - Valley"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Lower Valley Track Key",
-    "category": [
-      "Area - Valley"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Upper Valley Track Key",
-    "category": [
-      "Area - Valley"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Temple of the Valley Key",
-    "category": [
-      "Area - Valley"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Village of Dreams Key",
-    "category": [
-      "Area - Valley"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Harmony Hall Key",
-    "category": [
-      "Area - Valley"
-    ],
-    "progression": "{YamlEnabled(Daily_Music_Challenge)}"
-  },
-  {
-    "count": 1,
-    "name": "Village Theater Key",
-    "category": [
-      "Area - Valley"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Hermit Valley Key",
-    "category": [
-      "Area - Valley"
-    ],
-    "progression": "{YamlEnabled(Winged_Light_Run)}"
-  },
-  {
-    "count": 1,
-    "name": "Wasteland Rest Key",
-    "category": [
-      "Area - Wasteland"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Outer Bailey Key",
-    "category": [
-      "Area - Wasteland"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Treasure Reef Key",
-    "category": [
-      "Area - Wasteland"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Graveyard Key",
-    "category": [
-      "Area - Wasteland"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Crab Fields Key",
-    "category": [
-      "Area - Wasteland"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Forgotten Ark Key",
-    "category": [
-      "Area - Wasteland"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Battlefield Key",
-    "category": [
-      "Area - Wasteland"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Temple of the Wasteland Key",
-    "category": [
-      "Area - Wasteland"
-    ],
-    "progression": "{YamlEnabled(Winged_Light_Run)}"
-  },
-  {
-    "count": 1,
-    "name": "The Last City Key",
-    "category": [
-      "Area - Wasteland"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Vault Rest Key",
-    "category": [
-      "Area - Vault"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Secret Area Key",
-    "category": [
-      "Area - Vault"
-    ],
-    "filler": true
-  },
-  {
-    "count": 1,
-    "name": "Vault Archive Key",
-    "category": [
-      "Area - Vault"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Repository of Refuge Key",
-    "category": [
-      "Area - Vault"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Fractured Lantern Storage Key",
-    "category": [
-      "Area - Vault"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Lower Vault Key",
-    "category": [
-      "Area - Vault"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Upper Vault Key",
-    "category": [
-      "Area - Vault"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Temple of the Vault Key",
-    "category": [
-      "Area - Vault"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Hall of Stories Key",
-    "category": [
-      "Area - Vault"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Starlight Desert Key",
-    "category": [
-      "Area - Vault"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Moominvalley Key",
-    "category": [
-      "Area - Vault"
-    ],
-    "progression": "{YamlEnabled(Winged_Light_Run)}"
-  },
-  {
-    "count": 1,
-    "name": "Crescent Oasis Key",
-    "category": [
-      "Area - Vault"
+      "Shortcuts"
     ],
     "progression": true
   },
@@ -543,7 +83,7 @@
     "count": 1,
     "name": "Gate of Eden Key",
     "category": [
-      "Area - Eden"
+      "Eden Progress"
     ],
     "progression": true
   },
@@ -551,7 +91,7 @@
     "count": 1,
     "name": "Path of Eden Key",
     "category": [
-      "Area - Eden"
+      "Eden Progress"
     ],
     "progression": true
   },
@@ -559,7 +99,7 @@
     "count": 1,
     "name": "Eye of Eden Key",
     "category": [
-      "Area - Eden"
+      "Eden Progress"
     ],
     "progression": true
   },
@@ -567,7 +107,39 @@
     "count": 1,
     "name": "The Passage Key",
     "category": [
-      "Area - Eden"
+      "Eden Progress"
+    ],
+    "progression": true
+  },
+  {
+    "count": 3,
+    "name": "Eye of Eden Progress",
+    "category": [
+      "Eden Progress"
+    ],
+    "progression": true
+  },
+  {
+    "count": 108,
+    "name": "Winged Light",
+    "category": [
+      "Winged Light"
+    ],
+    "progression": true
+  },
+  {
+    "count": 9,
+    "name": "Wedge Capacity",
+    "category": [
+      "Wedge Capacity"
+    ],
+    "progression": true
+  },
+  {
+    "count": 9,
+    "name": "Wedge",
+    "category": [
+      "Wedges"
     ],
     "progression": true
   },
@@ -578,7 +150,7 @@
       "Regular Isle Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -587,7 +159,7 @@
       "Regular Isle Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -596,7 +168,7 @@
       "Regular Isle Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -605,7 +177,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -614,7 +186,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -623,7 +195,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -632,7 +204,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -641,7 +213,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -650,7 +222,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -659,7 +231,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -668,7 +240,7 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -677,7 +249,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -686,7 +258,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -695,7 +267,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -704,7 +276,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -713,7 +285,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -722,7 +294,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -731,7 +303,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -740,7 +312,7 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -749,7 +321,7 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -758,7 +330,7 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -767,7 +339,7 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -776,7 +348,7 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -785,7 +357,7 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -794,7 +366,7 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -803,7 +375,7 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -812,7 +384,7 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -821,7 +393,7 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -830,7 +402,7 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -839,7 +411,7 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -848,7 +420,7 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -857,7 +429,7 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -866,7 +438,7 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -875,7 +447,7 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -884,7 +456,7 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -893,7 +465,7 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "useful": true
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -902,21 +474,7 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": true
-  },
-  {
-    "count": "3",
-    "name": "Eye of Eden Progress",
-    "category": [],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Sky Cinema Key",
-    "category": [
-      "Area - Vault"
-    ],
-    "progression": true
+    "progression": "{YamlEnabled(spirit_emote_locks)}"
   },
   {
     "count": 1,
@@ -952,9 +510,25 @@
   },
   {
     "count": 1,
-    "name": "Choice of Prop",
+    "name": "Choice of Held Prop",
     "category": [
-      "Cosmetic"
+      "Props"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Choice of Small Placeable Prop",
+    "category": [
+      "Props"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Choice of Large Placeable Prop",
+    "category": [
+      "Props"
     ],
     "useful": true
   },
@@ -1009,14 +583,35 @@
   {
     "count": 50,
     "name": "Confetti",
-    "category": [],
+    "category": [
+      "Filler"
+    ],
     "filler": true
   },
   {
     "count": 5,
-    "name": "Send a Friend a Heart",
+    "name": "Heart Trap",
     "category": [
-      "Heart Trap"
+      "Heart Trap",
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 10,
+    "name": "Unskippable Cutscene",
+    "category": [
+      "Unskippable Cutscene",
+      "Traps"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Watch the Incense Burn",
+    "category": [
+      "Tranquil Garden",
+      "Traps"
     ],
     "trap": true
   },
@@ -1089,7 +684,7 @@
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
+      "Rescue Friendship Emote Spirit"
     ]
   },
   {
@@ -1104,10 +699,10 @@
   {
     "count": 1,
     "name": "Rescued Piggyback Lightseeker",
-    "filler": true,
+    "useful": true,
     "category": [
       "Seasonal Isle Spirit",
-      "Rescue Seasonal Spirit"
+      "Rescue Friendship Emote Spirit"
     ]
   },
   {
@@ -1152,7 +747,7 @@
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
+      "Rescue Friendship Emote Spirit"
     ]
   },
   {
@@ -1269,7 +864,7 @@
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
+      "Rescue Friendship Emote Spirit"
     ]
   },
   {
@@ -1386,7 +981,7 @@
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
+      "Rescue Friendship Emote Spirit"
     ]
   },
   {
@@ -1611,7 +1206,7 @@
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
+      "Rescue Friendship Emote Spirit"
     ]
   },
   {
@@ -1629,7 +1224,7 @@
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
+      "Rescue Friendship Emote Spirit"
     ]
   },
   {
@@ -1791,16 +1386,16 @@
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
+      "Rescue Friendship Emote Spirit"
     ]
   },
   {
     "count": 1,
     "name": "Rescued Feudal Lord",
-    "filler": true,
+    "useful": true,
     "category": [
       "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
+      "Rescue Friendship Emote Spirit"
     ]
   },
   {
@@ -2007,7 +1602,7 @@
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
+      "Rescue Friendship Emote Spirit"
     ]
   },
   {
@@ -2016,7 +1611,7 @@
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
+      "Rescue Friendship Emote Spirit"
     ]
   },
   {
@@ -2025,7 +1620,7 @@
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
+      "Rescue Friendship Emote Spirit"
     ]
   },
   {

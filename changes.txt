@@ -1,16 +1,43 @@
 CHANGES:
 
-remove relive spirit locations
+fixed Aviary Village to Sky Cinema connection
 
-remove relive spirit yaml option
+replaced area keys with realm keys
 
-updated readme with setup instructions
+removed area-specific requirements from locations and only included them in region requirements
 
-added seasonal emote locks yaml options
+updated rescue spirit items to only be progression if spirit and emote locks are enabled
 
-reformatted TODO
+renamed WL to Children of Light
 
-minor changes to yaml structure and wording
+added WL and wedge items
 
-changed 3 eye of eden progress macguffins to be Path of Eden Key, Eye of Eden Key, and The Passage Key
-and removed them from starting items
+updated starting items to match new item names
+
+updated category names and set hidden categories
+
+placed Path of Eden Key in Trial of Air
+
+added hard mode
+
+added wedge requirements
+
+added wedge capacity items so that wedges can be randomized
+
+added unskippable cutscene and watch the incense burn trap
+
+added death link
+
+separated prop locks into their own category
+
+set rescued piggyback lightseeker and rescued feudal lord items as useful
+
+updated readme
+
+added instructions for using Universal Tracker and death link
+
+updated yaml
+
+updated option names to match naming convention of other options
+
+updated requirements for prairie peaks

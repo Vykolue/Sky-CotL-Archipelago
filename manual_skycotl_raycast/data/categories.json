@@ -1,20 +1,68 @@
 {
-    "Find WL": {
-        "yaml_option": ["Winged_Light_Run"]
+    "Find Children of Light": {
+        "yaml_option": ["winged_light_run"],
+        "hidden": true
+    },
+    "Collect Winged Light": {
+        "yaml_option": ["winged_light_run"],
+        "hidden": true
     },
     "Daily Music Challenge": {
-        "yaml_option": ["Daily_Music_Challenge"]
+        "yaml_option": ["daily_music_challenge"]
     },
-    "Rescue Spirit": {
-        "yaml_option": ["Spirit_Emote_Locks"]
+    "Rescue Regular Spirit": {
+        "yaml_option": ["spirit_emote_locks"],
+        "hidden": true
     },
     "Rescue Seasonal Spirit": {
-        "yaml_option": ["Seasonal_Emote_Locks"]
+        "yaml_option": ["seasonal_emote_locks"]
+    },
+    "Rescue Friendship Emote Spirit": {
+        "yaml_option": ["friendship_emote_locks"]
     },
     "Cosmetic": {
-        "yaml_option": ["Cosmetic_Locks"]
+        "yaml_option": ["cosmetic_locks"]
+    },
+    "Props": {
+        "yaml_option": ["prop_locks"]
     },
     "Heart Trap": {
-        "yaml_option": ["Heart_Traps"]
+        "yaml_option": ["heart_traps"],
+        "hidden": true
+    },
+    "Unskippable Cutscene": {
+        "yaml_option": ["unskippable_cutscenes"],
+        "hidden": true
+    },
+    "Tranquil Garden": {
+        "yaml_option": ["watch_the_incense_burn"],
+        "hidden": true
+    },
+    "Seasonal Aviary Spirit": {
+        "hidden": true
+    },
+    "Seasonal Isle Spirit": {
+        "hidden": true
+    },
+    "Seasonal Prairie Spirit": {
+        "hidden": true
+    },
+    "Seasonal Forest Spirit": {
+        "hidden": true
+    },
+    "Seasonal Valley Spirit": {
+        "hidden": true
+    },
+    "Seasonal Wasteland Spirit": {
+        "hidden": true
+    },
+    "Seasonal Vault Spirit": {
+        "hidden": true
+    },
+    "Seasonal Spirit": {
+        "hidden": true
+    },
+    "Wedge Capacity": {
+        "hidden": true
     }
 }
