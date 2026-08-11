@@ -110,16 +110,6 @@ Note: these areas may not match the Sky: Children of the Light wiki exactly
 If you lose all Winged Light before playing (or are reborn and don't collect any new Winged Light), 
 you will be able to use your map to track how many Children of Light you have found in each area
 
-#### Why are there two checks for each Child of Light and Wedge?
-The "Find Children of Light" locations are for sending items to other players
-whereas the "Collect Winged Light" locations are for Archipelago to keep track of 
-how much Winged Light your Sky Kid actually has, so you won't be expected to reach somewhere unreachable
-
-Likewise, the "Wedge Capacity" items are purely there to ensure accessibility, 
-while "Wedge" items determine how many wedges you are allowed to use
-
-I hope to eventually get rid of the duplicates
-
 #### How does Death Link work?
 Death Link is an option you can enable in your YAML `(off by default)`<br />
 When enabled, if you or anyone else with Death Link enabled dies in their game, 
@@ -130,10 +120,12 @@ You can send a Death Link when:
 (except when giving away Winged Light in the Eye of Eden)
 - you use more wedges than you've received 
 (or are caused to go below that number by rain, Dark Dragons, etc.)
+- you die in one of the Trials
 - you die in the Eye of Eden
 
 When you receive a Death Link from another player:
-- go lose some Winged Light (how many is up to you)
+- go lose some Winged Light (how many is up to you) or face the Dark Dragon
+- you can enter an area or realm you don't yet have unlocked to do so
 - do not send a Death Link when you lose Winged Light for this reason
 
 The Death Link button is located in the top right corner of the Manual Client<br />
@@ -185,12 +177,10 @@ to easily get somewhere that is possible to reach otherwise, or to get somewhere
 This is why I recommend enabling Prop and Friendship Emote Locks<br />
 If you receive the item, feel free to use it in this way, however, they will not be required to progress
 
-"Find Children of Light" means you can either collect it, or stand on where it normally is<br />
-"Collect Winged Light" is when you collect it, and is used by Archipelago to ensure accessibility
+"Find Children of Light" means you can either collect it, or stand on where it normally is
 
-"Wedge Capacity" is how many wedges your Sky Kid has, while "Wedges" are how many wedges you are allowed to use<br />
-You are free to use a partial wedge, even if it causes you to use part of a wedge you don't have unlocked<br />
-Claim a "Wing Level" item when you level up your wing
+"Wedges" are how many wedges you are allowed to use<br />
+You are free to use a partial wedge, even if it causes you to use part of a wedge you don't have unlocked
 
 You can lose all your Winged Light before playing<br />
 If you start with extra, you won't be able to use it until someone unlocks your wedges for you
@@ -242,7 +232,7 @@ The items to place are:
 - The Passage Key
 
 ## Updating the APWorld
-To update, you will follow the same steps as when you first installed the apworld:
+To update, follow the same steps as when you first installed the apworld:
 - Download and install "manual_skycotl_raycast.apworld" from the [latest release](https://github.com/Vykolue/Sky-Cotl-Archipelago/releases/latest)
 - Do NOT rename this file, as it may cause errors
 

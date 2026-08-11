@@ -6,11 +6,7 @@ are only considered progression if there is a necessary item in that region
 fix aviary to hall of stories connection
 (should lead to sky cinema instead)
 
-try removing area keys and replace with realm keys to help world generation and accessibility
-
 how to use default filler item instead of setting a specific number?
-
-update readme and yaml if needed to match changes
 
 sort items in the client (using "sort-key")
 
@@ -28,8 +24,6 @@ OPTIONS:
 
 change starting item pool based on game mode and other checks 
 like harmony hall key
-
-add descriptions to remaining yaml options
 
 add a distinction between needing spirits due to spirit gates versus needing emotes, 
 that way both can be toggled separately in the yaml
@@ -54,23 +48,14 @@ or always off
 
 WEDGES:
 
-add wedge restrictions and lock locations based on wedge count
-
-also check how many children of light are accessible to ensure the
-player actually has enough wedges
-
 can use a "starting WL count" yaml option to further customise
 
 add max wedges to reduce wedge items in the pool, 
 and maybe exclude inaccessible locations?
 
-finish checking required wedge count
-
 how to check for starting wl count?
 need to remove wl items exceeding starting num + 108
 and give starting amount at start
-
-eventually want one button for each wl
 
 
 SEASONAL QUESTS:

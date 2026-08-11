@@ -146,7 +146,7 @@
     "connects_to": [
       "Temple of the Prairie"
     ],
-    "requires": "|Daylight Prairie Key| AND ((|@Regular Prairie Spirit:6| AND |Rescued Butterfly Charmer|) OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Daylight Prairie Key| AND ((|@Regular Prairie Spirit:6| AND |Rescued Butterfly Charmer (Butterfly)|) OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Sanctuary Islands": {
     "connects_to": [
@@ -206,7 +206,7 @@
       "The Wind Paths",
       "Elevated Clearing"
     ],
-    "requires": "|Hidden Forest Key| AND (|Rescued Pouty Porter| OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Hidden Forest Key| AND (|Rescued Pouty Porter (Angry)| OR {YamlDisabled(spirit_emote_locks)})"
   },
   "Boneyard": {
     "connects_to": [

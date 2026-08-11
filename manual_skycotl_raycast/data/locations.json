@@ -9,18 +9,6 @@
     "region": "Wandering Carnival"
   },
   {
-    "name": "Wandering Carnival Collect 1 Winged Light",
-    "category": [
-      "Aviary Village",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Wandering Carnival",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Wandering Carnival Find 2 Children of Light",
     "category": [
       "Aviary Village",
@@ -28,18 +16,6 @@
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
     "region": "Wandering Carnival"
-  },
-  {
-    "name": "Wandering Carnival Collect 2 Winged Light",
-    "category": [
-      "Aviary Village",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Wandering Carnival",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Passage Rock Find 1 Child of Light",
@@ -51,18 +27,6 @@
     "region": "Passage Rock"
   },
   {
-    "name": "Passage Rock Collect 1 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Passage Rock",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Passage Rock Find 2 Children of Light",
     "category": [
       "Isle of Dawn",
@@ -70,18 +34,6 @@
     ],
     "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
     "region": "Passage Rock"
-  },
-  {
-    "name": "Passage Rock Collect 2 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Passage Rock",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Dawn Circle Find 1 Child of Light",
@@ -93,18 +45,6 @@
     "region": "Dawn Circle"
   },
   {
-    "name": "Dawn Circle Collect 1 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Dawn Circle",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Dawn Circle Find 2 Children of Light",
     "category": [
       "Isle of Dawn",
@@ -112,18 +52,6 @@
     ],
     "requires": "",
     "region": "Dawn Circle"
-  },
-  {
-    "name": "Dawn Circle Collect 2 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Dawn Circle",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Dawn Circle Find 3 Children of Light",
@@ -135,18 +63,6 @@
     "region": "Dawn Circle"
   },
   {
-    "name": "Dawn Circle Collect 3 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Collect Winged Light"
-    ],
-    "requires": "|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_emote_locks)}",
-    "region": "Dawn Circle",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Dawn Overlook Find 1 Child of Light",
     "category": [
       "Isle of Dawn",
@@ -154,18 +70,6 @@
     ],
     "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
     "region": "Dawn Overlook"
-  },
-  {
-    "name": "Dawn Overlook Collect 1 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Dawn Overlook",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Trial of Water Find 1 Child of Light",
@@ -177,18 +81,6 @@
     "region": "Trial of Water"
   },
   {
-    "name": "Trial of Water Collect 1 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "place_item": [
-      "Winged Light"
-    ],
-    "region": "Trial of Water"
-  },
-  {
     "name": "Trial of Earth Find 1 Child of Light",
     "category": [
       "Isle of Dawn",
@@ -196,18 +88,6 @@
     ],
     "requires": "",
     "region": "Trial of Earth"
-  },
-  {
-    "name": "Trial of Earth Collect 1 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Trial of Earth",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Trial of Air Find 1 Child of Light",
@@ -222,18 +102,6 @@
     "region": "Trial of Air"
   },
   {
-    "name": "Trial of Air Collect 1 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Trial of Air",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Trial of Fire Find 1 Child of Light",
     "category": [
       "Isle of Dawn",
@@ -241,18 +109,6 @@
     ],
     "requires": "",
     "region": "Trial of Fire"
-  },
-  {
-    "name": "Trial of Fire Collect 1 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Trial of Fire",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Prairie Rest Find 1 Child of Light",
@@ -264,18 +120,6 @@
     "region": "Prairie Rest"
   },
   {
-    "name": "Prairie Rest Collect 1 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Prairie Rest",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Butterfly Fields Find 1 Child of Light",
     "category": [
       "Daylight Prairie",
@@ -283,18 +127,6 @@
     ],
     "requires": "(|@Regular Prairie Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) OR ((|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)})",
     "region": "Butterfly Fields"
-  },
-  {
-    "name": "Butterfly Fields Collect 1 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Regular Prairie Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) OR ((|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)})",
-    "region": "Butterfly Fields",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Butterfly Fields Find 2 Children of Light",
@@ -306,18 +138,6 @@
     "region": "Butterfly Fields"
   },
   {
-    "name": "Butterfly Fields Collect 2 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Regular Prairie Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) AND ((|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)})",
-    "region": "Butterfly Fields",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Prairie Village Find 1 Child of Light",
     "category": [
       "Daylight Prairie",
@@ -325,18 +145,6 @@
     ],
     "requires": "",
     "region": "Prairie Village"
-  },
-  {
-    "name": "Prairie Village Collect 1 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Prairie Village",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Prairie Village Find 2 Children of Light",
@@ -348,18 +156,6 @@
     "region": "Prairie Village"
   },
   {
-    "name": "Prairie Village Collect 2 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Prairie Village",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Prairie Village Find 3 Children of Light",
     "category": [
       "Daylight Prairie",
@@ -367,18 +163,6 @@
     ],
     "requires": "",
     "region": "Prairie Village"
-  },
-  {
-    "name": "Prairie Village Collect 3 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Prairie Village",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Prairie Heights Find 1 Child of Light",
@@ -390,18 +174,6 @@
     "region": "Prairie Heights"
   },
   {
-    "name": "Prairie Heights Collect 1 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
-    "region": "Prairie Heights",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Temple of the Prairie Find 1 Child of Light",
     "category": [
       "Daylight Prairie",
@@ -409,18 +181,6 @@
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
     "region": "Temple of the Prairie"
-  },
-  {
-    "name": "Temple of the Prairie Collect 1 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
-    "region": "Temple of the Prairie",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Temple of the Prairie Find 2 Children of Light",
@@ -432,18 +192,6 @@
     "region": "Temple of the Prairie"
   },
   {
-    "name": "Temple of the Prairie Collect 2 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:9| AND |@Wedge Capacity:9|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Temple of the Prairie",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Prairie Cave Find 1 Child of Light",
     "category": [
       "Daylight Prairie",
@@ -451,18 +199,6 @@
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
     "region": "Prairie Cave"
-  },
-  {
-    "name": "Prairie Cave Collect 1 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Prairie Cave",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Prairie Cave Find 2 Children of Light",
@@ -474,18 +210,6 @@
     "region": "Prairie Cave"
   },
   {
-    "name": "Prairie Cave Collect 2 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Prairie Cave",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Bird Nest Find 1 Child of Light",
     "category": [
       "Daylight Prairie",
@@ -493,18 +217,6 @@
     ],
     "requires": "",
     "region": "Bird Nest"
-  },
-  {
-    "name": "Bird Nest Collect 1 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Bird Nest",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Bird Nest Find 2 Children of Light",
@@ -516,18 +228,6 @@
     "region": "Bird Nest"
   },
   {
-    "name": "Bird Nest Collect 2 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "region": "Bird Nest",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Sanctuary Islands Find 1 Child of Light",
     "category": [
       "Daylight Prairie",
@@ -535,18 +235,6 @@
     ],
     "requires": "",
     "region": "Sanctuary Islands"
-  },
-  {
-    "name": "Sanctuary Islands Collect 1 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Sanctuary Islands",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Sanctuary Islands Find 2 Children of Light",
@@ -558,18 +246,6 @@
     "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Collect 2 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Sanctuary Islands",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Sanctuary Islands Find 3 Children of Light",
     "category": [
       "Daylight Prairie",
@@ -577,18 +253,6 @@
     ],
     "requires": "",
     "region": "Sanctuary Islands"
-  },
-  {
-    "name": "Sanctuary Islands Collect 3 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Sanctuary Islands",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Sanctuary Islands Find 4 Children of Light",
@@ -600,18 +264,6 @@
     "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Collect 4 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Sanctuary Islands",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Sanctuary Islands Find 5 Children of Light",
     "category": [
       "Daylight Prairie",
@@ -619,18 +271,6 @@
     ],
     "requires": "",
     "region": "Sanctuary Islands"
-  },
-  {
-    "name": "Sanctuary Islands Collect 5 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Sanctuary Islands",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Sanctuary Islands Find 6 Children of Light",
@@ -642,18 +282,6 @@
     "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Collect 6 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Sanctuary Islands",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Sanctuary Islands Find 7 Children of Light",
     "category": [
       "Daylight Prairie",
@@ -661,18 +289,6 @@
     ],
     "requires": "",
     "region": "Sanctuary Islands"
-  },
-  {
-    "name": "Sanctuary Islands Collect 7 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Sanctuary Islands",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Sanctuary Islands Find 8 Children of Light",
@@ -684,18 +300,6 @@
     "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Collect 8 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
-    "region": "Sanctuary Islands",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Prairie Peaks Find 1 Child of Light",
     "category": [
       "Daylight Prairie",
@@ -703,18 +307,6 @@
     ],
     "requires": "",
     "region": "Prairie Peaks"
-  },
-  {
-    "name": "Prairie Peaks Collect 1 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Prairie Peaks",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Prairie Peaks Find 2 Children of Light",
@@ -729,18 +321,6 @@
     "region": "Prairie Peaks"
   },
   {
-    "name": "Prairie Peaks Collect 2 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|@Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(hard_mode)})",
-    "place_item": [
-      "Winged Light"
-    ],
-    "region": "Prairie Peaks"
-  },
-  {
     "name": "Prairie Peaks Find 3 Children of Light",
     "category": [
       "Daylight Prairie",
@@ -748,18 +328,6 @@
     ],
     "requires": "|@Wedges:9| AND |@Wedge Capacity:9|",
     "region": "Prairie Peaks"
-  },
-  {
-    "name": "Prairie Peaks Collect 3 Winged Light",
-    "category": [
-      "Daylight Prairie",
-      "Collect Winged Light"
-    ],
-    "requires": "|@Wedges:9| AND |@Wedge Capacity:9|",
-    "region": "Prairie Peaks",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Forest Courtyard Find 1 Child of Light",
@@ -771,18 +339,6 @@
     "region": "Forest Courtyard"
   },
   {
-    "name": "Forest Courtyard Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Forest Courtyard",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Forest Courtyard Find 2 Children of Light",
     "category": [
       "Hidden Forest",
@@ -790,18 +346,6 @@
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
     "region": "Forest Courtyard"
-  },
-  {
-    "name": "Forest Courtyard Collect 2 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
-    "region": "Forest Courtyard",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Forest Brook Find 1 Child of Light",
@@ -813,18 +357,6 @@
     "region": "Forest Brook"
   },
   {
-    "name": "Forest Brook Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Forest Brook",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Forest Brook Find 2 Children of Light",
     "category": [
       "Hidden Forest",
@@ -832,18 +364,6 @@
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
     "region": "Forest Brook"
-  },
-  {
-    "name": "Forest Brook Collect 2 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Forest Brook",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Forest Brook Find 3 Children of Light",
@@ -855,18 +375,6 @@
     "region": "Forest Brook"
   },
   {
-    "name": "Forest Brook Collect 3 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Forest Brook",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Forest Brook Find 4 Children of Light",
     "category": [
       "Hidden Forest",
@@ -874,18 +382,6 @@
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
     "region": "Forest Brook"
-  },
-  {
-    "name": "Forest Brook Collect 4 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Forest Brook",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Boneyard Find 1 Child of Light",
@@ -897,18 +393,6 @@
     "region": "Boneyard"
   },
   {
-    "name": "Boneyard Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Boneyard",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Boneyard Find 2 Children of Light",
     "category": [
       "Hidden Forest",
@@ -916,18 +400,6 @@
     ],
     "requires": "((|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}) OR (((|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(spirit_emote_locks)}))",
     "region": "Boneyard"
-  },
-  {
-    "name": "Boneyard Collect 2 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "((|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}) OR (((|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(spirit_emote_locks)}))",
-    "region": "Boneyard",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Boneyard Find 3 Children of Light",
@@ -939,18 +411,6 @@
     "region": "Boneyard"
   },
   {
-    "name": "Boneyard Collect 3 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "((|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}) AND (((|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(spirit_emote_locks)}))",
-    "region": "Boneyard",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Elevated Clearing Find 1 Child of Light",
     "category": [
       "Hidden Forest",
@@ -958,18 +418,6 @@
     ],
     "requires": "",
     "region": "Elevated Clearing"
-  },
-  {
-    "name": "Elevated Clearing Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Elevated Clearing",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Elevated Clearing Find 2 Children of Light",
@@ -981,18 +429,6 @@
     "region": "Elevated Clearing"
   },
   {
-    "name": "Elevated Clearing Collect 2 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
-    "region": "Elevated Clearing",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Blue Bird Theater Find 1 Child of Light",
     "category": [
       "Hidden Forest",
@@ -1002,18 +438,6 @@
     "region": "Blue Bird Theater"
   },
   {
-    "name": "Blue Bird Theater Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Blue Bird Theater",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Forest Cavern Find 1 Child of Light",
     "category": [
       "Hidden Forest",
@@ -1021,18 +445,6 @@
     ],
     "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
     "region": "Forest Cavern"
-  },
-  {
-    "name": "Forest Cavern Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
-    "region": "Forest Cavern",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Forest Cavern Find 2 Children of Light",
@@ -1047,18 +459,6 @@
     "region": "Forest Cavern"
   },
   {
-    "name": "Forest Cavern Collect 2 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
-    "place_item": [
-      "Winged Light"
-    ],
-    "region": "Forest Cavern"
-  },
-  {
     "name": "Forest Cavern Find 3 Children of Light",
     "category": [
       "Hidden Forest",
@@ -1066,18 +466,6 @@
     ],
     "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
     "region": "Forest Cavern"
-  },
-  {
-    "name": "Forest Cavern Collect 3 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
-    "region": "Forest Cavern",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Forest Cavern Find 4 Children of Light",
@@ -1089,18 +477,6 @@
     "region": "Forest Cavern"
   },
   {
-    "name": "Forest Cavern Collect 4 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "|@Wedges:6| AND |@Wedge Capacity:6|",
-    "region": "Forest Cavern",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Sacred Pond Find 1 Child of Light",
     "category": [
       "Hidden Forest",
@@ -1108,18 +484,6 @@
     ],
     "requires": "",
     "region": "Sacred Pond"
-  },
-  {
-    "name": "Sacred Pond Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Sacred Pond",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "The Treehouse Find 1 Child of Light",
@@ -1131,18 +495,6 @@
     "region": "The Treehouse"
   },
   {
-    "name": "The Treehouse Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "The Treehouse",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "The Treehouse Find 2 Children of Light",
     "category": [
       "Hidden Forest",
@@ -1150,18 +502,6 @@
     ],
     "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
     "region": "The Treehouse"
-  },
-  {
-    "name": "The Treehouse Collect 2 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
-    "region": "The Treehouse",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "The Wind Paths Find 1 Child of Light",
@@ -1173,18 +513,6 @@
     "region": "The Wind Paths"
   },
   {
-    "name": "The Wind Paths Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "The Wind Paths",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "The Wind Paths Find 2 Children of Light",
     "category": [
       "Hidden Forest",
@@ -1192,18 +520,6 @@
     ],
     "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
     "region": "The Wind Paths"
-  },
-  {
-    "name": "The Wind Paths Collect 2 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "region": "The Wind Paths",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Valley Rest Find 1 Child of Light",
@@ -1215,18 +531,6 @@
     "region": "Valley Rest"
   },
   {
-    "name": "Valley Rest Collect 1 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Valley Rest",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Frozen Lake Find 1 Child of Light",
     "category": [
       "Valley of Triumph",
@@ -1234,18 +538,6 @@
     ],
     "requires": "",
     "region": "Frozen Lake"
-  },
-  {
-    "name": "Frozen Lake Collect 1 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Frozen Lake",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Frozen Lake Find 2 Children of Light",
@@ -1257,18 +549,6 @@
     "region": "Frozen Lake"
   },
   {
-    "name": "Frozen Lake Collect 2 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Frozen Lake",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Lower Valley Track Find 1 Child of Light",
     "category": [
       "Valley of Triumph",
@@ -1276,18 +556,6 @@
     ],
     "requires": "",
     "region": "Lower Valley Track"
-  },
-  {
-    "name": "Lower Valley Track Collect 1 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Lower Valley Track",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "The Citadel Find 1 Child of Light",
@@ -1299,18 +567,6 @@
     "region": "The Citadel"
   },
   {
-    "name": "The Citadel Collect 1 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "The Citadel",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "The Citadel Find 2 Children of Light",
     "category": [
       "Valley of Triumph",
@@ -1318,18 +574,6 @@
     ],
     "requires": "",
     "region": "The Citadel"
-  },
-  {
-    "name": "The Citadel Collect 2 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "The Citadel",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Upper Valley Track Find 1 Child of Light",
@@ -1341,18 +585,6 @@
     "region": "Upper Valley Track"
   },
   {
-    "name": "Upper Valley Track Collect 1 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Upper Valley Track",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Upper Valley Track Find 2 Children of Light",
     "category": [
       "Valley of Triumph",
@@ -1360,18 +592,6 @@
     ],
     "requires": "",
     "region": "Upper Valley Track"
-  },
-  {
-    "name": "Upper Valley Track Collect 2 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Upper Valley Track",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Temple of the Valley Find 1 Child of Light",
@@ -1383,18 +603,6 @@
     "region": "Temple of the Valley"
   },
   {
-    "name": "Temple of the Valley Collect 1 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Temple of the Valley",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Temple of the Valley Find 2 Children of Light",
     "category": [
       "Valley of Triumph",
@@ -1402,18 +610,6 @@
     ],
     "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) OR ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|))",
     "region": "Temple of the Valley"
-  },
-  {
-    "name": "Temple of the Valley Collect 2 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) OR ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|))",
-    "region": "Temple of the Valley",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Temple of the Valley Find 3 Children of Light",
@@ -1425,18 +621,6 @@
     "region": "Temple of the Valley"
   },
   {
-    "name": "Temple of the Valley Collect 3 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) AND ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|))",
-    "region": "Temple of the Valley",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Village of Dreams Find 1 Child of Light",
     "category": [
       "Valley of Triumph",
@@ -1444,18 +628,6 @@
     ],
     "requires": "",
     "region": "Village of Dreams"
-  },
-  {
-    "name": "Village of Dreams Collect 1 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Village of Dreams",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Village of Dreams Find 2 Children of Light",
@@ -1467,18 +639,6 @@
     "region": "Village of Dreams"
   },
   {
-    "name": "Village of Dreams Collect 2 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}",
-    "region": "Village of Dreams",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Village of Dreams Find 3 Children of Light",
     "category": [
       "Valley of Triumph",
@@ -1488,18 +648,6 @@
     "region": "Village of Dreams"
   },
   {
-    "name": "Village of Dreams Collect 3 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
-    "region": "Village of Dreams",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Hermit Valley Find 1 Child of Light",
     "category": [
       "Valley of Triumph",
@@ -1507,18 +655,6 @@
     ],
     "requires": "",
     "region": "Hermit Valley"
-  },
-  {
-    "name": "Hermit Valley Collect 1 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Hermit Valley",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Hermit Valley Find 2 Children of Light",
@@ -1533,18 +669,6 @@
     "region": "Hermit Valley"
   },
   {
-    "name": "Hermit Valley Collect 2 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
-    "place_item": [
-      "Winged Light"
-    ],
-    "region": "Hermit Valley"
-  },
-  {
     "name": "Village Theater Find 1 Child of Light",
     "category": [
       "Valley of Triumph",
@@ -1552,18 +676,6 @@
     ],
     "requires": "",
     "region": "Village Theater"
-  },
-  {
-    "name": "Village Theater Collect 1 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Village Theater",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "The Outer Bailey Find 1 Child of Light",
@@ -1575,18 +687,6 @@
     "region": "The Outer Bailey"
   },
   {
-    "name": "The Outer Bailey Collect 1 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "The Outer Bailey",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "The Outer Bailey Find 2 Children of Light",
     "category": [
       "Golden Wasteland",
@@ -1594,18 +694,6 @@
     ],
     "requires": "(|@Wedges:9| AND |@Wedge Capacity:9|) OR (|@Wedges:4| AND |@Wedge Capacity:4| AND {YamlEnabled(hard_mode)})",
     "region": "The Outer Bailey"
-  },
-  {
-    "name": "The Outer Bailey Collect 2 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:9| AND |@Wedge Capacity:9|) OR (|@Wedges:4| AND |@Wedge Capacity:4| AND {YamlEnabled(hard_mode)})",
-    "region": "The Outer Bailey",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "The Graveyard Find 1 Child of Light",
@@ -1617,18 +705,6 @@
     "region": "The Graveyard"
   },
   {
-    "name": "The Graveyard Collect 1 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "The Graveyard",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "The Graveyard Find 2 Children of Light",
     "category": [
       "Golden Wasteland",
@@ -1636,18 +712,6 @@
     ],
     "requires": "",
     "region": "The Graveyard"
-  },
-  {
-    "name": "The Graveyard Collect 2 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "The Graveyard",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "The Graveyard Find 3 Children of Light",
@@ -1659,18 +723,6 @@
     "region": "The Graveyard"
   },
   {
-    "name": "The Graveyard Collect 3 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "The Graveyard",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "The Graveyard Find 4 Children of Light",
     "category": [
       "Golden Wasteland",
@@ -1678,18 +730,6 @@
     ],
     "requires": "",
     "region": "The Graveyard"
-  },
-  {
-    "name": "The Graveyard Collect 4 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "The Graveyard",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "The Graveyard Find 5 Children of Light",
@@ -1704,18 +744,6 @@
     "region": "The Graveyard"
   },
   {
-    "name": "The Graveyard Collect 5 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "place_item": [
-      "Winged Light"
-    ],
-    "region": "The Graveyard"
-  },
-  {
     "name": "The Graveyard Find 6 Children of Light",
     "category": [
       "Golden Wasteland",
@@ -1723,18 +751,6 @@
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "The Graveyard"
-  },
-  {
-    "name": "The Graveyard Collect 6 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
-    "region": "The Graveyard",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Crab Fields Find 1 Child of Light",
@@ -1746,18 +762,6 @@
     "region": "Crab Fields"
   },
   {
-    "name": "Crab Fields Collect 1 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Crab Fields",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Crab Fields Find 2 Children of Light",
     "category": [
       "Golden Wasteland",
@@ -1765,18 +769,6 @@
     ],
     "requires": "",
     "region": "Crab Fields"
-  },
-  {
-    "name": "Crab Fields Collect 2 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Crab Fields",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Crab Fields Find 3 Children of Light",
@@ -1788,18 +780,6 @@
     "region": "Crab Fields"
   },
   {
-    "name": "Crab Fields Collect 3 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:9| AND |@Wedge Capacity:9|) OR (|@Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(hard_mode)})",
-    "region": "Crab Fields",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "The Battlefield Find 1 Child of Light",
     "category": [
       "Golden Wasteland",
@@ -1807,18 +787,6 @@
     ],
     "requires": "",
     "region": "The Battlefield"
-  },
-  {
-    "name": "The Battlefield Collect 1 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "The Battlefield",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "The Battlefield Find 2 Children of Light",
@@ -1830,18 +798,6 @@
     "region": "The Battlefield"
   },
   {
-    "name": "The Battlefield Collect 2 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "The Battlefield",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Temple of the Wasteland Find 1 Child of Light",
     "category": [
       "Golden Wasteland",
@@ -1849,18 +805,6 @@
     ],
     "requires": "",
     "region": "Temple of the Wasteland"
-  },
-  {
-    "name": "Temple of the Wasteland Collect 1 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Temple of the Wasteland",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Forgotten Ark Find 1 Child of Light",
@@ -1872,18 +816,6 @@
     "region": "Forgotten Ark"
   },
   {
-    "name": "Forgotten Ark Collect 1 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Forgotten Ark",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Forgotten Ark Find 2 Children of Light",
     "category": [
       "Golden Wasteland",
@@ -1891,18 +823,6 @@
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
     "region": "Forgotten Ark"
-  },
-  {
-    "name": "Forgotten Ark Collect 2 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Forgotten Ark",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Treasure Reef Find 1 Child of Light",
@@ -1914,18 +834,6 @@
     "region": "Treasure Reef"
   },
   {
-    "name": "Treasure Reef Collect 1 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Treasure Reef",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Treasure Reef Find 2 Children of Light",
     "category": [
       "Golden Wasteland",
@@ -1933,18 +841,6 @@
     ],
     "requires": "(|@Wedges:6| AND |@Wedge Capacity:6|) OR (|@Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(hard_mode)})",
     "region": "Treasure Reef"
-  },
-  {
-    "name": "Treasure Reef Collect 2 Winged Light",
-    "category": [
-      "Golden Wasteland",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:6| AND |@Wedge Capacity:6|) OR (|@Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(hard_mode)})",
-    "region": "Treasure Reef",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Vault Rest Find 1 Child of Light",
@@ -1956,18 +852,6 @@
     "region": "Vault Rest"
   },
   {
-    "name": "Vault Rest Collect 1 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Vault Rest",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Lower Vault Find 1 Child of Light",
     "category": [
       "Vault of Knowledge",
@@ -1975,18 +859,6 @@
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
     "region": "Lower Vault"
-  },
-  {
-    "name": "Lower Vault Collect 1 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Lower Vault",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Upper Vault Find 1 Child of Light",
@@ -1998,18 +870,6 @@
     "region": "Upper Vault"
   },
   {
-    "name": "Upper Vault Collect 1 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Upper Vault",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Upper Vault Find 2 Children of Light",
     "category": [
       "Vault of Knowledge",
@@ -2017,18 +877,6 @@
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Upper Vault"
-  },
-  {
-    "name": "Upper Vault Collect 2 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
-    "region": "Upper Vault",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Upper Vault Find 3 Children of Light",
@@ -2040,18 +888,6 @@
     "region": "Upper Vault"
   },
   {
-    "name": "Upper Vault Collect 3 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
-    "region": "Upper Vault",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Temple of the Vault Find 1 Child of Light",
     "category": [
       "Vault of Knowledge",
@@ -2059,18 +895,6 @@
     ],
     "requires": "",
     "region": "Temple of the Vault"
-  },
-  {
-    "name": "Temple of the Vault Collect 1 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Temple of the Vault",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Vault Archive Find 1 Child of Light",
@@ -2082,18 +906,6 @@
     "region": "Vault Archive"
   },
   {
-    "name": "Vault Archive Collect 1 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
-    "region": "Vault Archive",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Vault Archive Find 2 Children of Light",
     "category": [
       "Vault of Knowledge",
@@ -2101,18 +913,6 @@
     ],
     "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
     "region": "Vault Archive"
-  },
-  {
-    "name": "Vault Archive Collect 2 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
-    "region": "Vault Archive",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Starlight Desert Find 1 Child of Light",
@@ -2124,18 +924,6 @@
     "region": "Starlight Desert"
   },
   {
-    "name": "Starlight Desert Collect 1 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Starlight Desert",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Starlight Desert Find 2 Children of Light",
     "category": [
       "Vault of Knowledge",
@@ -2143,18 +931,6 @@
     ],
     "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
     "region": "Starlight Desert"
-  },
-  {
-    "name": "Starlight Desert Collect 2 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "region": "Starlight Desert",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Starlight Desert Find 3 Children of Light",
@@ -2169,18 +945,6 @@
     "region": "Starlight Desert"
   },
   {
-    "name": "Starlight Desert Collect 3 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "place_item": [
-      "Winged Light"
-    ],
-    "region": "Starlight Desert"
-  },
-  {
     "name": "Repository of Refuge Find 1 Child of Light",
     "category": [
       "Vault of Knowledge",
@@ -2188,18 +952,6 @@
     ],
     "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:3| AND |@Wedge Capacity:3| AND {YamlEnabled(hard_mode)})",
     "region": "Repository of Refuge"
-  },
-  {
-    "name": "Repository of Refuge Collect 1 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:3| AND |@Wedge Capacity:3| AND {YamlEnabled(hard_mode)})",
-    "region": "Repository of Refuge",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Crescent Oasis Find 1 Child of Light",
@@ -2211,18 +963,6 @@
     "region": "Crescent Oasis"
   },
   {
-    "name": "Crescent Oasis Collect 1 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Crescent Oasis",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Crescent Oasis Find 2 Children of Light",
     "category": [
       "Vault of Knowledge",
@@ -2230,18 +970,6 @@
     ],
     "requires": "",
     "region": "Crescent Oasis"
-  },
-  {
-    "name": "Crescent Oasis Collect 2 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "",
-    "region": "Crescent Oasis",
-    "place_item": [
-      "Winged Light"
-    ]
   },
   {
     "name": "Crescent Oasis Find 3 Children of Light",
@@ -2253,18 +981,6 @@
     "region": "Crescent Oasis"
   },
   {
-    "name": "Crescent Oasis Collect 3 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "region": "Crescent Oasis",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Moominvalley Find 1 Child of Light",
     "category": [
       "Vault of Knowledge",
@@ -2274,18 +990,6 @@
     "region": "Moominvalley"
   },
   {
-    "name": "Moominvalley Collect 1 Winged Light",
-    "category": [
-      "Vault of Knowledge",
-      "Collect Winged Light"
-    ],
-    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
-    "region": "Moominvalley",
-    "place_item": [
-      "Winged Light"
-    ]
-  },
-  {
     "name": "Rebirth",
     "victory": true,
     "category": [
@@ -2293,96 +997,6 @@
     ],
     "requires": "|Eye of Eden Progress:3|",
     "region": "The Passage"
-  },
-  {
-    "name": "Wing Level 1",
-    "category": [
-      "Wing Level Up"
-    ],
-    "requires": "|Winged Light:1|",
-    "place_item": [
-      "Wedge Capacity"
-    ]
-  },
-  {
-    "name": "Wing Level 2",
-    "category": [
-      "Wing Level Up"
-    ],
-    "requires": "|Winged Light:2|",
-    "place_item": [
-      "Wedge Capacity"
-    ]
-  },
-  {
-    "name": "Wing Level 3",
-    "category": [
-      "Wing Level Up"
-    ],
-    "requires": "|Winged Light:5|",
-    "place_item": [
-      "Wedge Capacity"
-    ]
-  },
-  {
-    "name": "Wing Level 4",
-    "category": [
-      "Wing Level Up"
-    ],
-    "requires": "|Winged Light:10|",
-    "place_item": [
-      "Wedge Capacity"
-    ]
-  },
-  {
-    "name": "Wing Level 5",
-    "category": [
-      "Wing Level Up"
-    ],
-    "requires": "|Winged Light:20|",
-    "place_item": [
-      "Wedge Capacity"
-    ]
-  },
-  {
-    "name": "Wing Level 6",
-    "category": [
-      "Wing Level Up"
-    ],
-    "requires": "|Winged Light:35|",
-    "place_item": [
-      "Wedge Capacity"
-    ]
-  },
-  {
-    "name": "Wing Level 7",
-    "category": [
-      "Wing Level Up"
-    ],
-    "requires": "|Winged Light:55|",
-    "place_item": [
-      "Wedge Capacity"
-    ]
-  },
-  {
-    "name": "Wing Level 8",
-    "category": [
-      "Wing Level Up"
-    ],
-    "requires": "|Winged Light:75|",
-    "place_item": [
-      "Wedge Capacity"
-    ]
-  },
-  {
-    "name": "Wing Level 9",
-    "category": [
-      "Wing Level Up"
-    ],
-    "requires": "|Winged Light:100|",
-    "place_item": [
-      "Wedge Capacity"
-    ]
   },
   {
     "name": "Daily Music Challenge",

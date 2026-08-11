@@ -120,22 +120,6 @@
     "progression": true
   },
   {
-    "count": 108,
-    "name": "Winged Light",
-    "category": [
-      "Winged Light"
-    ],
-    "progression": true
-  },
-  {
-    "count": 9,
-    "name": "Wedge Capacity",
-    "category": [
-      "Wedge Capacity"
-    ],
-    "progression": true
-  },
-  {
     "count": 9,
     "name": "Wedge",
     "category": [
@@ -145,7 +129,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Pointing Candlemaker",
+    "name": "Rescued Pointing Candlemaker (Point)",
     "category": [
       "Regular Isle Spirit",
       "Rescue Regular Spirit"
@@ -154,7 +138,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Ushering Stargazer",
+    "name": "Rescued Ushering Stargazer (Come)",
     "category": [
       "Regular Isle Spirit",
       "Rescue Regular Spirit"
@@ -163,7 +147,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Rejecting Voyager",
+    "name": "Rescued Rejecting Voyager (No Thanks)",
     "category": [
       "Regular Isle Spirit",
       "Rescue Regular Spirit"
@@ -172,7 +156,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Butterfly Charmer",
+    "name": "Rescued Butterfly Charmer (Butterfly)",
     "category": [
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
@@ -181,7 +165,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Applauding Bellmaker",
+    "name": "Rescued Applauding Bellmaker (Clap)",
     "category": [
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
@@ -190,7 +174,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Waving Bellmaker",
+    "name": "Rescued Waving Bellmaker (Wave)",
     "category": [
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
@@ -199,7 +183,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Slumbering Shipwright",
+    "name": "Rescued Slumbering Shipwright (Yawn)",
     "category": [
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
@@ -208,7 +192,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Laughing Light Catcher",
+    "name": "Rescued Laughing Light Catcher (Laugh)",
     "category": [
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
@@ -217,7 +201,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Bird Whisperer",
+    "name": "Rescued Bird Whisperer (Bird Call)",
     "category": [
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
@@ -226,16 +210,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Exhausted Dock Worker",
-    "category": [
-      "Regular Prairie Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "useful": "{YamlEnabled(spirit_emote_locks)}"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Ceremonial Worshiper",
+    "name": "Rescued Exhausted Dock Worker (Wipe Brow)",
     "category": [
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
@@ -244,7 +219,16 @@
   },
   {
     "count": 1,
-    "name": "Rescued Shivering Trailblazer",
+    "name": "Rescued Ceremonial Worshiper (Teamwork)",
+    "category": [
+      "Regular Prairie Spirit",
+      "Rescue Regular Spirit"
+    ],
+    "useful": "{YamlEnabled(spirit_emote_locks)}"
+  },
+  {
+    "count": 1,
+    "name": "Rescued Shivering Trailblazer (Shiver)",
     "category": [
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
@@ -253,7 +237,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Blushing Prospector",
+    "name": "Rescued Blushing Prospector (Shy)",
     "category": [
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
@@ -262,7 +246,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Hide'n'Seek Pioneer",
+    "name": "Rescued Hide'n'Seek Pioneer (Hide and Seek)",
     "category": [
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
@@ -271,7 +255,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Pouty Porter",
+    "name": "Rescued Pouty Porter (Angry)",
     "category": [
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
@@ -280,7 +264,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Dismayed Hunter",
+    "name": "Rescued Dismayed Hunter (Shocked)",
     "category": [
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
@@ -289,7 +273,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Apologetic Lumberjack",
+    "name": "Rescued Apologetic Lumberjack (Apologize)",
     "category": [
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
@@ -298,7 +282,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Tearful Light Miner",
+    "name": "Rescued Tearful Light Miner (Crying)",
     "category": [
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
@@ -307,7 +291,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Whale Whisperer",
+    "name": "Rescued Whale Whisperer (Whale Call)",
     "category": [
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
@@ -316,7 +300,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Confident Sightseer",
+    "name": "Rescued Confident Sightseer (Confident Stance)",
     "category": [
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
@@ -325,7 +309,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Handstanding Thrillseeker",
+    "name": "Rescued Handstanding Thrillseeker (Handstand)",
     "category": [
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
@@ -334,7 +318,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Manta Whisperer",
+    "name": "Rescued Manta Whisperer (Manta Call)",
     "category": [
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
@@ -343,7 +327,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Backflipping Champion",
+    "name": "Rescued Backflipping Champion (Backflip)",
     "category": [
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
@@ -352,7 +336,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Cheerful Spectator",
+    "name": "Rescued Cheerful Spectator (Cheer)",
     "category": [
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
@@ -361,7 +345,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Bowing Medalist",
+    "name": "Rescued Bowing Medalist (Bow)",
     "category": [
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
@@ -370,7 +354,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Proud Victor",
+    "name": "Rescued Proud Victor (Proud Stance)",
     "category": [
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
@@ -379,7 +363,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Frightened Refugee",
+    "name": "Rescued Frightened Refugee (Duck)",
     "category": [
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
@@ -388,7 +372,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Fainting Warrior",
+    "name": "Rescued Fainting Warrior (Faint)",
     "category": [
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
@@ -397,7 +381,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Courageous Soldier",
+    "name": "Rescued Courageous Soldier (Courageous Stance)",
     "category": [
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
@@ -406,7 +390,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Stealthy Survivor",
+    "name": "Rescued Stealthy Survivor (Sneaky Stance)",
     "category": [
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
@@ -415,7 +399,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Saluting Captain",
+    "name": "Rescued Saluting Captain (Salute)",
     "category": [
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
@@ -424,7 +408,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Lookout Scout",
+    "name": "Rescued Lookout Scout (Look Around)",
     "category": [
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
@@ -433,7 +417,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Levitating Adept",
+    "name": "Rescued Levitating Adept (Telekinesis)",
     "category": [
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
@@ -442,7 +426,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Meditating Monastic",
+    "name": "Rescued Meditating Monastic (Float)",
     "category": [
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
@@ -451,7 +435,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Memory Whisperer",
+    "name": "Rescued Memory Whisperer (Cosmic Manta Call)",
     "category": [
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
@@ -460,7 +444,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Polite Scholar",
+    "name": "Rescued Polite Scholar (Polite Stance)",
     "category": [
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
@@ -469,7 +453,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Praying Acolyte",
+    "name": "Rescued Praying Acolyte (Pray)",
     "category": [
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
@@ -617,7 +601,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Greeting Shaman",
+    "name": "Rescued Greeting Shaman (Kung Fu)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -626,7 +610,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Leaping Dancer",
+    "name": "Rescued Leaping Dancer (Leap)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -635,7 +619,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Provoking Performer",
+    "name": "Rescued Provoking Performer (Kabuki)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -644,7 +628,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Saluting Protector",
+    "name": "Rescued Saluting Protector (Acknowledge)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -653,7 +637,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Sassy Drifter",
+    "name": "Rescued Sassy Drifter (Sassy Stance)",
     "filler": true,
     "category": [
       "Seasonal Isle Spirit",
@@ -662,7 +646,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Stretching Guru",
+    "name": "Rescued Stretching Guru (Yoga)",
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
@@ -671,7 +655,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Crab Whisperer",
+    "name": "Rescued Crab Whisperer (Crab Call)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -680,7 +664,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Doublefive Light Catcher",
+    "name": "Rescued Doublefive Light Catcher (Double-Five Action)",
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
@@ -689,7 +673,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Laidback Pioneer",
+    "name": "Rescued Laidback Pioneer (Laidback Stance)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -698,7 +682,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Piggyback Lightseeker",
+    "name": "Rescued Piggyback Lightseeker (Piggyback Action)",
     "useful": true,
     "category": [
       "Seasonal Isle Spirit",
@@ -707,7 +691,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Shushing Light Scholar",
+    "name": "Rescued Shushing Light Scholar (Shush)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -716,7 +700,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Twirling Champion",
+    "name": "Rescued Twirling Champion (Triple Axel)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -725,7 +709,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Boogie Kid",
+    "name": "Rescued Boogie Kid (Boogie Dance)",
     "filler": true,
     "category": [
       "Seasonal Isle Spirit",
@@ -734,7 +718,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Confetti Cousin",
+    "name": "Rescued Confetti Cousin (Confetti)",
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
@@ -743,7 +727,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Hairtousle Teen",
+    "name": "Rescued Hairtousle Teen (Hair Tousle Action)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -752,7 +736,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Pleaful Parent",
+    "name": "Rescued Pleaful Parent (Don't Go!)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -761,7 +745,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Sparkler Parent",
+    "name": "Rescued Sparkler Parent (Sparkler)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -770,7 +754,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Wise Grandparent",
+    "name": "Rescued Wise Grandparent (Wise Stance)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -779,7 +763,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Admiring Actor",
+    "name": "Rescued Admiring Actor (Blow Kiss)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -788,7 +772,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Festival Spin Dancer",
+    "name": "Rescued Festival Spin Dancer (Spin Dance)",
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
@@ -797,7 +781,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Respectful Pianist",
+    "name": "Rescued Respectful Pianist (Respect)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -806,7 +790,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Thoughtful Director",
+    "name": "Rescued Thoughtful Director (Thinking)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -815,7 +799,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Troupe Greeter",
+    "name": "Rescued Troupe Greeter (Welcome)",
     "filler": true,
     "category": [
       "Seasonal Isle Spirit",
@@ -824,7 +808,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Troupe Juggler",
+    "name": "Rescued Troupe Juggler (Juggle)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -833,7 +817,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Crab Walker",
+    "name": "Rescued Crab Walker (Crab Walk)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -842,7 +826,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Indifferent Alchemist",
+    "name": "Rescued Indifferent Alchemist (Shrug)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -851,7 +835,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Nodding Muralist",
+    "name": "Rescued Nodding Muralist (Nod)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -860,7 +844,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Playfighting Herbalist",
+    "name": "Rescued Playfighting Herbalist (Play Fight Action)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -869,7 +853,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Scarecrow Farmer",
+    "name": "Rescued Scarecrow Farmer (Boo)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -878,7 +862,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Snoozing Carpenter",
+    "name": "Rescued Snoozing Carpenter (Doze)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -887,7 +871,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Chill Sunbather",
+    "name": "Rescued Chill Sunbather (Belly Scratch)",
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
@@ -896,7 +880,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Grateful Shell Collector",
+    "name": "Rescued Grateful Shell Collector (Grateful)",
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
@@ -905,7 +889,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Hiking Grouch",
+    "name": "Rescued Hiking Grouch (Grumpy)",
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
@@ -914,7 +898,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Jelly Whisperer",
+    "name": "Rescued Jelly Whisperer (Jellyfish Call)",
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
@@ -923,7 +907,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Rallying Thrillseeker",
+    "name": "Rescued Rallying Thrillseeker (Rally Cheer)",
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
@@ -932,7 +916,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Timid Bookworm",
+    "name": "Rescued Timid Bookworm (Timid Stance)",
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
@@ -941,7 +925,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Prophet of Air",
+    "name": "Rescued Prophet of Air (Balance)",
     "filler": true,
     "category": [
       "Seasonal Isle Spirit",
@@ -950,7 +934,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Prophet of Earth",
+    "name": "Rescued Prophet of Earth (Dust Off)",
     "filler": true,
     "category": [
       "Seasonal Isle Spirit",
@@ -959,7 +943,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Prophet of Fire",
+    "name": "Rescued Prophet of Fire (Chest Pound)",
     "filler": true,
     "category": [
       "Seasonal Isle Spirit",
@@ -968,7 +952,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Prophet of Water",
+    "name": "Rescued Prophet of Water (Deep Breath)",
     "filler": true,
     "category": [
       "Seasonal Isle Spirit",
@@ -977,7 +961,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Bearhug Hermit",
+    "name": "Rescued Bearhug Hermit (Bearhug Action)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -986,7 +970,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Dancing Performer",
+    "name": "Rescued Dancing Performer (Show Dance)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -995,7 +979,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Peeking Postman",
+    "name": "Rescued Peeking Postman (Peek)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -1004,7 +988,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Spinning Mentor",
+    "name": "Rescued Spinning Mentor (Spin Trick)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -1013,7 +997,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Baffled Botanist",
+    "name": "Rescued Baffled Botanist (Facepalm)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1022,7 +1006,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Scolding Student",
+    "name": "Rescued Scolding Student (Scold)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1031,7 +1015,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Chuckling Scout",
+    "name": "Rescued Chuckling Scout (Chuckle)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1040,7 +1024,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Daydream Forester",
+    "name": "Rescued Daydream Forester (Bubbles)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1049,7 +1033,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Marching Adventurer",
+    "name": "Rescued Marching Adventurer (Marching)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1058,7 +1042,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Scaredy Cadet",
+    "name": "Rescued Scaredy Cadet (Eww)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1067,7 +1051,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Beckoning Ruler",
+    "name": "Rescued Beckoning Ruler (Beckon)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1076,7 +1060,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Gloating Narcissist",
+    "name": "Rescued Gloating Narcissist (Gloat)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1085,7 +1069,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Slouching Soldier",
+    "name": "Rescued Slouching Soldier (Slouch)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1094,7 +1078,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Sneezing Geographer",
+    "name": "Rescued Sneezing Geographer (Sneeze)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1103,7 +1087,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Star Collector",
+    "name": "Rescued Star Collector (Hand-Rub)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1112,7 +1096,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Stretching Lamplighter",
+    "name": "Rescued Stretching Lamplighter (Stretch)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1121,7 +1105,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Light Whisperer",
+    "name": "Rescued Light Whisperer (Baby Manta Call)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1130,7 +1114,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Lively Navigator",
+    "name": "Rescued Lively Navigator (Navigate)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1139,7 +1123,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Talented Builder",
+    "name": "Rescued Talented Builder (Voilà)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1148,7 +1132,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Tinkering Chimesmith",
+    "name": "Rescued Tinkering Chimesmith (Tinker Stance)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1157,7 +1141,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Anxious Angler",
+    "name": "Rescued Anxious Angler (Anxious)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -1166,7 +1150,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Bumbling Boatswain",
+    "name": "Rescued Bumbling Boatswain (Ouch)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -1175,7 +1159,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Cackling Cannoneer",
+    "name": "Rescued Cackling Cannoneer (Evil Laugh)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -1184,7 +1168,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Ceasing Commodore",
+    "name": "Rescued Ceasing Commodore (Calm Down)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -1193,7 +1177,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Forgetful Storyteller",
+    "name": "Rescued Forgetful Storyteller (Awww)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -1202,7 +1186,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Frantic Stagehand",
+    "name": "Rescued Frantic Stagehand (Handshake Action)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -1211,7 +1195,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Mellow Musician",
+    "name": "Rescued Mellow Musician (Headbob)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -1220,7 +1204,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Modest Dancer",
+    "name": "Rescued Modest Dancer (Duet Dance Action)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -1247,7 +1231,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Mindful Miner",
+    "name": "Rescued Mindful Miner (Raise the Roof)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -1256,7 +1240,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Running Wayfarer",
+    "name": "Rescued Running Wayfarer (Waving Light)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -1265,7 +1249,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Seed of Hope",
+    "name": "Rescued Seed of Hope (Rhythmic Clap)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -1274,7 +1258,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Warrior of Love",
+    "name": "Rescued Warrior of Love (Twirl)",
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
@@ -1283,7 +1267,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Bereft Veteran",
+    "name": "Rescued Bereft Veteran (Grieving)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1292,7 +1276,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Pleading Child",
+    "name": "Rescued Pleading Child (Pleading)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1301,7 +1285,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Tiptoeing Tea-Brewer",
+    "name": "Rescued Tiptoeing Tea-Brewer (Tiptoeing)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1310,7 +1294,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Wounded Warrior",
+    "name": "Rescued Wounded Warrior (Injured Stance)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1319,7 +1303,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Melancholy Mope",
+    "name": "Rescued Melancholy Mope (Moping)",
     "filler": true,
     "category": [
       "Seasonal Isle Spirit",
@@ -1328,7 +1312,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Oddball Outcast",
+    "name": "Rescued Oddball Outcast (Hacky Sack)",
     "filler": true,
     "category": [
       "Seasonal Isle Spirit",
@@ -1337,7 +1321,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Overactive Overachiever",
+    "name": "Rescued Overactive Overachiever (Pull-up)",
     "filler": true,
     "category": [
       "Seasonal Isle Spirit",
@@ -1346,7 +1330,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Tumbling Troublemaker",
+    "name": "Rescued Tumbling Troublemaker (Somersault)",
     "filler": true,
     "category": [
       "Seasonal Isle Spirit",
@@ -1355,7 +1339,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Ascetic Monk",
+    "name": "Rescued Ascetic Monk (Blindfold Balance Pose)",
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
@@ -1364,7 +1348,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Jolly Geologist",
+    "name": "Rescued Jolly Geologist (Jolly Dance)",
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
@@ -1373,7 +1357,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Nightbird Whisperer",
+    "name": "Rescued Nightbird Whisperer (Nightbird Call)",
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
@@ -1382,7 +1366,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Reassuring Ranger",
+    "name": "Rescued Reassuring Ranger (Side Hug Action)",
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
@@ -1391,7 +1375,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Feudal Lord",
+    "name": "Rescued Feudal Lord (Cradle Carry Action)",
     "useful": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1400,7 +1384,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Herb Gatherer",
+    "name": "Rescued Herb Gatherer (Whistle)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1409,7 +1393,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Hunter",
+    "name": "Rescued Hunter (Flex)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1418,7 +1402,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Princess",
+    "name": "Rescued Princess (Float Spin)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1436,7 +1420,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Radiance Greeting Shaman",
+    "name": "Rescued Radiance Greeting Shaman (Heart Gesture)",
     "filler": true,
     "category": [
       "Seasonal Aviary Spirit",
@@ -1445,7 +1429,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Radiance Leaping Dancer",
+    "name": "Rescued Radiance Leaping Dancer (Cartwheel)",
     "filler": true,
     "category": [
       "Seasonal Aviary Spirit",
@@ -1454,7 +1438,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Radiance Provoking Performer",
+    "name": "Rescued Radiance Provoking Performer (Hype Dance)",
     "filler": true,
     "category": [
       "Seasonal Aviary Spirit",
@@ -1490,7 +1474,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Royal Hairtousle Teen",
+    "name": "Rescued Royal Hairtousle Teen (Surprised)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1526,7 +1510,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Scarred Sentry",
+    "name": "Rescued Scarred Sentry (Sentry Stance)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -1535,7 +1519,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Stern Shepherd",
+    "name": "Rescued Stern Shepherd (Manatee Call)",
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
@@ -1553,7 +1537,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Migrating Bellmaker",
+    "name": "Rescued Migrating Bellmaker (Lighthorn Call)",
     "filler": true,
     "category": [
       "Seasonal Isle Spirit",
@@ -1562,7 +1546,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Migrating Bird Whisperer",
+    "name": "Rescued Migrating Bird Whisperer (Flight Run)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1571,7 +1555,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Migrating Butterfly Charmer",
+    "name": "Rescued Migrating Butterfly Charmer (Dizzy)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1580,7 +1564,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Migrating Jelly Whisperer",
+    "name": "Rescued Migrating Jelly Whisperer (Jellyfish Dance)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1589,7 +1573,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Migrating Manta Whisperer",
+    "name": "Rescued Migrating Manta Whisperer (Flag Signal)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
@@ -1598,7 +1582,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Lightmending Champion",
+    "name": "Rescued Lightmending Champion (Revolving Dance Action)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1607,7 +1591,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Lightmending Lightcatcher",
+    "name": "Rescued Lightmending Lightcatcher (Secret Handshake Action)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1616,7 +1600,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Lightmending Light Scholar",
+    "name": "Rescued Lightmending Light Scholar (Whisper Action)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1625,7 +1609,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Lightmending Pioneer",
+    "name": "Rescued Lightmending Pioneer (Cute Clap)",
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
@@ -1634,7 +1618,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Carnival Athletic Dancer",
+    "name": "Rescued Carnival Athletic Dancer (Break Dance)",
     "filler": true,
     "category": [
       "Seasonal Aviary Spirit",
@@ -1643,7 +1627,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Carnival Juggler",
+    "name": "Rescued Carnival Juggler (Ball Spin Trick)",
     "filler": true,
     "category": [
       "Seasonal Aviary Spirit",
@@ -1652,7 +1636,7 @@
   },
   {
     "count": 1,
-    "name": "Rescued Carnival Puzzle Director",
+    "name": "Rescued Carnival Puzzle Director (Take Notes)",
     "filler": true,
     "category": [
       "Seasonal Aviary Spirit",
@@ -1661,10 +1645,46 @@
   },
   {
     "count": 1,
-    "name": "Rescued Carnival Stunt Actor",
+    "name": "Rescued Carnival Stunt Actor (Approve)",
     "filler": true,
     "category": [
       "Seasonal Aviary Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Artistic Memory (Draw)",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Dutch Memory (Frustration)",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Joyful Memory (Slow Walk)",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
+      "Rescue Seasonal Spirit"
+    ]
+  },
+  {
+    "count": 1,
+    "name": "Rescued Rustic Memory (Bask)",
+    "filler": true,
+    "category": [
+      "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
     ]
   }

@@ -3,7 +3,7 @@
         "yaml_option": ["winged_light_run"],
         "hidden": true
     },
-    "Collect Winged Light": {
+    "Winged Light": {
         "yaml_option": ["winged_light_run"],
         "hidden": true
     },

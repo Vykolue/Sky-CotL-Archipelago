@@ -1,43 +1,7 @@
 CHANGES:
 
-fixed Aviary Village to Sky Cinema connection
+added emote names to Rescue Spirit items
 
-replaced area keys with realm keys
+created events for tracking wedge capacity and removed duplicate locations
 
-removed area-specific requirements from locations and only included them in region requirements
-
-updated rescue spirit items to only be progression if spirit and emote locks are enabled
-
-renamed WL to Children of Light
-
-added WL and wedge items
-
-updated starting items to match new item names
-
-updated category names and set hidden categories
-
-placed Path of Eden Key in Trial of Air
-
-added hard mode
-
-added wedge requirements
-
-added wedge capacity items so that wedges can be randomized
-
-added unskippable cutscene and watch the incense burn trap
-
-added death link
-
-separated prop locks into their own category
-
-set rescued piggyback lightseeker and rescued feudal lord items as useful
-
-updated readme
-
-added instructions for using Universal Tracker and death link
-
-updated yaml
-
-updated option names to match naming convention of other options
-
-updated requirements for prairie peaks
+updated README
