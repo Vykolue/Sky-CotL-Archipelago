@@ -106,7 +106,7 @@ Tips:
 
 The area a Child of Light is in corresponds to where it appears when looking at your map
 
-Note: these areas may not match the Sky: Children of the Light wiki exactly
+Note: these areas may not match the Sky: Children of the Light wiki exactly<br />
 If you lose all Winged Light before playing (or are reborn and don't collect any new Winged Light), 
 you will be able to use your map to track how many Children of Light you have found in each area
 
