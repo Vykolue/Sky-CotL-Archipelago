@@ -22,41 +22,46 @@
         }
     },
     "user": {
-        "Winged_Light_Run": {
+        "winged_light_run": {
             "description": [
-                "Collect Winged Light to earn checks"
+                "Find Winged Light to earn checks and unlock your goal",
+                "",
+                "Please turn at least one Game Mode on"
             ],
             "type": "Toggle",
             "default": true,
             "group": "Game Mode"
         },
-
-        "Daily_Music_Challenge": {
-            "description": [
-                "Complete the Daily Music Challenge to earn a check"
-            ],
-            "type": "Toggle",
-            "default": true,
-            "group": "Other Checks"
-        },
         
-        "Spirit_Emote_Locks": {
+        "spirit_emote_locks": {
             "description": [
-                "Require Rescue Spirit items to pass through Spirit Gates or use Emotes"
+                "Require Rescue Spirit items to pass through Spirit Gates or use Emotes",
+                "",
+                "Some checks are locked behind having a certain emote"
             ],
             "type": "Toggle",
             "default": true,
             "group": "Locks"
         },
-        "Seasonal_Emote_Locks": {
+        "seasonal_emote_locks": {
             "description": [
-                "Require Rescue Seasonal Spirit items to use Emotes"
+                "Require Rescue Seasonal Spirit items to use Seasonal Emotes",
+                "",
+                "These are considered filler items and may be left out of the game if there are more items than locations"
             ],
             "type": "Toggle",
             "default": false,
             "group": "Locks"
         },
-        "Cosmetic_Locks": {
+        "friendship_emote_locks": {
+            "description": [
+                "Require Rescue Friendship Emote Spirit items to use Friendship Emotes"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Locks"
+        },
+        "cosmetic_locks": {
             "description": [
                 "Start with no cosmetics or dyes unlocked"
             ],
@@ -64,8 +69,33 @@
             "default": false,
             "group": "Locks"
         },
+        "prop_locks": {
+            "description": [
+                "Start with no props unlocked"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Locks"
+        },
 
-        "Heart_Traps": {
+        "daily_music_challenge": {
+            "description": [
+                "Complete the Daily Music Challenge to earn a check"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Challenges"
+        },
+        "hard_mode": {
+            "description": [
+                "Less wedges will be provided for reaching hard-to-reach places"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Extra Challenges"
+        },
+
+        "heart_traps": {
             "description": [
                 "This trap will make you send a heart to a friend"
             ],
@@ -73,65 +103,21 @@
             "default": true,
             "group": "Traps"
         },
-        
-        "_commented_out_option":{
-            "type": "Toggle",
-            "default": true
-        },
-        "Example_Toggle":{
+        "unskippable_cutscenes": {
             "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
+                "This trap will make you sit through the next cutscene"
             ],
             "type": "Toggle",
-            "default": false,
-            "group": "Example Options",
-            "hidden": true
-        },
-        "Example_Choice":{
-            "type": "Choice",
-            "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
-            ],
-            "values": {
-                "start":0,
-                "test":1
-             },
-            "default": 0,
-            "allow_custom_value": false,
-            "group": "Example Options",
-            "hidden": true
-        },
-        "Example_Range":{
-            "type": "Range",
-            "description": [
-                "This is a Range",
-                "Allow the player to specify a value between 'start' and 'end'",
-                "if you include a \"values\" you can define the label for certain values",
-                "Currently the only use for Range in Manual outside of hooks is 'filler_trap'"
-            ],
-            "range_start": 0,
-            "default": 1,
-            "range_end": 5,
-            "values": {"example": 2},
-            "group": "Example Options",
-            "hidden": true
-        },
-
-        "DLC_enabled":{
-            "display_name": "DLC Enabled",
-            "description": "Is the Dlc enabled?",
-            "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template"
-            ],
             "default": true,
-            "hidden": true
+            "group": "Traps"
+        },
+        "watch_the_incense_burn": {
+            "description": [
+                "This trap will make you visit the Tranquil Garden for a few minutes"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Traps"
         }
     }
 
