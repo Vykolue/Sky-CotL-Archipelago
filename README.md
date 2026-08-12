@@ -239,3 +239,8 @@ To update, follow the same steps as when you first installed the apworld:
 Make sure that all Sky: CotL players and the host are using the same version of the apworld<br />
 It is a good idea to update your YAML at the same time you update the apworld, 
 as options may change between versions
+
+## AI Usage Disclosure
+I do not ask AI to write any code for me<br />
+If I am searching for how to do something specific and I come across an AI generated response that accomplishes my goal, I will ocassionally use it or adapt it<br />
+That is the only situation where I use AI
