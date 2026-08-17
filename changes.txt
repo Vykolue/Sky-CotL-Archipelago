@@ -1,7 +1,3 @@
 CHANGES:
 
-added emote names to Rescue Spirit items
-
-created events for tracking wedge capacity and removed duplicate locations
-
-updated README
+Changed all regular spirits to progression items to fix spirit gate lock bug
