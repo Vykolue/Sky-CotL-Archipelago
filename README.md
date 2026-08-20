@@ -86,7 +86,7 @@ Make sure:
 - you are using the correct port
 - the name you are using to connect matches your slot name (case sensitive)
 
-### Playing the game
+## Playing the game
 You can play Sky: Children of the Light on any device
 
 To send a check:
@@ -99,7 +99,7 @@ You can see checks you send and receive in real time under the "Archipelago" tab
 Items you receive will also show up under "Items Received" in the "Manual" tab<br />
 You can see hints in the "Hints" tab
 
-Tips:
+### Tips
 - You can use "!hint {item_name}" in the command line to find out where the specified item is
 - You will need points to afford a hint, which can be earned by sending checks
 - Use "/items" to see the names of all items
@@ -110,7 +110,68 @@ Note: these areas may not match the Sky: Children of the Light wiki exactly<br /
 If you lose all Winged Light before playing (or are reborn and don't collect any new Winged Light), 
 you will be able to use your map to track how many Children of Light you have found in each area
 
-#### How does Death Link work?
+### Rules
+Don't send checks you didn't earn
+
+Don't use items that haven't been unlocked<br />
+Your locked items will depend on your YAML settings, but may include:
+- realms `(always on)`
+- wedges `(always on)`
+- passing through spirit gates `(on by default)`
+- cosmetics `(off by default)`
+- props `(on by default)`
+- base emotes `(on by default)`
+- friendship emotes `(on by default)`
+- other seasonal emotes `(off by default)`
+
+If emote locks are on, you should have the required emote before entering areas that require it, 
+even if other players opened the door<br />
+Likewise, you shouldn't have a friend drag you through a locked Spirit Gate
+
+I recommend against using props, shared spaces, white candle, piggy rocket, etc. 
+to easily get somewhere that is possible to reach otherwise, or to get somewhere out of logic<br />
+This is why I recommend enabling Prop and Friendship Emote Locks<br />
+If you receive the item, feel free to use it in this way, however, they will not be required to progress
+
+"Find Children of Light" means you can either collect it, or stand on where it normally is
+
+"Wedges" are how many wedges you are allowed to use<br />
+You are free to use a partial wedge, even if it causes you to use part of a wedge you don't have unlocked
+
+You can lose all your Winged Light before playing<br />
+If you start with extra, you won't be able to use it until someone unlocks your wedges for you
+
+You may run into impossible scenerios if your account has not:
+- relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
+- unlocked shortcuts for The Wind Paths and The Treehouse
+- progressed through the first three Cave of Prophecy quests
+- progressed through the Vault of Knowledge
+
+You may also be required to:
+- complete all Nine-Colored Deer quests
+- complete all Season of Moomin quests
+
+Capeless/Wingless gameplay is not currently supported
+
+### Traps
+Heart Trap: `(on by default)`
+- send a heart to a friend
+
+Unskippable Cutscene: `(on by default)`
+- make sure 'skip all skippable cutscenes' is off
+- sit through the next cutscene
+
+Watch the Incense Burn: `(on by default)`
+- visit the Tranquil Garden in Aviary Village
+- walk through the arch and sit at the incense
+- wait for it to burn out
+
+### Winning
+The win condition is to be reborn<br />
+To enter the Gate of Eden, you will need to obtain at least 30 "Winged Light" items<br />
+Winged Light items have no other affect on the game, and you are free to use more than what you received in the Eye of Eden
+
+### How does Death Link work?
 Death Link is an option you can enable in your YAML `(off by default)`<br />
 When enabled, if you or anyone else with Death Link enabled dies in their game, 
 every other player with Death Link will also die
@@ -154,83 +215,6 @@ You will now see a "Tracker Page" tab<br />
 Once you are connected to your slot, you will see a list of in-logic locations in the Tracker Page tab, 
 and they will be highlighted green in the Manual tab
 
-### Rules (follow them or don't idc)
-Don't send checks you didn't earn
-
-Don't use items that haven't been unlocked<br />
-Your locked items will depend on your YAML settings, but may include:
-- realms `(always on)`
-- wedges `(always on)`
-- passing through spirit gates `(on by default)`
-- cosmetics `(off by default)`
-- props `(on by default)`
-- base emotes `(on by default)`
-- friendship emotes `(on by default)`
-- other seasonal emotes `(off by default)`
-
-If emote locks are on, you should have the required emote before entering that area, 
-even if other players opened the door<br />
-Likewise, you shouldn't have a friend drag you through a locked Spirit Gate
-
-I recommend against using props, shared spaces, white candle, piggy rocket, etc. 
-to easily get somewhere that is possible to reach otherwise, or to get somewhere out of logic<br />
-This is why I recommend enabling Prop and Friendship Emote Locks<br />
-If you receive the item, feel free to use it in this way, however, they will not be required to progress
-
-"Find Children of Light" means you can either collect it, or stand on where it normally is
-
-"Wedges" are how many wedges you are allowed to use<br />
-You are free to use a partial wedge, even if it causes you to use part of a wedge you don't have unlocked
-
-You can lose all your Winged Light before playing<br />
-If you start with extra, you won't be able to use it until someone unlocks your wedges for you
-
-You may run into impossible scenerios if your account has not:
-- relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
-- unlocked shortcuts for The Wind Paths and The Treehouse
-- progressed through the first three Cave of Prophecy quests
-- progressed through the Vault of Knowledge
-
-You may also be required to:
-- complete all Nine-Colored Deer quests
-- complete all Season of Moomin quests
-
-Capeless/Wingless gameplay is not currently supported
-
-#### Traps
-Heart Trap: `(on by default)`
-- send a heart to a friend
-
-Unskippable Cutscene: `(on by default)`
-- make sure 'skip all skippable cutscenes' is off
-- sit through the next cutscene
-
-Watch the Incense Burn: `(on by default)`
-- visit the Tranquil Garden in Aviary Village
-- walk through the arch and sit at the incense
-- wait for it to burn out
-
-### Winning
-The win condition is to be reborn<br />
-All areas of the Eye of Eden as well as three "Eye of Eden Progress" must first be unlocked
-
-The "Gate of Eden" (first area) is in a random location in the multiworld<br />
-The other areas and Eye of Eden Progress are in the following locations by default:
-- Trial of Air Find 1 WL
-- Prairie Peaks Find 2 WL
-- Forest Cavern Find 2 WL
-- Hermit Valley Find 2 WL
-- The Graveyard Find 5 WL
-- Starlight Desert Find 3 WL
-
-If you wish to change the default locations, you can use [Plando](https://archipelago.gg/tutorial/Archipelago/plando_en)<br />
-The items to place are:
-- Eye of Eden Progress: 3
-- Gate of Eden Key `(if you prefer it not be random)`
-- Path of Eden Key
-- Eye of Eden Key
-- The Passage Key
-
 ## Updating the APWorld
 To update, follow the same steps as when you first installed the apworld:
 - Download and install "manual_skycotl_raycast.apworld" from the [latest release](https://github.com/Vykolue/Sky-Cotl-Archipelago/releases/latest)
@@ -241,6 +225,5 @@ It is a good idea to update your YAML at the same time you update the apworld,
 as options may change between versions
 
 ## AI Usage Disclosure
-I do not ask AI to write any code for me<br />
 If I am searching for how to do something specific and I come across an AI generated response that accomplishes my goal, I will ocassionally use it or adapt it<br />
-That is the only situation where I use AI
+That is the only situation where I may use AI in this apworld

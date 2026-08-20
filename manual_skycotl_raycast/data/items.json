@@ -80,42 +80,10 @@
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Gate of Eden Key",
+    "count": 50,
+    "name": "Winged Light",
     "category": [
-      "Eden Progress"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Path of Eden Key",
-    "category": [
-      "Eden Progress"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Eye of Eden Key",
-    "category": [
-      "Eden Progress"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Passage Key",
-    "category": [
-      "Eden Progress"
-    ],
-    "progression": true
-  },
-  {
-    "count": 3,
-    "name": "Eye of Eden Progress",
-    "category": [
-      "Eden Progress"
+      "Winged Light"
     ],
     "progression": true
   },

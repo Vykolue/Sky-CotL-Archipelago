@@ -96,9 +96,6 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "place_item": [
-      "Path of Eden Key"
-    ],
     "region": "Trial of Air"
   },
   {
@@ -315,9 +312,6 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|@Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(hard_mode)})",
-    "place_item": [
-      "Eye of Eden Key"
-    ],
     "region": "Prairie Peaks"
   },
   {
@@ -453,9 +447,6 @@
       "Find Children of Light"
     ],
     "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
-    "place_item": [
-      "The Passage Key"
-    ],
     "region": "Forest Cavern"
   },
   {
@@ -663,9 +654,6 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
-    "place_item": [
-      "Eye of Eden Progress"
-    ],
     "region": "Hermit Valley"
   },
   {
@@ -738,9 +726,6 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "place_item": [
-      "Eye of Eden Progress"
-    ],
     "region": "The Graveyard"
   },
   {
@@ -939,9 +924,6 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "place_item": [
-      "Eye of Eden Progress"
-    ],
     "region": "Starlight Desert"
   },
   {

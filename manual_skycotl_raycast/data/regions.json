@@ -434,22 +434,22 @@
     "connects_to": [
       "Path of Eden"
     ],
-    "requires": "|Gate of Eden Key|"
+    "requires": "|@Winged Light:30|"
   },
   "Path of Eden": {
     "connects_to": [
       "Eye of Eden"
     ],
-    "requires": "|Path of Eden Key|"
+    "requires": ""
   },
   "Eye of Eden": {
     "connects_to": [
       "The Passage"
     ],
-    "requires": "|Eye of Eden Key|"
+    "requires": ""
   },
   "The Passage": {
     "connects_to": [],
-    "requires": "|The Passage Key|"
+    "requires": ""
   }
 }

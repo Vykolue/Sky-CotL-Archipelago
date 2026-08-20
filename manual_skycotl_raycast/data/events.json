@@ -3,7 +3,7 @@
     "name": "Wandering Carnival Collect 1 Winged Light",
     "category": [
       "Aviary Village",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Wandering Carnival Find 1 Child of Light"
   },
@@ -11,7 +11,7 @@
     "name": "Wandering Carnival Collect 2 Winged Light",
     "category": [
       "Aviary Village",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Wandering Carnival Find 2 Children of Light"
   },
@@ -19,7 +19,7 @@
     "name": "Passage Rock Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Passage Rock Find 1 Child of Light"
   },
@@ -27,7 +27,7 @@
     "name": "Passage Rock Collect 2 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Passage Rock Find 2 Children of Light"
   },
@@ -35,7 +35,7 @@
     "name": "Dawn Circle Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Dawn Circle Find 1 Child of Light"
   },
@@ -43,7 +43,7 @@
     "name": "Dawn Circle Collect 2 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Dawn Circle Find 2 Children of Light"
   },
@@ -51,7 +51,7 @@
     "name": "Dawn Circle Collect 3 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Dawn Circle Find 3 Children of Light"
   },
@@ -59,7 +59,7 @@
     "name": "Dawn Overlook Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Dawn Overlook Find 1 Child of Light"
   },
@@ -67,7 +67,7 @@
     "name": "Trial of Water Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Trial of Water Find 1 Child of Light"
   },
@@ -75,7 +75,7 @@
     "name": "Trial of Earth Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Trial of Earth Find 1 Child of Light"
   },
@@ -83,7 +83,7 @@
     "name": "Trial of Air Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Trial of Air Find 1 Child of Light"
   },
@@ -91,7 +91,7 @@
     "name": "Trial of Fire Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Trial of Fire Find 1 Child of Light"
   },
@@ -99,7 +99,7 @@
     "name": "Prairie Rest Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Prairie Rest Find 1 Child of Light"
   },
@@ -107,7 +107,7 @@
     "name": "Butterfly Fields Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Butterfly Fields Find 1 Child of Light"
   },
@@ -115,7 +115,7 @@
     "name": "Butterfly Fields Collect 2 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Butterfly Fields Find 2 Children of Light"
   },
@@ -123,7 +123,7 @@
     "name": "Prairie Village Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Prairie Village Find 1 Child of Light"
   },
@@ -131,7 +131,7 @@
     "name": "Prairie Village Collect 2 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Prairie Village Find 2 Children of Light"
   },
@@ -139,7 +139,7 @@
     "name": "Prairie Village Collect 3 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Prairie Village Find 3 Children of Light"
   },
@@ -147,7 +147,7 @@
     "name": "Prairie Heights Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Prairie Heights Find 1 Child of Light"
   },
@@ -155,7 +155,7 @@
     "name": "Temple of the Prairie Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Temple of the Prairie Find 1 Child of Light"
   },
@@ -163,7 +163,7 @@
     "name": "Temple of the Prairie Collect 2 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Temple of the Prairie Find 2 Children of Light"
   },
@@ -171,7 +171,7 @@
     "name": "Prairie Cave Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Prairie Cave Find 1 Child of Light"
   },
@@ -179,7 +179,7 @@
     "name": "Prairie Cave Collect 2 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Prairie Cave Find 2 Children of Light"
   },
@@ -187,7 +187,7 @@
     "name": "Bird Nest Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Bird Nest Find 1 Child of Light"
   },
@@ -195,7 +195,7 @@
     "name": "Bird Nest Collect 2 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Bird Nest Find 2 Children of Light"
   },
@@ -203,7 +203,7 @@
     "name": "Sanctuary Islands Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Sanctuary Islands Find 1 Child of Light"
   },
@@ -211,7 +211,7 @@
     "name": "Sanctuary Islands Collect 2 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Sanctuary Islands Find 2 Children of Light"
   },
@@ -219,7 +219,7 @@
     "name": "Sanctuary Islands Collect 3 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Sanctuary Islands Find 3 Children of Light"
   },
@@ -227,7 +227,7 @@
     "name": "Sanctuary Islands Collect 4 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Sanctuary Islands Find 4 Children of Light"
   },
@@ -235,7 +235,7 @@
     "name": "Sanctuary Islands Collect 5 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Sanctuary Islands Find 5 Children of Light"
   },
@@ -243,7 +243,7 @@
     "name": "Sanctuary Islands Collect 6 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Sanctuary Islands Find 6 Children of Light"
   },
@@ -251,7 +251,7 @@
     "name": "Sanctuary Islands Collect 7 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Sanctuary Islands Find 7 Children of Light"
   },
@@ -259,7 +259,7 @@
     "name": "Sanctuary Islands Collect 8 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Sanctuary Islands Find 8 Children of Light"
   },
@@ -267,7 +267,7 @@
     "name": "Prairie Peaks Collect 1 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Prairie Peaks Find 1 Child of Light"
   },
@@ -275,7 +275,7 @@
     "name": "Prairie Peaks Collect 2 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Prairie Peaks Find 2 Children of Light"
   },
@@ -283,7 +283,7 @@
     "name": "Prairie Peaks Collect 3 Winged Light",
     "category": [
       "Daylight Prairie",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Prairie Peaks Find 3 Children of Light"
   },
@@ -291,7 +291,7 @@
     "name": "Forest Courtyard Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Forest Courtyard Find 1 Child of Light"
   },
@@ -299,7 +299,7 @@
     "name": "Forest Courtyard Collect 2 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Forest Courtyard Find 2 Children of Light"
   },
@@ -307,7 +307,7 @@
     "name": "Forest Brook Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Forest Brook Find 1 Child of Light"
   },
@@ -315,7 +315,7 @@
     "name": "Forest Brook Collect 2 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Forest Brook Find 2 Children of Light"
   },
@@ -323,7 +323,7 @@
     "name": "Forest Brook Collect 3 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Forest Brook Find 3 Children of Light"
   },
@@ -331,7 +331,7 @@
     "name": "Forest Brook Collect 4 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Forest Brook Find 4 Children of Light"
   },
@@ -339,7 +339,7 @@
     "name": "Boneyard Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Boneyard Find 1 Child of Light"
   },
@@ -347,7 +347,7 @@
     "name": "Boneyard Collect 2 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Boneyard Find 2 Children of Light"
   },
@@ -355,7 +355,7 @@
     "name": "Boneyard Collect 3 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Boneyard Find 3 Children of Light"
   },
@@ -363,7 +363,7 @@
     "name": "Elevated Clearing Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Elevated Clearing Find 1 Child of Light"
   },
@@ -371,7 +371,7 @@
     "name": "Elevated Clearing Collect 2 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Elevated Clearing Find 2 Children of Light"
   },
@@ -379,7 +379,7 @@
     "name": "Blue Bird Theater Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Blue Bird Theater Find 1 Child of Light"
   },
@@ -387,7 +387,7 @@
     "name": "Forest Cavern Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Forest Cavern Find 1 Child of Light"
   },
@@ -395,7 +395,7 @@
     "name": "Forest Cavern Collect 2 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Forest Cavern Find 2 Children of Light"
   },
@@ -403,7 +403,7 @@
     "name": "Forest Cavern Collect 3 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Forest Cavern Find 3 Children of Light"
   },
@@ -411,7 +411,7 @@
     "name": "Forest Cavern Collect 4 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Forest Cavern Find 4 Children of Light"
   },
@@ -419,7 +419,7 @@
     "name": "Sacred Pond Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Sacred Pond Find 1 Child of Light"
   },
@@ -427,7 +427,7 @@
     "name": "The Treehouse Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Treehouse Find 1 Child of Light"
   },
@@ -435,7 +435,7 @@
     "name": "The Treehouse Collect 2 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Treehouse Find 2 Children of Light"
   },
@@ -443,7 +443,7 @@
     "name": "The Wind Paths Collect 1 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Wind Paths Find 1 Child of Light"
   },
@@ -451,7 +451,7 @@
     "name": "The Wind Paths Collect 2 Winged Light",
     "category": [
       "Hidden Forest",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Wind Paths Find 2 Children of Light"
   },
@@ -459,7 +459,7 @@
     "name": "Valley Rest Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Valley Rest Find 1 Child of Light"
   },
@@ -467,7 +467,7 @@
     "name": "Frozen Lake Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Frozen Lake Find 1 Child of Light"
   },
@@ -475,7 +475,7 @@
     "name": "Frozen Lake Collect 2 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Frozen Lake Find 2 Children of Light"
   },
@@ -483,7 +483,7 @@
     "name": "Lower Valley Track Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Lower Valley Track Find 1 Child of Light"
   },
@@ -491,7 +491,7 @@
     "name": "The Citadel Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Citadel Find 1 Child of Light"
   },
@@ -499,7 +499,7 @@
     "name": "The Citadel Collect 2 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Citadel Find 2 Children of Light"
   },
@@ -507,7 +507,7 @@
     "name": "Upper Valley Track Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Upper Valley Track Find 1 Child of Light"
   },
@@ -515,7 +515,7 @@
     "name": "Upper Valley Track Collect 2 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Upper Valley Track Find 2 Children of Light"
   },
@@ -523,7 +523,7 @@
     "name": "Temple of the Valley Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Temple of the Valley Find 1 Child of Light"
   },
@@ -531,7 +531,7 @@
     "name": "Temple of the Valley Collect 2 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Temple of the Valley Find 2 Children of Light"
   },
@@ -539,7 +539,7 @@
     "name": "Temple of the Valley Collect 3 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Temple of the Valley Find 3 Children of Light"
   },
@@ -547,7 +547,7 @@
     "name": "Village of Dreams Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Village of Dreams Find 1 Child of Light"
   },
@@ -555,7 +555,7 @@
     "name": "Village of Dreams Collect 2 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Village of Dreams Find 2 Children of Light"
   },
@@ -563,7 +563,7 @@
     "name": "Village of Dreams Collect 3 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Village of Dreams Find 3 Children of Light"
   },
@@ -571,7 +571,7 @@
     "name": "Hermit Valley Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Hermit Valley Find 1 Child of Light"
   },
@@ -579,7 +579,7 @@
     "name": "Hermit Valley Collect 2 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Hermit Valley Find 2 Children of Light"
   },
@@ -587,7 +587,7 @@
     "name": "Village Theater Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Village Theater Find 1 Child of Light"
   },
@@ -595,7 +595,7 @@
     "name": "The Outer Bailey Collect 1 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Outer Bailey Find 1 Child of Light"
   },
@@ -603,7 +603,7 @@
     "name": "The Outer Bailey Collect 2 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Outer Bailey Find 2 Children of Light"
   },
@@ -611,7 +611,7 @@
     "name": "The Graveyard Collect 1 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Graveyard Find 1 Child of Light"
   },
@@ -619,7 +619,7 @@
     "name": "The Graveyard Collect 2 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Graveyard Find 2 Children of Light"
   },
@@ -627,7 +627,7 @@
     "name": "The Graveyard Collect 3 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Graveyard Find 3 Children of Light"
   },
@@ -635,7 +635,7 @@
     "name": "The Graveyard Collect 4 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Graveyard Find 4 Children of Light"
   },
@@ -643,7 +643,7 @@
     "name": "The Graveyard Collect 5 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Graveyard Find 5 Children of Light"
   },
@@ -651,7 +651,7 @@
     "name": "The Graveyard Collect 6 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Graveyard Find 6 Children of Light"
   },
@@ -659,7 +659,7 @@
     "name": "Crab Fields Collect 1 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Crab Fields Find 1 Child of Light"
   },
@@ -667,7 +667,7 @@
     "name": "Crab Fields Collect 2 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Crab Fields Find 2 Children of Light"
   },
@@ -675,7 +675,7 @@
     "name": "Crab Fields Collect 3 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Crab Fields Find 3 Children of Light"
   },
@@ -683,7 +683,7 @@
     "name": "The Battlefield Collect 1 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Battlefield Find 1 Child of Light"
   },
@@ -691,7 +691,7 @@
     "name": "The Battlefield Collect 2 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "The Battlefield Find 2 Children of Light"
   },
@@ -699,7 +699,7 @@
     "name": "Temple of the Wasteland Collect 1 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Temple of the Wasteland Find 1 Child of Light"
   },
@@ -707,7 +707,7 @@
     "name": "Forgotten Ark Collect 1 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Forgotten Ark Find 1 Child of Light"
   },
@@ -715,7 +715,7 @@
     "name": "Forgotten Ark Collect 2 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Forgotten Ark Find 2 Children of Light"
   },
@@ -723,7 +723,7 @@
     "name": "Treasure Reef Collect 1 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Treasure Reef Find 1 Child of Light"
   },
@@ -731,7 +731,7 @@
     "name": "Treasure Reef Collect 2 Winged Light",
     "category": [
       "Golden Wasteland",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Treasure Reef Find 2 Children of Light"
   },
@@ -739,7 +739,7 @@
     "name": "Vault Rest Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Vault Rest Find 1 Child of Light"
   },
@@ -747,7 +747,7 @@
     "name": "Lower Vault Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Lower Vault Find 1 Child of Light"
   },
@@ -755,7 +755,7 @@
     "name": "Upper Vault Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Upper Vault Find 1 Child of Light"
   },
@@ -763,7 +763,7 @@
     "name": "Upper Vault Collect 2 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Upper Vault Find 2 Children of Light"
   },
@@ -771,7 +771,7 @@
     "name": "Upper Vault Collect 3 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Upper Vault Find 3 Children of Light"
   },
@@ -779,7 +779,7 @@
     "name": "Temple of the Vault Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Temple of the Vault Find 1 Child of Light"
   },
@@ -787,7 +787,7 @@
     "name": "Vault Archive Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Vault Archive Find 1 Child of Light"
   },
@@ -795,7 +795,7 @@
     "name": "Vault Archive Collect 2 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Vault Archive Find 2 Children of Light"
   },
@@ -803,7 +803,7 @@
     "name": "Starlight Desert Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Starlight Desert Find 1 Child of Light"
   },
@@ -811,7 +811,7 @@
     "name": "Starlight Desert Collect 2 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Starlight Desert Find 2 Children of Light"
   },
@@ -819,7 +819,7 @@
     "name": "Starlight Desert Collect 3 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Starlight Desert Find 3 Children of Light"
   },
@@ -827,7 +827,7 @@
     "name": "Repository of Refuge Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Repository of Refuge Find 1 Child of Light"
   },
@@ -835,7 +835,7 @@
     "name": "Crescent Oasis Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Crescent Oasis Find 1 Child of Light"
   },
@@ -843,7 +843,7 @@
     "name": "Crescent Oasis Collect 2 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Crescent Oasis Find 2 Children of Light"
   },
@@ -851,7 +851,7 @@
     "name": "Crescent Oasis Collect 3 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Crescent Oasis Find 3 Children of Light"
   },
@@ -859,7 +859,7 @@
     "name": "Moominvalley Collect 1 Winged Light",
     "category": [
       "Vault of Knowledge",
-      "Winged Light"
+      "Actual WL"
     ],
     "copy_location": "Moominvalley Find 1 Child of Light"
   },
@@ -868,62 +868,62 @@
     "category": [
       "Wedge Capacity"
     ],
-    "requires": "|@Winged Light:1|"
+    "requires": "|@Actual WL:1|"
   },
   {
     "name": "Wing Level 2",
     "category": [
       "Wedge Capacity"
     ],
-    "requires": "|@Winged Light:2|"
+    "requires": "|@Actual WL:2|"
   },
   {
     "name": "Wing Level 3",
     "category": [
       "Wedge Capacity"
     ],
-    "requires": "|@Winged Light:5|"
+    "requires": "|@Actual WL:5|"
   },
   {
     "name": "Wing Level 4",
     "category": [
       "Wedge Capacity"
     ],
-    "requires": "|@Winged Light:10|"
+    "requires": "|@Actual WL:10|"
   },
   {
     "name": "Wing Level 5",
     "category": [
       "Wedge Capacity"
     ],
-    "requires": "|@Winged Light:20|"
+    "requires": "|@Actual WL:20|"
   },
   {
     "name": "Wing Level 6",
     "category": [
       "Wedge Capacity"
     ],
-    "requires": "|@Winged Light:35|"
+    "requires": "|@Actual WL:35|"
   },
   {
     "name": "Wing Level 7",
     "category": [
       "Wedge Capacity"
     ],
-    "requires": "|@Winged Light:55|"
+    "requires": "|@Actual WL:55|"
   },
   {
     "name": "Wing Level 8",
     "category": [
       "Wedge Capacity"
     ],
-    "requires": "|@Winged Light:75|"
+    "requires": "|@Actual WL:75|"
   },
   {
     "name": "Wing Level 9",
     "category": [
       "Wedge Capacity"
     ],
-    "requires": "|@Winged Light:100|"
+    "requires": "|@Actual WL:100|"
   }
 ]
