@@ -121,22 +121,41 @@ Don't send checks you didn't earn
 Don't use items that haven't been unlocked<br />
 Your locked items will depend on your YAML settings, but may include:
 - realms `(always on)`
+- the Wandering Carnival area `(always on)`
 - wedges `(always on)`
+- shortcuts `(always on)`
 - passing through spirit gates `(on by default)`
 - cosmetics `(off by default)`
 - props `(on by default)`
 - base emotes `(on by default)`
-- friendship emotes `(on by default)`
-- other seasonal emotes `(off by default)`
+- seasonal emotes `(off by default)`
 
-If emote locks are on, you should have the required emote before entering areas that require it, 
+Shortcut locks will lock the following areas' shortcuts from being used without the shortcut item:
+- The Wind Paths `(locks everything except the Forest Rest connection)`
+- The Treehouse `(locks everything except the Forest Rest connection)`
+- Harmony Hall `(locks everything except the Village of Dreams connection)`
+- Story Space `(locks everything except the Vault Rest connection)`
+
+Cosmetic locks can be done one of two ways:<br />
+Method 1:
+- cosmetics are unlocked along with the spirit you get them from
+- turn on cosmetic locks to lock cosmetics not obtained from a regular or seasonal spirit
+- using cosmetic locks, all remaining cosmetic items will be received by category
+- some categories may be left out of the game since they are considered filler items
+Method 2:
+- turn on cosmetic locks
+- all cosmetics are unlocked by category
+- some categories may be left out of the game since they are considered filler items
+
+If emote locks are on, you should have the corresponding emote before entering areas that require it, 
 even if other players opened the door<br />
 Likewise, you shouldn't have a friend drag you through a locked Spirit Gate
 
-I recommend against using props, shared spaces, white candle, piggy rocket, etc. 
+Do not use piggy rocket, chibi fall, white candle, warp, follow, or other items to gain a large advantage<br />
+I recommend against using props, shared spaces, shared memory recharge, friend recharge, etc. 
 to easily get somewhere that is possible to reach otherwise, or to get somewhere out of logic<br />
-This is why I recommend enabling Prop and Friendship Emote Locks<br />
-If you receive the item, feel free to use it in this way, however, they will not be required to progress
+If you receive the item, feel free to use it in this way, however, they will not be required to progress<br />
+I intend to add logic for them in a future update
 
 "Find Children of Light" means you can either collect it, or stand on where it normally is
 
@@ -148,7 +167,7 @@ If you start with extra, you won't be able to use it until someone unlocks your 
 
 You may run into impossible scenerios if your account has not:
 - relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
-- unlocked shortcuts for The Wind Paths and The Treehouse
+- unlocked shortcuts for The Wind Paths, The Treehouse, and Harmony Hall
 - progressed through the first three Cave of Prophecy quests
 - progressed through the Vault of Knowledge
 

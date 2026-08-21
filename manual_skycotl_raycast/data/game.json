@@ -9,9 +9,9 @@
         "items": []
     },
     {
-        "items": ["Wandering Carnival Key", "Isle of Dawn Key", "Daylight Prairie Key", 
-                  "Hidden Forest Key", "Valley of Triumph Key", "Golden Wasteland Key",
-                  "Vault of Knowledge Key"],
+        "items": ["Wandering Carnival Unlock", "Isle of Dawn Unlock", "Daylight Prairie Unlock", 
+                  "Hidden Forest Unlock", "Valley of Triumph Unlock", "Golden Wasteland Unlock",
+                  "Vault of Knowledge Unlock"],
         "random": 1
     }
   ]

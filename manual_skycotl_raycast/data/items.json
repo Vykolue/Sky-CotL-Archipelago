@@ -1,83 +1,102 @@
 [
   {
     "count": 1,
-    "name": "Wandering Carnival Key",
+    "name": "Isle of Dawn Unlock",
+    "category": [
+      "Realms"
+    ],
+    "progression": true,
+    "sort-key": "d-realm-1-unlock"
+  },
+  {
+    "count": 1,
+    "name": "Daylight Prairie Unlock",
+    "category": [
+      "Realms"
+    ],
+    "progression": true,
+    "sort-key": "d-realm-2-unlock"
+  },
+  {
+    "count": 1,
+    "name": "Hidden Forest Unlock",
+    "category": [
+      "Realms"
+    ],
+    "progression": true,
+    "sort-key": "d-realm-3-unlock"
+  },
+  {
+    "count": 1,
+    "name": "Valley of Triumph Unlock",
+    "category": [
+      "Realms"
+    ],
+    "progression": true,
+    "sort-key": "d-realm-4-unlock"
+  },
+  {
+    "count": 1,
+    "name": "Golden Wasteland Unlock",
+    "category": [
+      "Realms"
+    ],
+    "progression": true,
+    "sort-key": "d-realm-5-unlock"
+  },
+  {
+    "count": 1,
+    "name": "Vault of Knowledge Unlock",
+    "category": [
+      "Realms"
+    ],
+    "progression": true,
+    "sort-key": "d-realm-6-unlock"
+  },
+  {
+    "count": 1,
+    "name": "The Treehouse Shortcuts",
+    "category": [
+      "Shortcuts"
+    ],
+    "useful": true,
+    "sort-key": "f-shortcuts-0"
+  },
+  {
+    "count": 1,
+    "name": "The Wind Paths Shortcuts",
+    "category": [
+      "Shortcuts"
+    ],
+    "useful": true,
+    "sort-key": "f-shortcuts-1"
+  },
+  {
+    "count": 1,
+    "name": "Story Space Shortcuts",
+    "category": [
+      "Shortcuts"
+    ],
+    "progression": true,
+    "sort-key": "f-shortcuts-2"
+  },
+  {
+    "count": 1,
+    "name": "Harmony Hall Shortcuts",
+    "category": [
+      "Shortcuts"
+    ],
+    "useful": true,
+    "sort-key": "f-shortcuts-3"
+  },
+  {
+    "count": 1,
+    "name": "Wandering Carnival Unlock",
     "category": [
       "Areas"
     ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Isle of Dawn Key",
-    "category": [
-      "Realms"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Daylight Prairie Key",
-    "category": [
-      "Realms"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Hidden Forest Key",
-    "category": [
-      "Realms"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Treehouse",
-    "category": [
-      "Shortcuts"
-    ],
-    "progression": "{YamlEnabled(winged_light_run)}"
-  },
-  {
-    "count": 1,
-    "name": "The Wind Paths",
-    "category": [
-      "Shortcuts"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Valley of Triumph Key",
-    "category": [
-      "Realms"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Golden Wasteland Key",
-    "category": [
-      "Realms"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Vault of Knowledge Key",
-    "category": [
-      "Realms"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Hall of Stories",
-    "category": [
-      "Shortcuts"
-    ],
-    "progression": true
+    "progression": true,
+    "sort-key": "e-area-0-1-unlock"
   },
   {
     "count": 50,
@@ -85,7 +104,8 @@
     "category": [
       "Winged Light"
     ],
-    "progression": true
+    "progression": true,
+    "sort-key": "a-goal-items"
   },
   {
     "count": 9,
@@ -93,7 +113,8 @@
     "category": [
       "Wedges"
     ],
-    "progression": true
+    "progression": true,
+    "sort-key": "b-other-items-0"
   },
   {
     "count": 1,
@@ -102,7 +123,8 @@
       "Regular Isle Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-0"
   },
   {
     "count": 1,
@@ -111,7 +133,8 @@
       "Regular Isle Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-1"
   },
   {
     "count": 1,
@@ -120,7 +143,8 @@
       "Regular Isle Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-2"
   },
   {
     "count": 1,
@@ -129,7 +153,8 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)} OR {YamlEnabled(emote_locks)}",
+    "sort-key": "c-spirit-a-regular-3"
   },
   {
     "count": 1,
@@ -138,7 +163,8 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-4"
   },
   {
     "count": 1,
@@ -147,7 +173,8 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-5"
   },
   {
     "count": 1,
@@ -156,7 +183,8 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-6"
   },
   {
     "count": 1,
@@ -165,7 +193,8 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-7"
   },
   {
     "count": 1,
@@ -174,7 +203,8 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-8"
   },
   {
     "count": 1,
@@ -183,7 +213,8 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-9"
   },
   {
     "count": 1,
@@ -192,7 +223,8 @@
       "Regular Prairie Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-10"
   },
   {
     "count": 1,
@@ -201,7 +233,8 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-11"
   },
   {
     "count": 1,
@@ -210,7 +243,8 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-12"
   },
   {
     "count": 1,
@@ -219,7 +253,8 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-13"
   },
   {
     "count": 1,
@@ -228,7 +263,8 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)} OR {YamlEnabled(emote_locks)}",
+    "sort-key": "c-spirit-a-regular-14"
   },
   {
     "count": 1,
@@ -237,7 +273,8 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-15"
   },
   {
     "count": 1,
@@ -246,7 +283,8 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-16"
   },
   {
     "count": 1,
@@ -255,7 +293,8 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-17"
   },
   {
     "count": 1,
@@ -264,7 +303,8 @@
       "Regular Forest Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-18"
   },
   {
     "count": 1,
@@ -273,7 +313,8 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-19"
   },
   {
     "count": 1,
@@ -282,7 +323,8 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-20"
   },
   {
     "count": 1,
@@ -291,7 +333,8 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-21"
   },
   {
     "count": 1,
@@ -300,7 +343,8 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-22"
   },
   {
     "count": 1,
@@ -309,7 +353,8 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-23"
   },
   {
     "count": 1,
@@ -318,7 +363,8 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-24"
   },
   {
     "count": 1,
@@ -327,7 +373,8 @@
       "Regular Valley Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-25"
   },
   {
     "count": 1,
@@ -336,7 +383,8 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-26"
   },
   {
     "count": 1,
@@ -345,7 +393,8 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-27"
   },
   {
     "count": 1,
@@ -354,7 +403,8 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-28"
   },
   {
     "count": 1,
@@ -363,7 +413,8 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-29"
   },
   {
     "count": 1,
@@ -372,7 +423,8 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-30"
   },
   {
     "count": 1,
@@ -381,7 +433,8 @@
       "Regular Wasteland Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-31"
   },
   {
     "count": 1,
@@ -390,7 +443,8 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-32"
   },
   {
     "count": 1,
@@ -399,7 +453,8 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-33"
   },
   {
     "count": 1,
@@ -408,7 +463,8 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-34"
   },
   {
     "count": 1,
@@ -417,7 +473,8 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-35"
   },
   {
     "count": 1,
@@ -426,7 +483,8 @@
       "Regular Vault Spirit",
       "Rescue Regular Spirit"
     ],
-    "progression": "{YamlEnabled(spirit_emote_locks)}"
+    "progression": "{YamlEnabled(spirit_gate_locks)}",
+    "sort-key": "c-spirit-a-regular-36"
   },
   {
     "count": 1,
@@ -434,7 +492,8 @@
     "category": [
       "Cosmetic"
     ],
-    "filler": true
+    "filler": true,
+    "sort-key": "h-cosmetics-3-1"
   },
   {
     "count": 1,
@@ -442,7 +501,8 @@
     "category": [
       "Cosmetic"
     ],
-    "filler": true
+    "filler": true,
+    "sort-key": "h-cosmetics-2-1"
   },
   {
     "count": 1,
@@ -450,7 +510,8 @@
     "category": [
       "Cosmetic"
     ],
-    "filler": true
+    "filler": true,
+    "sort-key": "h-cosmetics-1-1"
   },
   {
     "count": 1,
@@ -458,7 +519,8 @@
     "category": [
       "Cosmetic"
     ],
-    "filler": true
+    "filler": true,
+    "sort-key": "h-cosmetics-4"
   },
   {
     "count": 1,
@@ -466,7 +528,8 @@
     "category": [
       "Props"
     ],
-    "filler": true
+    "filler": true,
+    "sort-key": "h-cosmetics-5-1"
   },
   {
     "count": 1,
@@ -474,7 +537,8 @@
     "category": [
       "Props"
     ],
-    "useful": true
+    "useful": true,
+    "sort-key": "h-cosmetics-5-3"
   },
   {
     "count": 1,
@@ -482,7 +546,8 @@
     "category": [
       "Props"
     ],
-    "useful": true
+    "useful": true,
+    "sort-key": "h-cosmetics-5-2"
   },
   {
     "count": 1,
@@ -490,7 +555,8 @@
     "category": [
       "Cosmetic"
     ],
-    "filler": true
+    "filler": true,
+    "sort-key": "h-cosmetics-3-2"
   },
   {
     "count": 1,
@@ -498,7 +564,8 @@
     "category": [
       "Cosmetic"
     ],
-    "filler": true
+    "filler": true,
+    "sort-key": "h-cosmetics-2-2"
   },
   {
     "count": 1,
@@ -506,7 +573,8 @@
     "category": [
       "Cosmetic"
     ],
-    "filler": true
+    "filler": true,
+    "sort-key": "h-cosmetics-1-2"
   },
   {
     "count": 1,
@@ -514,7 +582,8 @@
     "category": [
       "Cosmetic"
     ],
-    "filler": true
+    "filler": true,
+    "sort-key": "h-cosmetics-2-3"
   },
   {
     "count": 1,
@@ -522,7 +591,8 @@
     "category": [
       "Cosmetic"
     ],
-    "filler": true
+    "filler": true,
+    "sort-key": "h-cosmetics-3-3"
   },
   {
     "count": 1,
@@ -530,7 +600,8 @@
     "category": [
       "Cosmetic"
     ],
-    "filler": true
+    "filler": true,
+    "sort-key": "h-cosmetics-0"
   },
   {
     "count": 50,
@@ -538,7 +609,8 @@
     "category": [
       "Filler"
     ],
-    "filler": true
+    "filler": true,
+    "sort-key": "j-filler"
   },
   {
     "count": 5,
@@ -547,7 +619,8 @@
       "Heart Trap",
       "Traps"
     ],
-    "trap": true
+    "trap": true,
+    "sort-key": "g-traps-0"
   },
   {
     "count": 10,
@@ -556,7 +629,8 @@
       "Unskippable Cutscene",
       "Traps"
     ],
-    "trap": true
+    "trap": true,
+    "sort-key": "g-traps-1"
   },
   {
     "count": 1,
@@ -565,7 +639,28 @@
       "Tranquil Garden",
       "Traps"
     ],
-    "trap": true
+    "trap": true,
+    "sort-key": "g-traps-2"
+  },
+  {
+    "count": 10,
+    "name": "Home Trap",
+    "category": [
+      "Home Trap",
+      "Traps"
+    ],
+    "trap": true,
+    "sort-key": "g-traps-3"
+  },
+  {
+    "count": 5,
+    "name": "Forgot How to Jump",
+    "category": [
+      "Forgot How to Jump",
+      "Traps"
+    ],
+    "trap": true,
+    "sort-key": "g-traps-4"
   },
   {
     "count": 1,
@@ -574,7 +669,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-0"
   },
   {
     "count": 1,
@@ -583,7 +679,8 @@
     "category": [
       "Seasonal Valley Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-1"
   },
   {
     "count": 1,
@@ -592,7 +689,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-2"
   },
   {
     "count": 1,
@@ -601,7 +699,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-3"
   },
   {
     "count": 1,
@@ -610,7 +709,8 @@
     "category": [
       "Seasonal Isle Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-4"
   },
   {
     "count": 1,
@@ -619,7 +719,8 @@
     "category": [
       "Seasonal Prairie Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-5"
   },
   {
     "count": 1,
@@ -628,7 +729,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-6"
   },
   {
     "count": 1,
@@ -636,8 +738,9 @@
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
-      "Rescue Friendship Emote Spirit"
-    ]
+      "Rescue Seasonal Spirit"
+    ],
+    "sort-key": "c-spirit-b-seasonal-7"
   },
   {
     "count": 1,
@@ -646,7 +749,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-8"
   },
   {
     "count": 1,
@@ -654,8 +758,9 @@
     "useful": true,
     "category": [
       "Seasonal Isle Spirit",
-      "Rescue Friendship Emote Spirit"
-    ]
+      "Rescue Seasonal Spirit"
+    ],
+    "sort-key": "c-spirit-b-seasonal-9"
   },
   {
     "count": 1,
@@ -664,7 +769,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-10"
   },
   {
     "count": 1,
@@ -673,7 +779,8 @@
     "category": [
       "Seasonal Valley Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-11"
   },
   {
     "count": 1,
@@ -682,7 +789,8 @@
     "category": [
       "Seasonal Isle Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-12"
   },
   {
     "count": 1,
@@ -691,7 +799,8 @@
     "category": [
       "Seasonal Prairie Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-13"
   },
   {
     "count": 1,
@@ -699,8 +808,9 @@
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
-      "Rescue Friendship Emote Spirit"
-    ]
+      "Rescue Seasonal Spirit"
+    ],
+    "sort-key": "c-spirit-b-seasonal-14"
   },
   {
     "count": 1,
@@ -709,7 +819,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-15"
   },
   {
     "count": 1,
@@ -718,7 +829,8 @@
     "category": [
       "Seasonal Valley Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-16"
   },
   {
     "count": 1,
@@ -727,7 +839,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-17"
   },
   {
     "count": 1,
@@ -736,7 +849,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-18"
   },
   {
     "count": 1,
@@ -745,7 +859,8 @@
     "category": [
       "Seasonal Prairie Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-19"
   },
   {
     "count": 1,
@@ -754,7 +869,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-20"
   },
   {
     "count": 1,
@@ -763,7 +879,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-21"
   },
   {
     "count": 1,
@@ -772,7 +889,8 @@
     "category": [
       "Seasonal Isle Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-22"
   },
   {
     "count": 1,
@@ -781,7 +899,8 @@
     "category": [
       "Seasonal Valley Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-23"
   },
   {
     "count": 1,
@@ -790,7 +909,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-24"
   },
   {
     "count": 1,
@@ -799,7 +919,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-25"
   },
   {
     "count": 1,
@@ -808,7 +929,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-26"
   },
   {
     "count": 1,
@@ -816,8 +938,9 @@
     "filler": true,
     "category": [
       "Seasonal Wasteland Spirit",
-      "Rescue Friendship Emote Spirit"
-    ]
+      "Rescue Seasonal Spirit"
+    ],
+    "sort-key": "c-spirit-b-seasonal-27"
   },
   {
     "count": 1,
@@ -826,7 +949,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-28"
   },
   {
     "count": 1,
@@ -835,7 +959,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-29"
   },
   {
     "count": 1,
@@ -844,7 +969,8 @@
     "category": [
       "Seasonal Prairie Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-30"
   },
   {
     "count": 1,
@@ -853,7 +979,8 @@
     "category": [
       "Seasonal Prairie Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-31"
   },
   {
     "count": 1,
@@ -862,7 +989,8 @@
     "category": [
       "Seasonal Prairie Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-32"
   },
   {
     "count": 1,
@@ -871,7 +999,8 @@
     "category": [
       "Seasonal Prairie Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-33"
   },
   {
     "count": 1,
@@ -880,7 +1009,8 @@
     "category": [
       "Seasonal Prairie Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-34"
   },
   {
     "count": 1,
@@ -889,7 +1019,8 @@
     "category": [
       "Seasonal Prairie Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-35"
   },
   {
     "count": 1,
@@ -898,7 +1029,8 @@
     "category": [
       "Seasonal Isle Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-36"
   },
   {
     "count": 1,
@@ -907,7 +1039,8 @@
     "category": [
       "Seasonal Isle Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-37"
   },
   {
     "count": 1,
@@ -916,7 +1049,8 @@
     "category": [
       "Seasonal Isle Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-38"
   },
   {
     "count": 1,
@@ -925,7 +1059,8 @@
     "category": [
       "Seasonal Isle Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-39"
   },
   {
     "count": 1,
@@ -933,8 +1068,9 @@
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
-      "Rescue Friendship Emote Spirit"
-    ]
+      "Rescue Seasonal Spirit"
+    ],
+    "sort-key": "c-spirit-b-seasonal-40"
   },
   {
     "count": 1,
@@ -943,7 +1079,8 @@
     "category": [
       "Seasonal Valley Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-41"
   },
   {
     "count": 1,
@@ -952,7 +1089,8 @@
     "category": [
       "Seasonal Valley Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-42"
   },
   {
     "count": 1,
@@ -961,7 +1099,8 @@
     "category": [
       "Seasonal Valley Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-43"
   },
   {
     "count": 1,
@@ -970,7 +1109,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-44"
   },
   {
     "count": 1,
@@ -979,7 +1119,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-45"
   },
   {
     "count": 1,
@@ -988,7 +1129,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-46"
   },
   {
     "count": 1,
@@ -997,7 +1139,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-47"
   },
   {
     "count": 1,
@@ -1006,7 +1149,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-48"
   },
   {
     "count": 1,
@@ -1015,7 +1159,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-49"
   },
   {
     "count": 1,
@@ -1024,7 +1169,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-50"
   },
   {
     "count": 1,
@@ -1033,7 +1179,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-51"
   },
   {
     "count": 1,
@@ -1042,7 +1189,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-52"
   },
   {
     "count": 1,
@@ -1051,7 +1199,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-53"
   },
   {
     "count": 1,
@@ -1060,7 +1209,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-54"
   },
   {
     "count": 1,
@@ -1069,7 +1219,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-55"
   },
   {
     "count": 1,
@@ -1078,7 +1229,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-56"
   },
   {
     "count": 1,
@@ -1087,16 +1239,18 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-57"
   },
   {
     "count": 1,
-    "name": "Rescued Talented Builder (Voilà)",
+    "name": "Rescued Talented Builder (Voil\u00c3\u00a0)",
     "filler": true,
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-58"
   },
   {
     "count": 1,
@@ -1105,7 +1259,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-59"
   },
   {
     "count": 1,
@@ -1114,7 +1269,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-60"
   },
   {
     "count": 1,
@@ -1123,7 +1279,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-61"
   },
   {
     "count": 1,
@@ -1132,7 +1289,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-62"
   },
   {
     "count": 1,
@@ -1141,7 +1299,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-63"
   },
   {
     "count": 1,
@@ -1150,7 +1309,8 @@
     "category": [
       "Seasonal Valley Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-64"
   },
   {
     "count": 1,
@@ -1158,8 +1318,9 @@
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
-      "Rescue Friendship Emote Spirit"
-    ]
+      "Rescue Seasonal Spirit"
+    ],
+    "sort-key": "c-spirit-b-seasonal-65"
   },
   {
     "count": 1,
@@ -1168,7 +1329,8 @@
     "category": [
       "Seasonal Valley Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-66"
   },
   {
     "count": 1,
@@ -1176,8 +1338,9 @@
     "filler": true,
     "category": [
       "Seasonal Valley Spirit",
-      "Rescue Friendship Emote Spirit"
-    ]
+      "Rescue Seasonal Spirit"
+    ],
+    "sort-key": "c-spirit-b-seasonal-67"
   },
   {
     "count": 1,
@@ -1186,7 +1349,8 @@
     "category": [
       "Seasonal Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-68"
   },
   {
     "count": 1,
@@ -1195,7 +1359,8 @@
     "category": [
       "Seasonal Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-69"
   },
   {
     "count": 1,
@@ -1204,7 +1369,8 @@
     "category": [
       "Seasonal Valley Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-70"
   },
   {
     "count": 1,
@@ -1213,7 +1379,8 @@
     "category": [
       "Seasonal Valley Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-71"
   },
   {
     "count": 1,
@@ -1222,7 +1389,8 @@
     "category": [
       "Seasonal Valley Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-72"
   },
   {
     "count": 1,
@@ -1231,7 +1399,8 @@
     "category": [
       "Seasonal Valley Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-73"
   },
   {
     "count": 1,
@@ -1240,7 +1409,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-74"
   },
   {
     "count": 1,
@@ -1249,7 +1419,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-75"
   },
   {
     "count": 1,
@@ -1258,7 +1429,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-76"
   },
   {
     "count": 1,
@@ -1267,7 +1439,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-77"
   },
   {
     "count": 1,
@@ -1276,7 +1449,8 @@
     "category": [
       "Seasonal Isle Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-78"
   },
   {
     "count": 1,
@@ -1285,7 +1459,8 @@
     "category": [
       "Seasonal Isle Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-79"
   },
   {
     "count": 1,
@@ -1294,7 +1469,8 @@
     "category": [
       "Seasonal Isle Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-80"
   },
   {
     "count": 1,
@@ -1303,7 +1479,8 @@
     "category": [
       "Seasonal Isle Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-81"
   },
   {
     "count": 1,
@@ -1312,7 +1489,8 @@
     "category": [
       "Seasonal Prairie Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-82"
   },
   {
     "count": 1,
@@ -1321,7 +1499,8 @@
     "category": [
       "Seasonal Prairie Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-83"
   },
   {
     "count": 1,
@@ -1330,7 +1509,8 @@
     "category": [
       "Seasonal Prairie Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-84"
   },
   {
     "count": 1,
@@ -1338,8 +1518,9 @@
     "filler": true,
     "category": [
       "Seasonal Prairie Spirit",
-      "Rescue Friendship Emote Spirit"
-    ]
+      "Rescue Seasonal Spirit"
+    ],
+    "sort-key": "c-spirit-b-seasonal-85"
   },
   {
     "count": 1,
@@ -1347,8 +1528,9 @@
     "useful": true,
     "category": [
       "Seasonal Vault Spirit",
-      "Rescue Friendship Emote Spirit"
-    ]
+      "Rescue Seasonal Spirit"
+    ],
+    "sort-key": "c-spirit-b-seasonal-86"
   },
   {
     "count": 1,
@@ -1357,7 +1539,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-87"
   },
   {
     "count": 1,
@@ -1366,7 +1549,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-88"
   },
   {
     "count": 1,
@@ -1375,7 +1559,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-89"
   },
   {
     "count": 1,
@@ -1384,7 +1569,8 @@
     "category": [
       "Seasonal Aviary Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-90"
   },
   {
     "count": 1,
@@ -1393,7 +1579,8 @@
     "category": [
       "Seasonal Aviary Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-91"
   },
   {
     "count": 1,
@@ -1402,7 +1589,8 @@
     "category": [
       "Seasonal Aviary Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-92"
   },
   {
     "count": 1,
@@ -1411,7 +1599,8 @@
     "category": [
       "Seasonal Aviary Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-93"
   },
   {
     "count": 1,
@@ -1420,7 +1609,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-94"
   },
   {
     "count": 1,
@@ -1429,7 +1619,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-95"
   },
   {
     "count": 1,
@@ -1438,7 +1629,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-96"
   },
   {
     "count": 1,
@@ -1447,7 +1639,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-97"
   },
   {
     "count": 1,
@@ -1456,7 +1649,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-98"
   },
   {
     "count": 1,
@@ -1465,7 +1659,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-99"
   },
   {
     "count": 1,
@@ -1474,7 +1669,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-100"
   },
   {
     "count": 1,
@@ -1483,7 +1679,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-101"
   },
   {
     "count": 1,
@@ -1492,7 +1689,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-102"
   },
   {
     "count": 1,
@@ -1501,7 +1699,8 @@
     "category": [
       "Seasonal Wasteland Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-103"
   },
   {
     "count": 1,
@@ -1510,7 +1709,8 @@
     "category": [
       "Seasonal Isle Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-104"
   },
   {
     "count": 1,
@@ -1519,7 +1719,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-105"
   },
   {
     "count": 1,
@@ -1528,7 +1729,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-106"
   },
   {
     "count": 1,
@@ -1537,7 +1739,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-107"
   },
   {
     "count": 1,
@@ -1546,7 +1749,8 @@
     "category": [
       "Seasonal Forest Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-108"
   },
   {
     "count": 1,
@@ -1554,8 +1758,9 @@
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
-      "Rescue Friendship Emote Spirit"
-    ]
+      "Rescue Seasonal Spirit"
+    ],
+    "sort-key": "c-spirit-b-seasonal-109"
   },
   {
     "count": 1,
@@ -1563,8 +1768,9 @@
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
-      "Rescue Friendship Emote Spirit"
-    ]
+      "Rescue Seasonal Spirit"
+    ],
+    "sort-key": "c-spirit-b-seasonal-110"
   },
   {
     "count": 1,
@@ -1572,8 +1778,9 @@
     "filler": true,
     "category": [
       "Seasonal Vault Spirit",
-      "Rescue Friendship Emote Spirit"
-    ]
+      "Rescue Seasonal Spirit"
+    ],
+    "sort-key": "c-spirit-b-seasonal-111"
   },
   {
     "count": 1,
@@ -1582,7 +1789,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-112"
   },
   {
     "count": 1,
@@ -1591,7 +1799,8 @@
     "category": [
       "Seasonal Aviary Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-113"
   },
   {
     "count": 1,
@@ -1600,7 +1809,8 @@
     "category": [
       "Seasonal Aviary Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-114"
   },
   {
     "count": 1,
@@ -1609,7 +1819,8 @@
     "category": [
       "Seasonal Aviary Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-115"
   },
   {
     "count": 1,
@@ -1618,7 +1829,8 @@
     "category": [
       "Seasonal Aviary Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-116"
   },
   {
     "count": 1,
@@ -1627,7 +1839,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-117"
   },
   {
     "count": 1,
@@ -1636,7 +1849,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-118"
   },
   {
     "count": 1,
@@ -1645,7 +1859,8 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-119"
   },
   {
     "count": 1,
@@ -1654,6 +1869,7 @@
     "category": [
       "Seasonal Vault Spirit",
       "Rescue Seasonal Spirit"
-    ]
+    ],
+    "sort-key": "c-spirit-b-seasonal-120"
   }
 ]

@@ -33,9 +33,17 @@
             "group": "Game Mode"
         },
         
-        "spirit_emote_locks": {
+        "spirit_gate_locks": {
             "description": [
-                "Require Rescue Spirit items to pass through Spirit Gates or use Emotes",
+                "Require Rescue Spirit items to pass through Spirit Gates"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Locks"
+        },
+        "emote_locks": {
+            "description": [
+                "Require Rescue Spirit items to use Regular Spirit Emotes",
                 "",
                 "Some checks are locked behind having a certain emote"
             ],
@@ -47,18 +55,10 @@
             "description": [
                 "Require Rescue Seasonal Spirit items to use Seasonal Emotes",
                 "",
-                "These are considered filler items and may be left out of the game if there are more items than locations"
+                "These are considered filler items and may be left out of the game"
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Locks"
-        },
-        "friendship_emote_locks": {
-            "description": [
-                "Require Rescue Friendship Emote Spirit items to use Friendship Emotes"
-            ],
-            "type": "Toggle",
-            "default": true,
             "group": "Locks"
         },
         "cosmetic_locks": {

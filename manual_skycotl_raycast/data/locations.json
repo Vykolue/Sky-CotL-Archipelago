@@ -50,7 +50,7 @@
       "Isle of Dawn",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "(|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) OR (|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
     "region": "Dawn Circle"
   },
   {

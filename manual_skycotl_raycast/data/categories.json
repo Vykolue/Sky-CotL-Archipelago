@@ -11,14 +11,10 @@
         "yaml_option": ["daily_music_challenge"]
     },
     "Rescue Regular Spirit": {
-        "yaml_option": ["spirit_emote_locks"],
         "hidden": true
     },
     "Rescue Seasonal Spirit": {
         "yaml_option": ["seasonal_emote_locks"]
-    },
-    "Rescue Friendship Emote Spirit": {
-        "yaml_option": ["friendship_emote_locks"]
     },
     "Cosmetic": {
         "yaml_option": ["cosmetic_locks"]

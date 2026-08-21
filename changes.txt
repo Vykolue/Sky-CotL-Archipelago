@@ -1,3 +1,13 @@
 CHANGES:
 
 made macguffins non-local, and changed them to be more similar to the vanilla game requirements
+
+updated how shortcuts work
+
+added sorting to items
+
+renamed key to unlock
+
+updated how cosmetic locks work
+
+added region entrance requirements and updated connections

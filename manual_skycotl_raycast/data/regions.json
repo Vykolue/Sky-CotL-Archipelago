@@ -30,9 +30,14 @@
       "Nesting Workshop",
       "Concert Hall",
       "Dye Workshop",
-      "Wandering Carnival"
+      "Wandering Carnival",
+      "Story Space"
     ],
-    "requires": ""
+    "requires": "",
+    "entrance_requires": {
+      "The Wind Paths": "|The Wind Paths Shortcuts|",
+      "Story Space": "|Story Space Shortcuts|"
+    }
   },
   "Nesting Workshop": {
     "connects_to": [],
@@ -47,37 +52,44 @@
     "requires": ""
   },
   "Wandering Carnival": {
-    "connects_to": [],
-    "requires": "|Wandering Carnival Key|"
+    "connects_to": [
+      "Aviary Village"
+    ],
+    "requires": "|Wandering Carnival Unlock|"
   },
   "Passage Rock": {
     "connects_to": [
       "Dawn Circle"
     ],
-    "requires": "|Isle of Dawn Key|"
+    "requires": "|Isle of Dawn Unlock|"
   },
   "Dawn Circle": {
     "connects_to": [
       "Temple of the Isle",
       "Cave of Prophecies",
-      "Passage Stone"
+      "Dawn Overlook"
     ],
-    "requires": "|Isle of Dawn Key|"
+    "requires": "|Isle of Dawn Unlock|"
   },
   "Temple of the Isle": {
     "connects_to": [
       "Dawn Overlook",
-      "Prairie Rest"
+      "Temple of the Isle End"
     ],
-    "requires": "|Isle of Dawn Key|"
-  },
-  "Passage Stone": {
-    "connects_to": [],
-    "requires": "|Isle of Dawn Key|"
+    "requires": "|Isle of Dawn Unlock|",
+    "entrance_requires": {
+      "Dawn Circle": "(|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}"
+    }
   },
   "Dawn Overlook": {
-    "connects_to": [],
-    "requires": "|Isle of Dawn Key|"
+    "connects_to": [
+      "Temple of the Isle",
+      "Dawn Circle"
+    ],
+    "requires": "|Isle of Dawn Unlock|",
+    "entrance_requires": {
+      "Dawn Circle": "|@Wedges:7| AND |@Wedge Capacity:7|"
+    }
   },
   "Cave of Prophecies": {
     "connects_to": [
@@ -87,92 +99,144 @@
       "Trial of Air",
       "Trial of Fire"
     ],
-    "requires": "|Isle of Dawn Key| AND ((|@Regular Forest Spirit:2| OR (|The Wind Paths| AND |@Regular Vault Spirit:1|)) OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Isle of Dawn Unlock|",
+    "entrance_requires": {
+      "Dawn Circle": "|@Regular Forest Spirit:2| OR {YamlDisabled(spirit_gate_locks)}",
+      "The Wind Paths": "|The Wind Paths Shortcuts|"
+    }
   },
   "Trial of Water": {
     "connects_to": [],
-    "requires": "|Isle of Dawn Key|"
+    "requires": "|Isle of Dawn Unlock|"
   },
   "Trial of Earth": {
     "connects_to": [],
-    "requires": "|Isle of Dawn Key|"
+    "requires": "|Isle of Dawn Unlock|"
   },
   "Trial of Air": {
     "connects_to": [],
-    "requires": "|Isle of Dawn Key| AND |@Wedges:5| AND |@Wedge Capacity:5|"
+    "requires": "|Isle of Dawn Unlock|",
+    "entrance_requires": {
+      "Cave of Prophecies": "|@Wedges:5| AND |@Wedge Capacity:5|"
+    }
   },
   "Trial of Fire": {
     "connects_to": [],
-    "requires": "|Isle of Dawn Key|"
+    "requires": "|Isle of Dawn Unlock|"
+  },
+  "Temple of the Isle End": {
+    "connects_to": [
+      "Prairie Rest"
+    ],
+    "requires": "|Isle of Dawn Unlock|"
   },
   "Prairie Rest": {
     "connects_to": [
-      "Butterfly Fields"
+      "Butterfly Fields",
+      "Temple of the Isle End"
     ],
-    "requires": "|Daylight Prairie Key|"
+    "requires": "|Daylight Prairie Unlock|",
+    "entrance_requires": {
+      "Butterfly Fields": "|@Wedges:1| AND |@Wedge Capacity:1|"
+    }
   },
   "Butterfly Fields": {
     "connects_to": [
       "Prairie Cave",
       "Prairie Village",
-      "Bird Nest"
+      "Bird Nest",
+      "Prairie Rest"
     ],
-    "requires": "|Daylight Prairie Key|"
+    "requires": "|Daylight Prairie Unlock|"
   },
   "Prairie Cave": {
     "connects_to": [
-      "Prairie Peaks"
+      "Prairie Peaks",
+      "Prairie Village",
+      "Butterfly Fields"
     ],
-    "requires": "|Daylight Prairie Key| AND ((|@Regular Isle Spirit:2| AND |@Regular Prairie Spirit:3|) OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Daylight Prairie Unlock|",
+    "entrance_requires": {
+      "Butterfly Fields": "(|@Regular Isle Spirit:2| AND |@Regular Prairie Spirit:3|) OR {YamlDisabled(spirit_gate_locks)}",
+      "Prairie Village": "(|@Regular Isle Spirit:2| AND |@Regular Prairie Spirit:3|) OR {YamlDisabled(spirit_gate_locks)}"
+    }
   },
   "Prairie Village": {
     "connects_to": [
       "Temple of the Prairie",
-      "Prairie Heights"
+      "Prairie Heights",
+      "Prairie Cave",
+      "Bird Nest"
     ],
-    "requires": "|Daylight Prairie Key|"
+    "requires": "|Daylight Prairie Unlock|"
   },
   "Bird Nest": {
     "connects_to": [
-      "Sanctuary Islands"
+      "Sanctuary Islands",
+      "Butterfly Fields",
+      "Prairie Village"
     ],
-    "requires": "|Daylight Prairie Key| AND (|@Regular Prairie Spirit:4| OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Daylight Prairie Unlock|",
+    "entrance_requires": {
+      "Butterfly Fields": "|@Regular Prairie Spirit:4| OR {YamlDisabled(spirit_gate_locks)}",
+      "Prairie Village": "|@Regular Prairie Spirit:4| OR {YamlDisabled(spirit_gate_locks)}"
+    }
   },
   "Prairie Peaks": {
-    "connects_to": [],
-    "requires": "|Daylight Prairie Key| AND (|@Regular Forest Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
+    "connects_to": [
+      "Prairie Cave"
+    ],
+    "requires": "|Daylight Prairie Unlock|",
+    "entrance_requires": {
+      "Prairie Cave": "|@Regular Forest Spirit:1| OR {YamlDisabled(spirit_gate_locks)}"
+    }
   },
   "Prairie Heights": {
     "connects_to": [
       "Temple of the Prairie"
     ],
-    "requires": "|Daylight Prairie Key| AND ((|@Regular Prairie Spirit:6| AND |Rescued Butterfly Charmer (Butterfly)|) OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Daylight Prairie Unlock|",
+    "entrance_requires": {
+      "Prairie Village": "(|@Regular Prairie Spirit:6| OR {YamlDisabled(spirit_gate_locks)}) AND (|Rescued Butterfly Charmer (Butterfly)| OR {YamlDisabled(emote_locks)})"
+    }
   },
   "Sanctuary Islands": {
     "connects_to": [
-      "The Wind Paths"
+      "The Wind Paths",
+      "Bird Nest"
     ],
-    "requires": "|Daylight Prairie Key|"
+    "requires": "|Daylight Prairie Unlock|",
+    "entrance_requires": {
+      "The Wind Paths": "|The Wind Paths Shortcuts|"
+    }
   },
   "Temple of the Prairie": {
     "connects_to": [
       "Forest Rest"
     ],
-    "requires": "|Daylight Prairie Key|"
+    "requires": "|Daylight Prairie Unlock|",
+    "entrance_requires": {
+      
+    }
   },
   "Forest Rest": {
     "connects_to": [
       "Forest Courtyard",
-      "The Wind Paths"
+      "The Wind Paths",
+      "The Treehouse"
     ],
-    "requires": "|Hidden Forest Key|"
+    "requires": "|Hidden Forest Unlock|"
   },
   "Forest Courtyard": {
     "connects_to": [
       "The Treehouse",
       "Forest Brook"
     ],
-    "requires": "|Hidden Forest Key|"
+    "requires": "|Hidden Forest Unlock|",
+    "entrance_requires": {
+      "The Treehouse": "|The Treehouse Shortcuts|",
+      "Forest Brook": "|@Wedges:1| AND |@Wedge Capacity:1|"
+    }
   },
   "The Treehouse": {
     "connects_to": [
@@ -180,52 +244,77 @@
       "Forest Brook",
       "Boneyard"
     ],
-    "requires": "|Hidden Forest Key| AND |The Treehouse| AND (|@Regular Valley Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Hidden Forest Unlock|",
+    "entrance_requires": {
+      "Forest Rest": "|@Regular Valley Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
+      "Forest Courtyard": "|The Treehouse Shortcuts|",
+      "Forest Brook": "|The Treehouse Shortcuts|",
+      "Boneyard": "|The Treehouse Shortcuts|"
+    }
   },
   "Forest Brook": {
     "connects_to": [
       "The Treehouse",
       "Boneyard",
-      "Elevated Clearing"
+      "Elevated Clearing",
+      "Forest Courtyard"
     ],
-    "requires": "|Hidden Forest Key|"
+    "requires": "|Hidden Forest Unlock|",
+    "entrance_requires": {
+      "The Treehouse": "|The Treehouse Shortcuts|"
+    }
   },
   "Elevated Clearing": {
     "connects_to": [
       "Blue Bird Theater",
-      "Forest Cavern"
+      "Forest Cavern",
+      "Forest Brook"
     ],
-    "requires": "|Hidden Forest Key| AND (|@Regular Forest Spirit:8| OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Hidden Forest Unlock|",
+    "entrance_requires": {
+      "Forest Brook": "|@Regular Forest Spirit:8| OR {YamlDisabled(spirit_gate_locks)}",
+      "Boneyard": "|@Regular Forest Spirit:8| OR {YamlDisabled(spirit_gate_locks)}"
+    }
   },
   "Blue Bird Theater": {
     "connects_to": [],
-    "requires": "|Hidden Forest Key|"
+    "requires": "|Hidden Forest Unlock|"
   },
   "Forest Cavern": {
     "connects_to": [
       "The Wind Paths",
       "Elevated Clearing"
     ],
-    "requires": "|Hidden Forest Key| AND (|Rescued Pouty Porter (Angry)| OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Hidden Forest Unlock|",
+    "entrance_requires": {
+      "Elevated Clearing": "|Rescued Pouty Porter (Angry)| OR {YamlDisabled(emote_locks)}",
+      "The Wind Paths": "|The Wind Paths Shortcuts|"
+    }
   },
   "Boneyard": {
     "connects_to": [
       "Elevated Clearing",
-      "Temple of the Forest"
+      "The Treehouse",
+      "Temple of the Forest",
+      "Forest Brook"
     ],
-    "requires": "|Hidden Forest Key|"
+    "requires": "|Hidden Forest Unlock|",
+    "entrance_requires": {
+      "The Treehouse": "|The Treehouse Shortcuts|"
+    }
   },
   "Temple of the Forest": {
     "connects_to": [
       "Sacred Pond"
     ],
-    "requires": "|Hidden Forest Key|"
+    "requires": "|Hidden Forest Unlock|"
   },
   "Sacred Pond": {
     "connects_to": [
-      "Valley Rest"
+      "Valley Rest",
+      "Temple of the Forest"
     ],
-    "requires": "|Hidden Forest Key|"
+    "requires": "|Hidden Forest Unlock|"
   },
   "The Wind Paths": {
     "connects_to": [
@@ -238,203 +327,295 @@
       "Forgotten Ark",
       "Starlight Desert"
     ],
-    "requires": "|The Wind Paths| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Hidden Forest Unlock|",
+    "entrance_requires": {
+      "Forest Rest": "|@Regular Vault Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
+      "Aviary Village": "|The Wind Paths Shortcuts|",
+      "Cave of Prophecies": "|The Wind Paths Shortcuts| AND (|@Wedges:7| AND |@Wedge Capacity:7|)",
+      "Sanctuary Islands": "|The Wind Paths Shortcuts|",
+      "Forest Cavern": "|The Wind Paths Shortcuts|",
+      "Hermit Valley": "|The Wind Paths Shortcuts|",
+      "Forgotten Ark": "|The Wind Paths Shortcuts|",
+      "Starlight Desert": "|The Wind Paths Shortcuts|"
+    }
   },
   "Valley Rest": {
     "connects_to": [
       "Frozen Lake",
       "Village of Dreams"
     ],
-    "requires": "|Valley of Triumph Key|"
+    "requires": "|Valley of Triumph Unlock|"
   },
   "Frozen Lake": {
     "connects_to": [
       "The Citadel",
       "Lower Valley Track"
     ],
-    "requires": "|Valley of Triumph Key|"
+    "requires": "|Valley of Triumph Unlock|"
   },
   "The Citadel": {
     "connects_to": [
-      "Upper Valley Track"
+      "Upper Valley Track",
+      "Frozen Lake"
     ],
-    "requires": "|Valley of Triumph Key| AND (|@Regular Valley Spirit:2| OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Valley of Triumph Unlock|",
+    "entrance_requires": {
+      "Frozen Lake": "|@Regular Valley Spirit:2| OR {YamlDisabled(spirit_gate_locks)}"
+    }
   },
   "Lower Valley Track": {
     "connects_to": [
       "Temple of the Valley"
     ],
-    "requires": "|Valley of Triumph Key|"
+    "requires": "|Valley of Triumph Unlock|"
   },
   "Upper Valley Track": {
     "connects_to": [
       "Temple of the Valley"
     ],
-    "requires": "|Valley of Triumph Key|"
+    "requires": "|Valley of Triumph Unlock|"
   },
   "Temple of the Valley": {
     "connects_to": [
       "Wasteland Rest",
       "Village of Dreams"
     ],
-    "requires": "|Valley of Triumph Key|"
+    "requires": "|Valley of Triumph Unlock|",
+    "entrance_requires": {
+      "Story Space": "|Story Space Shortcuts|"
+    }
   },
   "Village of Dreams": {
     "connects_to": [
       "Harmony Hall",
       "Village Theater",
-      "Hermit Valley"
+      "Hermit Valley",
+      "Valley Rest",
+      "Temple of the Valley"
     ],
-    "requires": "|Valley of Triumph Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Valley of Triumph Unlock|",
+    "entrance_requires": {
+      "Valley Rest": "|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
+      "Temple of the Valley": "|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}"
+    }
   },
   "Harmony Hall": {
     "connects_to": [
-      "Village Theater"
+      "Village Theater",
+      "Village of Dreams"
     ],
-    "requires": "|Valley of Triumph Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Valley of Triumph Unlock|",
+    "entrance_requires": {
+      "Aviary Village": "|Harmony Hall Shortcuts|",
+      "Village Theater": "|Harmony Hall Shortcuts|"
+    }
   },
   "Village Theater": {
-    "connects_to": [],
-    "requires": "|Valley of Triumph Key|"
+    "connects_to": [
+      "Harmony Hall"
+    ],
+    "requires": "|Valley of Triumph Unlock|",
+    "entrance_requires": {
+      "Harmony Hall": "|Harmony Hall Shortcuts|"
+    }
   },
   "Hermit Valley": {
     "connects_to": [
-      "The Wind Paths"
+      "The Wind Paths",
+      "Village of Dreams"
     ],
-    "requires": "|Valley of Triumph Key|"
+    "requires": "|Valley of Triumph Unlock|",
+    "entrance_requires": {
+      "The Wind Paths": "|The Wind Paths Shortcuts|"
+    }
   },
   "Wasteland Rest": {
     "connects_to": [
       "The Outer Bailey",
       "Treasure Reef"
     ],
-    "requires": "|Golden Wasteland Key|"
+    "requires": "|Golden Wasteland Unlock|"
   },
   "The Outer Bailey": {
     "connects_to": [
       "The Graveyard",
       "Forgotten Ark"
     ],
-    "requires": "|Golden Wasteland Key|"
+    "requires": "|Golden Wasteland Unlock|"
   },
   "Treasure Reef": {
-    "connects_to": [],
-    "requires": "|Golden Wasteland Key|"
+    "connects_to": [
+      "Wasteland Rest"
+    ],
+    "requires": "|Golden Wasteland Unlock|"
   },
   "The Graveyard": {
     "connects_to": [
       "The Battlefield",
-      "Crab Fields"
+      "Crab Fields",
+      "The Outer Bailey"
     ],
-    "requires": "|Golden Wasteland Key|"
+    "requires": "|Golden Wasteland Unlock|"
   },
   "Crab Fields": {
     "connects_to": [
-      "The Battlefield"
+      "The Battlefield",
+      "The Graveyard"
     ],
-    "requires": "|Golden Wasteland Key| AND (|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Golden Wasteland Unlock|",
+    "entrance_requires": {
+      "The Graveyard": "(|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+      "The Battlefield": "|@Regular Wasteland Spirit:2| OR {YamlDisabled(spirit_gate_locks)}"
+    }
   },
   "Forgotten Ark": {
     "connects_to": [
-      "The Wind Paths"
+      "The Wind Paths",
+      "The Outer Bailey"
     ],
-    "requires": "|Golden Wasteland Key|"
+    "requires": "|Golden Wasteland Unlock|",
+    "entrance_requires": {
+      "The Wind Paths": "|The Wind Paths Shortcuts|"
+    }
   },
   "The Battlefield": {
     "connects_to": [
-      "Temple of the Wasteland"
+      "Temple of the Wasteland",
+      "Crab Fields",
+      "The Graveyard"
     ],
-    "requires": "|Golden Wasteland Key|"
+    "requires": "|Golden Wasteland Unlock|"
   },
   "Temple of the Wasteland": {
     "connects_to": [
       "Vault Rest"
     ],
-    "requires": "|Golden Wasteland Key|"
+    "requires": "|Golden Wasteland Unlock|"
   },
   "The Last City": {
     "connects_to": [],
-    "requires": "|Golden Wasteland Key|"
+    "requires": "|Golden Wasteland Unlock|"
   },
   "Vault Rest": {
     "connects_to": [
       "Secret Area",
       "Vault Archive",
-      "Hall of Stories",
+      "Story Space",
       "Repository of Refuge",
       "Fractured Lantern Storage",
       "Lower Vault"
     ],
-    "requires": "|Vault of Knowledge Key|"
+    "requires": "|Vault of Knowledge Unlock|"
   },
   "Secret Area": {
     "connects_to": [],
-    "requires": "|Vault of Knowledge Key|"
+    "requires": "|Vault of Knowledge Unlock|"
   },
   "Vault Archive": {
     "connects_to": [],
-    "requires": "|Vault of Knowledge Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Vault of Knowledge Unlock|",
+    "entrance_requires": {
+      "Vault Rest": "|@Regular Vault Spirit:1| OR {YamlDisabled(spirit_gate_locks)}"
+    }
   },
   "Repository of Refuge": {
     "connects_to": [],
-    "requires": "|Vault of Knowledge Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Vault of Knowledge Unlock|",
+    "entrance_requires": {
+      "Vault Rest": "|@Regular Vault Spirit:1| OR {YamlDisabled(spirit_gate_locks)}"
+    }
   },
   "Fractured Lantern Storage": {
     "connects_to": [],
-    "requires": "|Vault of Knowledge Key| AND (|@Regular Vault Spirit:1| OR {YamlDisabled(spirit_emote_locks)})"
+    "requires": "|Vault of Knowledge Unlock|",
+    "entrance_requires": {
+      "Vault Rest": "|@Regular Vault Spirit:1| OR {YamlDisabled(spirit_gate_locks)}"
+    }
   },
   "Lower Vault": {
     "connects_to": [
       "Upper Vault"
     ],
-    "requires": "|Vault of Knowledge Key|"
+    "requires": "|Vault of Knowledge Unlock|"
   },
   "Upper Vault": {
     "connects_to": [
       "Temple of the Vault"
     ],
-    "requires": "|Vault of Knowledge Key|"
+    "requires": "|Vault of Knowledge Unlock|"
   },
   "Temple of the Vault": {
     "connects_to": [
       "Gate of Eden"
     ],
-    "requires": "|Vault of Knowledge Key|"
+    "requires": "|Vault of Knowledge Unlock|"
   },
-  "Hall of Stories": {
+  "Story Space": {
     "connects_to": [
+      "Aviary Village",
       "Starlight Desert",
       "Moominvalley",
+      "Temple of the Valley",
       "Crescent Oasis",
-      "Sky Cinema"
+      "Sky Cinema",
+      "Starry Gallery"
     ],
-    "requires": "|Vault of Knowledge Key| AND |Hall of Stories|"
+    "requires": "|Vault of Knowledge Unlock|",
+    "entrance_requires": {
+      "Vault Rest": "|@Regular Vault Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
+      "Aviary Village": "|Story Space Shortcuts|",
+      "Starlight Desert": "|Story Space Shortcuts|",
+      "Moominvalley": "|Story Space Shortcuts|",
+      "Temple of the Valley": "|Story Space Shortcuts|",
+      "Crescent Oasis": "|Story Space Shortcuts|",
+      "Sky Cinema": "|Story Space Shortcuts|",
+      "Starry Gallery": "|Story Space Shortcuts|"
+    }
   },
   "Sky Cinema": {
     "connects_to": [
       "The Last City"
     ],
-    "requires": "|Vault of Knowledge Key|"
+    "requires": "|Vault of Knowledge Unlock|",
+    "entrance_requires": {
+      "Story Space": "|Story Space Shortcuts|"
+    }
   },
   "Starlight Desert": {
     "connects_to": [
       "The Wind Paths"
     ],
-    "requires": "|Vault of Knowledge Key|"
+    "requires": "|Vault of Knowledge Unlock|",
+    "entrance_requires": {
+      "Story Space": "|Story Space Shortcuts|"
+    }
   },
   "Moominvalley": {
     "connects_to": [],
-    "requires": "|Vault of Knowledge Key|"
+    "requires": "|Vault of Knowledge Unlock|",
+    "entrance_requires": {
+      "Story Space": "|Story Space Shortcuts|"
+    }
   },
   "Crescent Oasis": {
     "connects_to": [],
-    "requires": "|Vault of Knowledge Key|"
+    "requires": "|Vault of Knowledge Unlock|",
+    "entrance_requires": {
+      "Story Space": "|Story Space Shortcuts|"
+    }
+  },
+  "Starry Gallery": {
+    "connects_to": [],
+    "requires": "|Vault of Knowledge Unlock|",
+    "entrance_requires": {
+      "Story Space": "|Story Space Shortcuts|"
+    }
   },
   "Gate of Eden": {
     "connects_to": [
       "Path of Eden"
     ],
-    "requires": "|@Winged Light:30|"
+    "requires": "|@Actual WL:20| AND |@Winged Light:30|"
   },
   "Path of Eden": {
     "connects_to": [
