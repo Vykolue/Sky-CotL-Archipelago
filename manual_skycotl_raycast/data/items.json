@@ -108,6 +108,15 @@
     "sort-key": "a-goal-items"
   },
   {
+    "count": 0,
+    "name": "Actual Winged Light",
+    "category": [
+      "Actual WL"
+    ],
+    "progression": true,
+    "sort-key": "b-other-items-1"
+  },
+  {
     "count": 9,
     "name": "Wedge",
     "category": [

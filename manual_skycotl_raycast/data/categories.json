@@ -22,6 +22,9 @@
     "Props": {
         "yaml_option": ["prop_locks"]
     },
+    "Actual WL": {
+        "hidden": true
+    },
     "Heart Trap": {
         "yaml_option": ["heart_traps"],
         "hidden": true
@@ -32,6 +35,14 @@
     },
     "Tranquil Garden": {
         "yaml_option": ["watch_the_incense_burn"],
+        "hidden": true
+    },
+    "Home Trap": {
+        "yaml_option": ["home_traps"],
+        "hidden": true
+    },
+    "Forgot How to Jump": {
+        "yaml_option": ["forgot_how_to_jump"],
         "hidden": true
     },
     "Seasonal Aviary Spirit": {

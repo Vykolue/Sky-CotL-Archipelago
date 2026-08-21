@@ -6,7 +6,7 @@
   "death_link": true,
   "starting_items": [
     {
-        "items": []
+        "item_categories": ["Actual WL"]
     },
     {
         "items": ["Wandering Carnival Unlock", "Isle of Dawn Unlock", "Daylight Prairie Unlock", 

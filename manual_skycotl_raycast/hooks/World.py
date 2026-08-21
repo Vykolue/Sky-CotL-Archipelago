@@ -70,6 +70,14 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
+    # Value chosen by the player
+    myOptValue = get_option_value(multiworld, player, "starting_winged_light")
+
+    for item_name in item_config:
+        if item_name == "Actual Winged Light":
+            # We update the "count" of "Your Item Name" with that value
+            item_config[item_name] = myOptValue
+
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage

@@ -33,6 +33,23 @@
             "group": "Game Mode"
         },
         
+        "starting_winged_light": {
+            "description": [
+                "How many Winged Light do you start with?",
+                "",
+                "This only includes Winged Light from Wing Buffs, Orbit, and Shattering Shard Memories"
+            ],
+            "type": "Range",
+            "range_start": 0,
+            "range_end": 148,
+            "values": {
+                "none": 0,
+                "orbit_winged_light_only": 1
+            },
+            "default": 1,
+            "group": "Starting Values"
+        },
+        
         "spirit_gate_locks": {
             "description": [
                 "Require Rescue Spirit items to pass through Spirit Gates"
@@ -114,6 +131,22 @@
         "watch_the_incense_burn": {
             "description": [
                 "This trap will make you visit the Tranquil Garden for a few minutes"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Traps"
+        },
+        "home_traps": {
+            "description": [
+                "This trap will make you go home"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Traps"
+        },
+        "forgot_how_to_jump": {
+            "description": [
+                "This trap will temporarily prevent you from jumping"
             ],
             "type": "Toggle",
             "default": true,
