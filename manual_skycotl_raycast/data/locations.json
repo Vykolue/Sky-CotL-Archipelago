@@ -6,7 +6,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Wandering Carnival"
+    "region": "Wandering Carnival",
+    "sort-key": "0-1-1"
   },
   {
     "name": "Wandering Carnival Find 2 Children of Light",
@@ -15,7 +16,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Wandering Carnival"
+    "region": "Wandering Carnival",
+    "sort-key": "0-1-2"
   },
   {
     "name": "Passage Rock Find 1 Child of Light",
@@ -24,7 +26,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Passage Rock"
+    "region": "Passage Rock",
+    "sort-key": "1-1-1"
   },
   {
     "name": "Passage Rock Find 2 Children of Light",
@@ -33,7 +36,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Passage Rock"
+    "region": "Passage Rock",
+    "sort-key": "1-1-2"
   },
   {
     "name": "Dawn Circle Find 1 Child of Light",
@@ -42,7 +46,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Dawn Circle"
+    "region": "Dawn Circle",
+    "sort-key": "1-2-1"
   },
   {
     "name": "Dawn Circle Find 2 Children of Light",
@@ -51,7 +56,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) OR (|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "region": "Dawn Circle"
+    "region": "Dawn Circle",
+    "sort-key": "1-2-2"
   },
   {
     "name": "Dawn Circle Find 3 Children of Light",
@@ -60,7 +66,8 @@
       "Find Children of Light"
     ],
     "requires": "|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_emote_locks)}",
-    "region": "Dawn Circle"
+    "region": "Dawn Circle",
+    "sort-key": "1-2-3"
   },
   {
     "name": "Dawn Overlook Find 1 Child of Light",
@@ -69,7 +76,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Dawn Overlook"
+    "region": "Dawn Overlook",
+    "sort-key": "1-3-1"
   },
   {
     "name": "Trial of Water Find 1 Child of Light",
@@ -78,7 +86,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Trial of Water"
+    "region": "Trial of Water",
+    "sort-key": "1-4-1"
   },
   {
     "name": "Trial of Earth Find 1 Child of Light",
@@ -87,7 +96,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Trial of Earth"
+    "region": "Trial of Earth",
+    "sort-key": "1-5-1"
   },
   {
     "name": "Trial of Air Find 1 Child of Light",
@@ -96,7 +106,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Trial of Air"
+    "region": "Trial of Air",
+    "sort-key": "1-6-1"
   },
   {
     "name": "Trial of Fire Find 1 Child of Light",
@@ -105,7 +116,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Trial of Fire"
+    "region": "Trial of Fire",
+    "sort-key": "1-7-1"
   },
   {
     "name": "Prairie Rest Find 1 Child of Light",
@@ -114,7 +126,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Prairie Rest"
+    "region": "Prairie Rest",
+    "sort-key": "2-1-1"
   },
   {
     "name": "Butterfly Fields Find 1 Child of Light",
@@ -123,7 +136,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Regular Prairie Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) OR ((|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)})",
-    "region": "Butterfly Fields"
+    "region": "Butterfly Fields",
+    "sort-key": "2-2-1"
   },
   {
     "name": "Butterfly Fields Find 2 Children of Light",
@@ -132,7 +146,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Regular Prairie Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) AND ((|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)})",
-    "region": "Butterfly Fields"
+    "region": "Butterfly Fields",
+    "sort-key": "2-2-2"
   },
   {
     "name": "Prairie Village Find 1 Child of Light",
@@ -141,7 +156,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Prairie Village"
+    "region": "Prairie Village",
+    "sort-key": "2-3-1"
   },
   {
     "name": "Prairie Village Find 2 Children of Light",
@@ -150,7 +166,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Prairie Village"
+    "region": "Prairie Village",
+    "sort-key": "2-3-2"
   },
   {
     "name": "Prairie Village Find 3 Children of Light",
@@ -159,7 +176,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Prairie Village"
+    "region": "Prairie Village",
+    "sort-key": "2-3-3"
   },
   {
     "name": "Prairie Heights Find 1 Child of Light",
@@ -168,7 +186,8 @@
       "Find Children of Light"
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
-    "region": "Prairie Heights"
+    "region": "Prairie Heights",
+    "sort-key": "2-4-1"
   },
   {
     "name": "Temple of the Prairie Find 1 Child of Light",
@@ -177,7 +196,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
-    "region": "Temple of the Prairie"
+    "region": "Temple of the Prairie",
+    "sort-key": "2-5-1"
   },
   {
     "name": "Temple of the Prairie Find 2 Children of Light",
@@ -186,7 +206,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:9| AND |@Wedge Capacity:9|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Temple of the Prairie"
+    "region": "Temple of the Prairie",
+    "sort-key": "2-5-2"
   },
   {
     "name": "Prairie Cave Find 1 Child of Light",
@@ -195,7 +216,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Prairie Cave"
+    "region": "Prairie Cave",
+    "sort-key": "2-6-1"
   },
   {
     "name": "Prairie Cave Find 2 Children of Light",
@@ -204,7 +226,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Prairie Cave"
+    "region": "Prairie Cave",
+    "sort-key": "2-6-2"
   },
   {
     "name": "Bird Nest Find 1 Child of Light",
@@ -213,7 +236,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Bird Nest"
+    "region": "Bird Nest",
+    "sort-key": "2-7-1"
   },
   {
     "name": "Bird Nest Find 2 Children of Light",
@@ -222,7 +246,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "region": "Bird Nest"
+    "region": "Bird Nest",
+    "sort-key": "2-7-2"
   },
   {
     "name": "Sanctuary Islands Find 1 Child of Light",
@@ -231,7 +256,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Sanctuary Islands"
+    "region": "Sanctuary Islands",
+    "sort-key": "2-8-1"
   },
   {
     "name": "Sanctuary Islands Find 2 Children of Light",
@@ -240,7 +266,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Sanctuary Islands"
+    "region": "Sanctuary Islands",
+    "sort-key": "2-8-2"
   },
   {
     "name": "Sanctuary Islands Find 3 Children of Light",
@@ -249,7 +276,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Sanctuary Islands"
+    "region": "Sanctuary Islands",
+    "sort-key": "2-8-3"
   },
   {
     "name": "Sanctuary Islands Find 4 Children of Light",
@@ -258,7 +286,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Sanctuary Islands"
+    "region": "Sanctuary Islands",
+    "sort-key": "2-8-4"
   },
   {
     "name": "Sanctuary Islands Find 5 Children of Light",
@@ -267,7 +296,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Sanctuary Islands"
+    "region": "Sanctuary Islands",
+    "sort-key": "2-8-5"
   },
   {
     "name": "Sanctuary Islands Find 6 Children of Light",
@@ -276,7 +306,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Sanctuary Islands"
+    "region": "Sanctuary Islands",
+    "sort-key": "2-8-6"
   },
   {
     "name": "Sanctuary Islands Find 7 Children of Light",
@@ -285,7 +316,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Sanctuary Islands"
+    "region": "Sanctuary Islands",
+    "sort-key": "2-8-7"
   },
   {
     "name": "Sanctuary Islands Find 8 Children of Light",
@@ -294,7 +326,8 @@
       "Find Children of Light"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
-    "region": "Sanctuary Islands"
+    "region": "Sanctuary Islands",
+    "sort-key": "2-8-8"
   },
   {
     "name": "Prairie Peaks Find 1 Child of Light",
@@ -303,7 +336,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Prairie Peaks"
+    "region": "Prairie Peaks",
+    "sort-key": "2-9-1"
   },
   {
     "name": "Prairie Peaks Find 2 Children of Light",
@@ -312,7 +346,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|@Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(hard_mode)})",
-    "region": "Prairie Peaks"
+    "region": "Prairie Peaks",
+    "sort-key": "2-9-2"
   },
   {
     "name": "Prairie Peaks Find 3 Children of Light",
@@ -321,7 +356,8 @@
       "Find Children of Light"
     ],
     "requires": "|@Wedges:9| AND |@Wedge Capacity:9|",
-    "region": "Prairie Peaks"
+    "region": "Prairie Peaks",
+    "sort-key": "2-9-3"
   },
   {
     "name": "Forest Courtyard Find 1 Child of Light",
@@ -330,7 +366,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Forest Courtyard"
+    "region": "Forest Courtyard",
+    "sort-key": "3-1-1"
   },
   {
     "name": "Forest Courtyard Find 2 Children of Light",
@@ -339,7 +376,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
-    "region": "Forest Courtyard"
+    "region": "Forest Courtyard",
+    "sort-key": "3-1-2"
   },
   {
     "name": "Forest Brook Find 1 Child of Light",
@@ -348,7 +386,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Forest Brook"
+    "region": "Forest Brook",
+    "sort-key": "3-2-1"
   },
   {
     "name": "Forest Brook Find 2 Children of Light",
@@ -357,7 +396,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Forest Brook"
+    "region": "Forest Brook",
+    "sort-key": "3-2-2"
   },
   {
     "name": "Forest Brook Find 3 Children of Light",
@@ -366,7 +406,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Forest Brook"
+    "region": "Forest Brook",
+    "sort-key": "3-2-3"
   },
   {
     "name": "Forest Brook Find 4 Children of Light",
@@ -375,7 +416,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Forest Brook"
+    "region": "Forest Brook",
+    "sort-key": "3-2-4"
   },
   {
     "name": "Boneyard Find 1 Child of Light",
@@ -384,7 +426,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Boneyard"
+    "region": "Boneyard",
+    "sort-key": "3-3-1"
   },
   {
     "name": "Boneyard Find 2 Children of Light",
@@ -393,7 +436,8 @@
       "Find Children of Light"
     ],
     "requires": "((|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}) OR (((|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(spirit_emote_locks)}))",
-    "region": "Boneyard"
+    "region": "Boneyard",
+    "sort-key": "3-3-2"
   },
   {
     "name": "Boneyard Find 3 Children of Light",
@@ -402,7 +446,8 @@
       "Find Children of Light"
     ],
     "requires": "((|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}) AND (((|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(spirit_emote_locks)}))",
-    "region": "Boneyard"
+    "region": "Boneyard",
+    "sort-key": "3-3-3"
   },
   {
     "name": "Elevated Clearing Find 1 Child of Light",
@@ -411,7 +456,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Elevated Clearing"
+    "region": "Elevated Clearing",
+    "sort-key": "3-4-1"
   },
   {
     "name": "Elevated Clearing Find 2 Children of Light",
@@ -420,7 +466,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
-    "region": "Elevated Clearing"
+    "region": "Elevated Clearing",
+    "sort-key": "3-4-2"
   },
   {
     "name": "Blue Bird Theater Find 1 Child of Light",
@@ -429,7 +476,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Blue Bird Theater"
+    "region": "Blue Bird Theater",
+    "sort-key": "3-5-1"
   },
   {
     "name": "Forest Cavern Find 1 Child of Light",
@@ -438,7 +486,8 @@
       "Find Children of Light"
     ],
     "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
-    "region": "Forest Cavern"
+    "region": "Forest Cavern",
+    "sort-key": "3-6-1"
   },
   {
     "name": "Forest Cavern Find 2 Children of Light",
@@ -447,7 +496,8 @@
       "Find Children of Light"
     ],
     "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
-    "region": "Forest Cavern"
+    "region": "Forest Cavern",
+    "sort-key": "3-6-2"
   },
   {
     "name": "Forest Cavern Find 3 Children of Light",
@@ -456,7 +506,8 @@
       "Find Children of Light"
     ],
     "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
-    "region": "Forest Cavern"
+    "region": "Forest Cavern",
+    "sort-key": "3-6-3"
   },
   {
     "name": "Forest Cavern Find 4 Children of Light",
@@ -465,7 +516,8 @@
       "Find Children of Light"
     ],
     "requires": "|@Wedges:6| AND |@Wedge Capacity:6|",
-    "region": "Forest Cavern"
+    "region": "Forest Cavern",
+    "sort-key": "3-6-4"
   },
   {
     "name": "Sacred Pond Find 1 Child of Light",
@@ -474,7 +526,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Sacred Pond"
+    "region": "Sacred Pond",
+    "sort-key": "3-7-1"
   },
   {
     "name": "The Treehouse Find 1 Child of Light",
@@ -483,7 +536,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "The Treehouse"
+    "region": "The Treehouse",
+    "sort-key": "3-8-1"
   },
   {
     "name": "The Treehouse Find 2 Children of Light",
@@ -492,7 +546,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
-    "region": "The Treehouse"
+    "region": "The Treehouse",
+    "sort-key": "3-8-2"
   },
   {
     "name": "The Wind Paths Find 1 Child of Light",
@@ -501,7 +556,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "The Wind Paths"
+    "region": "The Wind Paths",
+    "sort-key": "3-9-1"
   },
   {
     "name": "The Wind Paths Find 2 Children of Light",
@@ -510,7 +566,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "region": "The Wind Paths"
+    "region": "The Wind Paths",
+    "sort-key": "3-9-2"
   },
   {
     "name": "Valley Rest Find 1 Child of Light",
@@ -519,7 +576,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Valley Rest"
+    "region": "Valley Rest",
+    "sort-key": "4-1-1"
   },
   {
     "name": "Frozen Lake Find 1 Child of Light",
@@ -528,7 +586,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Frozen Lake"
+    "region": "Frozen Lake",
+    "sort-key": "4-2-1"
   },
   {
     "name": "Frozen Lake Find 2 Children of Light",
@@ -537,7 +596,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Frozen Lake"
+    "region": "Frozen Lake",
+    "sort-key": "4-2-2"
   },
   {
     "name": "Lower Valley Track Find 1 Child of Light",
@@ -546,7 +606,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Lower Valley Track"
+    "region": "Lower Valley Track",
+    "sort-key": "4-3-1"
   },
   {
     "name": "The Citadel Find 1 Child of Light",
@@ -555,7 +616,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "The Citadel"
+    "region": "The Citadel",
+    "sort-key": "4-4-1"
   },
   {
     "name": "The Citadel Find 2 Children of Light",
@@ -564,7 +626,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "The Citadel"
+    "region": "The Citadel",
+    "sort-key": "4-4-2"
   },
   {
     "name": "Upper Valley Track Find 1 Child of Light",
@@ -573,7 +636,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Upper Valley Track"
+    "region": "Upper Valley Track",
+    "sort-key": "4-5-1"
   },
   {
     "name": "Upper Valley Track Find 2 Children of Light",
@@ -582,7 +646,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Upper Valley Track"
+    "region": "Upper Valley Track",
+    "sort-key": "4-5-2"
   },
   {
     "name": "Temple of the Valley Find 1 Child of Light",
@@ -591,7 +656,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Temple of the Valley"
+    "region": "Temple of the Valley",
+    "sort-key": "4-6-1"
   },
   {
     "name": "Temple of the Valley Find 2 Children of Light",
@@ -600,7 +666,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) OR ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|))",
-    "region": "Temple of the Valley"
+    "region": "Temple of the Valley",
+    "sort-key": "4-6-2"
   },
   {
     "name": "Temple of the Valley Find 3 Children of Light",
@@ -609,7 +676,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) AND ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|))",
-    "region": "Temple of the Valley"
+    "region": "Temple of the Valley",
+    "sort-key": "4-6-3"
   },
   {
     "name": "Village of Dreams Find 1 Child of Light",
@@ -618,7 +686,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Village of Dreams"
+    "region": "Village of Dreams",
+    "sort-key": "4-7-1"
   },
   {
     "name": "Village of Dreams Find 2 Children of Light",
@@ -627,7 +696,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}",
-    "region": "Village of Dreams"
+    "region": "Village of Dreams",
+    "sort-key": "4-7-2"
   },
   {
     "name": "Village of Dreams Find 3 Children of Light",
@@ -636,7 +706,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
-    "region": "Village of Dreams"
+    "region": "Village of Dreams",
+    "sort-key": "4-7-3"
   },
   {
     "name": "Hermit Valley Find 1 Child of Light",
@@ -645,7 +716,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Hermit Valley"
+    "region": "Hermit Valley",
+    "sort-key": "4-8-1"
   },
   {
     "name": "Hermit Valley Find 2 Children of Light",
@@ -654,7 +726,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
-    "region": "Hermit Valley"
+    "region": "Hermit Valley",
+    "sort-key": "4-8-2"
   },
   {
     "name": "Village Theater Find 1 Child of Light",
@@ -663,7 +736,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Village Theater"
+    "region": "Village Theater",
+    "sort-key": "4-9-1"
   },
   {
     "name": "The Outer Bailey Find 1 Child of Light",
@@ -672,7 +746,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "The Outer Bailey"
+    "region": "The Outer Bailey",
+    "sort-key": "5-1-1"
   },
   {
     "name": "The Outer Bailey Find 2 Children of Light",
@@ -681,7 +756,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:9| AND |@Wedge Capacity:9|) OR (|@Wedges:4| AND |@Wedge Capacity:4| AND {YamlEnabled(hard_mode)})",
-    "region": "The Outer Bailey"
+    "region": "The Outer Bailey",
+    "sort-key": "5-1-2"
   },
   {
     "name": "The Graveyard Find 1 Child of Light",
@@ -690,7 +766,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "The Graveyard"
+    "region": "The Graveyard",
+    "sort-key": "5-2-1"
   },
   {
     "name": "The Graveyard Find 2 Children of Light",
@@ -699,7 +776,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "The Graveyard"
+    "region": "The Graveyard",
+    "sort-key": "5-2-2"
   },
   {
     "name": "The Graveyard Find 3 Children of Light",
@@ -708,7 +786,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "The Graveyard"
+    "region": "The Graveyard",
+    "sort-key": "5-2-3"
   },
   {
     "name": "The Graveyard Find 4 Children of Light",
@@ -717,7 +796,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "The Graveyard"
+    "region": "The Graveyard",
+    "sort-key": "5-2-4"
   },
   {
     "name": "The Graveyard Find 5 Children of Light",
@@ -726,7 +806,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "region": "The Graveyard"
+    "region": "The Graveyard",
+    "sort-key": "5-2-5"
   },
   {
     "name": "The Graveyard Find 6 Children of Light",
@@ -735,7 +816,8 @@
       "Find Children of Light"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
-    "region": "The Graveyard"
+    "region": "The Graveyard",
+    "sort-key": "5-2-6"
   },
   {
     "name": "Crab Fields Find 1 Child of Light",
@@ -744,7 +826,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Crab Fields"
+    "region": "Crab Fields",
+    "sort-key": "5-3-1"
   },
   {
     "name": "Crab Fields Find 2 Children of Light",
@@ -753,7 +836,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Crab Fields"
+    "region": "Crab Fields",
+    "sort-key": "5-3-2"
   },
   {
     "name": "Crab Fields Find 3 Children of Light",
@@ -762,7 +846,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:9| AND |@Wedge Capacity:9|) OR (|@Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(hard_mode)})",
-    "region": "Crab Fields"
+    "region": "Crab Fields",
+    "sort-key": "5-3-3"
   },
   {
     "name": "The Battlefield Find 1 Child of Light",
@@ -771,7 +856,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "The Battlefield"
+    "region": "The Battlefield",
+    "sort-key": "5-4-1"
   },
   {
     "name": "The Battlefield Find 2 Children of Light",
@@ -780,7 +866,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "The Battlefield"
+    "region": "The Battlefield",
+    "sort-key": "5-4-2"
   },
   {
     "name": "Temple of the Wasteland Find 1 Child of Light",
@@ -789,7 +876,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Temple of the Wasteland"
+    "region": "Temple of the Wasteland",
+    "sort-key": "5-5-1"
   },
   {
     "name": "Forgotten Ark Find 1 Child of Light",
@@ -798,7 +886,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Forgotten Ark"
+    "region": "Forgotten Ark",
+    "sort-key": "5-6-1"
   },
   {
     "name": "Forgotten Ark Find 2 Children of Light",
@@ -807,7 +896,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Forgotten Ark"
+    "region": "Forgotten Ark",
+    "sort-key": "5-6-2"
   },
   {
     "name": "Treasure Reef Find 1 Child of Light",
@@ -816,7 +906,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Treasure Reef"
+    "region": "Treasure Reef",
+    "sort-key": "5-7-1"
   },
   {
     "name": "Treasure Reef Find 2 Children of Light",
@@ -825,7 +916,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:6| AND |@Wedge Capacity:6|) OR (|@Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(hard_mode)})",
-    "region": "Treasure Reef"
+    "region": "Treasure Reef",
+    "sort-key": "5-7-2"
   },
   {
     "name": "Vault Rest Find 1 Child of Light",
@@ -834,7 +926,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Vault Rest"
+    "region": "Vault Rest",
+    "sort-key": "6-1-1"
   },
   {
     "name": "Lower Vault Find 1 Child of Light",
@@ -843,7 +936,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
-    "region": "Lower Vault"
+    "region": "Lower Vault",
+    "sort-key": "6-2-1"
   },
   {
     "name": "Upper Vault Find 1 Child of Light",
@@ -852,7 +946,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Upper Vault"
+    "region": "Upper Vault",
+    "sort-key": "6-3-1"
   },
   {
     "name": "Upper Vault Find 2 Children of Light",
@@ -861,7 +956,8 @@
       "Find Children of Light"
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
-    "region": "Upper Vault"
+    "region": "Upper Vault",
+    "sort-key": "6-3-2"
   },
   {
     "name": "Upper Vault Find 3 Children of Light",
@@ -870,7 +966,8 @@
       "Find Children of Light"
     ],
     "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
-    "region": "Upper Vault"
+    "region": "Upper Vault",
+    "sort-key": "6-3-3"
   },
   {
     "name": "Temple of the Vault Find 1 Child of Light",
@@ -879,7 +976,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Temple of the Vault"
+    "region": "Temple of the Vault",
+    "sort-key": "6-4-1"
   },
   {
     "name": "Vault Archive Find 1 Child of Light",
@@ -888,7 +986,8 @@
       "Find Children of Light"
     ],
     "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
-    "region": "Vault Archive"
+    "region": "Vault Archive",
+    "sort-key": "6-5-1"
   },
   {
     "name": "Vault Archive Find 2 Children of Light",
@@ -897,7 +996,8 @@
       "Find Children of Light"
     ],
     "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
-    "region": "Vault Archive"
+    "region": "Vault Archive",
+    "sort-key": "6-5-2"
   },
   {
     "name": "Starlight Desert Find 1 Child of Light",
@@ -906,7 +1006,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Starlight Desert"
+    "region": "Starlight Desert",
+    "sort-key": "6-6-1"
   },
   {
     "name": "Starlight Desert Find 2 Children of Light",
@@ -915,7 +1016,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "region": "Starlight Desert"
+    "region": "Starlight Desert",
+    "sort-key": "6-6-2"
   },
   {
     "name": "Starlight Desert Find 3 Children of Light",
@@ -924,7 +1026,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "region": "Starlight Desert"
+    "region": "Starlight Desert",
+    "sort-key": "6-6-3"
   },
   {
     "name": "Repository of Refuge Find 1 Child of Light",
@@ -933,7 +1036,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:3| AND |@Wedge Capacity:3| AND {YamlEnabled(hard_mode)})",
-    "region": "Repository of Refuge"
+    "region": "Repository of Refuge",
+    "sort-key": "6-7-1"
   },
   {
     "name": "Crescent Oasis Find 1 Child of Light",
@@ -942,7 +1046,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Crescent Oasis"
+    "region": "Crescent Oasis",
+    "sort-key": "6-8-1"
   },
   {
     "name": "Crescent Oasis Find 2 Children of Light",
@@ -951,7 +1056,8 @@
       "Find Children of Light"
     ],
     "requires": "",
-    "region": "Crescent Oasis"
+    "region": "Crescent Oasis",
+    "sort-key": "6-8-2"
   },
   {
     "name": "Crescent Oasis Find 3 Children of Light",
@@ -960,7 +1066,8 @@
       "Find Children of Light"
     ],
     "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
-    "region": "Crescent Oasis"
+    "region": "Crescent Oasis",
+    "sort-key": "6-8-3"
   },
   {
     "name": "Moominvalley Find 1 Child of Light",
@@ -969,7 +1076,8 @@
       "Find Children of Light"
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
-    "region": "Moominvalley"
+    "region": "Moominvalley",
+    "sort-key": "6-9-1"
   },
   {
     "name": "Rebirth",
@@ -978,7 +1086,8 @@
       "Goal"
     ],
     "requires": "|Eye of Eden Progress:3|",
-    "region": "The Passage"
+    "region": "The Passage",
+    "sort-key": "goal"
   },
   {
     "name": "Daily Music Challenge",
@@ -987,6 +1096,7 @@
       "Valley of Triumph",
       "Daily Music Challenge"
     ],
-    "requires": ""
+    "requires": "",
+    "sort-key": "music"
   }
 ]

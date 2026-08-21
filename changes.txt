@@ -4,7 +4,7 @@ made macguffins non-local, and changed them to be more similar to the vanilla ga
 
 updated how shortcuts work
 
-added sorting to items
+added sorting to items and locations
 
 renamed key to unlock
 
