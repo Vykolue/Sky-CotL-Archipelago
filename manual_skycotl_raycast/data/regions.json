@@ -378,7 +378,8 @@
   "Temple of the Valley": {
     "connects_to": [
       "Wasteland Rest",
-      "Village of Dreams"
+      "Village of Dreams",
+      "Story Space"
     ],
     "requires": "|Valley of Triumph Unlock|",
     "entrance_requires": {
@@ -574,7 +575,8 @@
   },
   "Sky Cinema": {
     "connects_to": [
-      "The Last City"
+      "The Last City",
+      "Story Space"
     ],
     "requires": "|Vault of Knowledge Unlock|",
     "entrance_requires": {
@@ -583,29 +585,37 @@
   },
   "Starlight Desert": {
     "connects_to": [
-      "The Wind Paths"
+      "The Wind Paths",
+      "Story Space"
+    ],
+    "requires": "|Vault of Knowledge Unlock|",
+    "entrance_requires": {
+      "Story Space": "|Story Space Shortcuts|",
+      "The Wind Paths":"|The Wind Paths Shortcuts|"
+    }
+  },
+  "Moominvalley": {
+    "connects_to": [
+      "Story Space"
     ],
     "requires": "|Vault of Knowledge Unlock|",
     "entrance_requires": {
       "Story Space": "|Story Space Shortcuts|"
     }
   },
-  "Moominvalley": {
-    "connects_to": [],
-    "requires": "|Vault of Knowledge Unlock|",
-    "entrance_requires": {
-      "Story Space": "|Story Space Shortcuts|"
-    }
-  },
   "Crescent Oasis": {
-    "connects_to": [],
+    "connects_to": [
+      "Story Space"
+    ],
     "requires": "|Vault of Knowledge Unlock|",
     "entrance_requires": {
       "Story Space": "|Story Space Shortcuts|"
     }
   },
   "Starry Gallery": {
-    "connects_to": [],
+    "connects_to": [
+      "Story Space"
+    ],
     "requires": "|Vault of Knowledge Unlock|",
     "entrance_requires": {
       "Story Space": "|Story Space Shortcuts|"
