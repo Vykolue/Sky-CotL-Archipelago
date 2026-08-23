@@ -87,7 +87,7 @@ Make sure:
 - the name you are using to connect matches your slot name (case sensitive)
 
 ## Playing the game
-You can play Sky: Children of the Light on any device
+You can play Sky: Children of the Light on any device<br />
 This README is intended to expain the gameplay for version 0.2.3 of the apworld, and may not apply to other versions
 
 To send a check:
