@@ -10,6 +10,6 @@ renamed key to unlock
 
 updated how cosmetic locks work
 
-added region entrance requirements and updated connections
+updated region requirements and connections
 
 added starting winged light yaml option
