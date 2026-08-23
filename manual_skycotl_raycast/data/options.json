@@ -37,7 +37,7 @@
             "description": [
                 "How many Winged Light do you start with?",
                 "",
-                "This only includes Winged Light from Wing Buffs, Orbit, and Shattering Shard Memories"
+                "This only includes Winged Light from Wing Buffs, Orbit / Pity Room, and Shattering Shard Memories"
             ],
             "type": "Range",
             "range_start": 0,
@@ -105,7 +105,7 @@
         },
         "hard_mode": {
             "description": [
-                "Less wedges will be provided for reaching hard-to-reach places"
+                "Less items will be provided for reaching hard-to-reach places"
             ],
             "type": "Toggle",
             "default": false,
