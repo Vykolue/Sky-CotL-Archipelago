@@ -88,6 +88,7 @@ Make sure:
 
 ## Playing the game
 You can play Sky: Children of the Light on any device
+This README is intended to expain the gameplay for version 0.2.3 of the apworld, and may not apply to other versions
 
 To send a check:
 1. Connect to the Manual Client (as described above)
