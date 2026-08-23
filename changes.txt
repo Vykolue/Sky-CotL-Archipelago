@@ -13,3 +13,5 @@ updated how cosmetic locks work
 updated region requirements and connections
 
 added starting winged light yaml option
+
+added Cave of Prophecies Updrafts item

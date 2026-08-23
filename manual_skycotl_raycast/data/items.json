@@ -127,6 +127,15 @@
   },
   {
     "count": 1,
+    "name": "Cave of Prophecies Updrafts",
+    "category": [
+      "Other Items"
+    ],
+    "progression": true,
+    "sort-key": "b-other-items-1"
+  },
+  {
+    "count": 1,
     "name": "Rescued Pointing Candlemaker (Point)",
     "category": [
       "Regular Isle Spirit",

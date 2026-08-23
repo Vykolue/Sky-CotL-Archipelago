@@ -125,6 +125,7 @@ Your locked items will depend on your YAML settings, but may include:
 - the Wandering Carnival area `(always on)`
 - wedges `(always on)`
 - shortcuts `(always on)`
+- the Cave of Prophecies Updrafts `(always on)`
 - passing through spirit gates `(on by default)`
 - cosmetics `(off by default)`
 - props `(on by default)`

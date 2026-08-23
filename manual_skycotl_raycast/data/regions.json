@@ -100,7 +100,7 @@
   },
   "Trial of Air": {
     "connects_to": [],
-    "requires": "|Isle of Dawn Unlock| AND (|@Wedges:5| AND |@Wedge Capacity:5|)"
+    "requires": "|Isle of Dawn Unlock| AND ((|@Wedges:5| AND |@Wedge Capacity:5|) OR |Cave of Prophecies Updrafts|)"
   },
   "Trial of Fire": {
     "connects_to": [],
