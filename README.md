@@ -138,6 +138,9 @@ Shortcut locks will lock the following areas' shortcuts from being used without 
 - Harmony Hall `(locks everything except the Village of Dreams connection)`
 - Story Space `(locks everything except the Vault Rest connection)`
 
+The Cave of Prophecies Updrafts refers to the updraft just outside the Trial of Air<br />
+Without the updraft item, more wedges will be required to reach this trial in logic
+
 Cosmetic locks can be done one of two ways:<br />
 Method 1:
 - cosmetics are unlocked along with the spirit you get them from
@@ -191,6 +194,13 @@ Watch the Incense Burn: `(on by default)`
 - visit the Tranquil Garden in Aviary Village
 - walk through the arch and sit at the incense
 - wait for it to burn out
+
+Home Trap: `(on by default)`
+- go home
+- do not use the return shrine to get back to where you were
+
+Forgot How to Jump: `(on by default)`
+- do not press the jump or fly buttons for the next 3 minutes
 
 ### Winning
 The win condition is to be reborn<br />
