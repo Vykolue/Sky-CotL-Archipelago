@@ -4,8 +4,7 @@
         "hidden": true
     },
     "Winged Light": {
-        "yaml_option": ["winged_light_run"],
-        "hidden": true
+        "yaml_option": ["winged_light_run"]
     },
     "Daily Music Challenge": {
         "yaml_option": ["daily_music_challenge"]
