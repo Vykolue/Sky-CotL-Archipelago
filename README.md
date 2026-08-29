@@ -142,12 +142,13 @@ The Cave of Prophecies Updrafts refers to the updraft just outside the Trial of 
 Without the updraft item, more wedges will be required to reach this trial in logic
 
 Cosmetic locks can be done one of two ways:<br />
-Method 1:
+Method 1 (recommended):
 - cosmetics are unlocked along with the spirit you get them from
 - turn on cosmetic locks to lock cosmetics not obtained from a regular or seasonal spirit
 - using cosmetic locks, all remaining cosmetic items will be received by category
 - some categories may be left out of the game since they are considered filler items
 Method 2:
+- use this method if you'd rather not keep track of which spirits provide which cosmetics
 - turn on cosmetic locks
 - all cosmetics are unlocked by category
 - some categories may be left out of the game since they are considered filler items
@@ -156,7 +157,7 @@ If emote locks are on, you should have the corresponding emote before entering a
 even if other players opened the door<br />
 Likewise, you shouldn't have a friend drag you through a locked Spirit Gate
 
-Do not use piggy rocket, chibi fall, white candle, warp, follow, or other items to gain a large advantage<br />
+Do not use piggy rocket, chibi fall, white candle, teleport, warp, follow, or other items to gain a large advantage<br />
 I recommend against using props, shared spaces, shared memory recharge, friend recharge, etc. 
 to easily get somewhere that is possible to reach otherwise, or to get somewhere out of logic<br />
 If you receive the item, feel free to use it in this way, however, they will not be required to progress<br />
@@ -168,7 +169,14 @@ I intend to add logic for them in a future update
 You are free to use a partial wedge, even if it causes you to use part of a wedge you don't have unlocked
 
 You can lose all your Winged Light before playing<br />
-If you start with extra, you won't be able to use it until someone unlocks your wedges for you
+If you start with extra, you won't be allowed to use it until someone unlocks your wedges for you
+
+You can specify in your YAML how many Winged Light you start with, but only count those not included as locations in the game (Orbit, Wing Buffs, Eden, and Shard Memories)<br />
+If you start with Winged Light that are meant to be collected as part of the game, the logic will not be able to properly account for them<br />
+Your starting Winged Light will show up as "Actual Winged Light" in your starting items, and can be ignored<br />
+If you don't know how many you have, it is best to undershoot or default to 1<br />
+If you undershoot, locations may appear out of logic when they are actually accessible<br />
+If you overshoot, locations may appear in logic when they are inaccessible
 
 You may run into impossible scenerios if your account has not:
 - relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
@@ -221,9 +229,10 @@ You can send a Death Link when:
 - you die in the Eye of Eden
 
 When you receive a Death Link from another player:
-- go lose some Winged Light (how many is up to you) or face the Dark Dragon
+- go face the Dark Dragon, or if you prefer, lose some Winged Light (how many is up to you)
 - you can enter an area or realm you don't yet have unlocked to do so
-- do not send a Death Link when you lose Winged Light for this reason
+- you can use locked or forbidden items (e.g. extra wedges, teleport, warp) to get there faster
+- do not send a Death Link if you lose Winged Light for this reason
 
 The Death Link button is located in the top right corner of the Manual Client<br />
 When not in use, this button will be grey with the text "Death Link: Primed"
