@@ -146,7 +146,7 @@ Method 1:
 - cosmetics are unlocked along with the spirit you get them from
 - turn on cosmetic locks to lock cosmetics not obtained from a regular or seasonal spirit
 - using cosmetic locks, all remaining cosmetic items will be received by category
-- some categories may be left out of the game since they are considered filler items
+- some categories may be left out of the game since they are considered filler items<br />
 Method 2:
 - turn on cosmetic locks
 - all cosmetics are unlocked by category
