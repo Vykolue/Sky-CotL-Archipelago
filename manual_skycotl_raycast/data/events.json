@@ -67,7 +67,8 @@
     "name": "Trial of Water Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Actual WL"
+      "Actual WL",
+      "Trials"
     ],
     "copy_location": "Trial of Water Find 1 Child of Light"
   },
@@ -75,7 +76,8 @@
     "name": "Trial of Earth Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Actual WL"
+      "Actual WL",
+      "Trials"
     ],
     "copy_location": "Trial of Earth Find 1 Child of Light"
   },
@@ -83,7 +85,8 @@
     "name": "Trial of Air Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Actual WL"
+      "Actual WL",
+      "Trials"
     ],
     "copy_location": "Trial of Air Find 1 Child of Light"
   },
@@ -91,7 +94,8 @@
     "name": "Trial of Fire Collect 1 Winged Light",
     "category": [
       "Isle of Dawn",
-      "Actual WL"
+      "Actual WL",
+      "Trials"
     ],
     "copy_location": "Trial of Fire Find 1 Child of Light"
   },

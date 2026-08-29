@@ -103,6 +103,14 @@
             "default": true,
             "group": "Extra Challenges"
         },
+        "trials": {
+            "description": [
+                "The Trials will be included as locations in the game"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Extra Challenges"
+        },
         "hard_mode": {
             "description": [
                 "Less items will be provided for reaching hard-to-reach places"

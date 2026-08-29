@@ -70,5 +70,9 @@
     },
     "Wedge Capacity": {
         "hidden": true
+    },
+    "Trials": {
+        "yaml_option": ["trials"],
+        "hidden": true
     }
 }

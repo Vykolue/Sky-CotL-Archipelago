@@ -91,18 +91,30 @@
     "requires": "|Isle of Dawn Unlock| AND ((|@Regular Forest Spirit:2| OR {YamlDisabled(spirit_gate_locks)}) OR (|The Wind Paths Shortcuts| AND |Hidden Forest Unlock|))"
   },
   "Trial of Water": {
+    "category": [
+      "Trials"
+    ],
     "connects_to": [],
     "requires": "|Isle of Dawn Unlock|"
   },
   "Trial of Earth": {
+    "category": [
+      "Trials"
+    ],
     "connects_to": [],
     "requires": "|Isle of Dawn Unlock|"
   },
   "Trial of Air": {
+    "category": [
+      "Trials"
+    ],
     "connects_to": [],
     "requires": "|Isle of Dawn Unlock| AND ((|@Wedges:5| AND |@Wedge Capacity:5|) OR |Cave of Prophecies Updrafts|)"
   },
   "Trial of Fire": {
+    "category": [
+      "Trials"
+    ],
     "connects_to": [],
     "requires": "|Isle of Dawn Unlock|"
   },

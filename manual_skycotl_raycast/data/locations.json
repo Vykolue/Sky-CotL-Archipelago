@@ -83,7 +83,8 @@
     "name": "Trial of Water Find 1 Child of Light",
     "category": [
       "Isle of Dawn",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Trials"
     ],
     "requires": "",
     "region": "Trial of Water",
@@ -93,7 +94,8 @@
     "name": "Trial of Earth Find 1 Child of Light",
     "category": [
       "Isle of Dawn",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Trials"
     ],
     "requires": "",
     "region": "Trial of Earth",
@@ -103,7 +105,8 @@
     "name": "Trial of Air Find 1 Child of Light",
     "category": [
       "Isle of Dawn",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Trials"
     ],
     "requires": "",
     "region": "Trial of Air",
@@ -113,7 +116,8 @@
     "name": "Trial of Fire Find 1 Child of Light",
     "category": [
       "Isle of Dawn",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Trials"
     ],
     "requires": "",
     "region": "Trial of Fire",
