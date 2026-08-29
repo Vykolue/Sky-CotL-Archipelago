@@ -212,7 +212,7 @@ Forgot How to Jump: `(on by default)`
 
 ### Winning
 The win condition is to be reborn<br />
-To enter the Gate of Eden, you will need to obtain at least 30 "Winged Light" items<br />
+To enter the Gate of Eden, you will need to obtain at least 20 "Winged Light" items<br />
 Winged Light items have no other affect on the game, and you are free to use more than what you received in the Eye of Eden
 
 ### How does Death Link work?
