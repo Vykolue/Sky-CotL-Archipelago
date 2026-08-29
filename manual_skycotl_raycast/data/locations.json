@@ -55,7 +55,7 @@
       "Isle of Dawn",
       "Find Children of Light"
     ],
-    "requires": "(|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) OR (|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "requires": "(|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
     "region": "Dawn Circle",
     "sort-key": "b-1-2-2"
   },
@@ -65,7 +65,7 @@
       "Isle of Dawn",
       "Find Children of Light"
     ],
-    "requires": "|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_emote_locks)}",
+    "requires": "|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
     "region": "Dawn Circle",
     "sort-key": "b-1-2-3"
   },
@@ -135,7 +135,7 @@
       "Daylight Prairie",
       "Find Children of Light"
     ],
-    "requires": "(|@Regular Prairie Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) OR ((|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)})",
+    "requires": "(|@Regular Prairie Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR ((|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)})",
     "region": "Butterfly Fields",
     "sort-key": "b-2-2-1"
   },
@@ -145,7 +145,7 @@
       "Daylight Prairie",
       "Find Children of Light"
     ],
-    "requires": "(|@Regular Prairie Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) AND ((|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)})",
+    "requires": "(|@Regular Prairie Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) AND ((|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)})",
     "region": "Butterfly Fields",
     "sort-key": "b-2-2-2"
   },
@@ -435,7 +435,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "((|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}) OR (((|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(spirit_emote_locks)}))",
+    "requires": "((|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}) OR (((|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(spirit_gate_locks)}))",
     "region": "Boneyard",
     "sort-key": "b-3-3-2"
   },
@@ -445,7 +445,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "((|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}) AND (((|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(spirit_emote_locks)}))",
+    "requires": "((|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}) AND (((|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(spirit_gate_locks)}))",
     "region": "Boneyard",
     "sort-key": "b-3-3-3"
   },
@@ -665,7 +665,7 @@
       "Valley of Triumph",
       "Find Children of Light"
     ],
-    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) OR ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|))",
+    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) OR ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|))",
     "region": "Temple of the Valley",
     "sort-key": "b-4-6-2"
   },
@@ -675,7 +675,7 @@
       "Valley of Triumph",
       "Find Children of Light"
     ],
-    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) AND ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_emote_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|))",
+    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) AND ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|))",
     "region": "Temple of the Valley",
     "sort-key": "b-4-6-3"
   },
