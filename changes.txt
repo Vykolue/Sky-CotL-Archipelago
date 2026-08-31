@@ -9,3 +9,5 @@ added info on starting winged light
 split daily music challenge into two checks
 
 updated to-do list
+
+added trials toggle
