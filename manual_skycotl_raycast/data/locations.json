@@ -559,7 +559,7 @@
       "Hidden Forest",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "{YamlEnabled(auto_collect_winged_light)} OR ((|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)})",
     "region": "The Wind Paths",
     "sort-key": "b-3-9-1"
   },
@@ -567,9 +567,10 @@
     "name": "The Wind Paths Find 2 Children of Light",
     "category": [
       "Hidden Forest",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Auto-Collect Winged Light"
     ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "requires": "{YamlEnabled(auto_collect_winged_light)} AND ((|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)})",
     "region": "The Wind Paths",
     "sort-key": "b-3-9-2"
   },
@@ -577,7 +578,8 @@
     "name": "Valley Rest Find 1 Child of Light",
     "category": [
       "Valley of Triumph",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Auto-Collect Winged Light"
     ],
     "requires": "",
     "region": "Valley Rest",
@@ -607,7 +609,8 @@
     "name": "Lower Valley Track Find 1 Child of Light",
     "category": [
       "Valley of Triumph",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Auto-Collect Winged Light"
     ],
     "requires": "",
     "region": "Lower Valley Track",
@@ -627,7 +630,8 @@
     "name": "The Citadel Find 2 Children of Light",
     "category": [
       "Valley of Triumph",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Auto-Collect Winged Light"
     ],
     "requires": "",
     "region": "The Citadel",
@@ -637,7 +641,8 @@
     "name": "Upper Valley Track Find 1 Child of Light",
     "category": [
       "Valley of Triumph",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Auto-Collect Winged Light"
     ],
     "requires": "",
     "region": "Upper Valley Track",
@@ -647,7 +652,8 @@
     "name": "Upper Valley Track Find 2 Children of Light",
     "category": [
       "Valley of Triumph",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Auto-Collect Winged Light"
     ],
     "requires": "",
     "region": "Upper Valley Track",
@@ -659,7 +665,7 @@
       "Valley of Triumph",
       "Find Children of Light"
     ],
-    "requires": "",
+    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) OR ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|)) OR {YamlEnabled(auto_collect_winged_light)}",
     "region": "Temple of the Valley",
     "sort-key": "b-4-6-1"
   },
@@ -669,7 +675,7 @@
       "Valley of Triumph",
       "Find Children of Light"
     ],
-    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) OR ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|))",
+    "requires": "({YamlEnabled(auto_collect_winged_light)} AND ((|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) OR ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|)))) OR ((|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) AND ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|)))",
     "region": "Temple of the Valley",
     "sort-key": "b-4-6-2"
   },
@@ -677,9 +683,10 @@
     "name": "Temple of the Valley Find 3 Children of Light",
     "category": [
       "Valley of Triumph",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Auto-Collect Winged Light"
     ],
-    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) AND ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|))",
+    "requires": "{YamlEnabled(auto_collect_winged_light)} AND (|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) AND ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|))",
     "region": "Temple of the Valley",
     "sort-key": "b-4-6-3"
   },

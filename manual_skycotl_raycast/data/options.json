@@ -33,23 +33,6 @@
             "group": "Game Mode"
         },
         
-        "starting_winged_light": {
-            "description": [
-                "How many Winged Light do you start with?",
-                "",
-                "This only includes Winged Light from Wing Buffs, Orbit / Pity Room, and Shattering Shard Memories"
-            ],
-            "type": "Range",
-            "range_start": 0,
-            "range_end": 148,
-            "values": {
-                "none": 0,
-                "orbit_winged_light_only": 1
-            },
-            "default": 1,
-            "group": "Starting Values"
-        },
-        
         "spirit_gate_locks": {
             "description": [
                 "Require Rescue Spirit items to pass through Spirit Gates"
@@ -95,17 +78,42 @@
             "group": "Locks"
         },
 
-        "daily_music_challenge": {
+        "starting_winged_light": {
             "description": [
-                "Complete the Daily Music Challenge to earn two checks"
+                "How many Winged Light do you start with?",
+                "",
+                "This only includes Winged Light from Wing Buffs, Orbit / Pity Room, and Shattering Shard Memories"
             ],
-            "type": "Toggle",
-            "default": true,
-            "group": "Extra Challenges"
+            "type": "Range",
+            "range_start": 0,
+            "range_end": 148,
+            "values": {
+                "none": 0,
+                "orbit_winged_light_only": 1
+            },
+            "default": 1,
+            "group": "Other Options"
         },
         "trials": {
             "description": [
-                "The Trials will be included as locations in the game"
+                "Include the Trials as locations in the game"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Other Options"
+        },
+        "auto_collect_winged_light": {
+            "description": [
+                "Include auto-collect Winged Light as locations in the game"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Other Options"
+        },
+
+        "daily_music_challenge": {
+            "description": [
+                "Complete the Daily Music Challenge to earn two checks"
             ],
             "type": "Toggle",
             "default": true,
