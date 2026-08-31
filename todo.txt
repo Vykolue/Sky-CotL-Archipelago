@@ -1,23 +1,19 @@
-TODO:
+GENERAL TODO:
 
 maybe redo regions entirely so that region keys and other requirements 
 are only considered progression if there is a necessary item in that region
 
-fix aviary to hall of stories connection
-(should lead to sky cinema instead)
-
 how to use default filler item instead of setting a specific number?
 
-sort items in the client (using "sort-key")
+is there a way to sort categories in the client?
 
+exclude locations that are unreachable based on yaml settings
+(this is mainly a concern for wingless)
 
-MACGUFFINS:
+add in items for emotes and cosmetics not obtained from spirits
 
-change placement of macguffins for relive spirits
-
-prefill macguffin locations into the hint command?
-
-place path of eden in a random trial
+it could be good to have progressive emote and cosmetic unlocks 
+so players are more likely to get items that they own/want
 
 
 OPTIONS:
@@ -25,8 +21,8 @@ OPTIONS:
 change starting item pool based on game mode and other checks 
 like harmony hall key
 
-add a distinction between needing spirits due to spirit gates versus needing emotes, 
-that way both can be toggled separately in the yaml
+maybe add a way to leave out rescue spirit items for the game 
+if everything requiring that spirit is disabled
 
 add option to turn off trials and/or auto wl
 
@@ -35,35 +31,133 @@ but that would prevent players from choosing multiple
 
 option to disable shortcuts (individually)
 
-update options.json so the default yaml can be generated using Generate Template Options
+may want to have multiple difficulty levels besides just easy and hard. 
+some of the in-logic locations for hard mode may be extremely difficult and/or unituitive
+
+option to exclude locations that require other players
 
 
-RELIVE SPIRITS:
+ADDITIONAL ITEMS:
 
-fix typo on Sense of Self
+use props in the logic and categorize by how it helps (fire props, bounce pad, small props, large props)
+need to have a yaml option to specify if the player has any props of said category
 
-option to turn off reliving spirits that don't have memory fragments?
-or always off
+add logic for red candle, friend or shared memory recharge, toggle flight mode, spells, jump, 
+meditation circles, boats, dive, deep call, ride creatures of light, light blooms, shared/challenge spaces
+
+can potentially add clouds/cloud recharge as an item, but there may be cases where its use is unavoidable
 
 
 WEDGES:
 
-can use a "starting WL count" yaml option to further customise
+add orbit winged light as a location (in the passage region) that can be gotten out of logic 
+if, for instance, someone who's never been through eden ends up in the pity room
+
+maybe add in more wing level events for more than 9 wedges
+(although they are not currently used in the logic)
 
 add max wedges to reduce wedge items in the pool, 
 and maybe exclude inaccessible locations?
 
-how to check for starting wl count?
-need to remove wl items exceeding starting num + 108
-and give starting amount at start
+add a cape yaml option and use in logic to distinguish between 
+locations accessible with 0 wedges and a cape vs no cape
+
+add in wing level ups as a randomized location
 
 
-SEASONAL QUESTS:
+SEASONAL QUEST SANITY:
 
 add this as a game mode
+
+it is important to know whether players have completeted the quest already on their account
+some quests are not replayable in any way while some would require some adjustments to how the quest works.
+additionally, completing quests tend to change things about the game that could affect accessibility
+
+
+RELIVE SPIRIT SANITY:
+
+add this as a game mode
+
+make sure there is a rescue spirit item for every seasonal spirit
+
+option to turn off reliving spirits that don't have memory fragments?
+or always off
+
+update which spirit items are progression when reliving spirits is enabled
+
+goal is to shepherd all base spirits to their respective temples
+(that is, have the rescue spirit items and visit the corresponding temple). 
+each temple you do this for grants a Blessing of the {Realm} item 
+and once all 6 are received, you can goal
+
+
+WAX SANITY:
+
+add this as a game mode
+
+checks are finding candle cakes, burning large darkness plants, and other large sources of wax 
+(as long as it has consistent requirements and is always accessible enough for a sync)
+
+the player can set a goal number of candles to forge in the yaml
+
+
+MAP SHRINE SANITY:
+
+add this as a game mode
+
+
+MUSIC SHEET SANITY:
+
+add this as a game mode
+
+add checks for getting a certain percent accuracy on music sheets
+
+yaml options to specify which music sheets/instruments are owned
+
+locations are getting each accuracy on each part of each music sheet
+
+items are instruments and music sheets 
+(or the spirit that gives the instrument/music sheet)
+
+send a death link if you do too poorly
+
+restart the song if you receive a death link
+
+could have a goal song that must be completed on the hardest accuracy 
+on one or all available parts
+
+
+DYE SANITY:
+
+add this as a game mode
+
+checks could be to burn a certain number of dye plants in each realm
+
+goal could be to forge a certain number of dyes of each color
+
+
+CLIMBING CHALLENGES:
+
+add locations for reaching these without flying:
+- candles at the top of the treehouse
+- citadel message shrine
+- one of the large towers in bird nest
+- peak of the main island in wind paths
+
+ideas that may require props or other items:
+- upper vault winged light by the candle cake
+- sanctuary islands peak
+- top of aviary tower
 
 
 SHARDS/DAILY QUESTS:
 
 as fun as this would be, it's unpredictable, and would be difficult 
 to ensure they are accessible when the game expects them to be
+
+if all of the possible daily quests are added as locations, 
+it may be possible for the player to specify in the yaml which ones to include
+
+if daily quests are added, make sure they require rescuing the spirit that offers the quest
+
+shards could be added if the player can specify in the yaml which area it is in

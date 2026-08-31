@@ -1,17 +1,11 @@
 CHANGES:
 
-made macguffins non-local, and changed them to be more similar to the vanilla game requirements
+fixed spirit gate bug
 
-updated how shortcuts work
+updated macguffin count to match the vanilla game
 
-added sorting to items and locations
+added info on starting winged light
 
-renamed key to unlock
+split daily music challenge into two checks
 
-updated how cosmetic locks work
-
-updated region requirements and connections
-
-added starting winged light yaml option
-
-added Cave of Prophecies Updrafts item
+updated to-do list

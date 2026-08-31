@@ -1090,7 +1090,17 @@
     "sort-key": "a-goal"
   },
   {
-    "name": "Daily Music Challenge",
+    "name": "Daily Music Challenge - Lower Wax",
+    "region": "Harmony Hall",
+    "category": [
+      "Valley of Triumph",
+      "Daily Music Challenge"
+    ],
+    "requires": "",
+    "sort-key": "a-music"
+  },
+  {
+    "name": "Daily Music Challenge - Upper Wax",
     "region": "Harmony Hall",
     "category": [
       "Valley of Triumph",
