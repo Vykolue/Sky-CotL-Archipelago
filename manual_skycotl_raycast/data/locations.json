@@ -209,7 +209,7 @@
       "Daylight Prairie",
       "Find Children of Light"
     ],
-    "requires": "(|@Wedges:9| AND |@Wedge Capacity:9|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "requires": "(|@Wedges:8| AND |@Wedge Capacity:8|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
     "region": "Temple of the Prairie",
     "sort-key": "b-2-5-2"
   },
@@ -359,7 +359,7 @@
       "Daylight Prairie",
       "Find Children of Light"
     ],
-    "requires": "|@Wedges:9| AND |@Wedge Capacity:9|",
+    "requires": "|@Wedges:8| AND |@Wedge Capacity:8|",
     "region": "Prairie Peaks",
     "sort-key": "b-2-9-3"
   },
@@ -766,7 +766,7 @@
       "Golden Wasteland",
       "Find Children of Light"
     ],
-    "requires": "(|@Wedges:9| AND |@Wedge Capacity:9|) OR (|@Wedges:4| AND |@Wedge Capacity:4| AND {YamlEnabled(hard_mode)})",
+    "requires": "(|@Wedges:8| AND |@Wedge Capacity:8|) OR (|@Wedges:4| AND |@Wedge Capacity:4| AND {YamlEnabled(hard_mode)})",
     "region": "The Outer Bailey",
     "sort-key": "b-5-1-2"
   },
@@ -856,7 +856,7 @@
       "Golden Wasteland",
       "Find Children of Light"
     ],
-    "requires": "(|@Wedges:9| AND |@Wedge Capacity:9|) OR (|@Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(hard_mode)})",
+    "requires": "(|@Wedges:8| AND |@Wedge Capacity:8|) OR (|@Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(hard_mode)})",
     "region": "Crab Fields",
     "sort-key": "b-5-3-3"
   },

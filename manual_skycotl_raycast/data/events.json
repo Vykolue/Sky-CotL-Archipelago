@@ -455,7 +455,8 @@
     "name": "The Wind Paths Collect 2 Winged Light",
     "category": [
       "Hidden Forest",
-      "Actual WL"
+      "Actual WL",
+      "Auto-Collect Winged Light"
     ],
     "copy_location": "The Wind Paths Find 2 Children of Light"
   },
@@ -463,7 +464,8 @@
     "name": "Valley Rest Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Actual WL"
+      "Actual WL",
+      "Auto-Collect Winged Light"
     ],
     "copy_location": "Valley Rest Find 1 Child of Light"
   },
@@ -487,7 +489,8 @@
     "name": "Lower Valley Track Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Actual WL"
+      "Actual WL",
+      "Auto-Collect Winged Light"
     ],
     "copy_location": "Lower Valley Track Find 1 Child of Light"
   },
@@ -503,7 +506,8 @@
     "name": "The Citadel Collect 2 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Actual WL"
+      "Actual WL",
+      "Auto-Collect Winged Light"
     ],
     "copy_location": "The Citadel Find 2 Children of Light"
   },
@@ -511,7 +515,8 @@
     "name": "Upper Valley Track Collect 1 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Actual WL"
+      "Actual WL",
+      "Auto-Collect Winged Light"
     ],
     "copy_location": "Upper Valley Track Find 1 Child of Light"
   },
@@ -519,7 +524,8 @@
     "name": "Upper Valley Track Collect 2 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Actual WL"
+      "Actual WL",
+      "Auto-Collect Winged Light"
     ],
     "copy_location": "Upper Valley Track Find 2 Children of Light"
   },
@@ -543,7 +549,8 @@
     "name": "Temple of the Valley Collect 3 Winged Light",
     "category": [
       "Valley of Triumph",
-      "Actual WL"
+      "Actual WL",
+      "Auto-Collect Winged Light"
     ],
     "copy_location": "Temple of the Valley Find 3 Children of Light"
   },
