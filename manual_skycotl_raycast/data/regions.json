@@ -510,7 +510,7 @@
     "connects_to": [
       "Path of Eden"
     ],
-    "requires": "|@Actual WL:20| AND |@Winged Light:30|"
+    "requires": "|@Actual WL:20| AND |@Winged Light:20|"
   },
   "Path of Eden": {
     "connects_to": [
