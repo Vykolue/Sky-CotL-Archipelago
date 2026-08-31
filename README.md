@@ -141,12 +141,14 @@ Shortcut locks will lock the following areas' shortcuts from being used without 
 The Cave of Prophecies Updrafts refers to the updraft just outside the Trial of Air<br />
 Without the updraft item, more wedges will be required to reach this trial in logic
 
-Cosmetic locks can be done one of two ways:<br />
-Method 1 (recommended):
+Cosmetic locks can be done one of two ways:
+
+Method 1:
 - cosmetics are unlocked along with the spirit you get them from
 - turn on cosmetic locks to lock cosmetics not obtained from a regular or seasonal spirit
 - using cosmetic locks, all remaining cosmetic items will be received by category
 - some categories may be left out of the game since they are considered filler items
+
 Method 2:
 - use this method if you'd rather not keep track of which spirits provide which cosmetics
 - turn on cosmetic locks
