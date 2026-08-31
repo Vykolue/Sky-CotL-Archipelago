@@ -131,7 +131,7 @@
     "category": [
       "Other Items"
     ],
-    "progression": true,
+    "progression": "{YamlEnabled(trials)}",
     "sort-key": "b-other-items-1"
   },
   {
