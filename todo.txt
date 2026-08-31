@@ -24,8 +24,6 @@ like harmony hall key
 maybe add a way to leave out rescue spirit items for the game 
 if everything requiring that spirit is disabled
 
-add option to turn off auto wl
-
 maybe change game mode to a single yaml option instead of multiple toggles?
 but that would prevent players from choosing multiple
 

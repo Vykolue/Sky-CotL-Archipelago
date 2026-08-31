@@ -10,4 +10,4 @@ split daily music challenge into two checks
 
 updated to-do list
 
-added trials toggle
+added trials and awl toggle
