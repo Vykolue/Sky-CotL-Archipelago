@@ -97,7 +97,7 @@
 
         "daily_music_challenge": {
             "description": [
-                "Complete the Daily Music Challenge to earn a check"
+                "Complete the Daily Music Challenge to earn two checks"
             ],
             "type": "Toggle",
             "default": true,
