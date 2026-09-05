@@ -136,7 +136,7 @@ Shortcut locks will lock the following areas' shortcuts from being used without 
 - The Wind Paths `(locks everything except the Forest Rest connection)`
 - The Treehouse `(locks everything except the Forest Rest connection)`
 - Harmony Hall `(locks everything except the Village of Dreams connection)`
-- Story Space `(locks everything except the Vault Rest connection)`
+- Story Space `(locks only the Aviary connection)`
 
 The Cave of Prophecies Updrafts refers to the updraft just outside the Trial of Air<br />
 Without the updraft item, more wedges will be required to reach this trial in logic
