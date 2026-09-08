@@ -2,7 +2,9 @@
 A Manual Archipelago for Sky: Children of the Light
 
 This archipelago is a [manual](https://github.com/ManualForArchipelago/Manual), meaning there is no mod and you will need to manually input all checks you get.<br />
-You will also be responsible for not using items you don't have unlocked.
+You will also be responsible for not using items you don't have unlocked
+
+This is mainly a setup guide. More info on how to play can be found [here](https://github.com/Vykolue/Sky-Cotl-Archipelago/gameplay.md)
 
 ## Setup for Hosts
 Make sure you have the [Archipelago Launcher](https://github.com/ArchipelagoMW/Archipelago/releases/latest)<br />
@@ -87,8 +89,7 @@ Make sure:
 - the name you are using to connect matches your slot name (case sensitive)
 
 ## Playing the game
-You can play Sky: Children of the Light on any device<br />
-This README is intended to expain the gameplay for version 0.2.4 of the apworld, and may not apply to other versions
+You can play Sky: Children of the Light on any device
 
 To send a check:
 1. Connect to the Manual Client (as described above)
@@ -99,6 +100,8 @@ To send a check:
 You can see checks you send and receive in real time under the "Archipelago" tab<br />
 Items you receive will also show up under "Items Received" in the "Manual" tab<br />
 You can see hints in the "Hints" tab
+
+More information on the gameplay can be found [here](https://github.com/Vykolue/Sky-Cotl-Archipelago/gameplay.md)
 
 ### Tips
 - You can use "!hint {item_name}" in the command line to find out where the specified item is
@@ -115,138 +118,6 @@ The area a Child of Light is in corresponds to where it appears when looking at 
 Note: these areas may not match the Sky: Children of the Light wiki exactly<br />
 If you lose all Winged Light before playing (or are reborn and don't collect any new Winged Light), 
 you will be able to use your map to track how many Children of Light you have found in each area
-
-### Rules
-Don't send checks you didn't earn
-
-Don't use items that haven't been unlocked<br />
-Your locked items will depend on your YAML settings, but may include:
-- realms `(always on)`
-- the Wandering Carnival area `(always on)`
-- wedges `(always on)`
-- shortcuts `(always on)`
-- the Cave of Prophecies Updrafts `(always on)`
-- passing through spirit gates `(on by default)`
-- cosmetics `(off by default)`
-- props `(on by default)`
-- base emotes `(on by default)`
-- seasonal emotes `(off by default)`
-
-Shortcut locks will lock the following areas' shortcuts from being used without the shortcut item:
-- The Wind Paths `(locks everything except the Forest Rest connection)`
-- The Treehouse `(locks everything except the Forest Rest connection)`
-- Harmony Hall `(locks everything except the Village of Dreams connection)`
-- Story Space `(locks only the Aviary connection)`
-
-The Cave of Prophecies Updrafts refers to the updraft just outside the Trial of Air<br />
-Without the updraft item, more wedges will be required to reach this trial in logic
-
-Cosmetic locks can be done one of two ways:
-
-Method 1:
-- cosmetics are unlocked along with the spirit you get them from
-- turn on cosmetic locks to lock cosmetics not obtained from a regular or seasonal spirit
-- using cosmetic locks, all remaining cosmetic items will be received by category
-- some categories may be left out of the game since they are considered filler items
-
-Method 2:
-- use this method if you'd rather not keep track of which spirits provide which cosmetics
-- turn on cosmetic locks
-- all cosmetics are unlocked by category
-- some categories may be left out of the game since they are considered filler items
-
-If emote locks are on, you should have the corresponding emote before entering areas that require it, 
-even if other players opened the door<br />
-Likewise, you shouldn't have a friend drag you through a locked Spirit Gate
-
-Do not use piggy rocket, chibi fall, white candle, teleport, warp, follow, or other items to gain a large advantage<br />
-I recommend against using props, shared spaces, shared memory recharge, friend recharge, etc. 
-to easily get somewhere that is possible to reach otherwise, or to get somewhere out of logic<br />
-If you receive the item, feel free to use it in this way, however, they will not be required to progress<br />
-I intend to add logic for them in a future update
-
-"Find Children of Light" means you can either collect it, or stand on where it normally is
-
-"Wedges" are how many wedges you are allowed to use<br />
-You are free to use a partial wedge, even if it causes you to use part of a wedge you don't have unlocked
-
-You can lose all your Winged Light before playing<br />
-If you start with extra, you won't be allowed to use it until someone unlocks your wedges for you
-
-You can specify in your YAML how many Winged Light you start with, but only count those not included as locations in the game (Orbit, Wing Buffs, Eden, and Shard Memories)<br />
-If you start with Winged Light that are meant to be collected as part of the game, the logic will not be able to properly account for them<br />
-Your starting Winged Light will show up as "Actual Winged Light" in your starting items, and can be ignored<br />
-If you don't know how many you have, it is best to undershoot or default to 1<br />
-If you undershoot, locations may appear out of logic when they are actually accessible<br />
-If you overshoot, locations may appear in logic when they are inaccessible
-
-You may run into impossible scenerios if your account has not:
-- relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
-- unlocked shortcuts for The Wind Paths, The Treehouse, and Harmony Hall
-- progressed through the first three Cave of Prophecy quests
-- progressed through the Vault of Knowledge
-
-You may also be required to:
-- complete all Nine-Colored Deer quests
-- complete all Season of Moomin quests
-
-Capeless/Wingless gameplay is not currently supported
-
-### Traps
-Heart Trap: `(on by default)`
-- send a heart to a friend
-
-Unskippable Cutscene: `(on by default)`
-- make sure 'skip all skippable cutscenes' is off
-- sit through the next cutscene
-
-Watch the Incense Burn: `(on by default)`
-- visit the Tranquil Garden in Aviary Village
-- walk through the arch and sit at the incense
-- wait for it to burn out
-
-Home Trap: `(on by default)`
-- go home
-- do not use the return shrine to get back to where you were
-
-Forgot How to Jump: `(on by default)`
-- do not press the jump or fly buttons for the next 3 minutes
-
-### Winning
-The win condition is to be reborn<br />
-To enter the Gate of Eden, you will need to obtain at least 20 "Winged Light" items<br />
-Winged Light items have no other affect on the game, and you are free to use more than what you received in the Eye of Eden
-
-### How does Death Link work?
-Death Link is an option you can enable in your YAML `(off by default)`<br />
-When enabled, if you or anyone else with Death Link enabled dies in their game, 
-every other player with Death Link will also die
-
-You can send a Death Link when:
-- your Sky Kid starts to lose Winged Light, turn dark, or grow crystals 
-(except when giving away Winged Light in the Eye of Eden)
-- you use more wedges than you've received 
-(or are caused to go below that number by rain, Dark Dragons, etc.)
-- you die in one of the Trials
-- you die in the Eye of Eden
-
-When you receive a Death Link from another player:
-- go face the Dark Dragon, or if you prefer, lose some Winged Light (how many is up to you)
-- you can enter an area or realm you don't yet have unlocked to do so
-- you can use locked or forbidden items (e.g. extra wedges, teleport, warp) to get there faster
-- do not send a Death Link if you lose Winged Light for this reason
-
-The Death Link button is located in the top right corner of the Manual Client<br />
-When not in use, this button will be grey with the text "Death Link: Primed"
-
-When you receive a Death Link, this button will turn red and display "Death Link:" followed by the slot name of the player who died<br />
-You will also see a Death Link message in the Archipelago tab<br />
-Once you have finished what you need to with Death Link, you can click the button to reset it to "Death Link: Primed"
-
-To send a Death Link, make sure the button says "Death Link: Primed", and click it<br />
-It will turn green and say "Death Link: Sent"<br />
-You will also see a Death Link message in the Archipelago tab<br />
-Click the button again to reset it to "Death Link: Primed"
 
 ### Using the Universal Tracker
 Universal Tracker shows you which checks are in logic<br />
@@ -273,4 +144,4 @@ as options may change between versions
 
 ## AI Usage Disclosure
 If I am searching for how to do something specific and I come across an AI generated response that accomplishes my goal, I will ocassionally use it or adapt it<br />
-That is the only situation where I may use AI in this apworld
+That is the only situation I know of where I may use AI in this apworld

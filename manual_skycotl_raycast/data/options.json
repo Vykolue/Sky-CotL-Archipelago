@@ -63,18 +63,10 @@
         },
         "cosmetic_locks": {
             "description": [
-                "Start with no cosmetics or dyes unlocked"
+                "Start with only the default cosmetics unlocked"
             ],
             "type": "Toggle",
             "default": false,
-            "group": "Locks"
-        },
-        "prop_locks": {
-            "description": [
-                "Start with no props unlocked"
-            ],
-            "type": "Toggle",
-            "default": true,
             "group": "Locks"
         },
 
@@ -163,6 +155,16 @@
         "forgot_how_to_jump": {
             "description": [
                 "This trap will temporarily prevent you from jumping"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Traps"
+        },
+        "move_using_emotes": {
+            "description": [
+                "This trap will temporarily prevent you from walking normally or flying",
+                "",
+                "To move, you must use emotes that change the way you move"
             ],
             "type": "Toggle",
             "default": true,

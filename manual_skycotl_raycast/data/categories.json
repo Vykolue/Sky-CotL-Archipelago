@@ -18,9 +18,6 @@
     "Cosmetic": {
         "yaml_option": ["cosmetic_locks"]
     },
-    "Props": {
-        "yaml_option": ["prop_locks"]
-    },
     "Actual WL": {
         "hidden": true
     },
@@ -42,6 +39,10 @@
     },
     "Forgot How to Jump": {
         "yaml_option": ["forgot_how_to_jump"],
+        "hidden": true
+    },
+    "Move Using Emotes": {
+        "yaml_option": ["move_using_emotes"],
         "hidden": true
     },
     "Seasonal Aviary Spirit": {

@@ -542,33 +542,6 @@
   },
   {
     "count": 1,
-    "name": "Choice of Held Prop",
-    "category": [
-      "Props"
-    ],
-    "filler": true,
-    "sort-key": "h-cosmetics-5-1"
-  },
-  {
-    "count": 1,
-    "name": "Choice of Small Placeable Prop",
-    "category": [
-      "Props"
-    ],
-    "useful": true,
-    "sort-key": "h-cosmetics-5-3"
-  },
-  {
-    "count": 1,
-    "name": "Choice of Large Placeable Prop",
-    "category": [
-      "Props"
-    ],
-    "useful": true,
-    "sort-key": "h-cosmetics-5-2"
-  },
-  {
-    "count": 1,
     "name": "Choice of Hair Accessory",
     "category": [
       "Cosmetic"
@@ -679,6 +652,16 @@
     ],
     "trap": true,
     "sort-key": "g-traps-4"
+  },
+  {
+    "count": 5,
+    "name": "Move Using Emotes",
+    "category": [
+      "Move Using Emotes",
+      "Traps"
+    ],
+    "trap": true,
+    "sort-key": "g-traps-5"
   },
   {
     "count": 1,
