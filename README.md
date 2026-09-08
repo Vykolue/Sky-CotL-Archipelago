@@ -35,7 +35,6 @@ Hosting on the Archipelago website:
     - ensure the name they are using to connect matches their slot name listed under the "Name" column (case sensitive)
     - ensure they are using the correct password if you set a password
 
-
 ## Setup for Players
 To play this game, you will need the [Archipelago Launcher](https://github.com/ArchipelagoMW/Archipelago/releases/latest)<br />
 (The release is under "Assets" at the bottom of the page)
@@ -102,6 +101,19 @@ Items you receive will also show up under "Items Received" in the "Manual" tab<b
 You can see hints in the "Hints" tab
 
 More information on the gameplay can be found [here](https://github.com/Vykolue/Sky-Cotl-Archipelago/gameplay.md)
+
+### Prerequisites
+You may run into impossible scenerios if your account has not:
+- relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
+- unlocked shortcuts for The Wind Paths, The Treehouse, and Harmony Hall `(including Aviary Village connections)`
+- progressed through the first three Cave of Prophecy quests `(this only applies if Trials are toggled on)`
+- progressed through the Vault of Knowledge
+
+You may also be required to:
+- complete all Nine-Colored Deer quests
+- complete all Season of Moomin quests
+
+Capeless/Wingless gameplay is not fully supported, however, you can leave auto-collect Winged Light out of the game
 
 ### Tips
 - You can use "!hint {item_name}" in the command line to find out where the specified item is

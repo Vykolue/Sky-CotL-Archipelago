@@ -2,20 +2,7 @@
 You can play Sky: Children of the Light on any device<br />
 This guide is intended to expain the gameplay for version 0.3.0 of the apworld, and may not apply to other versions
 
-See the [Setup Guide](https://github.com/Vykolue/Sky-Cotl-Archipelago/README.md) for more information on how to set up the game
-
-## Prerequisites
-You may run into impossible scenerios if your account has not:
-- relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
-- unlocked shortcuts for The Wind Paths, The Treehouse, and Harmony Hall `(including Aviary Village connections)`
-- progressed through the first three Cave of Prophecy quests `(this only applies if Trials are toggled on)`
-- progressed through the Vault of Knowledge
-
-You may also be required to:
-- complete all Nine-Colored Deer quests
-- complete all Season of Moomin quests
-
-Capeless/Wingless gameplay is not fully supported, however, you can leave auto-collect Winged Light out of the game
+See the [Setup Guide](https://github.com/Vykolue/Sky-Cotl-Archipelago/README.md) for more information on how to set up the game and prerequisites
 
 ## Rules
 Don't send checks you didn't earn
