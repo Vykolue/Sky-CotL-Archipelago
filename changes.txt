@@ -1,17 +1,2 @@
 CHANGES:
 
-Split the gameplay guide into its own document
-
-Added a new trap
-
-Removed prop locks from the game
-
-Added a list of always available items
-
-Reorganized the gameplay guide
-
-Reorganized the logic for winged light events and locations
-
-Added more skips to hard mode logic
-
-Added more logic to region connections
