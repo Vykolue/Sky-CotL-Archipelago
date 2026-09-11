@@ -100,7 +100,7 @@ You can see checks you send and receive in real time under the "Archipelago" tab
 Items you receive will also show up under "Items Received" in the "Manual" tab<br />
 You can see hints in the "Hints" tab
 
-More information on the gameplay can be found [here](https://github.com/Vykolue/Sky-Cotl-Archipelago/gameplay.md)
+More information on the gameplay can be found [here](https://github.com/Vykolue/Sky-CotL-Archipelago/blob/main/gameplay.md)
 
 ### Prerequisites
 You may run into impossible scenerios if your account has not:

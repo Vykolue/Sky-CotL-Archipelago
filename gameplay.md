@@ -4,7 +4,7 @@ This guide is intended to expain the gameplay for version 0.3.0 of the apworld, 
 
 Be aware that hard mode includes some incredibly difficult and/or unintuitive skips in the logic
 
-See the [Setup Guide](https://github.com/Vykolue/Sky-Cotl-Archipelago/README.md) for more information on how to set up the game and prerequisites
+See the [Setup Guide](https://github.com/Vykolue/Sky-CotL-Archipelago/blob/main/README.md) for more information on how to set up the game and prerequisites
 
 ## Rules
 Don't send checks you didn't earn
