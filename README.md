@@ -4,7 +4,7 @@ A Manual Archipelago for Sky: Children of the Light
 This archipelago is a [manual](https://github.com/ManualForArchipelago/Manual), meaning there is no mod and you will need to manually input all checks you get.<br />
 You will also be responsible for not using items you don't have unlocked
 
-This is mainly a setup guide. More info on how to play can be found [here](https://github.com/Vykolue/Sky-Cotl-Archipelago/gameplay.md)
+This is mainly a setup guide. More info on how to play can be found [here](https://github.com/Vykolue/Sky-CotL-Archipelago/blob/main/gameplay.md)
 
 ## Setup for Hosts
 Make sure you have the [Archipelago Launcher](https://github.com/ArchipelagoMW/Archipelago/releases/latest)<br />
