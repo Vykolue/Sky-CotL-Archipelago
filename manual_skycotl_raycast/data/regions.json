@@ -109,7 +109,7 @@
       "Trials"
     ],
     "connects_to": [],
-    "requires": "|Isle of Dawn Unlock| AND ((|@Wedges:5| AND |@Wedge Capacity:5|) OR |Cave of Prophecies Updrafts|)"
+    "requires": "|Isle of Dawn Unlock| AND ((|@Wedges:5| AND |@Wedge Capacity:5|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) OR |Cave of Prophecies Updrafts|)"
   },
   "Trial of Fire": {
     "category": [
@@ -188,10 +188,7 @@
     "connects_to": [
       "Forest Rest"
     ],
-    "requires": "|Daylight Prairie Unlock|",
-    "entrance_requires": {
-      
-    }
+    "requires": "|Daylight Prairie Unlock|"
   },
   "Forest Rest": {
     "connects_to": [
@@ -242,11 +239,7 @@
       "The Wind Paths",
       "Elevated Clearing"
     ],
-    "requires": "|Hidden Forest Unlock| AND (((|Rescued Pouty Porter (Angry)| OR {YamlDisabled(emote_locks)}) AND (|@Regular Forest Spirit:8| OR {YamlDisabled(spirit_gate_locks)})) OR (|The Wind Paths Shortcuts|))",
-    "entrance_requires": {
-      "Elevated Clearing": "",
-      "The Wind Paths": "|The Wind Paths Shortcuts|"
-    }
+    "requires": "|Hidden Forest Unlock| AND (((|Rescued Pouty Porter (Angry)| OR {YamlDisabled(emote_locks)}) AND (|@Regular Forest Spirit:8| OR {YamlDisabled(spirit_gate_locks)}) AND (|@Wedges:4| AND |@Wedge Capacity:4|)) OR (|The Wind Paths Shortcuts|))"
   },
   "Boneyard": {
     "connects_to": [
@@ -261,7 +254,7 @@
     "connects_to": [
       "Sacred Pond"
     ],
-    "requires": "|Hidden Forest Unlock|"
+    "requires": "|Hidden Forest Unlock| AND ((|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)})"
   },
   "Sacred Pond": {
     "connects_to": [
@@ -394,10 +387,7 @@
       "The Wind Paths",
       "The Outer Bailey"
     ],
-    "requires": "|Golden Wasteland Unlock|",
-    "entrance_requires": {
-      "The Wind Paths": "|The Wind Paths Shortcuts|"
-    }
+    "requires": "|Golden Wasteland Unlock|"
   },
   "The Battlefield": {
     "connects_to": [

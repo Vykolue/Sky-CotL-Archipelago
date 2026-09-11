@@ -1,878 +1,1094 @@
 [
   {
-    "name": "Wandering Carnival Collect 1 Winged Light",
+    "name": "Aviary Child of Light #1",
     "category": [
       "Aviary Village",
-      "Actual WL"
+      "Actual WL",
+      "Wandering Carnival Children of Light"
     ],
-    "copy_location": "Wandering Carnival Find 1 Child of Light"
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "region": "Wandering Carnival"
   },
   {
-    "name": "Wandering Carnival Collect 2 Winged Light",
+    "name": "Aviary Child of Light #2",
     "category": [
       "Aviary Village",
-      "Actual WL"
+      "Actual WL",
+      "Wandering Carnival Children of Light"
     ],
-    "copy_location": "Wandering Carnival Find 2 Children of Light"
+    "requires": "",
+    "region": "Wandering Carnival"
   },
   {
-    "name": "Passage Rock Collect 1 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Actual WL"
-    ],
-    "copy_location": "Passage Rock Find 1 Child of Light"
-  },
-  {
-    "name": "Passage Rock Collect 2 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Actual WL"
-    ],
-    "copy_location": "Passage Rock Find 2 Children of Light"
-  },
-  {
-    "name": "Dawn Circle Collect 1 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Actual WL"
-    ],
-    "copy_location": "Dawn Circle Find 1 Child of Light"
-  },
-  {
-    "name": "Dawn Circle Collect 2 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Actual WL"
-    ],
-    "copy_location": "Dawn Circle Find 2 Children of Light"
-  },
-  {
-    "name": "Dawn Circle Collect 3 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Actual WL"
-    ],
-    "copy_location": "Dawn Circle Find 3 Children of Light"
-  },
-  {
-    "name": "Dawn Overlook Collect 1 Winged Light",
-    "category": [
-      "Isle of Dawn",
-      "Actual WL"
-    ],
-    "copy_location": "Dawn Overlook Find 1 Child of Light"
-  },
-  {
-    "name": "Trial of Water Collect 1 Winged Light",
+    "name": "Isle Child of Light #1",
     "category": [
       "Isle of Dawn",
       "Actual WL",
-      "Trials"
+      "Passage Rock Children of Light"
     ],
-    "copy_location": "Trial of Water Find 1 Child of Light"
+    "requires": "",
+    "region": "Passage Rock"
   },
   {
-    "name": "Trial of Earth Collect 1 Winged Light",
+    "name": "Isle Child of Light #2",
     "category": [
       "Isle of Dawn",
       "Actual WL",
-      "Trials"
+      "Passage Rock Children of Light"
     ],
-    "copy_location": "Trial of Earth Find 1 Child of Light"
+    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "region": "Passage Rock"
   },
   {
-    "name": "Trial of Air Collect 1 Winged Light",
+    "name": "Isle Child of Light #3",
     "category": [
       "Isle of Dawn",
       "Actual WL",
-      "Trials"
+      "Dawn Circle Children of Light"
     ],
-    "copy_location": "Trial of Air Find 1 Child of Light"
+    "requires": "(|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "region": "Dawn Circle"
   },
   {
-    "name": "Trial of Fire Collect 1 Winged Light",
+    "name": "Isle Child of Light #4",
     "category": [
       "Isle of Dawn",
       "Actual WL",
-      "Trials"
+      "Dawn Circle Children of Light"
     ],
-    "copy_location": "Trial of Fire Find 1 Child of Light"
+    "requires": "|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
+    "region": "Dawn Circle"
   },
   {
-    "name": "Prairie Rest Collect 1 Winged Light",
+    "name": "Isle Child of Light #10",
+    "category": [
+      "Isle of Dawn",
+      "Actual WL",
+      "Dawn Circle Children of Light"
+    ],
+    "requires": "",
+    "region": "Dawn Circle"
+  },
+  {
+    "name": "Isle Child of Light #5",
+    "category": [
+      "Isle of Dawn",
+      "Actual WL",
+      "Dawn Overlook Children of Light"
+    ],
+    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "region": "Dawn Overlook"
+  },
+  {
+    "name": "Isle Child of Light #6",
+    "category": [
+      "Isle of Dawn",
+      "Actual WL",
+      "Trials",
+      "Trial of Water Children of Light"
+    ],
+    "requires": "",
+    "region": "Trial of Water"
+  },
+  {
+    "name": "Isle Child of Light #7",
+    "category": [
+      "Isle of Dawn",
+      "Actual WL",
+      "Trials",
+      "Trial of Earth Children of Light"
+    ],
+    "requires": "",
+    "region": "Trial of Earth"
+  },
+  {
+    "name": "Isle Child of Light #8",
+    "category": [
+      "Isle of Dawn",
+      "Actual WL",
+      "Trials",
+      "Trial of Air Children of Light"
+    ],
+    "requires": "",
+    "region": "Trial of Air"
+  },
+  {
+    "name": "Isle Child of Light #9",
+    "category": [
+      "Isle of Dawn",
+      "Actual WL",
+      "Trials",
+      "Trial of Fire Children of Light"
+    ],
+    "requires": "",
+    "region": "Trial of Fire"
+  },
+  {
+    "name": "Prairie Child of Light #1",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Prairie Rest Children of Light"
     ],
-    "copy_location": "Prairie Rest Find 1 Child of Light"
+    "requires": "",
+    "region": "Prairie Rest"
   },
   {
-    "name": "Butterfly Fields Collect 1 Winged Light",
+    "name": "Prairie Child of Light #2",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Butterfly Fields Children of Light"
     ],
-    "copy_location": "Butterfly Fields Find 1 Child of Light"
+    "requires": "|@Regular Prairie Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
+    "region": "Butterfly Fields"
   },
   {
-    "name": "Butterfly Fields Collect 2 Winged Light",
+    "name": "Prairie Child of Light #3",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Butterfly Fields Children of Light"
     ],
-    "copy_location": "Butterfly Fields Find 2 Children of Light"
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
+    "region": "Butterfly Fields"
   },
   {
-    "name": "Prairie Village Collect 1 Winged Light",
+    "name": "Prairie Child of Light #4",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Prairie Village Children of Light"
     ],
-    "copy_location": "Prairie Village Find 1 Child of Light"
+    "requires": "",
+    "region": "Prairie Village"
   },
   {
-    "name": "Prairie Village Collect 2 Winged Light",
+    "name": "Prairie Child of Light #5",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Prairie Village Children of Light"
     ],
-    "copy_location": "Prairie Village Find 2 Children of Light"
+    "requires": "",
+    "region": "Prairie Village"
   },
   {
-    "name": "Prairie Village Collect 3 Winged Light",
+    "name": "Prairie Child of Light #6",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Prairie Village Children of Light"
     ],
-    "copy_location": "Prairie Village Find 3 Children of Light"
+    "requires": "",
+    "region": "Prairie Village"
   },
   {
-    "name": "Prairie Heights Collect 1 Winged Light",
+    "name": "Prairie Child of Light #7",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Prairie Heights Children of Light"
     ],
-    "copy_location": "Prairie Heights Find 1 Child of Light"
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "region": "Prairie Heights"
   },
   {
-    "name": "Temple of the Prairie Collect 1 Winged Light",
+    "name": "Prairie Child of Light #8",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Temple of the Prairie Children of Light"
     ],
-    "copy_location": "Temple of the Prairie Find 1 Child of Light"
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
+    "region": "Temple of the Prairie"
   },
   {
-    "name": "Temple of the Prairie Collect 2 Winged Light",
+    "name": "Prairie Child of Light #9",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Temple of the Prairie Children of Light"
     ],
-    "copy_location": "Temple of the Prairie Find 2 Children of Light"
+    "requires": "(|@Wedges:8| AND |@Wedge Capacity:8|) OR {YamlEnabled(hard_mode)}",
+    "region": "Temple of the Prairie"
   },
   {
-    "name": "Prairie Cave Collect 1 Winged Light",
+    "name": "Prairie Child of Light #10",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Prairie Cave Children of Light"
     ],
-    "copy_location": "Prairie Cave Find 1 Child of Light"
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "region": "Prairie Cave"
   },
   {
-    "name": "Prairie Cave Collect 2 Winged Light",
+    "name": "Prairie Child of Light #11",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Prairie Cave Children of Light"
     ],
-    "copy_location": "Prairie Cave Find 2 Children of Light"
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "region": "Prairie Cave"
   },
   {
-    "name": "Bird Nest Collect 1 Winged Light",
+    "name": "Prairie Child of Light #12",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Bird Nest Children of Light"
     ],
-    "copy_location": "Bird Nest Find 1 Child of Light"
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "region": "Bird Nest"
   },
   {
-    "name": "Bird Nest Collect 2 Winged Light",
+    "name": "Prairie Child of Light #13",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Bird Nest Children of Light"
     ],
-    "copy_location": "Bird Nest Find 2 Children of Light"
+    "requires": "",
+    "region": "Bird Nest"
   },
   {
-    "name": "Sanctuary Islands Collect 1 Winged Light",
+    "name": "Prairie Child of Light #14",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Sanctuary Islands Children of Light"
     ],
-    "copy_location": "Sanctuary Islands Find 1 Child of Light"
+    "requires": "",
+    "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Collect 2 Winged Light",
+    "name": "Prairie Child of Light #15",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Sanctuary Islands Children of Light"
     ],
-    "copy_location": "Sanctuary Islands Find 2 Children of Light"
+    "requires": "",
+    "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Collect 3 Winged Light",
+    "name": "Prairie Child of Light #16",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Sanctuary Islands Children of Light"
     ],
-    "copy_location": "Sanctuary Islands Find 3 Children of Light"
+    "requires": "",
+    "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Collect 4 Winged Light",
+    "name": "Prairie Child of Light #17",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Sanctuary Islands Children of Light"
     ],
-    "copy_location": "Sanctuary Islands Find 4 Children of Light"
+    "requires": "",
+    "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Collect 5 Winged Light",
+    "name": "Prairie Child of Light #18",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Sanctuary Islands Children of Light"
     ],
-    "copy_location": "Sanctuary Islands Find 5 Children of Light"
+    "requires": "",
+    "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Collect 6 Winged Light",
+    "name": "Prairie Child of Light #19",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Sanctuary Islands Children of Light"
     ],
-    "copy_location": "Sanctuary Islands Find 6 Children of Light"
+    "requires": "",
+    "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Collect 7 Winged Light",
+    "name": "Prairie Child of Light #20",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Sanctuary Islands Children of Light"
     ],
-    "copy_location": "Sanctuary Islands Find 7 Children of Light"
+    "requires": "",
+    "region": "Sanctuary Islands"
   },
   {
-    "name": "Sanctuary Islands Collect 8 Winged Light",
+    "name": "Prairie Child of Light #21",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Sanctuary Islands Children of Light"
     ],
-    "copy_location": "Sanctuary Islands Find 8 Children of Light"
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Sanctuary Islands"
   },
   {
-    "name": "Prairie Peaks Collect 1 Winged Light",
+    "name": "Prairie Child of Light #22",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Prairie Peaks Children of Light"
     ],
-    "copy_location": "Prairie Peaks Find 1 Child of Light"
+    "requires": "",
+    "region": "Prairie Peaks"
   },
   {
-    "name": "Prairie Peaks Collect 2 Winged Light",
+    "name": "Prairie Child of Light #23",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Prairie Peaks Children of Light"
     ],
-    "copy_location": "Prairie Peaks Find 2 Children of Light"
+    "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
+    "region": "Prairie Peaks"
   },
   {
-    "name": "Prairie Peaks Collect 3 Winged Light",
+    "name": "Prairie Child of Light #24",
     "category": [
       "Daylight Prairie",
-      "Actual WL"
+      "Actual WL",
+      "Prairie Peaks Children of Light"
     ],
-    "copy_location": "Prairie Peaks Find 3 Children of Light"
+    "requires": "(|@Wedges:8| AND |@Wedge Capacity:8|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
+    "region": "Prairie Peaks"
   },
   {
-    "name": "Forest Courtyard Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Forest Courtyard Find 1 Child of Light"
-  },
-  {
-    "name": "Forest Courtyard Collect 2 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Forest Courtyard Find 2 Children of Light"
-  },
-  {
-    "name": "Forest Brook Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Forest Brook Find 1 Child of Light"
-  },
-  {
-    "name": "Forest Brook Collect 2 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Forest Brook Find 2 Children of Light"
-  },
-  {
-    "name": "Forest Brook Collect 3 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Forest Brook Find 3 Children of Light"
-  },
-  {
-    "name": "Forest Brook Collect 4 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Forest Brook Find 4 Children of Light"
-  },
-  {
-    "name": "Boneyard Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Boneyard Find 1 Child of Light"
-  },
-  {
-    "name": "Boneyard Collect 2 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Boneyard Find 2 Children of Light"
-  },
-  {
-    "name": "Boneyard Collect 3 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Boneyard Find 3 Children of Light"
-  },
-  {
-    "name": "Elevated Clearing Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Elevated Clearing Find 1 Child of Light"
-  },
-  {
-    "name": "Elevated Clearing Collect 2 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Elevated Clearing Find 2 Children of Light"
-  },
-  {
-    "name": "Blue Bird Theater Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Blue Bird Theater Find 1 Child of Light"
-  },
-  {
-    "name": "Forest Cavern Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Forest Cavern Find 1 Child of Light"
-  },
-  {
-    "name": "Forest Cavern Collect 2 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Forest Cavern Find 2 Children of Light"
-  },
-  {
-    "name": "Forest Cavern Collect 3 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Forest Cavern Find 3 Children of Light"
-  },
-  {
-    "name": "Forest Cavern Collect 4 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Forest Cavern Find 4 Children of Light"
-  },
-  {
-    "name": "Sacred Pond Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "Sacred Pond Find 1 Child of Light"
-  },
-  {
-    "name": "The Treehouse Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "The Treehouse Find 1 Child of Light"
-  },
-  {
-    "name": "The Treehouse Collect 2 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "The Treehouse Find 2 Children of Light"
-  },
-  {
-    "name": "The Wind Paths Collect 1 Winged Light",
-    "category": [
-      "Hidden Forest",
-      "Actual WL"
-    ],
-    "copy_location": "The Wind Paths Find 1 Child of Light"
-  },
-  {
-    "name": "The Wind Paths Collect 2 Winged Light",
+    "name": "Forest Child of Light #1",
     "category": [
       "Hidden Forest",
       "Actual WL",
-      "Auto-Collect Winged Light"
+      "Forest Courtyard Children of Light"
     ],
-    "copy_location": "The Wind Paths Find 2 Children of Light"
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
+    "region": "Forest Courtyard"
   },
   {
-    "name": "Valley Rest Collect 1 Winged Light",
+    "name": "Forest Child of Light #2",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Forest Courtyard Children of Light"
+    ],
+    "requires": "",
+    "region": "Forest Courtyard"
+  },
+  {
+    "name": "Forest Child of Light #3",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Forest Brook Children of Light"
+    ],
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "region": "Forest Brook"
+  },
+  {
+    "name": "Forest Child of Light #4",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Forest Brook Children of Light"
+    ],
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "region": "Forest Brook"
+  },
+  {
+    "name": "Forest Child of Light #5",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Forest Brook Children of Light"
+    ],
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "region": "Forest Brook"
+  },
+  {
+    "name": "Forest Child of Light #6",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Forest Brook Children of Light"
+    ],
+    "requires": "",
+    "region": "Forest Brook"
+  },
+  {
+    "name": "Forest Child of Light #7",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Boneyard Children of Light"
+    ],
+    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}",
+    "region": "Boneyard"
+  },
+  {
+    "name": "Forest Child of Light #8",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Boneyard Children of Light"
+    ],
+    "requires": "((|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(spirit_gate_locks)})",
+    "region": "Boneyard"
+  },
+  {
+    "name": "Forest Child of Light #9",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Boneyard Children of Light"
+    ],
+    "requires": "",
+    "region": "Boneyard"
+  },
+  {
+    "name": "Forest Child of Light #10",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Elevated Clearing Children of Light"
+    ],
+    "requires": "",
+    "region": "Elevated Clearing"
+  },
+  {
+    "name": "Forest Child of Light #11",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Elevated Clearing Children of Light"
+    ],
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
+    "region": "Elevated Clearing"
+  },
+  {
+    "name": "Forest Child of Light #12",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Blue Bird Theater Children of Light"
+    ],
+    "requires": "",
+    "region": "Blue Bird Theater"
+  },
+  {
+    "name": "Forest Child of Light #13",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Forest Cavern Children of Light"
+    ],
+    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Forest Child of Light #14",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Forest Cavern Children of Light"
+    ],
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Forest Child of Light #15",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Forest Cavern Children of Light"
+    ],
+    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Forest Child of Light #16",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Forest Cavern Children of Light"
+    ],
+    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Forest Child of Light #17",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Sacred Pond Children of Light"
+    ],
+    "requires": "",
+    "region": "Sacred Pond"
+  },
+  {
+    "name": "Forest Child of Light #18",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "The Treehouse Children of Light"
+    ],
+    "requires": "",
+    "region": "The Treehouse"
+  },
+  {
+    "name": "Forest Child of Light #19",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "The Treehouse Children of Light"
+    ],
+    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
+    "region": "The Treehouse"
+  },
+  {
+    "name": "Forest Child of Light #20",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "Auto-Collect Winged Light",
+      "The Wind Paths Children of Light"
+    ],
+    "requires": "{YamlEnabled(auto_collect_winged_light)}",
+    "region": "The Wind Paths"
+  },
+  {
+    "name": "Forest Child of Light #21",
+    "category": [
+      "Hidden Forest",
+      "Actual WL",
+      "The Wind Paths Children of Light"
+    ],
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "region": "The Wind Paths"
+  },
+  {
+    "name": "Valley Child of Light #1",
     "category": [
       "Valley of Triumph",
       "Actual WL",
-      "Auto-Collect Winged Light"
+      "Auto-Collect Winged Light",
+      "Valley Rest Children of Light"
     ],
-    "copy_location": "Valley Rest Find 1 Child of Light"
+    "requires": "",
+    "region": "Valley Rest"
   },
   {
-    "name": "Frozen Lake Collect 1 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Actual WL"
-    ],
-    "copy_location": "Frozen Lake Find 1 Child of Light"
-  },
-  {
-    "name": "Frozen Lake Collect 2 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Actual WL"
-    ],
-    "copy_location": "Frozen Lake Find 2 Children of Light"
-  },
-  {
-    "name": "Lower Valley Track Collect 1 Winged Light",
+    "name": "Valley Child of Light #2",
     "category": [
       "Valley of Triumph",
       "Actual WL",
-      "Auto-Collect Winged Light"
+      "Frozen Lake Children of Light"
     ],
-    "copy_location": "Lower Valley Track Find 1 Child of Light"
+    "requires": "",
+    "region": "Frozen Lake"
   },
   {
-    "name": "The Citadel Collect 1 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Actual WL"
-    ],
-    "copy_location": "The Citadel Find 1 Child of Light"
-  },
-  {
-    "name": "The Citadel Collect 2 Winged Light",
+    "name": "Valley Child of Light #3",
     "category": [
       "Valley of Triumph",
       "Actual WL",
-      "Auto-Collect Winged Light"
+      "Frozen Lake Children of Light"
     ],
-    "copy_location": "The Citadel Find 2 Children of Light"
+    "requires": "",
+    "region": "Frozen Lake"
   },
   {
-    "name": "Upper Valley Track Collect 1 Winged Light",
+    "name": "Valley Child of Light #4",
     "category": [
       "Valley of Triumph",
       "Actual WL",
-      "Auto-Collect Winged Light"
+      "Auto-Collect Winged Light",
+      "Lower Valley Track Children of Light"
     ],
-    "copy_location": "Upper Valley Track Find 1 Child of Light"
+    "requires": "",
+    "region": "Lower Valley Track"
   },
   {
-    "name": "Upper Valley Track Collect 2 Winged Light",
+    "name": "Valley Child of Light #5",
     "category": [
       "Valley of Triumph",
       "Actual WL",
-      "Auto-Collect Winged Light"
+      "The Citadel Children of Light"
     ],
-    "copy_location": "Upper Valley Track Find 2 Children of Light"
+    "requires": "",
+    "region": "The Citadel"
   },
   {
-    "name": "Temple of the Valley Collect 1 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Actual WL"
-    ],
-    "copy_location": "Temple of the Valley Find 1 Child of Light"
-  },
-  {
-    "name": "Temple of the Valley Collect 2 Winged Light",
-    "category": [
-      "Valley of Triumph",
-      "Actual WL"
-    ],
-    "copy_location": "Temple of the Valley Find 2 Children of Light"
-  },
-  {
-    "name": "Temple of the Valley Collect 3 Winged Light",
+    "name": "Valley Child of Light #6",
     "category": [
       "Valley of Triumph",
       "Actual WL",
-      "Auto-Collect Winged Light"
+      "Auto-Collect Winged Light",
+      "The Citadel Children of Light"
     ],
-    "copy_location": "Temple of the Valley Find 3 Children of Light"
+    "requires": "",
+    "region": "The Citadel"
   },
   {
-    "name": "Village of Dreams Collect 1 Winged Light",
+    "name": "Valley Child of Light #7",
     "category": [
       "Valley of Triumph",
-      "Actual WL"
+      "Actual WL",
+      "Auto-Collect Winged Light",
+      "Upper Valley Track Children of Light"
     ],
-    "copy_location": "Village of Dreams Find 1 Child of Light"
+    "requires": "",
+    "region": "Upper Valley Track"
   },
   {
-    "name": "Village of Dreams Collect 2 Winged Light",
+    "name": "Valley Child of Light #8",
     "category": [
       "Valley of Triumph",
-      "Actual WL"
+      "Actual WL",
+      "Auto-Collect Winged Light",
+      "Upper Valley Track Children of Light"
     ],
-    "copy_location": "Village of Dreams Find 2 Children of Light"
+    "requires": "",
+    "region": "Upper Valley Track"
   },
   {
-    "name": "Village of Dreams Collect 3 Winged Light",
+    "name": "Valley Child of Light #9",
     "category": [
       "Valley of Triumph",
-      "Actual WL"
+      "Actual WL",
+      "Auto-Collect Winged Light",
+      "Temple of the Valley Children of Light"
     ],
-    "copy_location": "Village of Dreams Find 3 Children of Light"
+    "requires": "{YamlEnabled(auto_collect_winged_light)}",
+    "region": "Temple of the Valley"
   },
   {
-    "name": "Hermit Valley Collect 1 Winged Light",
+    "name": "Valley Child of Light #10",
     "category": [
       "Valley of Triumph",
-      "Actual WL"
+      "Actual WL",
+      "Temple of the Valley Children of Light"
     ],
-    "copy_location": "Hermit Valley Find 1 Child of Light"
+    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
+    "region": "Temple of the Valley"
   },
   {
-    "name": "Hermit Valley Collect 2 Winged Light",
+    "name": "Valley Child of Light #11",
     "category": [
       "Valley of Triumph",
-      "Actual WL"
+      "Actual WL",
+      "Temple of the Valley Children of Light"
     ],
-    "copy_location": "Hermit Valley Find 2 Children of Light"
+    "requires": "(|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|)",
+    "region": "Temple of the Valley"
   },
   {
-    "name": "Village Theater Collect 1 Winged Light",
+    "name": "Valley Child of Light #12",
     "category": [
       "Valley of Triumph",
-      "Actual WL"
+      "Actual WL",
+      "Village of Dreams Children of Light"
     ],
-    "copy_location": "Village Theater Find 1 Child of Light"
+    "requires": "",
+    "region": "Village of Dreams"
   },
   {
-    "name": "The Outer Bailey Collect 1 Winged Light",
+    "name": "Valley Child of Light #13",
+    "category": [
+      "Valley of Triumph",
+      "Actual WL",
+      "Village of Dreams Children of Light"
+    ],
+    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}",
+    "region": "Village of Dreams"
+  },
+  {
+    "name": "Valley Child of Light #14",
+    "category": [
+      "Valley of Triumph",
+      "Actual WL",
+      "Village of Dreams Children of Light"
+    ],
+    "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
+    "region": "Village of Dreams"
+  },
+  {
+    "name": "Valley Child of Light #15",
+    "category": [
+      "Valley of Triumph",
+      "Actual WL",
+      "Hermit Valley Children of Light"
+    ],
+    "requires": "",
+    "region": "Hermit Valley"
+  },
+  {
+    "name": "Valley Child of Light #16",
+    "category": [
+      "Valley of Triumph",
+      "Actual WL",
+      "Hermit Valley Children of Light"
+    ],
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
+    "region": "Hermit Valley"
+  },
+  {
+    "name": "Valley Child of Light #17",
+    "category": [
+      "Valley of Triumph",
+      "Actual WL",
+      "Village Theater Children of Light"
+    ],
+    "requires": "",
+    "region": "Village Theater"
+  },
+  {
+    "name": "Wasteland Child of Light #1",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "The Outer Bailey Children of Light"
     ],
-    "copy_location": "The Outer Bailey Find 1 Child of Light"
+    "requires": "",
+    "region": "The Outer Bailey"
   },
   {
-    "name": "The Outer Bailey Collect 2 Winged Light",
+    "name": "Wasteland Child of Light #2",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "The Outer Bailey Children of Light"
     ],
-    "copy_location": "The Outer Bailey Find 2 Children of Light"
+    "requires": "(|@Wedges:8| AND |@Wedge Capacity:8|) OR (|@Wedges:3| AND |@Wedge Capacity:3| AND {YamlEnabled(hard_mode)})",
+    "region": "The Outer Bailey"
   },
   {
-    "name": "The Graveyard Collect 1 Winged Light",
+    "name": "Wasteland Child of Light #3",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "The Graveyard Children of Light"
     ],
-    "copy_location": "The Graveyard Find 1 Child of Light"
+    "requires": "",
+    "region": "The Graveyard"
   },
   {
-    "name": "The Graveyard Collect 2 Winged Light",
+    "name": "Wasteland Child of Light #4",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "The Graveyard Children of Light"
     ],
-    "copy_location": "The Graveyard Find 2 Children of Light"
+    "requires": "",
+    "region": "The Graveyard"
   },
   {
-    "name": "The Graveyard Collect 3 Winged Light",
+    "name": "Wasteland Child of Light #5",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "The Graveyard Children of Light"
     ],
-    "copy_location": "The Graveyard Find 3 Children of Light"
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "region": "The Graveyard"
   },
   {
-    "name": "The Graveyard Collect 4 Winged Light",
+    "name": "Wasteland Child of Light #6",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "The Graveyard Children of Light"
     ],
-    "copy_location": "The Graveyard Find 4 Children of Light"
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "region": "The Graveyard"
   },
   {
-    "name": "The Graveyard Collect 5 Winged Light",
+    "name": "Wasteland Child of Light #7",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "The Graveyard Children of Light"
     ],
-    "copy_location": "The Graveyard Find 5 Children of Light"
+    "requires": "",
+    "region": "The Graveyard"
   },
   {
-    "name": "The Graveyard Collect 6 Winged Light",
+    "name": "Wasteland Child of Light #8",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "The Graveyard Children of Light"
     ],
-    "copy_location": "The Graveyard Find 6 Children of Light"
+    "requires": "",
+    "region": "The Graveyard"
   },
   {
-    "name": "Crab Fields Collect 1 Winged Light",
+    "name": "Wasteland Child of Light #9",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "Crab Fields Children of Light"
     ],
-    "copy_location": "Crab Fields Find 1 Child of Light"
+    "requires": "",
+    "region": "Crab Fields"
   },
   {
-    "name": "Crab Fields Collect 2 Winged Light",
+    "name": "Wasteland Child of Light #10",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "Crab Fields Children of Light"
     ],
-    "copy_location": "Crab Fields Find 2 Children of Light"
+    "requires": "(|@Wedges:8| AND |@Wedge Capacity:8|) OR (|@Wedges:3| AND |@Wedge Capacity:3| AND {YamlEnabled(hard_mode)})",
+    "region": "Crab Fields"
   },
   {
-    "name": "Crab Fields Collect 3 Winged Light",
+    "name": "Wasteland Child of Light #11",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "Crab Fields Children of Light"
     ],
-    "copy_location": "Crab Fields Find 3 Children of Light"
+    "requires": "",
+    "region": "Crab Fields"
   },
   {
-    "name": "The Battlefield Collect 1 Winged Light",
+    "name": "Wasteland Child of Light #12",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "The Battlefield Children of Light"
     ],
-    "copy_location": "The Battlefield Find 1 Child of Light"
+    "requires": "",
+    "region": "The Battlefield"
   },
   {
-    "name": "The Battlefield Collect 2 Winged Light",
+    "name": "Wasteland Child of Light #13",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "The Battlefield Children of Light"
     ],
-    "copy_location": "The Battlefield Find 2 Children of Light"
+    "requires": "",
+    "region": "The Battlefield"
   },
   {
-    "name": "Temple of the Wasteland Collect 1 Winged Light",
+    "name": "Wasteland Child of Light #14",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "Temple of the Wasteland Children of Light"
     ],
-    "copy_location": "Temple of the Wasteland Find 1 Child of Light"
+    "requires": "",
+    "region": "Temple of the Wasteland"
   },
   {
-    "name": "Forgotten Ark Collect 1 Winged Light",
+    "name": "Wasteland Child of Light #15",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "Forgotten Ark Children of Light"
     ],
-    "copy_location": "Forgotten Ark Find 1 Child of Light"
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "region": "Forgotten Ark"
   },
   {
-    "name": "Forgotten Ark Collect 2 Winged Light",
+    "name": "Wasteland Child of Light #16",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "Forgotten Ark Children of Light"
     ],
-    "copy_location": "Forgotten Ark Find 2 Children of Light"
+    "requires": "",
+    "region": "Forgotten Ark"
   },
   {
-    "name": "Treasure Reef Collect 1 Winged Light",
+    "name": "Wasteland Child of Light #17",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "Treasure Reef Children of Light"
     ],
-    "copy_location": "Treasure Reef Find 1 Child of Light"
+    "requires": "(|@Wedges:6| AND |@Wedge Capacity:6|) OR (|@Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(hard_mode)})",
+    "region": "Treasure Reef"
   },
   {
-    "name": "Treasure Reef Collect 2 Winged Light",
+    "name": "Wasteland Child of Light #18",
     "category": [
       "Golden Wasteland",
-      "Actual WL"
+      "Actual WL",
+      "Treasure Reef Children of Light"
     ],
-    "copy_location": "Treasure Reef Find 2 Children of Light"
+    "requires": "",
+    "region": "Treasure Reef"
   },
   {
-    "name": "Vault Rest Collect 1 Winged Light",
+    "name": "Vault Child of Light #1",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Vault Rest Children of Light"
     ],
-    "copy_location": "Vault Rest Find 1 Child of Light"
+    "requires": "",
+    "region": "Vault Rest"
   },
   {
-    "name": "Lower Vault Collect 1 Winged Light",
+    "name": "Vault Child of Light #2",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Lower Vault Children of Light"
     ],
-    "copy_location": "Lower Vault Find 1 Child of Light"
+    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "region": "Lower Vault"
   },
   {
-    "name": "Upper Vault Collect 1 Winged Light",
+    "name": "Vault Child of Light #3",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Upper Vault Children of Light"
     ],
-    "copy_location": "Upper Vault Find 1 Child of Light"
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Upper Vault"
   },
   {
-    "name": "Upper Vault Collect 2 Winged Light",
+    "name": "Vault Child of Light #4",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Upper Vault Children of Light"
     ],
-    "copy_location": "Upper Vault Find 2 Children of Light"
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
+    "region": "Upper Vault"
   },
   {
-    "name": "Upper Vault Collect 3 Winged Light",
+    "name": "Vault Child of Light #5",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Upper Vault Children of Light"
     ],
-    "copy_location": "Upper Vault Find 3 Children of Light"
+    "requires": "",
+    "region": "Upper Vault"
   },
   {
-    "name": "Temple of the Vault Collect 1 Winged Light",
+    "name": "Vault Child of Light #6",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Temple of the Vault Children of Light"
     ],
-    "copy_location": "Temple of the Vault Find 1 Child of Light"
+    "requires": "",
+    "region": "Temple of the Vault"
   },
   {
-    "name": "Vault Archive Collect 1 Winged Light",
+    "name": "Vault Child of Light #7",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Vault Archive Children of Light"
     ],
-    "copy_location": "Vault Archive Find 1 Child of Light"
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
+    "region": "Vault Archive"
   },
   {
-    "name": "Vault Archive Collect 2 Winged Light",
+    "name": "Vault Child of Light #8",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Vault Archive Children of Light"
     ],
-    "copy_location": "Vault Archive Find 2 Children of Light"
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
+    "region": "Vault Archive"
   },
   {
-    "name": "Starlight Desert Collect 1 Winged Light",
+    "name": "Vault Child of Light #9",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Starlight Desert Children of Light"
     ],
-    "copy_location": "Starlight Desert Find 1 Child of Light"
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "region": "Starlight Desert"
   },
   {
-    "name": "Starlight Desert Collect 2 Winged Light",
+    "name": "Vault Child of Light #10",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Starlight Desert Children of Light"
     ],
-    "copy_location": "Starlight Desert Find 2 Children of Light"
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "region": "Starlight Desert"
   },
   {
-    "name": "Starlight Desert Collect 3 Winged Light",
+    "name": "Vault Child of Light #11",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Starlight Desert Children of Light"
     ],
-    "copy_location": "Starlight Desert Find 3 Children of Light"
+    "requires": "",
+    "region": "Starlight Desert"
   },
   {
-    "name": "Repository of Refuge Collect 1 Winged Light",
+    "name": "Vault Child of Light #12",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Repository of Refuge Children of Light"
     ],
-    "copy_location": "Repository of Refuge Find 1 Child of Light"
+    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:3| AND |@Wedge Capacity:3| AND {YamlEnabled(hard_mode)})",
+    "region": "Repository of Refuge"
   },
   {
-    "name": "Crescent Oasis Collect 1 Winged Light",
+    "name": "Vault Child of Light #13",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Crescent Oasis Children of Light"
     ],
-    "copy_location": "Crescent Oasis Find 1 Child of Light"
+    "requires": "",
+    "region": "Crescent Oasis"
   },
   {
-    "name": "Crescent Oasis Collect 2 Winged Light",
+    "name": "Vault Child of Light #14",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Crescent Oasis Children of Light"
     ],
-    "copy_location": "Crescent Oasis Find 2 Children of Light"
+    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "region": "Crescent Oasis"
   },
   {
-    "name": "Crescent Oasis Collect 3 Winged Light",
+    "name": "Vault Child of Light #15",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Crescent Oasis Children of Light"
     ],
-    "copy_location": "Crescent Oasis Find 3 Children of Light"
+    "requires": "",
+    "region": "Crescent Oasis"
   },
   {
-    "name": "Moominvalley Collect 1 Winged Light",
+    "name": "Vault Child of Light #16",
     "category": [
       "Vault of Knowledge",
-      "Actual WL"
+      "Actual WL",
+      "Moominvalley Children of Light"
     ],
-    "copy_location": "Moominvalley Find 1 Child of Light"
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Moominvalley"
   },
   {
     "name": "Wing Level 1",
