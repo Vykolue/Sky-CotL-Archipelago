@@ -32,6 +32,16 @@
             "default": true,
             "group": "Game Mode"
         },
+        "sheet_music_sanity": {
+            "description": [
+                "Earn checks by playing sheet music, and goal by completing a goal song",
+                "",
+                "Please turn at least one Game Mode on"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Game Mode"
+        },
         
         "spirit_gate_locks": {
             "description": [
@@ -169,6 +179,47 @@
             "type": "Toggle",
             "default": true,
             "group": "Traps"
+        },
+        
+        "include_melody": {
+            "description": [
+                "Play the melody part of music sheets to earn checks",
+                "",
+                "This only applies if sheet music sanity is on"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Sheet Music Sanity"
+        },
+        "include_wind": {
+            "description": [
+                "Play the wind part of music sheets to earn checks",
+                "",
+                "This only applies if sheet music sanity is on"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Sheet Music Sanity"
+        },
+        "include_bass": {
+            "description": [
+                "Play the bass part of music sheets to earn checks",
+                "",
+                "This only applies if sheet music sanity is on"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Sheet Music Sanity"
+        },
+        "include_percussion": {
+            "description": [
+                "Play the percussion part of music sheets to earn checks",
+                "",
+                "This only applies if sheet music sanity is on"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Sheet Music Sanity"
         }
     }
 

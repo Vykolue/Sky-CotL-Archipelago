@@ -1,2 +1,7 @@
 CHANGES:
 
+Changed how rescuing spirits works
+
+Added instrument part items, sheet music items, and locations
+
+Made a new location for "goal completed" which requires any one goal from the enabled sanities

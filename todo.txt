@@ -106,20 +106,9 @@ add this as a game mode
 
 MUSIC SHEET SANITY:
 
-add this as a game mode
+could add locations for multiple accuracy levels
 
-add checks for getting a certain percent accuracy on music sheets
-
-yaml options to specify which music sheets/instruments are owned
-
-locations are getting each accuracy on each part of each music sheet
-
-items are instruments and music sheets 
-(or the spirit that gives the instrument/music sheet)
-
-send a death link if you do too poorly
-
-restart the song if you receive a death link
+yaml options to specify which music sheets are owned
 
 could have a goal song that must be completed on the hardest accuracy 
 on one or all available parts

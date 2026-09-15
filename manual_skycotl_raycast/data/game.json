@@ -1,18 +1,26 @@
 {
-  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "SkyCotL",
-  "creator": "raycast",
-  "filler_item_name": "filler",
-  "death_link": true,
-  "starting_items": [
-    {
-        "item_categories": ["Actual WL"]
-    },
-    {
-        "items": ["Wandering Carnival Unlock", "Isle of Dawn Unlock", "Daylight Prairie Unlock", 
-                  "Hidden Forest Unlock", "Valley of Triumph Unlock", "Golden Wasteland Unlock",
-                  "Vault of Knowledge Unlock"],
-        "random": 1
-    }
-  ]
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "SkyCotL",
+    "creator": "raycast",
+    "filler_item_name": "Confetti",
+    "death_link": true,
+    "starting_items": [
+        {
+            "item_categories": ["Actual WL"]
+        },
+        {
+            "items": ["Wandering Carnival Unlock", "Isle of Dawn Unlock", "Daylight Prairie Unlock", 
+                    "Hidden Forest Unlock", "Valley of Triumph Unlock", "Golden Wasteland Unlock",
+                    "Vault of Knowledge Unlock"],
+            "random": 1
+        },
+        {
+            "item_categories": ["Instruments"],
+            "random": 1
+        },
+        {
+            "item_categories": ["Sheet Music"],
+            "random": 1
+        }
+    ]
 }

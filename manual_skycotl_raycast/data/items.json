@@ -1,1876 +1,898 @@
 [
-  {
-    "count": 1,
-    "name": "Isle of Dawn Unlock",
-    "category": [
-      "Realms"
-    ],
-    "progression": true,
-    "sort-key": "d-realm-1-unlock"
-  },
-  {
-    "count": 1,
-    "name": "Daylight Prairie Unlock",
-    "category": [
-      "Realms"
-    ],
-    "progression": true,
-    "sort-key": "d-realm-2-unlock"
-  },
-  {
-    "count": 1,
-    "name": "Hidden Forest Unlock",
-    "category": [
-      "Realms"
-    ],
-    "progression": true,
-    "sort-key": "d-realm-3-unlock"
-  },
-  {
-    "count": 1,
-    "name": "Valley of Triumph Unlock",
-    "category": [
-      "Realms"
-    ],
-    "progression": true,
-    "sort-key": "d-realm-4-unlock"
-  },
-  {
-    "count": 1,
-    "name": "Golden Wasteland Unlock",
-    "category": [
-      "Realms"
-    ],
-    "progression": true,
-    "sort-key": "d-realm-5-unlock"
-  },
-  {
-    "count": 1,
-    "name": "Vault of Knowledge Unlock",
-    "category": [
-      "Realms"
-    ],
-    "progression": true,
-    "sort-key": "d-realm-6-unlock"
-  },
-  {
-    "count": 1,
-    "name": "The Treehouse Shortcuts",
-    "category": [
-      "Shortcuts"
-    ],
-    "progression": true,
-    "sort-key": "f-shortcuts-0"
-  },
-  {
-    "count": 1,
-    "name": "The Wind Paths Shortcuts",
-    "category": [
-      "Shortcuts"
-    ],
-    "progression": true,
-    "sort-key": "f-shortcuts-1"
-  },
-  {
-    "count": 1,
-    "name": "Story Space Shortcuts",
-    "category": [
-      "Shortcuts"
-    ],
-    "progression": true,
-    "sort-key": "f-shortcuts-2"
-  },
-  {
-    "count": 1,
-    "name": "Harmony Hall Shortcuts",
-    "category": [
-      "Shortcuts"
-    ],
-    "progression": true,
-    "sort-key": "f-shortcuts-3"
-  },
-  {
-    "count": 1,
-    "name": "Wandering Carnival Unlock",
-    "category": [
-      "Areas"
-    ],
-    "progression": true,
-    "sort-key": "e-area-0-1-unlock"
-  },
-  {
-    "count": 30,
-    "name": "Winged Light",
-    "category": [
-      "Winged Light"
-    ],
-    "progression": true,
-    "sort-key": "a-goal-items"
-  },
-  {
-    "count": 0,
-    "name": "Actual Winged Light",
-    "category": [
-      "Actual WL"
-    ],
-    "progression": true,
-    "sort-key": "b-other-items-1"
-  },
-  {
-    "count": 9,
-    "name": "Wedge",
-    "category": [
-      "Wedges"
-    ],
-    "progression": true,
-    "sort-key": "b-other-items-0"
-  },
-  {
-    "count": 1,
-    "name": "Cave of Prophecies Updrafts",
-    "category": [
-      "Other Items"
-    ],
-    "progression": "{YamlEnabled(trials)}",
-    "sort-key": "b-other-items-1"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Pointing Candlemaker (Point)",
-    "category": [
-      "Regular Isle Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-0"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Ushering Stargazer (Come)",
-    "category": [
-      "Regular Isle Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-1"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Rejecting Voyager (No Thanks)",
-    "category": [
-      "Regular Isle Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-2"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Butterfly Charmer (Butterfly)",
-    "category": [
-      "Regular Prairie Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)} OR {YamlEnabled(emote_locks)}",
-    "sort-key": "c-spirit-a-regular-3"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Applauding Bellmaker (Clap)",
-    "category": [
-      "Regular Prairie Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-4"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Waving Bellmaker (Wave)",
-    "category": [
-      "Regular Prairie Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-5"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Slumbering Shipwright (Yawn)",
-    "category": [
-      "Regular Prairie Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-6"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Laughing Light Catcher (Laugh)",
-    "category": [
-      "Regular Prairie Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-7"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Bird Whisperer (Bird Call)",
-    "category": [
-      "Regular Prairie Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-8"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Exhausted Dock Worker (Wipe Brow)",
-    "category": [
-      "Regular Prairie Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-9"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Ceremonial Worshiper (Teamwork)",
-    "category": [
-      "Regular Prairie Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-10"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Shivering Trailblazer (Shiver)",
-    "category": [
-      "Regular Forest Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-11"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Blushing Prospector (Shy)",
-    "category": [
-      "Regular Forest Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-12"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Hide'n'Seek Pioneer (Hide and Seek)",
-    "category": [
-      "Regular Forest Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-13"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Pouty Porter (Angry)",
-    "category": [
-      "Regular Forest Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)} OR {YamlEnabled(emote_locks)}",
-    "sort-key": "c-spirit-a-regular-14"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Dismayed Hunter (Shocked)",
-    "category": [
-      "Regular Forest Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-15"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Apologetic Lumberjack (Apologize)",
-    "category": [
-      "Regular Forest Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-16"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Tearful Light Miner (Crying)",
-    "category": [
-      "Regular Forest Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-17"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Whale Whisperer (Whale Call)",
-    "category": [
-      "Regular Forest Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-18"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Confident Sightseer (Confident Stance)",
-    "category": [
-      "Regular Valley Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-19"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Handstanding Thrillseeker (Handstand)",
-    "category": [
-      "Regular Valley Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-20"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Manta Whisperer (Manta Call)",
-    "category": [
-      "Regular Valley Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-21"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Backflipping Champion (Backflip)",
-    "category": [
-      "Regular Valley Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-22"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Cheerful Spectator (Cheer)",
-    "category": [
-      "Regular Valley Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-23"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Bowing Medalist (Bow)",
-    "category": [
-      "Regular Valley Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-24"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Proud Victor (Proud Stance)",
-    "category": [
-      "Regular Valley Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-25"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Frightened Refugee (Duck)",
-    "category": [
-      "Regular Wasteland Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-26"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Fainting Warrior (Faint)",
-    "category": [
-      "Regular Wasteland Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-27"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Courageous Soldier (Courageous Stance)",
-    "category": [
-      "Regular Wasteland Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-28"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Stealthy Survivor (Sneaky Stance)",
-    "category": [
-      "Regular Wasteland Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-29"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Saluting Captain (Salute)",
-    "category": [
-      "Regular Wasteland Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-30"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Lookout Scout (Look Around)",
-    "category": [
-      "Regular Wasteland Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-31"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Levitating Adept (Telekinesis)",
-    "category": [
-      "Regular Vault Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-32"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Meditating Monastic (Float)",
-    "category": [
-      "Regular Vault Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-33"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Memory Whisperer (Cosmic Manta Call)",
-    "category": [
-      "Regular Vault Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-34"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Polite Scholar (Polite Stance)",
-    "category": [
-      "Regular Vault Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-35"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Praying Acolyte (Pray)",
-    "category": [
-      "Regular Vault Spirit",
-      "Rescue Regular Spirit"
-    ],
-    "progression": "{YamlEnabled(spirit_gate_locks)}",
-    "sort-key": "c-spirit-a-regular-36"
-  },
-  {
-    "count": 1,
-    "name": "Choice of Hair",
-    "category": [
-      "Cosmetic"
-    ],
-    "filler": true,
-    "sort-key": "h-cosmetics-3-1"
-  },
-  {
-    "count": 1,
-    "name": "Choice of Mask",
-    "category": [
-      "Cosmetic"
-    ],
-    "filler": true,
-    "sort-key": "h-cosmetics-2-1"
-  },
-  {
-    "count": 1,
-    "name": "Choice of Outfit",
-    "category": [
-      "Cosmetic"
-    ],
-    "filler": true,
-    "sort-key": "h-cosmetics-1-1"
-  },
-  {
-    "count": 1,
-    "name": "Choice of Cape",
-    "category": [
-      "Cosmetic"
-    ],
-    "filler": true,
-    "sort-key": "h-cosmetics-4"
-  },
-  {
-    "count": 1,
-    "name": "Choice of Hair Accessory",
-    "category": [
-      "Cosmetic"
-    ],
-    "filler": true,
-    "sort-key": "h-cosmetics-3-2"
-  },
-  {
-    "count": 1,
-    "name": "Choice of Face Accessory",
-    "category": [
-      "Cosmetic"
-    ],
-    "filler": true,
-    "sort-key": "h-cosmetics-2-2"
-  },
-  {
-    "count": 1,
-    "name": "Choice of Shoes",
-    "category": [
-      "Cosmetic"
-    ],
-    "filler": true,
-    "sort-key": "h-cosmetics-1-2"
-  },
-  {
-    "count": 1,
-    "name": "Choice of Necklace",
-    "category": [
-      "Cosmetic"
-    ],
-    "filler": true,
-    "sort-key": "h-cosmetics-2-3"
-  },
-  {
-    "count": 1,
-    "name": "Choice of Head Accessory",
-    "category": [
-      "Cosmetic"
-    ],
-    "filler": true,
-    "sort-key": "h-cosmetics-3-3"
-  },
-  {
-    "count": 1,
-    "name": "Dyed Outfits",
-    "category": [
-      "Cosmetic"
-    ],
-    "filler": true,
-    "sort-key": "h-cosmetics-0"
-  },
-  {
-    "count": 50,
-    "name": "Confetti",
-    "category": [
-      "Filler"
-    ],
-    "filler": true,
-    "sort-key": "j-filler"
-  },
-  {
-    "count": 5,
-    "name": "Heart Trap",
-    "category": [
-      "Heart Trap",
-      "Traps"
-    ],
-    "trap": true,
-    "sort-key": "g-traps-0"
-  },
-  {
-    "count": 10,
-    "name": "Unskippable Cutscene",
-    "category": [
-      "Unskippable Cutscene",
-      "Traps"
-    ],
-    "trap": true,
-    "sort-key": "g-traps-1"
-  },
-  {
-    "count": 1,
-    "name": "Watch the Incense Burn",
-    "category": [
-      "Tranquil Garden",
-      "Traps"
-    ],
-    "trap": true,
-    "sort-key": "g-traps-2"
-  },
-  {
-    "count": 10,
-    "name": "Home Trap",
-    "category": [
-      "Home Trap",
-      "Traps"
-    ],
-    "trap": true,
-    "sort-key": "g-traps-3"
-  },
-  {
-    "count": 5,
-    "name": "Forgot How to Jump",
-    "category": [
-      "Forgot How to Jump",
-      "Traps"
-    ],
-    "trap": true,
-    "sort-key": "g-traps-4"
-  },
-  {
-    "count": 5,
-    "name": "Move Using Emotes",
-    "category": [
-      "Move Using Emotes",
-      "Traps"
-    ],
-    "trap": true,
-    "sort-key": "g-traps-5"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Greeting Shaman (Kung Fu)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-0"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Leaping Dancer (Leap)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-1"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Provoking Performer (Kabuki)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-2"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Saluting Protector (Acknowledge)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-3"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Sassy Drifter (Sassy Stance)",
-    "filler": true,
-    "category": [
-      "Seasonal Isle Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-4"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Stretching Guru (Yoga)",
-    "filler": true,
-    "category": [
-      "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-5"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Crab Whisperer (Crab Call)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-6"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Doublefive Light Catcher (Double-Five Action)",
-    "filler": true,
-    "category": [
-      "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-7"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Laidback Pioneer (Laidback Stance)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-8"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Piggyback Lightseeker (Piggyback Action)",
-    "useful": true,
-    "category": [
-      "Seasonal Isle Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-9"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Shushing Light Scholar (Shush)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-10"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Twirling Champion (Triple Axel)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-11"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Boogie Kid (Boogie Dance)",
-    "filler": true,
-    "category": [
-      "Seasonal Isle Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-12"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Confetti Cousin (Confetti)",
-    "filler": true,
-    "category": [
-      "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-13"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Hairtousle Teen (Hair Tousle Action)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-14"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Pleaful Parent (Don't Go!)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-15"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Sparkler Parent (Sparkler)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-16"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Wise Grandparent (Wise Stance)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-17"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Admiring Actor (Blow Kiss)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-18"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Festival Spin Dancer (Spin Dance)",
-    "filler": true,
-    "category": [
-      "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-19"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Respectful Pianist (Respect)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-20"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Thoughtful Director (Thinking)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-21"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Troupe Greeter (Welcome)",
-    "filler": true,
-    "category": [
-      "Seasonal Isle Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-22"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Troupe Juggler (Juggle)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-23"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Crab Walker (Crab Walk)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-24"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Indifferent Alchemist (Shrug)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-25"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Nodding Muralist (Nod)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-26"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Playfighting Herbalist (Play Fight Action)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-27"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Scarecrow Farmer (Boo)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-28"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Snoozing Carpenter (Doze)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-29"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Chill Sunbather (Belly Scratch)",
-    "filler": true,
-    "category": [
-      "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-30"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Grateful Shell Collector (Grateful)",
-    "filler": true,
-    "category": [
-      "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-31"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Hiking Grouch (Grumpy)",
-    "filler": true,
-    "category": [
-      "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-32"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Jelly Whisperer (Jellyfish Call)",
-    "filler": true,
-    "category": [
-      "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-33"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Rallying Thrillseeker (Rally Cheer)",
-    "filler": true,
-    "category": [
-      "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-34"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Timid Bookworm (Timid Stance)",
-    "filler": true,
-    "category": [
-      "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-35"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Prophet of Air (Balance)",
-    "filler": true,
-    "category": [
-      "Seasonal Isle Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-36"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Prophet of Earth (Dust Off)",
-    "filler": true,
-    "category": [
-      "Seasonal Isle Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-37"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Prophet of Fire (Chest Pound)",
-    "filler": true,
-    "category": [
-      "Seasonal Isle Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-38"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Prophet of Water (Deep Breath)",
-    "filler": true,
-    "category": [
-      "Seasonal Isle Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-39"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Bearhug Hermit (Bearhug Action)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-40"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Dancing Performer (Show Dance)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-41"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Peeking Postman (Peek)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-42"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Spinning Mentor (Spin Trick)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-43"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Baffled Botanist (Facepalm)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-44"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Scolding Student (Scold)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-45"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Chuckling Scout (Chuckle)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-46"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Daydream Forester (Bubbles)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-47"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Marching Adventurer (Marching)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-48"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Scaredy Cadet (Eww)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-49"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Beckoning Ruler (Beckon)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-50"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Gloating Narcissist (Gloat)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-51"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Slouching Soldier (Slouch)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-52"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Sneezing Geographer (Sneeze)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-53"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Star Collector (Hand-Rub)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-54"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Stretching Lamplighter (Stretch)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-55"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Light Whisperer (Baby Manta Call)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-56"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Lively Navigator (Navigate)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-57"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Talented Builder (Voil\u00c3\u00a0)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-58"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Tinkering Chimesmith (Tinker Stance)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-59"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Anxious Angler (Anxious)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-60"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Bumbling Boatswain (Ouch)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-61"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Cackling Cannoneer (Evil Laugh)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-62"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Ceasing Commodore (Calm Down)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-63"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Forgetful Storyteller (Awww)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-64"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Frantic Stagehand (Handshake Action)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-65"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Mellow Musician (Headbob)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-66"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Modest Dancer (Duet Dance Action)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-67"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Ancient Darkness",
-    "filler": true,
-    "category": [
-      "Seasonal Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-68"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Ancient Light",
-    "filler": true,
-    "category": [
-      "Seasonal Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-69"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Mindful Miner (Raise the Roof)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-70"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Running Wayfarer (Waving Light)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-71"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Seed of Hope (Rhythmic Clap)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-72"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Warrior of Love (Twirl)",
-    "filler": true,
-    "category": [
-      "Seasonal Valley Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-73"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Bereft Veteran (Grieving)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-74"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Pleading Child (Pleading)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-75"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Tiptoeing Tea-Brewer (Tiptoeing)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-76"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Wounded Warrior (Injured Stance)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-77"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Melancholy Mope (Moping)",
-    "filler": true,
-    "category": [
-      "Seasonal Isle Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-78"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Oddball Outcast (Hacky Sack)",
-    "filler": true,
-    "category": [
-      "Seasonal Isle Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-79"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Overactive Overachiever (Pull-up)",
-    "filler": true,
-    "category": [
-      "Seasonal Isle Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-80"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Tumbling Troublemaker (Somersault)",
-    "filler": true,
-    "category": [
-      "Seasonal Isle Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-81"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Ascetic Monk (Blindfold Balance Pose)",
-    "filler": true,
-    "category": [
-      "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-82"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Jolly Geologist (Jolly Dance)",
-    "filler": true,
-    "category": [
-      "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-83"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Nightbird Whisperer (Nightbird Call)",
-    "filler": true,
-    "category": [
-      "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-84"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Reassuring Ranger (Side Hug Action)",
-    "filler": true,
-    "category": [
-      "Seasonal Prairie Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-85"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Feudal Lord (Cradle Carry Action)",
-    "useful": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-86"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Herb Gatherer (Whistle)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-87"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Hunter (Flex)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-88"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Princess (Float Spin)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-89"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Compassionate Cellist",
-    "filler": true,
-    "category": [
-      "Seasonal Aviary Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-90"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Radiance Greeting Shaman (Heart Gesture)",
-    "filler": true,
-    "category": [
-      "Seasonal Aviary Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-91"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Radiance Leaping Dancer (Cartwheel)",
-    "filler": true,
-    "category": [
-      "Seasonal Aviary Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-92"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Radiance Provoking Performer (Hype Dance)",
-    "filler": true,
-    "category": [
-      "Seasonal Aviary Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-93"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Costumed Confetti Cousin",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-94"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Divining Wise Grandparent",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-95"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Nostalgic Sparkler Parent",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-96"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Royal Hairtousle Teen (Surprised)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-97"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Woodcutting Pleaful Parent",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-98"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Caring Companion",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-99"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Resourceful Recluse",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-100"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Scarred Sentry (Sentry Stance)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-101"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Stern Shepherd (Manatee Call)",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-102"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Tender Toymaker",
-    "filler": true,
-    "category": [
-      "Seasonal Wasteland Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-103"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Migrating Bellmaker (Lighthorn Call)",
-    "filler": true,
-    "category": [
-      "Seasonal Isle Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-104"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Migrating Bird Whisperer (Flight Run)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-105"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Migrating Butterfly Charmer (Dizzy)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-106"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Migrating Jelly Whisperer (Jellyfish Dance)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-107"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Migrating Manta Whisperer (Flag Signal)",
-    "filler": true,
-    "category": [
-      "Seasonal Forest Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-108"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Lightmending Champion (Revolving Dance Action)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-109"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Lightmending Lightcatcher (Secret Handshake Action)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-110"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Lightmending Light Scholar (Whisper Action)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-111"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Lightmending Pioneer (Cute Clap)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-112"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Carnival Athletic Dancer (Break Dance)",
-    "filler": true,
-    "category": [
-      "Seasonal Aviary Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-113"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Carnival Juggler (Ball Spin Trick)",
-    "filler": true,
-    "category": [
-      "Seasonal Aviary Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-114"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Carnival Puzzle Director (Take Notes)",
-    "filler": true,
-    "category": [
-      "Seasonal Aviary Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-115"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Carnival Stunt Actor (Approve)",
-    "filler": true,
-    "category": [
-      "Seasonal Aviary Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-116"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Artistic Memory (Draw)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-117"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Dutch Memory (Frustration)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-118"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Joyful Memory (Slow Walk)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-119"
-  },
-  {
-    "count": 1,
-    "name": "Rescued Rustic Memory (Bask)",
-    "filler": true,
-    "category": [
-      "Seasonal Vault Spirit",
-      "Rescue Seasonal Spirit"
-    ],
-    "sort-key": "c-spirit-b-seasonal-120"
-  }
+    {
+        "count": 1,
+        "name": "Isle of Dawn Unlock",
+        "category": [
+            "Realms"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "d-realm-1-unlock"
+    },
+    {
+        "count": 1,
+        "name": "Daylight Prairie Unlock",
+        "category": [
+            "Realms"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "d-realm-2-unlock"
+    },
+    {
+        "count": 1,
+        "name": "Hidden Forest Unlock",
+        "category": [
+            "Realms"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "d-realm-3-unlock"
+    },
+    {
+        "count": 1,
+        "name": "Valley of Triumph Unlock",
+        "category": [
+            "Realms"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "d-realm-4-unlock"
+    },
+    {
+        "count": 1,
+        "name": "Golden Wasteland Unlock",
+        "category": [
+            "Realms"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "d-realm-5-unlock"
+    },
+    {
+        "count": 1,
+        "name": "Vault of Knowledge Unlock",
+        "category": [
+            "Realms"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "d-realm-6-unlock"
+    },
+    {
+        "count": 1,
+        "name": "The Treehouse Shortcuts",
+        "category": [
+            "Shortcuts"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "f-shortcuts-0"
+    },
+    {
+        "count": 1,
+        "name": "The Wind Paths Shortcuts",
+        "category": [
+            "Shortcuts"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "f-shortcuts-1"
+    },
+    {
+        "count": 1,
+        "name": "Story Space Shortcuts",
+        "category": [
+            "Shortcuts"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "f-shortcuts-2"
+    },
+    {
+        "count": 1,
+        "name": "Harmony Hall Shortcuts",
+        "category": [
+            "Shortcuts"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "f-shortcuts-3"
+    },
+    {
+        "count": 1,
+        "name": "Wandering Carnival Unlock",
+        "category": [
+            "Areas"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "e-area-0-1-unlock"
+    },
+    {
+        "count": 30,
+        "name": "Winged Light",
+        "category": [
+            "Winged Light"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "a-goal-items"
+    },
+    {
+        "count": 0,
+        "name": "Actual Winged Light",
+        "category": [
+            "Actual WL"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "b-other-items-1"
+    },
+    {
+        "count": 9,
+        "name": "Wedge",
+        "category": [
+            "Wedges"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "b-other-items-0"
+    },
+    {
+        "count": 1,
+        "name": "Cave of Prophecies Updrafts",
+        "category": [
+            "Other Items"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(trials)}",
+        "sort-key": "b-other-items-1"
+    },
+    {
+        "count": 3,
+        "name": "Regular Isle Spirit",
+        "category": [
+            "Regular Isle Spirit",
+            "Rescue Regular Spirit"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(spirit_gate_locks)}",
+        "sort-key": "c-spirit-a-regular-0"
+    },
+    {
+        "count": 8,
+        "name": "Regular Prairie Spirit",
+        "category": [
+            "Regular Prairie Spirit",
+            "Rescue Regular Spirit"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(spirit_gate_locks)}",
+        "sort-key": "c-spirit-a-regular-3"
+    },
+    {
+        "count": 8,
+        "name": "Regular Forest Spirit",
+        "category": [
+            "Regular Forest Spirit",
+            "Rescue Regular Spirit"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(spirit_gate_locks)}",
+        "sort-key": "c-spirit-a-regular-11"
+    },
+    {
+        "count": 7,
+        "name": "Regular Valley Spirit",
+        "category": [
+            "Regular Valley Spirit",
+            "Rescue Regular Spirit"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(spirit_gate_locks)}",
+        "sort-key": "c-spirit-a-regular-19"
+    },
+    {
+        "count": 6,
+        "name": "Regular Wasteland Spirit",
+        "category": [
+            "Regular Wasteland Spirit",
+            "Rescue Regular Spirit"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(spirit_gate_locks)}",
+        "sort-key": "c-spirit-a-regular-26"
+    },
+    {
+        "count": 5,
+        "name": "Regular Vault Spirit",
+        "category": [
+            "Regular Vault Spirit",
+            "Rescue Regular Spirit"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(spirit_gate_locks)}",
+        "sort-key": "c-spirit-a-regular-32"
+    },
+    {
+        "count": 1,
+        "name": "Butterfly Emote",
+        "category": [
+            "Emotes"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(emote_locks)}",
+        "sort-key": "c-emotes"
+    },
+    {
+        "count": 1,
+        "name": "Angry Emote",
+        "category": [
+            "Emotes"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(emote_locks)}",
+        "sort-key": "c-emotes"
+    },
+    {
+        "count": 1,
+        "name": "Melody Instruments",
+        "category": [
+            "Sheet Music Sanity",
+            "Instruments",
+            "Melody Instruments"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "i-instruments-a"
+    },
+    {
+        "count": 1,
+        "name": "Wind Instruments",
+        "category": [
+            "Sheet Music Sanity",
+            "Instruments",
+            "Wind Instruments"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "i-instruments-b"
+    },
+    {
+        "count": 1,
+        "name": "Bass Instruments",
+        "category": [
+            "Sheet Music Sanity",
+            "Instruments",
+            "Bass Instruments"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "i-instruments-c"
+    },
+    {
+        "count": 1,
+        "name": "Percussion Instruments",
+        "category": [
+            "Sheet Music Sanity",
+            "Instruments",
+            "Percussion Instruments"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "i-instruments-d"
+    },
+    {
+        "count": 1,
+        "name": "Bounding About Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-1"
+    },
+    {
+        "count": 1,
+        "name": "Boundaries Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-1"
+    },
+    {
+        "count": 1,
+        "name": "Aperture Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-2"
+    },
+    {
+        "count": 1,
+        "name": "Floating Bubbles Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-3"
+    },
+    {
+        "count": 1,
+        "name": "Spinning Thoughts Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-4"
+    },
+    {
+        "count": 1,
+        "name": "Lighting the Way Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-5"
+    },
+    {
+        "count": 1,
+        "name": "Wide Stance Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-6"
+    },
+    {
+        "count": 1,
+        "name": "Waltzing in the Rain Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-7"
+    },
+    {
+        "count": 1,
+        "name": "Finding the Horizon Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-8"
+    },
+    {
+        "count": 1,
+        "name": "Relaxed Steps Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-9"
+    },
+    {
+        "count": 1,
+        "name": "Support From Above Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-10"
+    },
+    {
+        "count": 1,
+        "name": "Wavy Hair Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-11"
+    },
+    {
+        "count": 1,
+        "name": "Drifting Over Sand Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-12"
+    },
+    {
+        "count": 1,
+        "name": "Uneven Rhythms Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-13"
+    },
+    {
+        "count": 1,
+        "name": "Back and Forth Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-14"
+    },
+    {
+        "count": 1,
+        "name": "Soft Blanket Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-15"
+    },
+    {
+        "count": 1,
+        "name": "Disappearing Ashes Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-16"
+    },
+    {
+        "count": 1,
+        "name": "Springing Step Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-17"
+    },
+    {
+        "count": 1,
+        "name": "Forgotten Dance Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-18"
+    },
+    {
+        "count": 1,
+        "name": "Forest Walk Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-19"
+    },
+    {
+        "count": 1,
+        "name": "Keeping Myself Together Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-20"
+    },
+    {
+        "count": 1,
+        "name": "Looking Up to the Stars Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-21"
+    },
+    {
+        "count": 1,
+        "name": "A Glimpse Within Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-22"
+    },
+    {
+        "count": 1,
+        "name": "Everything Around Us Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-23"
+    },
+    {
+        "count": 1,
+        "name": "Flying Among the Stars Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-24"
+    },
+    {
+        "count": 1,
+        "name": "Sowing Mischief Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-25"
+    },
+    {
+        "count": 1,
+        "name": "Without a Paddle Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-26"
+    },
+    {
+        "count": 1,
+        "name": "Hidden Dance Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-27"
+    },
+    {
+        "count": 1,
+        "name": "Step by Step Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-28"
+    },
+    {
+        "count": 1,
+        "name": "Earnest Looks Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-29"
+    },
+    {
+        "count": 1,
+        "name": "Searching for Questions Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-30"
+    },
+    {
+        "count": 1,
+        "name": "Through the Eyes of a Child Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-31"
+    },
+    {
+        "count": 1,
+        "name": "The Seed Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-32"
+    },
+    {
+        "count": 1,
+        "name": "Queendom Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-33"
+    },
+    {
+        "count": 1,
+        "name": "Warrior Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-34"
+    },
+    {
+        "count": 1,
+        "name": "Runaway Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-35"
+    },
+    {
+        "count": 1,
+        "name": "Waltz of the Plains Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-36"
+    },
+    {
+        "count": 1,
+        "name": "A Quiet Walk Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-37"
+    },
+    {
+        "count": 1,
+        "name": "Deer Song Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-38"
+    },
+    {
+        "count": 1,
+        "name": "Old Friends Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-39"
+    },
+    {
+        "count": 1,
+        "name": "Worlds Between Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-40"
+    },
+    {
+        "count": 1,
+        "name": "Finding Happiness Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-41"
+    },
+    {
+        "count": 1,
+        "name": "Blue Bird of Happiness Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-42"
+    },
+    {
+        "count": 1,
+        "name": "Life and Sanctuary Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-43"
+    },
+    {
+        "count": 1,
+        "name": "Ancient Echo Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-44"
+    },
+    {
+        "count": 1,
+        "name": "Airship Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-45"
+    },
+    {
+        "count": 1,
+        "name": "Music's Embrace Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-46"
+    },
+    {
+        "count": 1,
+        "name": "Etude No. 1 Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-47"
+    },
+    {
+        "count": 1,
+        "name": "Etude No. 2 Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-48"
+    },
+    {
+        "count": 1,
+        "name": "Etude No. 3 Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-49"
+    },
+    {
+        "count": 1,
+        "name": "Etude No. 4 Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-50"
+    },
+    {
+        "count": 1,
+        "name": "Ode to Joy Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-51"
+    },
+    {
+        "count": 1,
+        "name": "Happy Birthday to You Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-52"
+    },
+    {
+        "count": 1,
+        "name": "Days of Love Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-53"
+    },
+    {
+        "count": 1,
+        "name": "Dragon Dance Sheet Music",
+        "category": [
+            "Sheet Music Sanity",
+            "Sheet Music"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "j-music-54"
+    },
+    {
+        "count": 1,
+        "name": "Winged Light Goal Key",
+        "category": [
+            "Winged Light Run",
+            "Goal Keys"
+        ],
+        "progression": "{YamlEnabled(winged_light_run)}",
+        "sort-key": "a-goal-items"
+    },
+    {
+        "count": 1,
+        "name": "Music Goal Key",
+        "category": [
+            "Sheet Music Sanity",
+            "Goal Keys"
+        ],
+        "progression": "{YamlEnabled(sheet_music_sanity)}",
+        "sort-key": "a-goal-items"
+    },
+    {
+        "count": 5,
+        "name": "Progressive Cosmetic",
+        "category": [
+            "Cosmetic"
+        ],
+        "filler": true,
+        "sort-key": "h-cosmetics"
+    },
+    {
+        "count": 5,
+        "name": "Heart Trap",
+        "category": [
+            "Heart Trap",
+            "Traps"
+        ],
+        "trap": true,
+        "sort-key": "g-traps-0"
+    },
+    {
+        "count": 10,
+        "name": "Unskippable Cutscene",
+        "category": [
+            "Unskippable Cutscene",
+            "Traps"
+        ],
+        "trap": true,
+        "sort-key": "g-traps-1"
+    },
+    {
+        "count": 1,
+        "name": "Watch the Incense Burn",
+        "category": [
+            "Tranquil Garden",
+            "Traps"
+        ],
+        "trap": true,
+        "sort-key": "g-traps-2"
+    },
+    {
+        "count": 10,
+        "name": "Home Trap",
+        "category": [
+            "Home Trap",
+            "Traps"
+        ],
+        "trap": true,
+        "sort-key": "g-traps-3"
+    },
+    {
+        "count": 5,
+        "name": "Forgot How to Jump",
+        "category": [
+            "Forgot How to Jump",
+            "Traps"
+        ],
+        "trap": true,
+        "sort-key": "g-traps-4"
+    },
+    {
+        "count": 5,
+        "name": "Move Using Emotes",
+        "category": [
+            "Move Using Emotes",
+            "Traps"
+        ],
+        "trap": true,
+        "sort-key": "g-traps-5"
+    }
 ]

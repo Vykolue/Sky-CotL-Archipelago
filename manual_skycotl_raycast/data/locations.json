@@ -1092,10 +1092,12 @@
   },
   {
     "name": "Rebirth",
-    "victory": true,
     "category": [
-      "Goal"
+      "Goal",
+      "Winged Light Run"
     ],
+    "place-item": "Winged Light Goal Key",
+    "prehint": true,
     "requires": "",
     "region": "The Passage",
     "sort-key": "a-goal"
@@ -1119,5 +1121,2214 @@
     ],
     "requires": "",
     "sort-key": "a-music"
+  },
+  {
+    "name": "Bounding About - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Bounding About",
+      "Melody"
+    ],
+    "requires": "|Bounding About Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-1"
+  },
+  {
+    "name": "Bounding About - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Bounding About",
+      "Wind"
+    ],
+    "requires": "|Bounding About Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-3"
+  },
+  {
+    "name": "Bounding About - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Bounding About",
+      "Bass"
+    ],
+    "requires": "|Bounding About Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-5"
+  },
+  {
+    "name": "Bounding About - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Bounding About",
+      "Percussion"
+    ],
+    "requires": "|Bounding About Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-7"
+  },
+  {
+    "name": "Boundaries - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Boundaries",
+      "Melody"
+    ],
+    "requires": "|Boundaries Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-9"
+  },
+  {
+    "name": "Boundaries - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Boundaries",
+      "Wind"
+    ],
+    "requires": "|Boundaries Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-11"
+  },
+  {
+    "name": "Boundaries - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Boundaries",
+      "Bass"
+    ],
+    "requires": "|Boundaries Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-13"
+  },
+  {
+    "name": "Boundaries - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Boundaries",
+      "Percussion"
+    ],
+    "requires": "|Boundaries Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-15"
+  },
+  {
+    "name": "Aperture - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Aperture",
+      "Melody"
+    ],
+    "requires": "|Aperture Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-17"
+  },
+  {
+    "name": "Aperture - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Aperture",
+      "Wind"
+    ],
+    "requires": "|Aperture Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-19"
+  },
+  {
+    "name": "Aperture - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Aperture",
+      "Bass"
+    ],
+    "requires": "|Aperture Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-21"
+  },
+  {
+    "name": "Aperture - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Aperture",
+      "Percussion"
+    ],
+    "requires": "|Aperture Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-23"
+  },
+  {
+    "name": "Floating Bubbles - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Floating Bubbles",
+      "Melody"
+    ],
+    "requires": "|Floating Bubbles Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-25"
+  },
+  {
+    "name": "Floating Bubbles - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Floating Bubbles",
+      "Wind"
+    ],
+    "requires": "|Floating Bubbles Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-27"
+  },
+  {
+    "name": "Floating Bubbles - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Floating Bubbles",
+      "Bass"
+    ],
+    "requires": "|Floating Bubbles Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-29"
+  },
+  {
+    "name": "Floating Bubbles - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Floating Bubbles",
+      "Percussion"
+    ],
+    "requires": "|Floating Bubbles Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-31"
+  },
+  {
+    "name": "Spinning Thoughts - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Spinning Thoughts",
+      "Melody"
+    ],
+    "requires": "|Spinning Thoughts Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-33"
+  },
+  {
+    "name": "Spinning Thoughts - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Spinning Thoughts",
+      "Wind"
+    ],
+    "requires": "|Spinning Thoughts Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-35"
+  },
+  {
+    "name": "Spinning Thoughts - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Spinning Thoughts",
+      "Bass"
+    ],
+    "requires": "|Spinning Thoughts Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-37"
+  },
+  {
+    "name": "Spinning Thoughts - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Spinning Thoughts",
+      "Percussion"
+    ],
+    "requires": "|Spinning Thoughts Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-39"
+  },
+  {
+    "name": "Lighting the Way - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Lighting the Way",
+      "Melody"
+    ],
+    "requires": "|Lighting the Way Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-41"
+  },
+  {
+    "name": "Lighting the Way - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Lighting the Way",
+      "Wind"
+    ],
+    "requires": "|Lighting the Way Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-43"
+  },
+  {
+    "name": "Lighting the Way - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Lighting the Way",
+      "Bass"
+    ],
+    "requires": "|Lighting the Way Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-45"
+  },
+  {
+    "name": "Lighting the Way - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Lighting the Way",
+      "Percussion"
+    ],
+    "requires": "|Lighting the Way Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-47"
+  },
+  {
+    "name": "Wide Stance - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Wide Stance",
+      "Melody"
+    ],
+    "requires": "|Wide Stance Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-49"
+  },
+  {
+    "name": "Wide Stance - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Wide Stance",
+      "Wind"
+    ],
+    "requires": "|Wide Stance Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-51"
+  },
+  {
+    "name": "Wide Stance - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Wide Stance",
+      "Bass"
+    ],
+    "requires": "|Wide Stance Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-53"
+  },
+  {
+    "name": "Wide Stance - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Wide Stance",
+      "Percussion"
+    ],
+    "requires": "|Wide Stance Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-55"
+  },
+  {
+    "name": "Waltzing in the Rain - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Waltzing in the Rain",
+      "Melody"
+    ],
+    "requires": "|Waltzing in the Rain Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-57"
+  },
+  {
+    "name": "Waltzing in the Rain - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Waltzing in the Rain",
+      "Wind"
+    ],
+    "requires": "|Waltzing in the Rain Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-59"
+  },
+  {
+    "name": "Waltzing in the Rain - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Waltzing in the Rain",
+      "Bass"
+    ],
+    "requires": "|Waltzing in the Rain Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-61"
+  },
+  {
+    "name": "Waltzing in the Rain - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Waltzing in the Rain",
+      "Percussion"
+    ],
+    "requires": "|Waltzing in the Rain Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-63"
+  },
+  {
+    "name": "Finding the Horizon - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Finding the Horizon",
+      "Melody"
+    ],
+    "requires": "|Finding the Horizon Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-65"
+  },
+  {
+    "name": "Finding the Horizon - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Finding the Horizon",
+      "Wind"
+    ],
+    "requires": "|Finding the Horizon Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-67"
+  },
+  {
+    "name": "Finding the Horizon - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Finding the Horizon",
+      "Bass"
+    ],
+    "requires": "|Finding the Horizon Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-69"
+  },
+  {
+    "name": "Finding the Horizon - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Finding the Horizon",
+      "Percussion"
+    ],
+    "requires": "|Finding the Horizon Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-71"
+  },
+  {
+    "name": "Relaxed Steps - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Relaxed Steps",
+      "Melody"
+    ],
+    "requires": "|Relaxed Steps Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-73"
+  },
+  {
+    "name": "Relaxed Steps - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Relaxed Steps",
+      "Wind"
+    ],
+    "requires": "|Relaxed Steps Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-75"
+  },
+  {
+    "name": "Relaxed Steps - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Relaxed Steps",
+      "Bass"
+    ],
+    "requires": "|Relaxed Steps Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-77"
+  },
+  {
+    "name": "Relaxed Steps - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Relaxed Steps",
+      "Percussion"
+    ],
+    "requires": "|Relaxed Steps Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-79"
+  },
+  {
+    "name": "Support From Above - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Support From Above",
+      "Melody"
+    ],
+    "requires": "|Support From Above Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-81"
+  },
+  {
+    "name": "Support From Above - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Support From Above",
+      "Wind"
+    ],
+    "requires": "|Support From Above Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-83"
+  },
+  {
+    "name": "Support From Above - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Support From Above",
+      "Bass"
+    ],
+    "requires": "|Support From Above Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-85"
+  },
+  {
+    "name": "Support From Above - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Support From Above",
+      "Percussion"
+    ],
+    "requires": "|Support From Above Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-87"
+  },
+  {
+    "name": "Wavy Hair - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Wavy Hair",
+      "Melody"
+    ],
+    "requires": "|Wavy Hair Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-89"
+  },
+  {
+    "name": "Wavy Hair - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Wavy Hair",
+      "Wind"
+    ],
+    "requires": "|Wavy Hair Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-91"
+  },
+  {
+    "name": "Wavy Hair - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Wavy Hair",
+      "Bass"
+    ],
+    "requires": "|Wavy Hair Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-93"
+  },
+  {
+    "name": "Wavy Hair - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Wavy Hair",
+      "Percussion"
+    ],
+    "requires": "|Wavy Hair Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-95"
+  },
+  {
+    "name": "Drifting Over Sand - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Drifting Over Sand",
+      "Melody"
+    ],
+    "requires": "|Drifting Over Sand Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-97"
+  },
+  {
+    "name": "Drifting Over Sand - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Drifting Over Sand",
+      "Wind"
+    ],
+    "requires": "|Drifting Over Sand Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-99"
+  },
+  {
+    "name": "Drifting Over Sand - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Drifting Over Sand",
+      "Bass"
+    ],
+    "requires": "|Drifting Over Sand Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-101"
+  },
+  {
+    "name": "Drifting Over Sand - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Drifting Over Sand",
+      "Percussion"
+    ],
+    "requires": "|Drifting Over Sand Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-103"
+  },
+  {
+    "name": "Uneven Rhythms - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Uneven Rhythms",
+      "Melody"
+    ],
+    "requires": "|Uneven Rhythms Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-105"
+  },
+  {
+    "name": "Uneven Rhythms - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Uneven Rhythms",
+      "Wind"
+    ],
+    "requires": "|Uneven Rhythms Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-107"
+  },
+  {
+    "name": "Uneven Rhythms - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Uneven Rhythms",
+      "Bass"
+    ],
+    "requires": "|Uneven Rhythms Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-109"
+  },
+  {
+    "name": "Uneven Rhythms - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Uneven Rhythms",
+      "Percussion"
+    ],
+    "requires": "|Uneven Rhythms Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-111"
+  },
+  {
+    "name": "Back and Forth - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Back and Forth",
+      "Melody"
+    ],
+    "requires": "|Back and Forth Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-113"
+  },
+  {
+    "name": "Back and Forth - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Back and Forth",
+      "Wind"
+    ],
+    "requires": "|Back and Forth Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-115"
+  },
+  {
+    "name": "Back and Forth - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Back and Forth",
+      "Bass"
+    ],
+    "requires": "|Back and Forth Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-117"
+  },
+  {
+    "name": "Back and Forth - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Back and Forth",
+      "Percussion"
+    ],
+    "requires": "|Back and Forth Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-119"
+  },
+  {
+    "name": "Soft Blanket - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Soft Blanket",
+      "Melody"
+    ],
+    "requires": "|Soft Blanket Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-121"
+  },
+  {
+    "name": "Soft Blanket - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Soft Blanket",
+      "Wind"
+    ],
+    "requires": "|Soft Blanket Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-123"
+  },
+  {
+    "name": "Soft Blanket - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Soft Blanket",
+      "Bass"
+    ],
+    "requires": "|Soft Blanket Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-125"
+  },
+  {
+    "name": "Soft Blanket - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Soft Blanket",
+      "Percussion"
+    ],
+    "requires": "|Soft Blanket Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-127"
+  },
+  {
+    "name": "Disappearing Ashes - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Disappearing Ashes",
+      "Melody"
+    ],
+    "requires": "|Disappearing Ashes Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-129"
+  },
+  {
+    "name": "Disappearing Ashes - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Disappearing Ashes",
+      "Wind"
+    ],
+    "requires": "|Disappearing Ashes Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-131"
+  },
+  {
+    "name": "Disappearing Ashes - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Disappearing Ashes",
+      "Bass"
+    ],
+    "requires": "|Disappearing Ashes Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-133"
+  },
+  {
+    "name": "Disappearing Ashes - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Disappearing Ashes",
+      "Percussion"
+    ],
+    "requires": "|Disappearing Ashes Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-135"
+  },
+  {
+    "name": "Springing Step - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Springing Step",
+      "Melody"
+    ],
+    "requires": "|Springing Step Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-137"
+  },
+  {
+    "name": "Springing Step - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Springing Step",
+      "Wind"
+    ],
+    "requires": "|Springing Step Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-139"
+  },
+  {
+    "name": "Springing Step - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Springing Step",
+      "Bass"
+    ],
+    "requires": "|Springing Step Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-141"
+  },
+  {
+    "name": "Springing Step - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Springing Step",
+      "Percussion"
+    ],
+    "requires": "|Springing Step Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-143"
+  },
+  {
+    "name": "Forgotten Dance - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Forgotten Dance",
+      "Melody"
+    ],
+    "requires": "|Forgotten Dance Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-145"
+  },
+  {
+    "name": "Forgotten Dance - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Forgotten Dance",
+      "Wind"
+    ],
+    "requires": "|Forgotten Dance Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-147"
+  },
+  {
+    "name": "Forgotten Dance - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Forgotten Dance",
+      "Bass"
+    ],
+    "requires": "|Forgotten Dance Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-149"
+  },
+  {
+    "name": "Forgotten Dance - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Forgotten Dance",
+      "Percussion"
+    ],
+    "requires": "|Forgotten Dance Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-151"
+  },
+  {
+    "name": "Forest Walk - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Forest Walk",
+      "Melody"
+    ],
+    "requires": "|Forest Walk Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-153"
+  },
+  {
+    "name": "Forest Walk - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Forest Walk",
+      "Wind"
+    ],
+    "requires": "|Forest Walk Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-155"
+  },
+  {
+    "name": "Forest Walk - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Forest Walk",
+      "Bass"
+    ],
+    "requires": "|Forest Walk Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-157"
+  },
+  {
+    "name": "Forest Walk - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Forest Walk",
+      "Percussion"
+    ],
+    "requires": "|Forest Walk Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-159"
+  },
+  {
+    "name": "Keeping Myself Together - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Keeping Myself Together",
+      "Melody"
+    ],
+    "requires": "|Keeping Myself Together Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-161"
+  },
+  {
+    "name": "Keeping Myself Together - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Keeping Myself Together",
+      "Wind"
+    ],
+    "requires": "|Keeping Myself Together Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-163"
+  },
+  {
+    "name": "Keeping Myself Together - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Keeping Myself Together",
+      "Bass"
+    ],
+    "requires": "|Keeping Myself Together Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-165"
+  },
+  {
+    "name": "Keeping Myself Together - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Keeping Myself Together",
+      "Percussion"
+    ],
+    "requires": "|Keeping Myself Together Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-167"
+  },
+  {
+    "name": "Looking Up to the Stars - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Looking Up to the Stars",
+      "Melody"
+    ],
+    "requires": "|Looking Up to the Stars Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-169"
+  },
+  {
+    "name": "Looking Up to the Stars - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Looking Up to the Stars",
+      "Wind"
+    ],
+    "requires": "|Looking Up to the Stars Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-171"
+  },
+  {
+    "name": "Looking Up to the Stars - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Looking Up to the Stars",
+      "Bass"
+    ],
+    "requires": "|Looking Up to the Stars Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-173"
+  },
+  {
+    "name": "Looking Up to the Stars - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Looking Up to the Stars",
+      "Percussion"
+    ],
+    "requires": "|Looking Up to the Stars Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-175"
+  },
+  {
+    "name": "A Glimpse Within - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "A Glimpse Within",
+      "Melody"
+    ],
+    "requires": "|A Glimpse Within Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-177"
+  },
+  {
+    "name": "A Glimpse Within - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "A Glimpse Within",
+      "Wind"
+    ],
+    "requires": "|A Glimpse Within Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-179"
+  },
+  {
+    "name": "A Glimpse Within - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "A Glimpse Within",
+      "Bass"
+    ],
+    "requires": "|A Glimpse Within Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-181"
+  },
+  {
+    "name": "A Glimpse Within - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "A Glimpse Within",
+      "Percussion"
+    ],
+    "requires": "|A Glimpse Within Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-183"
+  },
+  {
+    "name": "Everything Around Us - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Everything Around Us",
+      "Melody"
+    ],
+    "requires": "|Everything Around Us Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-185"
+  },
+  {
+    "name": "Everything Around Us - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Everything Around Us",
+      "Wind"
+    ],
+    "requires": "|Everything Around Us Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-187"
+  },
+  {
+    "name": "Everything Around Us - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Everything Around Us",
+      "Bass"
+    ],
+    "requires": "|Everything Around Us Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-189"
+  },
+  {
+    "name": "Everything Around Us - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Everything Around Us",
+      "Percussion"
+    ],
+    "requires": "|Everything Around Us Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-191"
+  },
+  {
+    "name": "Flying Among the Stars - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Flying Among the Stars",
+      "Melody"
+    ],
+    "requires": "|Flying Among the Stars Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-193"
+  },
+  {
+    "name": "Flying Among the Stars - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Flying Among the Stars",
+      "Wind"
+    ],
+    "requires": "|Flying Among the Stars Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-195"
+  },
+  {
+    "name": "Flying Among the Stars - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Flying Among the Stars",
+      "Bass"
+    ],
+    "requires": "|Flying Among the Stars Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-197"
+  },
+  {
+    "name": "Flying Among the Stars - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Flying Among the Stars",
+      "Percussion"
+    ],
+    "requires": "|Flying Among the Stars Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-199"
+  },
+  {
+    "name": "Sowing Mischief - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Sowing Mischief",
+      "Melody"
+    ],
+    "requires": "|Sowing Mischief Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-201"
+  },
+  {
+    "name": "Sowing Mischief - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Sowing Mischief",
+      "Wind"
+    ],
+    "requires": "|Sowing Mischief Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-203"
+  },
+  {
+    "name": "Sowing Mischief - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Sowing Mischief",
+      "Bass"
+    ],
+    "requires": "|Sowing Mischief Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-205"
+  },
+  {
+    "name": "Sowing Mischief - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Sowing Mischief",
+      "Percussion"
+    ],
+    "requires": "|Sowing Mischief Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-207"
+  },
+  {
+    "name": "Without a Paddle - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Without a Paddle",
+      "Melody"
+    ],
+    "requires": "|Without a Paddle Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-209"
+  },
+  {
+    "name": "Without a Paddle - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Without a Paddle",
+      "Wind"
+    ],
+    "requires": "|Without a Paddle Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-211"
+  },
+  {
+    "name": "Without a Paddle - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Without a Paddle",
+      "Bass"
+    ],
+    "requires": "|Without a Paddle Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-213"
+  },
+  {
+    "name": "Without a Paddle - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Without a Paddle",
+      "Percussion"
+    ],
+    "requires": "|Without a Paddle Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-215"
+  },
+  {
+    "name": "Hidden Dance - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Hidden Dance",
+      "Melody"
+    ],
+    "requires": "|Hidden Dance Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-217"
+  },
+  {
+    "name": "Hidden Dance - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Hidden Dance",
+      "Wind"
+    ],
+    "requires": "|Hidden Dance Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-219"
+  },
+  {
+    "name": "Hidden Dance - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Hidden Dance",
+      "Bass"
+    ],
+    "requires": "|Hidden Dance Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-221"
+  },
+  {
+    "name": "Hidden Dance - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Hidden Dance",
+      "Percussion"
+    ],
+    "requires": "|Hidden Dance Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-223"
+  },
+  {
+    "name": "Step by Step - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Step by Step",
+      "Melody"
+    ],
+    "requires": "|Step by Step Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-225"
+  },
+  {
+    "name": "Step by Step - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Step by Step",
+      "Wind"
+    ],
+    "requires": "|Step by Step Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-227"
+  },
+  {
+    "name": "Step by Step - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Step by Step",
+      "Bass"
+    ],
+    "requires": "|Step by Step Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-229"
+  },
+  {
+    "name": "Step by Step - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Step by Step",
+      "Percussion"
+    ],
+    "requires": "|Step by Step Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-231"
+  },
+  {
+    "name": "Earnest Looks - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Earnest Looks",
+      "Melody"
+    ],
+    "requires": "|Earnest Looks Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-233"
+  },
+  {
+    "name": "Earnest Looks - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Earnest Looks",
+      "Wind"
+    ],
+    "requires": "|Earnest Looks Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-235"
+  },
+  {
+    "name": "Earnest Looks - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Earnest Looks",
+      "Bass"
+    ],
+    "requires": "|Earnest Looks Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-237"
+  },
+  {
+    "name": "Earnest Looks - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Earnest Looks",
+      "Percussion"
+    ],
+    "requires": "|Earnest Looks Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-239"
+  },
+  {
+    "name": "Searching for Questions - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Searching for Questions",
+      "Melody"
+    ],
+    "requires": "|Searching for Questions Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-241"
+  },
+  {
+    "name": "Searching for Questions - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Searching for Questions",
+      "Wind"
+    ],
+    "requires": "|Searching for Questions Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-243"
+  },
+  {
+    "name": "Searching for Questions - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Searching for Questions",
+      "Bass"
+    ],
+    "requires": "|Searching for Questions Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-245"
+  },
+  {
+    "name": "Searching for Questions - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Searching for Questions",
+      "Percussion"
+    ],
+    "requires": "|Searching for Questions Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-247"
+  },
+  {
+    "name": "Through the Eyes of a Child - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Through the Eyes of a Child",
+      "Melody"
+    ],
+    "requires": "|Through the Eyes of a Child Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-249"
+  },
+  {
+    "name": "Through the Eyes of a Child - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Through the Eyes of a Child",
+      "Wind"
+    ],
+    "requires": "|Through the Eyes of a Child Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-251"
+  },
+  {
+    "name": "Through the Eyes of a Child - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Through the Eyes of a Child",
+      "Bass"
+    ],
+    "requires": "|Through the Eyes of a Child Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-253"
+  },
+  {
+    "name": "Through the Eyes of a Child - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Through the Eyes of a Child",
+      "Percussion"
+    ],
+    "requires": "|Through the Eyes of a Child Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-255"
+  },
+  {
+    "name": "The Seed - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "The Seed",
+      "Melody"
+    ],
+    "requires": "|The Seed Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-257"
+  },
+  {
+    "name": "The Seed - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "The Seed",
+      "Wind"
+    ],
+    "requires": "|The Seed Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-259"
+  },
+  {
+    "name": "The Seed - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "The Seed",
+      "Bass"
+    ],
+    "requires": "|The Seed Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-261"
+  },
+  {
+    "name": "The Seed - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "The Seed",
+      "Percussion"
+    ],
+    "requires": "|The Seed Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-263"
+  },
+  {
+    "name": "Queendom - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Queendom",
+      "Melody"
+    ],
+    "requires": "|Queendom Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-265"
+  },
+  {
+    "name": "Queendom - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Queendom",
+      "Wind"
+    ],
+    "requires": "|Queendom Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-267"
+  },
+  {
+    "name": "Queendom - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Queendom",
+      "Bass"
+    ],
+    "requires": "|Queendom Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-269"
+  },
+  {
+    "name": "Queendom - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Queendom",
+      "Percussion"
+    ],
+    "requires": "|Queendom Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-271"
+  },
+  {
+    "name": "Warrior - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Warrior",
+      "Melody"
+    ],
+    "requires": "|Warrior Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-273"
+  },
+  {
+    "name": "Warrior - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Warrior",
+      "Wind"
+    ],
+    "requires": "|Warrior Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-275"
+  },
+  {
+    "name": "Warrior - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Warrior",
+      "Bass"
+    ],
+    "requires": "|Warrior Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-277"
+  },
+  {
+    "name": "Warrior - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Warrior",
+      "Percussion"
+    ],
+    "requires": "|Warrior Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-279"
+  },
+  {
+    "name": "Runaway - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Runaway",
+      "Melody"
+    ],
+    "requires": "|Runaway Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-281"
+  },
+  {
+    "name": "Runaway - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Runaway",
+      "Wind"
+    ],
+    "requires": "|Runaway Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-283"
+  },
+  {
+    "name": "Runaway - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Runaway",
+      "Bass"
+    ],
+    "requires": "|Runaway Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-285"
+  },
+  {
+    "name": "Runaway - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Runaway",
+      "Percussion"
+    ],
+    "requires": "|Runaway Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-287"
+  },
+  {
+    "name": "Waltz of the Plains - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Waltz of the Plains",
+      "Melody"
+    ],
+    "requires": "|Waltz of the Plains Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-289"
+  },
+  {
+    "name": "Waltz of the Plains - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Waltz of the Plains",
+      "Wind"
+    ],
+    "requires": "|Waltz of the Plains Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-291"
+  },
+  {
+    "name": "Waltz of the Plains - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Waltz of the Plains",
+      "Bass"
+    ],
+    "requires": "|Waltz of the Plains Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-293"
+  },
+  {
+    "name": "Waltz of the Plains - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Waltz of the Plains",
+      "Percussion"
+    ],
+    "requires": "|Waltz of the Plains Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-295"
+  },
+  {
+    "name": "A Quiet Walk - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "A Quiet Walk",
+      "Melody"
+    ],
+    "requires": "|A Quiet Walk Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-297"
+  },
+  {
+    "name": "A Quiet Walk - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "A Quiet Walk",
+      "Wind"
+    ],
+    "requires": "|A Quiet Walk Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-299"
+  },
+  {
+    "name": "A Quiet Walk - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "A Quiet Walk",
+      "Bass"
+    ],
+    "requires": "|A Quiet Walk Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-301"
+  },
+  {
+    "name": "A Quiet Walk - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "A Quiet Walk",
+      "Percussion"
+    ],
+    "requires": "|A Quiet Walk Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-303"
+  },
+  {
+    "name": "Deer Song - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Deer Song",
+      "Melody"
+    ],
+    "requires": "|Deer Song Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-305"
+  },
+  {
+    "name": "Deer Song - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Deer Song",
+      "Wind"
+    ],
+    "requires": "|Deer Song Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-307"
+  },
+  {
+    "name": "Deer Song - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Deer Song",
+      "Bass"
+    ],
+    "requires": "|Deer Song Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-309"
+  },
+  {
+    "name": "Deer Song - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Deer Song",
+      "Percussion"
+    ],
+    "requires": "|Deer Song Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-311"
+  },
+  {
+    "name": "Old Friends - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Old Friends",
+      "Melody"
+    ],
+    "requires": "|Old Friends Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-313"
+  },
+  {
+    "name": "Old Friends - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Old Friends",
+      "Wind"
+    ],
+    "requires": "|Old Friends Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-315"
+  },
+  {
+    "name": "Old Friends - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Old Friends",
+      "Bass"
+    ],
+    "requires": "|Old Friends Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-317"
+  },
+  {
+    "name": "Old Friends - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Old Friends",
+      "Percussion"
+    ],
+    "requires": "|Old Friends Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-319"
+  },
+  {
+    "name": "Worlds Between - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Worlds Between",
+      "Melody"
+    ],
+    "requires": "|Worlds Between Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-321"
+  },
+  {
+    "name": "Worlds Between - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Worlds Between",
+      "Wind"
+    ],
+    "requires": "|Worlds Between Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-323"
+  },
+  {
+    "name": "Worlds Between - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Worlds Between",
+      "Bass"
+    ],
+    "requires": "|Worlds Between Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-325"
+  },
+  {
+    "name": "Worlds Between - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Worlds Between",
+      "Percussion"
+    ],
+    "requires": "|Worlds Between Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-327"
+  },
+  {
+    "name": "Finding Happiness - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Finding Happiness",
+      "Melody"
+    ],
+    "requires": "|Finding Happiness Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-329"
+  },
+  {
+    "name": "Finding Happiness - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Finding Happiness",
+      "Wind"
+    ],
+    "requires": "|Finding Happiness Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-331"
+  },
+  {
+    "name": "Finding Happiness - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Finding Happiness",
+      "Bass"
+    ],
+    "requires": "|Finding Happiness Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-333"
+  },
+  {
+    "name": "Finding Happiness - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Finding Happiness",
+      "Percussion"
+    ],
+    "requires": "|Finding Happiness Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-335"
+  },
+  {
+    "name": "Blue Bird of Happiness - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Blue Bird of Happiness",
+      "Melody"
+    ],
+    "requires": "|Blue Bird of Happiness Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-337"
+  },
+  {
+    "name": "Blue Bird of Happiness - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Blue Bird of Happiness",
+      "Wind"
+    ],
+    "requires": "|Blue Bird of Happiness Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-339"
+  },
+  {
+    "name": "Blue Bird of Happiness - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Blue Bird of Happiness",
+      "Bass"
+    ],
+    "requires": "|Blue Bird of Happiness Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-341"
+  },
+  {
+    "name": "Blue Bird of Happiness - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Blue Bird of Happiness",
+      "Percussion"
+    ],
+    "requires": "|Blue Bird of Happiness Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-343"
+  },
+  {
+    "name": "Life and Sanctuary - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Life and Sanctuary",
+      "Melody"
+    ],
+    "requires": "|Life and Sanctuary Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-345"
+  },
+  {
+    "name": "Life and Sanctuary - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Life and Sanctuary",
+      "Wind"
+    ],
+    "requires": "|Life and Sanctuary Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-347"
+  },
+  {
+    "name": "Life and Sanctuary - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Life and Sanctuary",
+      "Bass"
+    ],
+    "requires": "|Life and Sanctuary Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-349"
+  },
+  {
+    "name": "Life and Sanctuary - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Life and Sanctuary",
+      "Percussion"
+    ],
+    "requires": "|Life and Sanctuary Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-351"
+  },
+  {
+    "name": "Ancient Echo - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Ancient Echo",
+      "Melody"
+    ],
+    "requires": "|Ancient Echo Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-353"
+  },
+  {
+    "name": "Ancient Echo - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Ancient Echo",
+      "Wind"
+    ],
+    "requires": "|Ancient Echo Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-355"
+  },
+  {
+    "name": "Ancient Echo - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Ancient Echo",
+      "Bass"
+    ],
+    "requires": "|Ancient Echo Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-357"
+  },
+  {
+    "name": "Ancient Echo - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Ancient Echo",
+      "Percussion"
+    ],
+    "requires": "|Ancient Echo Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-359"
+  },
+  {
+    "name": "Airship - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Airship",
+      "Melody"
+    ],
+    "requires": "|Airship Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-361"
+  },
+  {
+    "name": "Airship - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Airship",
+      "Wind"
+    ],
+    "requires": "|Airship Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-363"
+  },
+  {
+    "name": "Airship - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Airship",
+      "Bass"
+    ],
+    "requires": "|Airship Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-365"
+  },
+  {
+    "name": "Airship - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Airship",
+      "Percussion"
+    ],
+    "requires": "|Airship Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-367"
+  },
+  {
+    "name": "Music's Embrace - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Music's Embrace",
+      "Melody"
+    ],
+    "requires": "|Music's Embrace Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-369"
+  },
+  {
+    "name": "Music's Embrace - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Music's Embrace",
+      "Wind"
+    ],
+    "requires": "|Music's Embrace Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-371"
+  },
+  {
+    "name": "Music's Embrace - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Music's Embrace",
+      "Bass"
+    ],
+    "requires": "|Music's Embrace Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-373"
+  },
+  {
+    "name": "Music's Embrace - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Music's Embrace",
+      "Percussion"
+    ],
+    "requires": "|Music's Embrace Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-375"
+  },
+  {
+    "name": "Etude No. 1 - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 1",
+      "Melody"
+    ],
+    "requires": "|Etude No. 1 Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-377"
+  },
+  {
+    "name": "Etude No. 1 - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 1",
+      "Wind"
+    ],
+    "requires": "|Etude No. 1 Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-379"
+  },
+  {
+    "name": "Etude No. 1 - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 1",
+      "Bass"
+    ],
+    "requires": "|Etude No. 1 Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-381"
+  },
+  {
+    "name": "Etude No. 1 - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 1",
+      "Percussion"
+    ],
+    "requires": "|Etude No. 1 Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-383"
+  },
+  {
+    "name": "Etude No. 2 - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 2",
+      "Melody"
+    ],
+    "requires": "|Etude No. 2 Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-385"
+  },
+  {
+    "name": "Etude No. 2 - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 2",
+      "Wind"
+    ],
+    "requires": "|Etude No. 2 Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-387"
+  },
+  {
+    "name": "Etude No. 2 - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 2",
+      "Bass"
+    ],
+    "requires": "|Etude No. 2 Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-389"
+  },
+  {
+    "name": "Etude No. 2 - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 2",
+      "Percussion"
+    ],
+    "requires": "|Etude No. 2 Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-391"
+  },
+  {
+    "name": "Etude No. 3 - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 3",
+      "Melody"
+    ],
+    "requires": "|Etude No. 3 Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-393"
+  },
+  {
+    "name": "Etude No. 3 - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 3",
+      "Wind"
+    ],
+    "requires": "|Etude No. 3 Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-395"
+  },
+  {
+    "name": "Etude No. 3 - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 3",
+      "Bass"
+    ],
+    "requires": "|Etude No. 3 Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-397"
+  },
+  {
+    "name": "Etude No. 3 - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 3",
+      "Percussion"
+    ],
+    "requires": "|Etude No. 3 Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-399"
+  },
+  {
+    "name": "Etude No. 4 - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 4",
+      "Melody"
+    ],
+    "requires": "|Etude No. 4 Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-401"
+  },
+  {
+    "name": "Etude No. 4 - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 4",
+      "Wind"
+    ],
+    "requires": "|Etude No. 4 Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-403"
+  },
+  {
+    "name": "Etude No. 4 - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 4",
+      "Bass"
+    ],
+    "requires": "|Etude No. 4 Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-405"
+  },
+  {
+    "name": "Etude No. 4 - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Etude No. 4",
+      "Percussion"
+    ],
+    "requires": "|Etude No. 4 Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-407"
+  },
+  {
+    "name": "Ode to Joy - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Ode to Joy",
+      "Melody"
+    ],
+    "requires": "|Ode to Joy Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-409"
+  },
+  {
+    "name": "Ode to Joy - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Ode to Joy",
+      "Wind"
+    ],
+    "requires": "|Ode to Joy Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-411"
+  },
+  {
+    "name": "Ode to Joy - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Ode to Joy",
+      "Bass"
+    ],
+    "requires": "|Ode to Joy Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-413"
+  },
+  {
+    "name": "Ode to Joy - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Ode to Joy",
+      "Percussion"
+    ],
+    "requires": "|Ode to Joy Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-415"
+  },
+  {
+    "name": "Happy Birthday to You - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Happy Birthday to You",
+      "Melody"
+    ],
+    "requires": "|Happy Birthday to You Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-417"
+  },
+  {
+    "name": "Happy Birthday to You - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Happy Birthday to You",
+      "Wind"
+    ],
+    "requires": "|Happy Birthday to You Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-419"
+  },
+  {
+    "name": "Happy Birthday to You - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Happy Birthday to You",
+      "Bass"
+    ],
+    "requires": "|Happy Birthday to You Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-421"
+  },
+  {
+    "name": "Happy Birthday to You - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Happy Birthday to You",
+      "Percussion"
+    ],
+    "requires": "|Happy Birthday to You Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-423"
+  },
+  {
+    "name": "Days of Love - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Days of Love",
+      "Melody"
+    ],
+    "requires": "|Days of Love Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-425"
+  },
+  {
+    "name": "Days of Love - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Days of Love",
+      "Wind"
+    ],
+    "requires": "|Days of Love Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-427"
+  },
+  {
+    "name": "Days of Love - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Days of Love",
+      "Bass"
+    ],
+    "requires": "|Days of Love Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-429"
+  },
+  {
+    "name": "Days of Love - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Days of Love",
+      "Percussion"
+    ],
+    "requires": "|Days of Love Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-431"
+  },
+  {
+    "name": "Dragon Dance - Melody",
+    "category": [
+      "Sheet Music Sanity",
+      "Dragon Dance",
+      "Melody"
+    ],
+    "requires": "|Dragon Dance Sheet Music| AND |Melody Instruments|",
+    "sort-key": "c-433"
+  },
+  {
+    "name": "Dragon Dance - Wind",
+    "category": [
+      "Sheet Music Sanity",
+      "Dragon Dance",
+      "Wind"
+    ],
+    "requires": "|Dragon Dance Sheet Music| AND |Wind Instruments|",
+    "sort-key": "c-435"
+  },
+  {
+    "name": "Dragon Dance - Bass",
+    "category": [
+      "Sheet Music Sanity",
+      "Dragon Dance",
+      "Bass"
+    ],
+    "requires": "|Dragon Dance Sheet Music| AND |Bass Instruments|",
+    "sort-key": "c-437"
+  },
+  {
+    "name": "Dragon Dance - Percussion",
+    "category": [
+      "Sheet Music Sanity",
+      "Dragon Dance",
+      "Percussion"
+    ],
+    "requires": "|Dragon Dance Sheet Music| AND |Percussion Instruments|",
+    "sort-key": "c-439"
+  },
+  {
+    "name": "Goal Completed",
+    "victory": true,
+    "category": [
+      "Goal"
+    ],
+    "requires": "|@Goal Keys:1|",
+    "sort-key": "a-goal"
   }
 ]

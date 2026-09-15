@@ -27,6 +27,16 @@ If you don't know how many you have, it is best to undershoot or default to 1<br
 If you undershoot, locations may be considered out-of-logic when they are actually accessible<br />
 If you overshoot, locations may be considered in-logic when they are inaccessible
 
+## Game Modes
+There are currently 2 game modes: Winged Light Run, and Sheet Music Sanity<br />
+Each game mode has corresponding locations and a win condition<br />
+These are made to be played independently or combined into one game however you like<br />
+If you choose multiple, you can win by meeting any included game mode's win condition
+
+You may run into errors if you do not include enough music sheets or instrument types in standalone Sheet Music Sanity
+
+Don't toggle every game mode off
+
 ## Which items are locked?
 Always locked without having received the item:
 - realms
@@ -38,8 +48,10 @@ Always locked without having received the item:
 Locked based on YAML settings without having received the item:
 - passing through spirit gates `(on by default)`
 - cosmetics `(off by default)`
-- base emotes `(on by default)`
-- seasonal emotes `(off by default)`
+- emotes that have an affect on the game logic `(on by default)`
+    - butterfly
+    - angry
+- instruments and sheet music `(off if sheet music sanity is off)`
 
 Forbidden if used to gain a significant advantage:
 - piggy rocket
@@ -59,6 +71,7 @@ Always available to use:
 - red candle
 - deep call
 - starting emotes and cosmetics
+- emotes that have no affect on the game logic
 - clouds
 - creatures of light (recharge or riding)
 - light blooms
@@ -89,21 +102,10 @@ Shortcut locks will lock the following areas' shortcuts from being used without 
 The Cave of Prophecies Updrafts refers to the updraft just outside the Trial of Air<br />
 Without the updraft item, more wedges will be required to reach this trial in logic
 
-Cosmetic locks can be done one of two ways:
+When Cosmetic Locks are on, getting the "Progressive Cosmetic" item will unlock any one cosmetic item of your choice
+(as long as it isn't one of your locked or forbidden items)
 
-Method 1 (recommended):
-- cosmetics are unlocked along with the spirit you get them from
-- turn on cosmetic locks to lock cosmetics not obtained from a regular or seasonal spirit
-- using cosmetic locks, all remaining cosmetic items (besides props) will be received by category
-- some categories may be left out of the game since they are considered filler items
-
-Method 2:
-- use this method if you'd rather not keep track of which spirits provide which cosmetics
-- turn on cosmetic locks
-- all cosmetics (besides props) are unlocked by category
-- some categories may be left out of the game since they are considered filler items
-
-If emote locks are on, you should have the corresponding emote before entering areas that require it, 
+If Emote Locks are on, you should have the corresponding emote before entering areas that require it, 
 even if other players opened the door
 
 "Wedges" are how many wedges you are allowed to use<br />
@@ -135,9 +137,15 @@ Move Using Emotes: `(on by default)`
 - you can used emotes you haven't received for this
 
 ## Winning
-The win condition is to be reborn<br />
-To enter the Gate of Eden, you will need to obtain at least 20 "Winged Light" items<br />
+In Winged Light Run mode, the win condition is to be reborn<br />
+Rebirth gives the "Winged Light Goal Key" which unlocks the goal location<br />
+To enter the Gate of Eden, you need to obtain at least 20 "Winged Light" items<br />
 Winged Light items have no other affect on the game, and you are free to use more than what you received in the Eye of Eden
+
+In the Sheet Music Sanity mode, the current win condition is to obtain the "Music Goal Key" macguffin item<br />
+In the future, I intend to place this item in a "goal" song
+
+If playing with multiple game modes, any of the applicable win conditions unlock the "Goal Completed" location
 
 ## How does Death Link work?
 Death Link is an option you can enable in your YAML `(off by default)`<br />
@@ -152,15 +160,23 @@ You can send a Death Link when:
 (except when giving away Winged Light in the Eye of Eden)
 - you use more wedges than you've received 
 (or are caused to go below that number by rain, Dark Dragons, etc.)
-- you die in one of the Trials
 - you die in the Eye of Eden
 
-When you receive a Death Link from another player:
+- you die in one of the Trials
+
+- you perform poorly on a music sheet
+- you play more than x wrong notes (how many is up to you)
+- you miss more than x notes (how many is up to you)
+
+When you receive a Death Link from another player, do one of the following:
 - go face the Dark Dragon, or if you prefer, lose some Winged Light (how many is up to you)
-- you can enter an area or realm you don't yet have unlocked to do so
-- you can use locked or forbidden items (e.g. extra wedges, teleport, warp) to get there faster
-- do not send a Death Link if you lose Winged Light for this reason
-- if you are in one of the trials, do that trial's equivalent of a death instead
+    - you can enter an area or realm you don't yet have unlocked to do so
+    - you can use locked or forbidden items (e.g. extra wedges, teleport, warp) to get there faster
+    - do not send a Death Link if you lose Winged Light for this reason
+
+- the current trial's equivalent of a death
+
+- restart the song you are playing
 
 The Death Link button is located in the top right corner of the Manual Client<br />
 When not in use, this button will be grey with the text "Death Link: Primed"

@@ -1,4 +1,18 @@
 {
+    "Realms": {
+        "hidden": false
+    },
+    "Areas": {
+        "hidden": false
+    },
+    "Shortcuts": {
+        "hidden": false
+    },
+    
+    "Winged Light Run": {
+        "yaml_option": ["winged_light_run"],
+        "hidden": true
+    },
     "Find Children of Light": {
         "yaml_option": ["winged_light_run"],
         "hidden": true
@@ -6,21 +20,95 @@
     "Winged Light": {
         "yaml_option": ["winged_light_run"]
     },
-    "Daily Music Challenge": {
-        "yaml_option": ["daily_music_challenge"]
-    },
-    "Rescue Regular Spirit": {
-        "hidden": true
-    },
-    "Rescue Seasonal Spirit": {
-        "yaml_option": ["seasonal_emote_locks"]
-    },
-    "Cosmetic": {
-        "yaml_option": ["cosmetic_locks"]
+    "Wedges": {
+        "yaml_option": ["winged_light_run"]
     },
     "Actual WL": {
         "hidden": true
     },
+    "Wedge Capacity": {
+        "hidden": true
+    },
+    "Auto-Collect Winged Light": {
+        "yaml_option": ["auto_collect_winged_light"],
+        "hidden": true
+    },
+
+    "Rescue Regular Spirit": {
+        "hidden": false
+    },
+    "Regular Isle Spirit": {
+        "hidden": true
+    },
+    "Regular Prairie Spirit": {
+        "hidden": true
+    },
+    "Regular Forest Spirit": {
+        "hidden": true
+    },
+    "Regular Valley Spirit": {
+        "hidden": true
+    },
+    "Regular Wasteland Spirit": {
+        "hidden": true
+    },
+    "Regular Vault Spirit": {
+        "hidden": true
+    },
+
+    "Cosmetic": {
+        "yaml_option": ["cosmetic_locks"]
+    },
+
+    "Trials": {
+        "yaml_option": ["trials"],
+        "hidden": true
+    },
+
+    "Daily Music Challenge": {
+        "yaml_option": ["daily_music_challenge"]
+    },
+    "Sheet Music Sanity": {
+        "yaml_option": ["sheet_music_sanity"],
+        "hidden": true
+    },
+    "Sheet Music": {
+        "yaml_option": ["sheet_music_sanity"],
+        "hidden": false
+    },
+    "Instruments": {
+        "yaml_option": ["sheet_music_sanity"],
+        "hidden": false
+    },
+    "Melody Instruments": {
+        "yaml_option": ["include_melody"],
+        "hidden": true
+    },
+    "Wind Instruments": {
+        "yaml_option": ["include_wind"],
+        "hidden": true
+    },
+    "Bass Instruments": {
+        "yaml_option": ["include_bass"],
+        "hidden": true
+    },
+    "Percussion Instruments": {
+        "yaml_option": ["include_percussion"],
+        "hidden": true
+    },
+    "Melody": {
+        "yaml_option": ["include_melody"]
+    },
+    "Wind": {
+        "yaml_option": ["include_wind"]
+    },
+    "Bass": {
+        "yaml_option": ["include_bass"]
+    },
+    "Percussion": {
+        "yaml_option": ["include_percussion"]
+    },
+
     "Heart Trap": {
         "yaml_option": ["heart_traps"],
         "hidden": true
@@ -45,39 +133,170 @@
         "yaml_option": ["move_using_emotes"],
         "hidden": true
     },
-    "Seasonal Aviary Spirit": {
+
+    "Bounding About": {
         "hidden": true
     },
-    "Seasonal Isle Spirit": {
+    "Boundaries": {
         "hidden": true
     },
-    "Seasonal Prairie Spirit": {
+    "Aperture": {
         "hidden": true
     },
-    "Seasonal Forest Spirit": {
+    "Floating Bubbles": {
         "hidden": true
     },
-    "Seasonal Valley Spirit": {
+    "Spinning Thoughts": {
         "hidden": true
     },
-    "Seasonal Wasteland Spirit": {
+    "Lighting the Way": {
         "hidden": true
     },
-    "Seasonal Vault Spirit": {
+    "Wide Stance": {
         "hidden": true
     },
-    "Seasonal Spirit": {
+    "Waltzing in the Rain": {
         "hidden": true
     },
-    "Wedge Capacity": {
+    "Finding the Horizon": {
         "hidden": true
     },
-    "Trials": {
-        "yaml_option": ["trials"],
+    "Relaxed Steps": {
         "hidden": true
     },
-    "Auto-Collect Winged Light": {
-        "yaml_option": ["auto_collect_winged_light"],
+    "Support From Above": {
+        "hidden": true
+    },
+    "Wavy Hair": {
+        "hidden": true
+    },
+    "Drifting Over Sand": {
+        "hidden": true
+    },
+    "Uneven Rhythms": {
+        "hidden": true
+    },
+    "Back and Forth": {
+        "hidden": true
+    },
+    "Soft Blanket": {
+        "hidden": true
+    },
+    "Disappearing Ashes": {
+        "hidden": true
+    },
+    "Springing Step": {
+        "hidden": true
+    },
+    "Forgotten Dance": {
+        "hidden": true
+    },
+    "Forest Walk": {
+        "hidden": true
+    },
+    "Keeping Myself Together": {
+        "hidden": true
+    },
+    "Looking Up to the Stars": {
+        "hidden": true
+    },
+    "A Glimpse Within": {
+        "hidden": true
+    },
+    "Everything Around Us": {
+        "hidden": true
+    },
+    "Flying Among the Stars": {
+        "hidden": true
+    },
+    "Sowing Mischief": {
+        "hidden": true
+    },
+    "Without a Paddle": {
+        "hidden": true
+    },
+    "Hidden Dance": {
+        "hidden": true
+    },
+    "Step by Step": {
+        "hidden": true
+    },
+    "Earnest Looks": {
+        "hidden": true
+    },
+    "Searching for Questions": {
+        "hidden": true
+    },
+    "Through the Eyes of a Child": {
+        "hidden": true
+    },
+    "The Seed": {
+        "hidden": true
+    },
+    "Queendom": {
+        "hidden": true
+    },
+    "Warrior": {
+        "hidden": true
+    },
+    "Runaway": {
+        "hidden": true
+    },
+    "Waltz of the Plains": {
+        "hidden": true
+    },
+    "A Quiet Walk": {
+        "hidden": true
+    },
+    "Deer Song": {
+        "hidden": true
+    },
+    "Old Friends": {
+        "hidden": true
+    },
+    "Worlds Between": {
+        "hidden": true
+    },
+    "Finding Happiness": {
+        "hidden": true
+    },
+    "Blue Bird of Happiness": {
+        "hidden": true
+    },
+    "Life and Sanctuary": {
+        "hidden": true
+    },
+    "Ancient Echo": {
+        "hidden": true
+    },
+    "Airship": {
+        "hidden": true
+    },
+    "Music's Embrace": {
+        "hidden": true
+    },
+    "Etude No. 1": {
+        "hidden": true
+    },
+    "Etude No. 2": {
+        "hidden": true
+    },
+    "Etude No. 3": {
+        "hidden": true
+    },
+    "Etude No. 4": {
+        "hidden": true
+    },
+    "Ode to Joy": {
+        "hidden": true
+    },
+    "Happy Birthday to You": {
+        "hidden": true
+    },
+    "Days of Love": {
+        "hidden": true
+    },
+    "Dragon Dance": {
         "hidden": true
     }
 }

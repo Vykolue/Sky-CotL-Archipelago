@@ -175,7 +175,7 @@
     "connects_to": [
       "Temple of the Prairie"
     ],
-    "requires": "|Daylight Prairie Unlock| AND ((|@Regular Prairie Spirit:6| OR {YamlDisabled(spirit_gate_locks)}) AND (|Rescued Butterfly Charmer (Butterfly)| OR {YamlDisabled(emote_locks)}))"
+    "requires": "|Daylight Prairie Unlock| AND ((|@Regular Prairie Spirit:6| OR {YamlDisabled(spirit_gate_locks)}) AND (|Butterfly Emote| OR {YamlDisabled(emote_locks)}))"
   },
   "Sanctuary Islands": {
     "connects_to": [
@@ -239,7 +239,7 @@
       "The Wind Paths",
       "Elevated Clearing"
     ],
-    "requires": "|Hidden Forest Unlock| AND (((|Rescued Pouty Porter (Angry)| OR {YamlDisabled(emote_locks)}) AND (|@Regular Forest Spirit:8| OR {YamlDisabled(spirit_gate_locks)}) AND (|@Wedges:4| AND |@Wedge Capacity:4|)) OR (|The Wind Paths Shortcuts|))"
+    "requires": "|Hidden Forest Unlock| AND (((|Angry Emote| OR {YamlDisabled(emote_locks)}) AND (|@Regular Forest Spirit:8| OR {YamlDisabled(spirit_gate_locks)}) AND (|@Wedges:4| AND |@Wedge Capacity:4|)) OR (|The Wind Paths Shortcuts|))"
   },
   "Boneyard": {
     "connects_to": [
