@@ -94,6 +94,36 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
 
+    from ..Helpers import get_option_value
+    winged_light_run = get_option_value(multiworld, player, "winged_light_run")
+    daily_music_challenge = get_option_value(multiworld, player, "daily_music_challenge")
+
+    if not winged_light_run:
+        for item in item_pool:
+            if "Unlock" in item.name and not "Valley" in item.name:
+                itemNamesToRemove.append(item.name)
+            if "Shortcut" in item.name and not "Harmony Hall" in item.name:
+                itemNamesToRemove.append(item.name)
+            if "Winged Light" in item.name:
+                itemNamesToRemove.append(item.name)
+            if "Updrafts" in item.name:
+                itemNamesToRemove.append(item.name)
+            if "Wedge" in item.name:
+                itemNamesToRemove.append(item.name)
+            if "Spirit" in item.name and not "Wasteland" in item.name:
+                itemNamesToRemove.append(item.name)
+            if "Emote" in item.name:
+                itemNamesToRemove.append(item.name)
+
+        if not daily_music_challenge:
+            for item in item_pool:
+                if "Unlock" in item.name and "Valley" in item.name:
+                    itemNamesToRemove.append(item.name)
+                if "Shortcut" in item.name and "Harmony Hall" in item.name:
+                    itemNamesToRemove.append(item.name)
+                if "Spirit" in item.name and "Wasteland" in item.name:
+                    itemNamesToRemove.append(item.name)
+
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
         remove_specific_item(item_pool, item)
