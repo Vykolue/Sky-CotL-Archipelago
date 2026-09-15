@@ -164,9 +164,7 @@ You can send a Death Link when:
 - you use more wedges than you've received 
 (or are caused to go below that number by rain, Dark Dragons, etc.)
 - you die in the Eye of Eden
-
 - you die in one of the Trials
-
 - you perform poorly on a music sheet
 - you play more than x wrong notes (how many is up to you)
 - you miss more than x notes (how many is up to you)
@@ -176,9 +174,7 @@ When you receive a Death Link from another player, do one of the following:
     - you can enter an area or realm you don't yet have unlocked to do so
     - you can use locked or forbidden items (e.g. extra wedges, teleport, warp) to get there faster
     - do not send a Death Link if you lose Winged Light for this reason
-
 - the current trial's equivalent of a death
-
 - restart the song you are playing
 
 The Death Link button is located in the top right corner of the Manual Client<br />
