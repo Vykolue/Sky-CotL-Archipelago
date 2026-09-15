@@ -50,7 +50,7 @@
         "category": [
             "Realms"
         ],
-        "progression": "{YamlEnabled(winged_light_run)}",
+        "progression": "{YamlEnabled(winged_light_run)} OR {YamlEnabled(daily_music_challenge)}",
         "sort-key": "d-realm-6-unlock"
     },
     {
@@ -86,7 +86,7 @@
         "category": [
             "Shortcuts"
         ],
-        "progression": "{YamlEnabled(winged_light_run)}",
+        "progression": "{YamlEnabled(winged_light_run)} OR {YamlEnabled(daily_music_challenge)}",
         "sort-key": "f-shortcuts-3"
     },
     {
@@ -181,7 +181,7 @@
             "Regular Wasteland Spirit",
             "Rescue Regular Spirit"
         ],
-        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(spirit_gate_locks)}",
+        "progression": "{YamlEnabled(spirit_gate_locks)}",
         "sort-key": "c-spirit-a-regular-26"
     },
     {
@@ -258,7 +258,7 @@
     },
     {
         "count": 1,
-        "name": "Bounding About Sheet Music",
+        "name": "Bounding About",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -268,7 +268,7 @@
     },
     {
         "count": 1,
-        "name": "Boundaries Sheet Music",
+        "name": "Boundaries",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -278,7 +278,7 @@
     },
     {
         "count": 1,
-        "name": "Aperture Sheet Music",
+        "name": "Aperture",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -288,7 +288,7 @@
     },
     {
         "count": 1,
-        "name": "Floating Bubbles Sheet Music",
+        "name": "Floating Bubbles",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -298,7 +298,7 @@
     },
     {
         "count": 1,
-        "name": "Spinning Thoughts Sheet Music",
+        "name": "Spinning Thoughts",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -308,7 +308,7 @@
     },
     {
         "count": 1,
-        "name": "Lighting the Way Sheet Music",
+        "name": "Lighting the Way",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -318,7 +318,7 @@
     },
     {
         "count": 1,
-        "name": "Wide Stance Sheet Music",
+        "name": "Wide Stance",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -328,7 +328,7 @@
     },
     {
         "count": 1,
-        "name": "Waltzing in the Rain Sheet Music",
+        "name": "Waltzing in the Rain",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -338,7 +338,7 @@
     },
     {
         "count": 1,
-        "name": "Finding the Horizon Sheet Music",
+        "name": "Finding the Horizon",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -348,7 +348,7 @@
     },
     {
         "count": 1,
-        "name": "Relaxed Steps Sheet Music",
+        "name": "Relaxed Steps",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -358,7 +358,7 @@
     },
     {
         "count": 1,
-        "name": "Support From Above Sheet Music",
+        "name": "Support From Above",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -368,7 +368,7 @@
     },
     {
         "count": 1,
-        "name": "Wavy Hair Sheet Music",
+        "name": "Wavy Hair",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -378,7 +378,7 @@
     },
     {
         "count": 1,
-        "name": "Drifting Over Sand Sheet Music",
+        "name": "Drifting Over Sand",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -388,7 +388,7 @@
     },
     {
         "count": 1,
-        "name": "Uneven Rhythms Sheet Music",
+        "name": "Uneven Rhythms",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -398,7 +398,7 @@
     },
     {
         "count": 1,
-        "name": "Back and Forth Sheet Music",
+        "name": "Back and Forth",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -408,7 +408,7 @@
     },
     {
         "count": 1,
-        "name": "Soft Blanket Sheet Music",
+        "name": "Soft Blanket",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -418,7 +418,7 @@
     },
     {
         "count": 1,
-        "name": "Disappearing Ashes Sheet Music",
+        "name": "Disappearing Ashes",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -428,7 +428,7 @@
     },
     {
         "count": 1,
-        "name": "Springing Step Sheet Music",
+        "name": "Springing Step",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -438,7 +438,7 @@
     },
     {
         "count": 1,
-        "name": "Forgotten Dance Sheet Music",
+        "name": "Forgotten Dance",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -448,7 +448,7 @@
     },
     {
         "count": 1,
-        "name": "Forest Walk Sheet Music",
+        "name": "Forest Walk",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -458,7 +458,7 @@
     },
     {
         "count": 1,
-        "name": "Keeping Myself Together Sheet Music",
+        "name": "Keeping Myself Together",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -468,7 +468,7 @@
     },
     {
         "count": 1,
-        "name": "Looking Up to the Stars Sheet Music",
+        "name": "Looking Up to the Stars",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -478,7 +478,7 @@
     },
     {
         "count": 1,
-        "name": "A Glimpse Within Sheet Music",
+        "name": "A Glimpse Within",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -488,7 +488,7 @@
     },
     {
         "count": 1,
-        "name": "Everything Around Us Sheet Music",
+        "name": "Everything Around Us",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -498,7 +498,7 @@
     },
     {
         "count": 1,
-        "name": "Flying Among the Stars Sheet Music",
+        "name": "Flying Among the Stars",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -508,7 +508,7 @@
     },
     {
         "count": 1,
-        "name": "Sowing Mischief Sheet Music",
+        "name": "Sowing Mischief",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -518,7 +518,7 @@
     },
     {
         "count": 1,
-        "name": "Without a Paddle Sheet Music",
+        "name": "Without a Paddle",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -528,7 +528,7 @@
     },
     {
         "count": 1,
-        "name": "Hidden Dance Sheet Music",
+        "name": "Hidden Dance",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -538,7 +538,7 @@
     },
     {
         "count": 1,
-        "name": "Step by Step Sheet Music",
+        "name": "Step by Step",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -548,7 +548,7 @@
     },
     {
         "count": 1,
-        "name": "Earnest Looks Sheet Music",
+        "name": "Earnest Looks",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -558,7 +558,7 @@
     },
     {
         "count": 1,
-        "name": "Searching for Questions Sheet Music",
+        "name": "Searching for Questions",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -568,7 +568,7 @@
     },
     {
         "count": 1,
-        "name": "Through the Eyes of a Child Sheet Music",
+        "name": "Through the Eyes of a Child",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -578,7 +578,7 @@
     },
     {
         "count": 1,
-        "name": "The Seed Sheet Music",
+        "name": "The Seed",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -588,7 +588,7 @@
     },
     {
         "count": 1,
-        "name": "Queendom Sheet Music",
+        "name": "Queendom",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -598,7 +598,7 @@
     },
     {
         "count": 1,
-        "name": "Warrior Sheet Music",
+        "name": "Warrior",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -608,7 +608,7 @@
     },
     {
         "count": 1,
-        "name": "Runaway Sheet Music",
+        "name": "Runaway",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -618,7 +618,7 @@
     },
     {
         "count": 1,
-        "name": "Waltz of the Plains Sheet Music",
+        "name": "Waltz of the Plains",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -628,7 +628,7 @@
     },
     {
         "count": 1,
-        "name": "A Quiet Walk Sheet Music",
+        "name": "A Quiet Walk",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -638,7 +638,7 @@
     },
     {
         "count": 1,
-        "name": "Deer Song Sheet Music",
+        "name": "Deer Song",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -648,7 +648,7 @@
     },
     {
         "count": 1,
-        "name": "Old Friends Sheet Music",
+        "name": "Old Friends",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -658,7 +658,7 @@
     },
     {
         "count": 1,
-        "name": "Worlds Between Sheet Music",
+        "name": "Worlds Between",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -668,7 +668,7 @@
     },
     {
         "count": 1,
-        "name": "Finding Happiness Sheet Music",
+        "name": "Finding Happiness",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -678,7 +678,7 @@
     },
     {
         "count": 1,
-        "name": "Blue Bird of Happiness Sheet Music",
+        "name": "Blue Bird of Happiness",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -688,7 +688,7 @@
     },
     {
         "count": 1,
-        "name": "Life and Sanctuary Sheet Music",
+        "name": "Life and Sanctuary",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -698,7 +698,7 @@
     },
     {
         "count": 1,
-        "name": "Ancient Echo Sheet Music",
+        "name": "Ancient Echo",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -708,7 +708,7 @@
     },
     {
         "count": 1,
-        "name": "Airship Sheet Music",
+        "name": "Airship",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -718,7 +718,7 @@
     },
     {
         "count": 1,
-        "name": "Music's Embrace Sheet Music",
+        "name": "Music's Embrace",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -728,7 +728,7 @@
     },
     {
         "count": 1,
-        "name": "Etude No. 1 Sheet Music",
+        "name": "Etude No. 1",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -738,7 +738,7 @@
     },
     {
         "count": 1,
-        "name": "Etude No. 2 Sheet Music",
+        "name": "Etude No. 2",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -748,7 +748,7 @@
     },
     {
         "count": 1,
-        "name": "Etude No. 3 Sheet Music",
+        "name": "Etude No. 3",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -758,7 +758,7 @@
     },
     {
         "count": 1,
-        "name": "Etude No. 4 Sheet Music",
+        "name": "Etude No. 4",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -768,7 +768,7 @@
     },
     {
         "count": 1,
-        "name": "Ode to Joy Sheet Music",
+        "name": "Ode to Joy",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -778,7 +778,7 @@
     },
     {
         "count": 1,
-        "name": "Happy Birthday to You Sheet Music",
+        "name": "Happy Birthday to You",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -788,7 +788,7 @@
     },
     {
         "count": 1,
-        "name": "Days of Love Sheet Music",
+        "name": "Days of Love",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"
@@ -798,7 +798,7 @@
     },
     {
         "count": 1,
-        "name": "Dragon Dance Sheet Music",
+        "name": "Dragon Dance",
         "category": [
             "Sheet Music Sanity",
             "Sheet Music"

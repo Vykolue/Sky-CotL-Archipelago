@@ -1,8 +1,9 @@
 # Object classes from AP that represent different types of options that you can create
-from Options import Option, FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionGroup, PerGameCommonOptions
+from Options import Option, FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionGroup, PerGameCommonOptions, OptionSet
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value
 from typing import Type, Any
+from ..Items import item_name_groups
 
 
 ####################################################################
@@ -32,8 +33,15 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
+class EnabledMusicSheets(OptionSet):
+    """Music Sheets that will be in your world if Sheet Music Sanity is on."""  # Description of the yaml option in the template
+    display_name = "Enabled Music Sheets"           # Name of the option in the spoiler
+    valid_keys = item_name_groups["Sheet Music"]    # This is the bit that matters.  Our yaml option wants you to pick names of items in the Sheet Music category
+    default = frozenset(valid_keys)              # This makes the default value list all of them.  It's easier for a player to delete ones they don't have than it is to guess what should be added.
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
+    options["enabled_music_sheets"] = EnabledMusicSheets  # This registers the yaml option as `enabled_music_sheets`
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

@@ -1129,7 +1129,7 @@
       "Bounding About",
       "Melody"
     ],
-    "requires": "|Bounding About Sheet Music| AND |Melody Instruments|",
+    "requires": "|Bounding About| AND |Melody Instruments|",
     "sort-key": "c-1"
   },
   {
@@ -1139,7 +1139,7 @@
       "Bounding About",
       "Wind"
     ],
-    "requires": "|Bounding About Sheet Music| AND |Wind Instruments|",
+    "requires": "|Bounding About| AND |Wind Instruments|",
     "sort-key": "c-3"
   },
   {
@@ -1149,7 +1149,7 @@
       "Bounding About",
       "Bass"
     ],
-    "requires": "|Bounding About Sheet Music| AND |Bass Instruments|",
+    "requires": "|Bounding About| AND |Bass Instruments|",
     "sort-key": "c-5"
   },
   {
@@ -1159,7 +1159,7 @@
       "Bounding About",
       "Percussion"
     ],
-    "requires": "|Bounding About Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Bounding About| AND |Percussion Instruments|",
     "sort-key": "c-7"
   },
   {
@@ -1169,7 +1169,7 @@
       "Boundaries",
       "Melody"
     ],
-    "requires": "|Boundaries Sheet Music| AND |Melody Instruments|",
+    "requires": "|Boundaries| AND |Melody Instruments|",
     "sort-key": "c-9"
   },
   {
@@ -1179,7 +1179,7 @@
       "Boundaries",
       "Wind"
     ],
-    "requires": "|Boundaries Sheet Music| AND |Wind Instruments|",
+    "requires": "|Boundaries| AND |Wind Instruments|",
     "sort-key": "c-11"
   },
   {
@@ -1189,7 +1189,7 @@
       "Boundaries",
       "Bass"
     ],
-    "requires": "|Boundaries Sheet Music| AND |Bass Instruments|",
+    "requires": "|Boundaries| AND |Bass Instruments|",
     "sort-key": "c-13"
   },
   {
@@ -1199,7 +1199,7 @@
       "Boundaries",
       "Percussion"
     ],
-    "requires": "|Boundaries Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Boundaries| AND |Percussion Instruments|",
     "sort-key": "c-15"
   },
   {
@@ -1209,7 +1209,7 @@
       "Aperture",
       "Melody"
     ],
-    "requires": "|Aperture Sheet Music| AND |Melody Instruments|",
+    "requires": "|Aperture| AND |Melody Instruments|",
     "sort-key": "c-17"
   },
   {
@@ -1219,7 +1219,7 @@
       "Aperture",
       "Wind"
     ],
-    "requires": "|Aperture Sheet Music| AND |Wind Instruments|",
+    "requires": "|Aperture| AND |Wind Instruments|",
     "sort-key": "c-19"
   },
   {
@@ -1229,7 +1229,7 @@
       "Aperture",
       "Bass"
     ],
-    "requires": "|Aperture Sheet Music| AND |Bass Instruments|",
+    "requires": "|Aperture| AND |Bass Instruments|",
     "sort-key": "c-21"
   },
   {
@@ -1239,7 +1239,7 @@
       "Aperture",
       "Percussion"
     ],
-    "requires": "|Aperture Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Aperture| AND |Percussion Instruments|",
     "sort-key": "c-23"
   },
   {
@@ -1249,7 +1249,7 @@
       "Floating Bubbles",
       "Melody"
     ],
-    "requires": "|Floating Bubbles Sheet Music| AND |Melody Instruments|",
+    "requires": "|Floating Bubbles| AND |Melody Instruments|",
     "sort-key": "c-25"
   },
   {
@@ -1259,7 +1259,7 @@
       "Floating Bubbles",
       "Wind"
     ],
-    "requires": "|Floating Bubbles Sheet Music| AND |Wind Instruments|",
+    "requires": "|Floating Bubbles| AND |Wind Instruments|",
     "sort-key": "c-27"
   },
   {
@@ -1269,7 +1269,7 @@
       "Floating Bubbles",
       "Bass"
     ],
-    "requires": "|Floating Bubbles Sheet Music| AND |Bass Instruments|",
+    "requires": "|Floating Bubbles| AND |Bass Instruments|",
     "sort-key": "c-29"
   },
   {
@@ -1279,7 +1279,7 @@
       "Floating Bubbles",
       "Percussion"
     ],
-    "requires": "|Floating Bubbles Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Floating Bubbles| AND |Percussion Instruments|",
     "sort-key": "c-31"
   },
   {
@@ -1289,7 +1289,7 @@
       "Spinning Thoughts",
       "Melody"
     ],
-    "requires": "|Spinning Thoughts Sheet Music| AND |Melody Instruments|",
+    "requires": "|Spinning Thoughts| AND |Melody Instruments|",
     "sort-key": "c-33"
   },
   {
@@ -1299,7 +1299,7 @@
       "Spinning Thoughts",
       "Wind"
     ],
-    "requires": "|Spinning Thoughts Sheet Music| AND |Wind Instruments|",
+    "requires": "|Spinning Thoughts| AND |Wind Instruments|",
     "sort-key": "c-35"
   },
   {
@@ -1309,7 +1309,7 @@
       "Spinning Thoughts",
       "Bass"
     ],
-    "requires": "|Spinning Thoughts Sheet Music| AND |Bass Instruments|",
+    "requires": "|Spinning Thoughts| AND |Bass Instruments|",
     "sort-key": "c-37"
   },
   {
@@ -1319,7 +1319,7 @@
       "Spinning Thoughts",
       "Percussion"
     ],
-    "requires": "|Spinning Thoughts Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Spinning Thoughts| AND |Percussion Instruments|",
     "sort-key": "c-39"
   },
   {
@@ -1329,7 +1329,7 @@
       "Lighting the Way",
       "Melody"
     ],
-    "requires": "|Lighting the Way Sheet Music| AND |Melody Instruments|",
+    "requires": "|Lighting the Way| AND |Melody Instruments|",
     "sort-key": "c-41"
   },
   {
@@ -1339,7 +1339,7 @@
       "Lighting the Way",
       "Wind"
     ],
-    "requires": "|Lighting the Way Sheet Music| AND |Wind Instruments|",
+    "requires": "|Lighting the Way| AND |Wind Instruments|",
     "sort-key": "c-43"
   },
   {
@@ -1349,7 +1349,7 @@
       "Lighting the Way",
       "Bass"
     ],
-    "requires": "|Lighting the Way Sheet Music| AND |Bass Instruments|",
+    "requires": "|Lighting the Way| AND |Bass Instruments|",
     "sort-key": "c-45"
   },
   {
@@ -1359,7 +1359,7 @@
       "Lighting the Way",
       "Percussion"
     ],
-    "requires": "|Lighting the Way Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Lighting the Way| AND |Percussion Instruments|",
     "sort-key": "c-47"
   },
   {
@@ -1369,7 +1369,7 @@
       "Wide Stance",
       "Melody"
     ],
-    "requires": "|Wide Stance Sheet Music| AND |Melody Instruments|",
+    "requires": "|Wide Stance| AND |Melody Instruments|",
     "sort-key": "c-49"
   },
   {
@@ -1379,7 +1379,7 @@
       "Wide Stance",
       "Wind"
     ],
-    "requires": "|Wide Stance Sheet Music| AND |Wind Instruments|",
+    "requires": "|Wide Stance| AND |Wind Instruments|",
     "sort-key": "c-51"
   },
   {
@@ -1389,7 +1389,7 @@
       "Wide Stance",
       "Bass"
     ],
-    "requires": "|Wide Stance Sheet Music| AND |Bass Instruments|",
+    "requires": "|Wide Stance| AND |Bass Instruments|",
     "sort-key": "c-53"
   },
   {
@@ -1399,7 +1399,7 @@
       "Wide Stance",
       "Percussion"
     ],
-    "requires": "|Wide Stance Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Wide Stance| AND |Percussion Instruments|",
     "sort-key": "c-55"
   },
   {
@@ -1409,7 +1409,7 @@
       "Waltzing in the Rain",
       "Melody"
     ],
-    "requires": "|Waltzing in the Rain Sheet Music| AND |Melody Instruments|",
+    "requires": "|Waltzing in the Rain| AND |Melody Instruments|",
     "sort-key": "c-57"
   },
   {
@@ -1419,7 +1419,7 @@
       "Waltzing in the Rain",
       "Wind"
     ],
-    "requires": "|Waltzing in the Rain Sheet Music| AND |Wind Instruments|",
+    "requires": "|Waltzing in the Rain| AND |Wind Instruments|",
     "sort-key": "c-59"
   },
   {
@@ -1429,7 +1429,7 @@
       "Waltzing in the Rain",
       "Bass"
     ],
-    "requires": "|Waltzing in the Rain Sheet Music| AND |Bass Instruments|",
+    "requires": "|Waltzing in the Rain| AND |Bass Instruments|",
     "sort-key": "c-61"
   },
   {
@@ -1439,7 +1439,7 @@
       "Waltzing in the Rain",
       "Percussion"
     ],
-    "requires": "|Waltzing in the Rain Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Waltzing in the Rain| AND |Percussion Instruments|",
     "sort-key": "c-63"
   },
   {
@@ -1449,7 +1449,7 @@
       "Finding the Horizon",
       "Melody"
     ],
-    "requires": "|Finding the Horizon Sheet Music| AND |Melody Instruments|",
+    "requires": "|Finding the Horizon| AND |Melody Instruments|",
     "sort-key": "c-65"
   },
   {
@@ -1459,7 +1459,7 @@
       "Finding the Horizon",
       "Wind"
     ],
-    "requires": "|Finding the Horizon Sheet Music| AND |Wind Instruments|",
+    "requires": "|Finding the Horizon| AND |Wind Instruments|",
     "sort-key": "c-67"
   },
   {
@@ -1469,7 +1469,7 @@
       "Finding the Horizon",
       "Bass"
     ],
-    "requires": "|Finding the Horizon Sheet Music| AND |Bass Instruments|",
+    "requires": "|Finding the Horizon| AND |Bass Instruments|",
     "sort-key": "c-69"
   },
   {
@@ -1479,7 +1479,7 @@
       "Finding the Horizon",
       "Percussion"
     ],
-    "requires": "|Finding the Horizon Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Finding the Horizon| AND |Percussion Instruments|",
     "sort-key": "c-71"
   },
   {
@@ -1489,7 +1489,7 @@
       "Relaxed Steps",
       "Melody"
     ],
-    "requires": "|Relaxed Steps Sheet Music| AND |Melody Instruments|",
+    "requires": "|Relaxed Steps| AND |Melody Instruments|",
     "sort-key": "c-73"
   },
   {
@@ -1499,7 +1499,7 @@
       "Relaxed Steps",
       "Wind"
     ],
-    "requires": "|Relaxed Steps Sheet Music| AND |Wind Instruments|",
+    "requires": "|Relaxed Steps| AND |Wind Instruments|",
     "sort-key": "c-75"
   },
   {
@@ -1509,7 +1509,7 @@
       "Relaxed Steps",
       "Bass"
     ],
-    "requires": "|Relaxed Steps Sheet Music| AND |Bass Instruments|",
+    "requires": "|Relaxed Steps| AND |Bass Instruments|",
     "sort-key": "c-77"
   },
   {
@@ -1519,7 +1519,7 @@
       "Relaxed Steps",
       "Percussion"
     ],
-    "requires": "|Relaxed Steps Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Relaxed Steps| AND |Percussion Instruments|",
     "sort-key": "c-79"
   },
   {
@@ -1529,7 +1529,7 @@
       "Support From Above",
       "Melody"
     ],
-    "requires": "|Support From Above Sheet Music| AND |Melody Instruments|",
+    "requires": "|Support From Above| AND |Melody Instruments|",
     "sort-key": "c-81"
   },
   {
@@ -1539,7 +1539,7 @@
       "Support From Above",
       "Wind"
     ],
-    "requires": "|Support From Above Sheet Music| AND |Wind Instruments|",
+    "requires": "|Support From Above| AND |Wind Instruments|",
     "sort-key": "c-83"
   },
   {
@@ -1549,7 +1549,7 @@
       "Support From Above",
       "Bass"
     ],
-    "requires": "|Support From Above Sheet Music| AND |Bass Instruments|",
+    "requires": "|Support From Above| AND |Bass Instruments|",
     "sort-key": "c-85"
   },
   {
@@ -1559,7 +1559,7 @@
       "Support From Above",
       "Percussion"
     ],
-    "requires": "|Support From Above Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Support From Above| AND |Percussion Instruments|",
     "sort-key": "c-87"
   },
   {
@@ -1569,7 +1569,7 @@
       "Wavy Hair",
       "Melody"
     ],
-    "requires": "|Wavy Hair Sheet Music| AND |Melody Instruments|",
+    "requires": "|Wavy Hair| AND |Melody Instruments|",
     "sort-key": "c-89"
   },
   {
@@ -1579,7 +1579,7 @@
       "Wavy Hair",
       "Wind"
     ],
-    "requires": "|Wavy Hair Sheet Music| AND |Wind Instruments|",
+    "requires": "|Wavy Hair| AND |Wind Instruments|",
     "sort-key": "c-91"
   },
   {
@@ -1589,7 +1589,7 @@
       "Wavy Hair",
       "Bass"
     ],
-    "requires": "|Wavy Hair Sheet Music| AND |Bass Instruments|",
+    "requires": "|Wavy Hair| AND |Bass Instruments|",
     "sort-key": "c-93"
   },
   {
@@ -1599,7 +1599,7 @@
       "Wavy Hair",
       "Percussion"
     ],
-    "requires": "|Wavy Hair Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Wavy Hair| AND |Percussion Instruments|",
     "sort-key": "c-95"
   },
   {
@@ -1609,7 +1609,7 @@
       "Drifting Over Sand",
       "Melody"
     ],
-    "requires": "|Drifting Over Sand Sheet Music| AND |Melody Instruments|",
+    "requires": "|Drifting Over Sand| AND |Melody Instruments|",
     "sort-key": "c-97"
   },
   {
@@ -1619,7 +1619,7 @@
       "Drifting Over Sand",
       "Wind"
     ],
-    "requires": "|Drifting Over Sand Sheet Music| AND |Wind Instruments|",
+    "requires": "|Drifting Over Sand| AND |Wind Instruments|",
     "sort-key": "c-99"
   },
   {
@@ -1629,7 +1629,7 @@
       "Drifting Over Sand",
       "Bass"
     ],
-    "requires": "|Drifting Over Sand Sheet Music| AND |Bass Instruments|",
+    "requires": "|Drifting Over Sand| AND |Bass Instruments|",
     "sort-key": "c-101"
   },
   {
@@ -1639,7 +1639,7 @@
       "Drifting Over Sand",
       "Percussion"
     ],
-    "requires": "|Drifting Over Sand Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Drifting Over Sand| AND |Percussion Instruments|",
     "sort-key": "c-103"
   },
   {
@@ -1649,7 +1649,7 @@
       "Uneven Rhythms",
       "Melody"
     ],
-    "requires": "|Uneven Rhythms Sheet Music| AND |Melody Instruments|",
+    "requires": "|Uneven Rhythms| AND |Melody Instruments|",
     "sort-key": "c-105"
   },
   {
@@ -1659,7 +1659,7 @@
       "Uneven Rhythms",
       "Wind"
     ],
-    "requires": "|Uneven Rhythms Sheet Music| AND |Wind Instruments|",
+    "requires": "|Uneven Rhythms| AND |Wind Instruments|",
     "sort-key": "c-107"
   },
   {
@@ -1669,7 +1669,7 @@
       "Uneven Rhythms",
       "Bass"
     ],
-    "requires": "|Uneven Rhythms Sheet Music| AND |Bass Instruments|",
+    "requires": "|Uneven Rhythms| AND |Bass Instruments|",
     "sort-key": "c-109"
   },
   {
@@ -1679,7 +1679,7 @@
       "Uneven Rhythms",
       "Percussion"
     ],
-    "requires": "|Uneven Rhythms Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Uneven Rhythms| AND |Percussion Instruments|",
     "sort-key": "c-111"
   },
   {
@@ -1689,7 +1689,7 @@
       "Back and Forth",
       "Melody"
     ],
-    "requires": "|Back and Forth Sheet Music| AND |Melody Instruments|",
+    "requires": "|Back and Forth| AND |Melody Instruments|",
     "sort-key": "c-113"
   },
   {
@@ -1699,7 +1699,7 @@
       "Back and Forth",
       "Wind"
     ],
-    "requires": "|Back and Forth Sheet Music| AND |Wind Instruments|",
+    "requires": "|Back and Forth| AND |Wind Instruments|",
     "sort-key": "c-115"
   },
   {
@@ -1709,7 +1709,7 @@
       "Back and Forth",
       "Bass"
     ],
-    "requires": "|Back and Forth Sheet Music| AND |Bass Instruments|",
+    "requires": "|Back and Forth| AND |Bass Instruments|",
     "sort-key": "c-117"
   },
   {
@@ -1719,7 +1719,7 @@
       "Back and Forth",
       "Percussion"
     ],
-    "requires": "|Back and Forth Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Back and Forth| AND |Percussion Instruments|",
     "sort-key": "c-119"
   },
   {
@@ -1729,7 +1729,7 @@
       "Soft Blanket",
       "Melody"
     ],
-    "requires": "|Soft Blanket Sheet Music| AND |Melody Instruments|",
+    "requires": "|Soft Blanket| AND |Melody Instruments|",
     "sort-key": "c-121"
   },
   {
@@ -1739,7 +1739,7 @@
       "Soft Blanket",
       "Wind"
     ],
-    "requires": "|Soft Blanket Sheet Music| AND |Wind Instruments|",
+    "requires": "|Soft Blanket| AND |Wind Instruments|",
     "sort-key": "c-123"
   },
   {
@@ -1749,7 +1749,7 @@
       "Soft Blanket",
       "Bass"
     ],
-    "requires": "|Soft Blanket Sheet Music| AND |Bass Instruments|",
+    "requires": "|Soft Blanket| AND |Bass Instruments|",
     "sort-key": "c-125"
   },
   {
@@ -1759,7 +1759,7 @@
       "Soft Blanket",
       "Percussion"
     ],
-    "requires": "|Soft Blanket Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Soft Blanket| AND |Percussion Instruments|",
     "sort-key": "c-127"
   },
   {
@@ -1769,7 +1769,7 @@
       "Disappearing Ashes",
       "Melody"
     ],
-    "requires": "|Disappearing Ashes Sheet Music| AND |Melody Instruments|",
+    "requires": "|Disappearing Ashes| AND |Melody Instruments|",
     "sort-key": "c-129"
   },
   {
@@ -1779,7 +1779,7 @@
       "Disappearing Ashes",
       "Wind"
     ],
-    "requires": "|Disappearing Ashes Sheet Music| AND |Wind Instruments|",
+    "requires": "|Disappearing Ashes| AND |Wind Instruments|",
     "sort-key": "c-131"
   },
   {
@@ -1789,7 +1789,7 @@
       "Disappearing Ashes",
       "Bass"
     ],
-    "requires": "|Disappearing Ashes Sheet Music| AND |Bass Instruments|",
+    "requires": "|Disappearing Ashes| AND |Bass Instruments|",
     "sort-key": "c-133"
   },
   {
@@ -1799,7 +1799,7 @@
       "Disappearing Ashes",
       "Percussion"
     ],
-    "requires": "|Disappearing Ashes Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Disappearing Ashes| AND |Percussion Instruments|",
     "sort-key": "c-135"
   },
   {
@@ -1809,7 +1809,7 @@
       "Springing Step",
       "Melody"
     ],
-    "requires": "|Springing Step Sheet Music| AND |Melody Instruments|",
+    "requires": "|Springing Step| AND |Melody Instruments|",
     "sort-key": "c-137"
   },
   {
@@ -1819,7 +1819,7 @@
       "Springing Step",
       "Wind"
     ],
-    "requires": "|Springing Step Sheet Music| AND |Wind Instruments|",
+    "requires": "|Springing Step| AND |Wind Instruments|",
     "sort-key": "c-139"
   },
   {
@@ -1829,7 +1829,7 @@
       "Springing Step",
       "Bass"
     ],
-    "requires": "|Springing Step Sheet Music| AND |Bass Instruments|",
+    "requires": "|Springing Step| AND |Bass Instruments|",
     "sort-key": "c-141"
   },
   {
@@ -1839,7 +1839,7 @@
       "Springing Step",
       "Percussion"
     ],
-    "requires": "|Springing Step Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Springing Step| AND |Percussion Instruments|",
     "sort-key": "c-143"
   },
   {
@@ -1849,7 +1849,7 @@
       "Forgotten Dance",
       "Melody"
     ],
-    "requires": "|Forgotten Dance Sheet Music| AND |Melody Instruments|",
+    "requires": "|Forgotten Dance| AND |Melody Instruments|",
     "sort-key": "c-145"
   },
   {
@@ -1859,7 +1859,7 @@
       "Forgotten Dance",
       "Wind"
     ],
-    "requires": "|Forgotten Dance Sheet Music| AND |Wind Instruments|",
+    "requires": "|Forgotten Dance| AND |Wind Instruments|",
     "sort-key": "c-147"
   },
   {
@@ -1869,7 +1869,7 @@
       "Forgotten Dance",
       "Bass"
     ],
-    "requires": "|Forgotten Dance Sheet Music| AND |Bass Instruments|",
+    "requires": "|Forgotten Dance| AND |Bass Instruments|",
     "sort-key": "c-149"
   },
   {
@@ -1879,7 +1879,7 @@
       "Forgotten Dance",
       "Percussion"
     ],
-    "requires": "|Forgotten Dance Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Forgotten Dance| AND |Percussion Instruments|",
     "sort-key": "c-151"
   },
   {
@@ -1889,7 +1889,7 @@
       "Forest Walk",
       "Melody"
     ],
-    "requires": "|Forest Walk Sheet Music| AND |Melody Instruments|",
+    "requires": "|Forest Walk| AND |Melody Instruments|",
     "sort-key": "c-153"
   },
   {
@@ -1899,7 +1899,7 @@
       "Forest Walk",
       "Wind"
     ],
-    "requires": "|Forest Walk Sheet Music| AND |Wind Instruments|",
+    "requires": "|Forest Walk| AND |Wind Instruments|",
     "sort-key": "c-155"
   },
   {
@@ -1909,7 +1909,7 @@
       "Forest Walk",
       "Bass"
     ],
-    "requires": "|Forest Walk Sheet Music| AND |Bass Instruments|",
+    "requires": "|Forest Walk| AND |Bass Instruments|",
     "sort-key": "c-157"
   },
   {
@@ -1919,7 +1919,7 @@
       "Forest Walk",
       "Percussion"
     ],
-    "requires": "|Forest Walk Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Forest Walk| AND |Percussion Instruments|",
     "sort-key": "c-159"
   },
   {
@@ -1929,7 +1929,7 @@
       "Keeping Myself Together",
       "Melody"
     ],
-    "requires": "|Keeping Myself Together Sheet Music| AND |Melody Instruments|",
+    "requires": "|Keeping Myself Together| AND |Melody Instruments|",
     "sort-key": "c-161"
   },
   {
@@ -1939,7 +1939,7 @@
       "Keeping Myself Together",
       "Wind"
     ],
-    "requires": "|Keeping Myself Together Sheet Music| AND |Wind Instruments|",
+    "requires": "|Keeping Myself Together| AND |Wind Instruments|",
     "sort-key": "c-163"
   },
   {
@@ -1949,7 +1949,7 @@
       "Keeping Myself Together",
       "Bass"
     ],
-    "requires": "|Keeping Myself Together Sheet Music| AND |Bass Instruments|",
+    "requires": "|Keeping Myself Together| AND |Bass Instruments|",
     "sort-key": "c-165"
   },
   {
@@ -1959,7 +1959,7 @@
       "Keeping Myself Together",
       "Percussion"
     ],
-    "requires": "|Keeping Myself Together Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Keeping Myself Together| AND |Percussion Instruments|",
     "sort-key": "c-167"
   },
   {
@@ -1969,7 +1969,7 @@
       "Looking Up to the Stars",
       "Melody"
     ],
-    "requires": "|Looking Up to the Stars Sheet Music| AND |Melody Instruments|",
+    "requires": "|Looking Up to the Stars| AND |Melody Instruments|",
     "sort-key": "c-169"
   },
   {
@@ -1979,7 +1979,7 @@
       "Looking Up to the Stars",
       "Wind"
     ],
-    "requires": "|Looking Up to the Stars Sheet Music| AND |Wind Instruments|",
+    "requires": "|Looking Up to the Stars| AND |Wind Instruments|",
     "sort-key": "c-171"
   },
   {
@@ -1989,7 +1989,7 @@
       "Looking Up to the Stars",
       "Bass"
     ],
-    "requires": "|Looking Up to the Stars Sheet Music| AND |Bass Instruments|",
+    "requires": "|Looking Up to the Stars| AND |Bass Instruments|",
     "sort-key": "c-173"
   },
   {
@@ -1999,7 +1999,7 @@
       "Looking Up to the Stars",
       "Percussion"
     ],
-    "requires": "|Looking Up to the Stars Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Looking Up to the Stars| AND |Percussion Instruments|",
     "sort-key": "c-175"
   },
   {
@@ -2009,7 +2009,7 @@
       "A Glimpse Within",
       "Melody"
     ],
-    "requires": "|A Glimpse Within Sheet Music| AND |Melody Instruments|",
+    "requires": "|A Glimpse Within| AND |Melody Instruments|",
     "sort-key": "c-177"
   },
   {
@@ -2019,7 +2019,7 @@
       "A Glimpse Within",
       "Wind"
     ],
-    "requires": "|A Glimpse Within Sheet Music| AND |Wind Instruments|",
+    "requires": "|A Glimpse Within| AND |Wind Instruments|",
     "sort-key": "c-179"
   },
   {
@@ -2029,7 +2029,7 @@
       "A Glimpse Within",
       "Bass"
     ],
-    "requires": "|A Glimpse Within Sheet Music| AND |Bass Instruments|",
+    "requires": "|A Glimpse Within| AND |Bass Instruments|",
     "sort-key": "c-181"
   },
   {
@@ -2039,7 +2039,7 @@
       "A Glimpse Within",
       "Percussion"
     ],
-    "requires": "|A Glimpse Within Sheet Music| AND |Percussion Instruments|",
+    "requires": "|A Glimpse Within| AND |Percussion Instruments|",
     "sort-key": "c-183"
   },
   {
@@ -2049,7 +2049,7 @@
       "Everything Around Us",
       "Melody"
     ],
-    "requires": "|Everything Around Us Sheet Music| AND |Melody Instruments|",
+    "requires": "|Everything Around Us| AND |Melody Instruments|",
     "sort-key": "c-185"
   },
   {
@@ -2059,7 +2059,7 @@
       "Everything Around Us",
       "Wind"
     ],
-    "requires": "|Everything Around Us Sheet Music| AND |Wind Instruments|",
+    "requires": "|Everything Around Us| AND |Wind Instruments|",
     "sort-key": "c-187"
   },
   {
@@ -2069,7 +2069,7 @@
       "Everything Around Us",
       "Bass"
     ],
-    "requires": "|Everything Around Us Sheet Music| AND |Bass Instruments|",
+    "requires": "|Everything Around Us| AND |Bass Instruments|",
     "sort-key": "c-189"
   },
   {
@@ -2079,7 +2079,7 @@
       "Everything Around Us",
       "Percussion"
     ],
-    "requires": "|Everything Around Us Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Everything Around Us| AND |Percussion Instruments|",
     "sort-key": "c-191"
   },
   {
@@ -2089,7 +2089,7 @@
       "Flying Among the Stars",
       "Melody"
     ],
-    "requires": "|Flying Among the Stars Sheet Music| AND |Melody Instruments|",
+    "requires": "|Flying Among the Stars| AND |Melody Instruments|",
     "sort-key": "c-193"
   },
   {
@@ -2099,7 +2099,7 @@
       "Flying Among the Stars",
       "Wind"
     ],
-    "requires": "|Flying Among the Stars Sheet Music| AND |Wind Instruments|",
+    "requires": "|Flying Among the Stars| AND |Wind Instruments|",
     "sort-key": "c-195"
   },
   {
@@ -2109,7 +2109,7 @@
       "Flying Among the Stars",
       "Bass"
     ],
-    "requires": "|Flying Among the Stars Sheet Music| AND |Bass Instruments|",
+    "requires": "|Flying Among the Stars| AND |Bass Instruments|",
     "sort-key": "c-197"
   },
   {
@@ -2119,7 +2119,7 @@
       "Flying Among the Stars",
       "Percussion"
     ],
-    "requires": "|Flying Among the Stars Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Flying Among the Stars| AND |Percussion Instruments|",
     "sort-key": "c-199"
   },
   {
@@ -2129,7 +2129,7 @@
       "Sowing Mischief",
       "Melody"
     ],
-    "requires": "|Sowing Mischief Sheet Music| AND |Melody Instruments|",
+    "requires": "|Sowing Mischief| AND |Melody Instruments|",
     "sort-key": "c-201"
   },
   {
@@ -2139,7 +2139,7 @@
       "Sowing Mischief",
       "Wind"
     ],
-    "requires": "|Sowing Mischief Sheet Music| AND |Wind Instruments|",
+    "requires": "|Sowing Mischief| AND |Wind Instruments|",
     "sort-key": "c-203"
   },
   {
@@ -2149,7 +2149,7 @@
       "Sowing Mischief",
       "Bass"
     ],
-    "requires": "|Sowing Mischief Sheet Music| AND |Bass Instruments|",
+    "requires": "|Sowing Mischief| AND |Bass Instruments|",
     "sort-key": "c-205"
   },
   {
@@ -2159,7 +2159,7 @@
       "Sowing Mischief",
       "Percussion"
     ],
-    "requires": "|Sowing Mischief Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Sowing Mischief| AND |Percussion Instruments|",
     "sort-key": "c-207"
   },
   {
@@ -2169,7 +2169,7 @@
       "Without a Paddle",
       "Melody"
     ],
-    "requires": "|Without a Paddle Sheet Music| AND |Melody Instruments|",
+    "requires": "|Without a Paddle| AND |Melody Instruments|",
     "sort-key": "c-209"
   },
   {
@@ -2179,7 +2179,7 @@
       "Without a Paddle",
       "Wind"
     ],
-    "requires": "|Without a Paddle Sheet Music| AND |Wind Instruments|",
+    "requires": "|Without a Paddle| AND |Wind Instruments|",
     "sort-key": "c-211"
   },
   {
@@ -2189,7 +2189,7 @@
       "Without a Paddle",
       "Bass"
     ],
-    "requires": "|Without a Paddle Sheet Music| AND |Bass Instruments|",
+    "requires": "|Without a Paddle| AND |Bass Instruments|",
     "sort-key": "c-213"
   },
   {
@@ -2199,7 +2199,7 @@
       "Without a Paddle",
       "Percussion"
     ],
-    "requires": "|Without a Paddle Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Without a Paddle| AND |Percussion Instruments|",
     "sort-key": "c-215"
   },
   {
@@ -2209,7 +2209,7 @@
       "Hidden Dance",
       "Melody"
     ],
-    "requires": "|Hidden Dance Sheet Music| AND |Melody Instruments|",
+    "requires": "|Hidden Dance| AND |Melody Instruments|",
     "sort-key": "c-217"
   },
   {
@@ -2219,7 +2219,7 @@
       "Hidden Dance",
       "Wind"
     ],
-    "requires": "|Hidden Dance Sheet Music| AND |Wind Instruments|",
+    "requires": "|Hidden Dance| AND |Wind Instruments|",
     "sort-key": "c-219"
   },
   {
@@ -2229,7 +2229,7 @@
       "Hidden Dance",
       "Bass"
     ],
-    "requires": "|Hidden Dance Sheet Music| AND |Bass Instruments|",
+    "requires": "|Hidden Dance| AND |Bass Instruments|",
     "sort-key": "c-221"
   },
   {
@@ -2239,7 +2239,7 @@
       "Hidden Dance",
       "Percussion"
     ],
-    "requires": "|Hidden Dance Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Hidden Dance| AND |Percussion Instruments|",
     "sort-key": "c-223"
   },
   {
@@ -2249,7 +2249,7 @@
       "Step by Step",
       "Melody"
     ],
-    "requires": "|Step by Step Sheet Music| AND |Melody Instruments|",
+    "requires": "|Step by Step| AND |Melody Instruments|",
     "sort-key": "c-225"
   },
   {
@@ -2259,7 +2259,7 @@
       "Step by Step",
       "Wind"
     ],
-    "requires": "|Step by Step Sheet Music| AND |Wind Instruments|",
+    "requires": "|Step by Step| AND |Wind Instruments|",
     "sort-key": "c-227"
   },
   {
@@ -2269,7 +2269,7 @@
       "Step by Step",
       "Bass"
     ],
-    "requires": "|Step by Step Sheet Music| AND |Bass Instruments|",
+    "requires": "|Step by Step| AND |Bass Instruments|",
     "sort-key": "c-229"
   },
   {
@@ -2279,7 +2279,7 @@
       "Step by Step",
       "Percussion"
     ],
-    "requires": "|Step by Step Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Step by Step| AND |Percussion Instruments|",
     "sort-key": "c-231"
   },
   {
@@ -2289,7 +2289,7 @@
       "Earnest Looks",
       "Melody"
     ],
-    "requires": "|Earnest Looks Sheet Music| AND |Melody Instruments|",
+    "requires": "|Earnest Looks| AND |Melody Instruments|",
     "sort-key": "c-233"
   },
   {
@@ -2299,7 +2299,7 @@
       "Earnest Looks",
       "Wind"
     ],
-    "requires": "|Earnest Looks Sheet Music| AND |Wind Instruments|",
+    "requires": "|Earnest Looks| AND |Wind Instruments|",
     "sort-key": "c-235"
   },
   {
@@ -2309,7 +2309,7 @@
       "Earnest Looks",
       "Bass"
     ],
-    "requires": "|Earnest Looks Sheet Music| AND |Bass Instruments|",
+    "requires": "|Earnest Looks| AND |Bass Instruments|",
     "sort-key": "c-237"
   },
   {
@@ -2319,7 +2319,7 @@
       "Earnest Looks",
       "Percussion"
     ],
-    "requires": "|Earnest Looks Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Earnest Looks| AND |Percussion Instruments|",
     "sort-key": "c-239"
   },
   {
@@ -2329,7 +2329,7 @@
       "Searching for Questions",
       "Melody"
     ],
-    "requires": "|Searching for Questions Sheet Music| AND |Melody Instruments|",
+    "requires": "|Searching for Questions| AND |Melody Instruments|",
     "sort-key": "c-241"
   },
   {
@@ -2339,7 +2339,7 @@
       "Searching for Questions",
       "Wind"
     ],
-    "requires": "|Searching for Questions Sheet Music| AND |Wind Instruments|",
+    "requires": "|Searching for Questions| AND |Wind Instruments|",
     "sort-key": "c-243"
   },
   {
@@ -2349,7 +2349,7 @@
       "Searching for Questions",
       "Bass"
     ],
-    "requires": "|Searching for Questions Sheet Music| AND |Bass Instruments|",
+    "requires": "|Searching for Questions| AND |Bass Instruments|",
     "sort-key": "c-245"
   },
   {
@@ -2359,7 +2359,7 @@
       "Searching for Questions",
       "Percussion"
     ],
-    "requires": "|Searching for Questions Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Searching for Questions| AND |Percussion Instruments|",
     "sort-key": "c-247"
   },
   {
@@ -2369,7 +2369,7 @@
       "Through the Eyes of a Child",
       "Melody"
     ],
-    "requires": "|Through the Eyes of a Child Sheet Music| AND |Melody Instruments|",
+    "requires": "|Through the Eyes of a Child| AND |Melody Instruments|",
     "sort-key": "c-249"
   },
   {
@@ -2379,7 +2379,7 @@
       "Through the Eyes of a Child",
       "Wind"
     ],
-    "requires": "|Through the Eyes of a Child Sheet Music| AND |Wind Instruments|",
+    "requires": "|Through the Eyes of a Child| AND |Wind Instruments|",
     "sort-key": "c-251"
   },
   {
@@ -2389,7 +2389,7 @@
       "Through the Eyes of a Child",
       "Bass"
     ],
-    "requires": "|Through the Eyes of a Child Sheet Music| AND |Bass Instruments|",
+    "requires": "|Through the Eyes of a Child| AND |Bass Instruments|",
     "sort-key": "c-253"
   },
   {
@@ -2399,7 +2399,7 @@
       "Through the Eyes of a Child",
       "Percussion"
     ],
-    "requires": "|Through the Eyes of a Child Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Through the Eyes of a Child| AND |Percussion Instruments|",
     "sort-key": "c-255"
   },
   {
@@ -2409,7 +2409,7 @@
       "The Seed",
       "Melody"
     ],
-    "requires": "|The Seed Sheet Music| AND |Melody Instruments|",
+    "requires": "|The Seed| AND |Melody Instruments|",
     "sort-key": "c-257"
   },
   {
@@ -2419,7 +2419,7 @@
       "The Seed",
       "Wind"
     ],
-    "requires": "|The Seed Sheet Music| AND |Wind Instruments|",
+    "requires": "|The Seed| AND |Wind Instruments|",
     "sort-key": "c-259"
   },
   {
@@ -2429,7 +2429,7 @@
       "The Seed",
       "Bass"
     ],
-    "requires": "|The Seed Sheet Music| AND |Bass Instruments|",
+    "requires": "|The Seed| AND |Bass Instruments|",
     "sort-key": "c-261"
   },
   {
@@ -2439,7 +2439,7 @@
       "The Seed",
       "Percussion"
     ],
-    "requires": "|The Seed Sheet Music| AND |Percussion Instruments|",
+    "requires": "|The Seed| AND |Percussion Instruments|",
     "sort-key": "c-263"
   },
   {
@@ -2449,7 +2449,7 @@
       "Queendom",
       "Melody"
     ],
-    "requires": "|Queendom Sheet Music| AND |Melody Instruments|",
+    "requires": "|Queendom| AND |Melody Instruments|",
     "sort-key": "c-265"
   },
   {
@@ -2459,7 +2459,7 @@
       "Queendom",
       "Wind"
     ],
-    "requires": "|Queendom Sheet Music| AND |Wind Instruments|",
+    "requires": "|Queendom| AND |Wind Instruments|",
     "sort-key": "c-267"
   },
   {
@@ -2469,7 +2469,7 @@
       "Queendom",
       "Bass"
     ],
-    "requires": "|Queendom Sheet Music| AND |Bass Instruments|",
+    "requires": "|Queendom| AND |Bass Instruments|",
     "sort-key": "c-269"
   },
   {
@@ -2479,7 +2479,7 @@
       "Queendom",
       "Percussion"
     ],
-    "requires": "|Queendom Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Queendom| AND |Percussion Instruments|",
     "sort-key": "c-271"
   },
   {
@@ -2489,7 +2489,7 @@
       "Warrior",
       "Melody"
     ],
-    "requires": "|Warrior Sheet Music| AND |Melody Instruments|",
+    "requires": "|Warrior| AND |Melody Instruments|",
     "sort-key": "c-273"
   },
   {
@@ -2499,7 +2499,7 @@
       "Warrior",
       "Wind"
     ],
-    "requires": "|Warrior Sheet Music| AND |Wind Instruments|",
+    "requires": "|Warrior| AND |Wind Instruments|",
     "sort-key": "c-275"
   },
   {
@@ -2509,7 +2509,7 @@
       "Warrior",
       "Bass"
     ],
-    "requires": "|Warrior Sheet Music| AND |Bass Instruments|",
+    "requires": "|Warrior| AND |Bass Instruments|",
     "sort-key": "c-277"
   },
   {
@@ -2519,7 +2519,7 @@
       "Warrior",
       "Percussion"
     ],
-    "requires": "|Warrior Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Warrior| AND |Percussion Instruments|",
     "sort-key": "c-279"
   },
   {
@@ -2529,7 +2529,7 @@
       "Runaway",
       "Melody"
     ],
-    "requires": "|Runaway Sheet Music| AND |Melody Instruments|",
+    "requires": "|Runaway| AND |Melody Instruments|",
     "sort-key": "c-281"
   },
   {
@@ -2539,7 +2539,7 @@
       "Runaway",
       "Wind"
     ],
-    "requires": "|Runaway Sheet Music| AND |Wind Instruments|",
+    "requires": "|Runaway| AND |Wind Instruments|",
     "sort-key": "c-283"
   },
   {
@@ -2549,7 +2549,7 @@
       "Runaway",
       "Bass"
     ],
-    "requires": "|Runaway Sheet Music| AND |Bass Instruments|",
+    "requires": "|Runaway| AND |Bass Instruments|",
     "sort-key": "c-285"
   },
   {
@@ -2559,7 +2559,7 @@
       "Runaway",
       "Percussion"
     ],
-    "requires": "|Runaway Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Runaway| AND |Percussion Instruments|",
     "sort-key": "c-287"
   },
   {
@@ -2569,7 +2569,7 @@
       "Waltz of the Plains",
       "Melody"
     ],
-    "requires": "|Waltz of the Plains Sheet Music| AND |Melody Instruments|",
+    "requires": "|Waltz of the Plains| AND |Melody Instruments|",
     "sort-key": "c-289"
   },
   {
@@ -2579,7 +2579,7 @@
       "Waltz of the Plains",
       "Wind"
     ],
-    "requires": "|Waltz of the Plains Sheet Music| AND |Wind Instruments|",
+    "requires": "|Waltz of the Plains| AND |Wind Instruments|",
     "sort-key": "c-291"
   },
   {
@@ -2589,7 +2589,7 @@
       "Waltz of the Plains",
       "Bass"
     ],
-    "requires": "|Waltz of the Plains Sheet Music| AND |Bass Instruments|",
+    "requires": "|Waltz of the Plains| AND |Bass Instruments|",
     "sort-key": "c-293"
   },
   {
@@ -2599,7 +2599,7 @@
       "Waltz of the Plains",
       "Percussion"
     ],
-    "requires": "|Waltz of the Plains Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Waltz of the Plains| AND |Percussion Instruments|",
     "sort-key": "c-295"
   },
   {
@@ -2609,7 +2609,7 @@
       "A Quiet Walk",
       "Melody"
     ],
-    "requires": "|A Quiet Walk Sheet Music| AND |Melody Instruments|",
+    "requires": "|A Quiet Walk| AND |Melody Instruments|",
     "sort-key": "c-297"
   },
   {
@@ -2619,7 +2619,7 @@
       "A Quiet Walk",
       "Wind"
     ],
-    "requires": "|A Quiet Walk Sheet Music| AND |Wind Instruments|",
+    "requires": "|A Quiet Walk| AND |Wind Instruments|",
     "sort-key": "c-299"
   },
   {
@@ -2629,7 +2629,7 @@
       "A Quiet Walk",
       "Bass"
     ],
-    "requires": "|A Quiet Walk Sheet Music| AND |Bass Instruments|",
+    "requires": "|A Quiet Walk| AND |Bass Instruments|",
     "sort-key": "c-301"
   },
   {
@@ -2639,7 +2639,7 @@
       "A Quiet Walk",
       "Percussion"
     ],
-    "requires": "|A Quiet Walk Sheet Music| AND |Percussion Instruments|",
+    "requires": "|A Quiet Walk| AND |Percussion Instruments|",
     "sort-key": "c-303"
   },
   {
@@ -2649,7 +2649,7 @@
       "Deer Song",
       "Melody"
     ],
-    "requires": "|Deer Song Sheet Music| AND |Melody Instruments|",
+    "requires": "|Deer Song| AND |Melody Instruments|",
     "sort-key": "c-305"
   },
   {
@@ -2659,7 +2659,7 @@
       "Deer Song",
       "Wind"
     ],
-    "requires": "|Deer Song Sheet Music| AND |Wind Instruments|",
+    "requires": "|Deer Song| AND |Wind Instruments|",
     "sort-key": "c-307"
   },
   {
@@ -2669,7 +2669,7 @@
       "Deer Song",
       "Bass"
     ],
-    "requires": "|Deer Song Sheet Music| AND |Bass Instruments|",
+    "requires": "|Deer Song| AND |Bass Instruments|",
     "sort-key": "c-309"
   },
   {
@@ -2679,7 +2679,7 @@
       "Deer Song",
       "Percussion"
     ],
-    "requires": "|Deer Song Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Deer Song| AND |Percussion Instruments|",
     "sort-key": "c-311"
   },
   {
@@ -2689,7 +2689,7 @@
       "Old Friends",
       "Melody"
     ],
-    "requires": "|Old Friends Sheet Music| AND |Melody Instruments|",
+    "requires": "|Old Friends| AND |Melody Instruments|",
     "sort-key": "c-313"
   },
   {
@@ -2699,7 +2699,7 @@
       "Old Friends",
       "Wind"
     ],
-    "requires": "|Old Friends Sheet Music| AND |Wind Instruments|",
+    "requires": "|Old Friends| AND |Wind Instruments|",
     "sort-key": "c-315"
   },
   {
@@ -2709,7 +2709,7 @@
       "Old Friends",
       "Bass"
     ],
-    "requires": "|Old Friends Sheet Music| AND |Bass Instruments|",
+    "requires": "|Old Friends| AND |Bass Instruments|",
     "sort-key": "c-317"
   },
   {
@@ -2719,7 +2719,7 @@
       "Old Friends",
       "Percussion"
     ],
-    "requires": "|Old Friends Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Old Friends| AND |Percussion Instruments|",
     "sort-key": "c-319"
   },
   {
@@ -2729,7 +2729,7 @@
       "Worlds Between",
       "Melody"
     ],
-    "requires": "|Worlds Between Sheet Music| AND |Melody Instruments|",
+    "requires": "|Worlds Between| AND |Melody Instruments|",
     "sort-key": "c-321"
   },
   {
@@ -2739,7 +2739,7 @@
       "Worlds Between",
       "Wind"
     ],
-    "requires": "|Worlds Between Sheet Music| AND |Wind Instruments|",
+    "requires": "|Worlds Between| AND |Wind Instruments|",
     "sort-key": "c-323"
   },
   {
@@ -2749,7 +2749,7 @@
       "Worlds Between",
       "Bass"
     ],
-    "requires": "|Worlds Between Sheet Music| AND |Bass Instruments|",
+    "requires": "|Worlds Between| AND |Bass Instruments|",
     "sort-key": "c-325"
   },
   {
@@ -2759,7 +2759,7 @@
       "Worlds Between",
       "Percussion"
     ],
-    "requires": "|Worlds Between Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Worlds Between| AND |Percussion Instruments|",
     "sort-key": "c-327"
   },
   {
@@ -2769,7 +2769,7 @@
       "Finding Happiness",
       "Melody"
     ],
-    "requires": "|Finding Happiness Sheet Music| AND |Melody Instruments|",
+    "requires": "|Finding Happiness| AND |Melody Instruments|",
     "sort-key": "c-329"
   },
   {
@@ -2779,7 +2779,7 @@
       "Finding Happiness",
       "Wind"
     ],
-    "requires": "|Finding Happiness Sheet Music| AND |Wind Instruments|",
+    "requires": "|Finding Happiness| AND |Wind Instruments|",
     "sort-key": "c-331"
   },
   {
@@ -2789,7 +2789,7 @@
       "Finding Happiness",
       "Bass"
     ],
-    "requires": "|Finding Happiness Sheet Music| AND |Bass Instruments|",
+    "requires": "|Finding Happiness| AND |Bass Instruments|",
     "sort-key": "c-333"
   },
   {
@@ -2799,7 +2799,7 @@
       "Finding Happiness",
       "Percussion"
     ],
-    "requires": "|Finding Happiness Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Finding Happiness| AND |Percussion Instruments|",
     "sort-key": "c-335"
   },
   {
@@ -2809,7 +2809,7 @@
       "Blue Bird of Happiness",
       "Melody"
     ],
-    "requires": "|Blue Bird of Happiness Sheet Music| AND |Melody Instruments|",
+    "requires": "|Blue Bird of Happiness| AND |Melody Instruments|",
     "sort-key": "c-337"
   },
   {
@@ -2819,7 +2819,7 @@
       "Blue Bird of Happiness",
       "Wind"
     ],
-    "requires": "|Blue Bird of Happiness Sheet Music| AND |Wind Instruments|",
+    "requires": "|Blue Bird of Happiness| AND |Wind Instruments|",
     "sort-key": "c-339"
   },
   {
@@ -2829,7 +2829,7 @@
       "Blue Bird of Happiness",
       "Bass"
     ],
-    "requires": "|Blue Bird of Happiness Sheet Music| AND |Bass Instruments|",
+    "requires": "|Blue Bird of Happiness| AND |Bass Instruments|",
     "sort-key": "c-341"
   },
   {
@@ -2839,7 +2839,7 @@
       "Blue Bird of Happiness",
       "Percussion"
     ],
-    "requires": "|Blue Bird of Happiness Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Blue Bird of Happiness| AND |Percussion Instruments|",
     "sort-key": "c-343"
   },
   {
@@ -2849,7 +2849,7 @@
       "Life and Sanctuary",
       "Melody"
     ],
-    "requires": "|Life and Sanctuary Sheet Music| AND |Melody Instruments|",
+    "requires": "|Life and Sanctuary| AND |Melody Instruments|",
     "sort-key": "c-345"
   },
   {
@@ -2859,7 +2859,7 @@
       "Life and Sanctuary",
       "Wind"
     ],
-    "requires": "|Life and Sanctuary Sheet Music| AND |Wind Instruments|",
+    "requires": "|Life and Sanctuary| AND |Wind Instruments|",
     "sort-key": "c-347"
   },
   {
@@ -2869,7 +2869,7 @@
       "Life and Sanctuary",
       "Bass"
     ],
-    "requires": "|Life and Sanctuary Sheet Music| AND |Bass Instruments|",
+    "requires": "|Life and Sanctuary| AND |Bass Instruments|",
     "sort-key": "c-349"
   },
   {
@@ -2879,7 +2879,7 @@
       "Life and Sanctuary",
       "Percussion"
     ],
-    "requires": "|Life and Sanctuary Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Life and Sanctuary| AND |Percussion Instruments|",
     "sort-key": "c-351"
   },
   {
@@ -2889,7 +2889,7 @@
       "Ancient Echo",
       "Melody"
     ],
-    "requires": "|Ancient Echo Sheet Music| AND |Melody Instruments|",
+    "requires": "|Ancient Echo| AND |Melody Instruments|",
     "sort-key": "c-353"
   },
   {
@@ -2899,7 +2899,7 @@
       "Ancient Echo",
       "Wind"
     ],
-    "requires": "|Ancient Echo Sheet Music| AND |Wind Instruments|",
+    "requires": "|Ancient Echo| AND |Wind Instruments|",
     "sort-key": "c-355"
   },
   {
@@ -2909,7 +2909,7 @@
       "Ancient Echo",
       "Bass"
     ],
-    "requires": "|Ancient Echo Sheet Music| AND |Bass Instruments|",
+    "requires": "|Ancient Echo| AND |Bass Instruments|",
     "sort-key": "c-357"
   },
   {
@@ -2919,7 +2919,7 @@
       "Ancient Echo",
       "Percussion"
     ],
-    "requires": "|Ancient Echo Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Ancient Echo| AND |Percussion Instruments|",
     "sort-key": "c-359"
   },
   {
@@ -2929,7 +2929,7 @@
       "Airship",
       "Melody"
     ],
-    "requires": "|Airship Sheet Music| AND |Melody Instruments|",
+    "requires": "|Airship| AND |Melody Instruments|",
     "sort-key": "c-361"
   },
   {
@@ -2939,7 +2939,7 @@
       "Airship",
       "Wind"
     ],
-    "requires": "|Airship Sheet Music| AND |Wind Instruments|",
+    "requires": "|Airship| AND |Wind Instruments|",
     "sort-key": "c-363"
   },
   {
@@ -2949,7 +2949,7 @@
       "Airship",
       "Bass"
     ],
-    "requires": "|Airship Sheet Music| AND |Bass Instruments|",
+    "requires": "|Airship| AND |Bass Instruments|",
     "sort-key": "c-365"
   },
   {
@@ -2959,7 +2959,7 @@
       "Airship",
       "Percussion"
     ],
-    "requires": "|Airship Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Airship| AND |Percussion Instruments|",
     "sort-key": "c-367"
   },
   {
@@ -2969,7 +2969,7 @@
       "Music's Embrace",
       "Melody"
     ],
-    "requires": "|Music's Embrace Sheet Music| AND |Melody Instruments|",
+    "requires": "|Music's Embrace| AND |Melody Instruments|",
     "sort-key": "c-369"
   },
   {
@@ -2979,7 +2979,7 @@
       "Music's Embrace",
       "Wind"
     ],
-    "requires": "|Music's Embrace Sheet Music| AND |Wind Instruments|",
+    "requires": "|Music's Embrace| AND |Wind Instruments|",
     "sort-key": "c-371"
   },
   {
@@ -2989,7 +2989,7 @@
       "Music's Embrace",
       "Bass"
     ],
-    "requires": "|Music's Embrace Sheet Music| AND |Bass Instruments|",
+    "requires": "|Music's Embrace| AND |Bass Instruments|",
     "sort-key": "c-373"
   },
   {
@@ -2999,7 +2999,7 @@
       "Music's Embrace",
       "Percussion"
     ],
-    "requires": "|Music's Embrace Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Music's Embrace| AND |Percussion Instruments|",
     "sort-key": "c-375"
   },
   {
@@ -3009,7 +3009,7 @@
       "Etude No. 1",
       "Melody"
     ],
-    "requires": "|Etude No. 1 Sheet Music| AND |Melody Instruments|",
+    "requires": "|Etude No. 1| AND |Melody Instruments|",
     "sort-key": "c-377"
   },
   {
@@ -3019,7 +3019,7 @@
       "Etude No. 1",
       "Wind"
     ],
-    "requires": "|Etude No. 1 Sheet Music| AND |Wind Instruments|",
+    "requires": "|Etude No. 1| AND |Wind Instruments|",
     "sort-key": "c-379"
   },
   {
@@ -3029,7 +3029,7 @@
       "Etude No. 1",
       "Bass"
     ],
-    "requires": "|Etude No. 1 Sheet Music| AND |Bass Instruments|",
+    "requires": "|Etude No. 1| AND |Bass Instruments|",
     "sort-key": "c-381"
   },
   {
@@ -3039,7 +3039,7 @@
       "Etude No. 1",
       "Percussion"
     ],
-    "requires": "|Etude No. 1 Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Etude No. 1| AND |Percussion Instruments|",
     "sort-key": "c-383"
   },
   {
@@ -3049,7 +3049,7 @@
       "Etude No. 2",
       "Melody"
     ],
-    "requires": "|Etude No. 2 Sheet Music| AND |Melody Instruments|",
+    "requires": "|Etude No. 2| AND |Melody Instruments|",
     "sort-key": "c-385"
   },
   {
@@ -3059,7 +3059,7 @@
       "Etude No. 2",
       "Wind"
     ],
-    "requires": "|Etude No. 2 Sheet Music| AND |Wind Instruments|",
+    "requires": "|Etude No. 2| AND |Wind Instruments|",
     "sort-key": "c-387"
   },
   {
@@ -3069,7 +3069,7 @@
       "Etude No. 2",
       "Bass"
     ],
-    "requires": "|Etude No. 2 Sheet Music| AND |Bass Instruments|",
+    "requires": "|Etude No. 2| AND |Bass Instruments|",
     "sort-key": "c-389"
   },
   {
@@ -3079,7 +3079,7 @@
       "Etude No. 2",
       "Percussion"
     ],
-    "requires": "|Etude No. 2 Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Etude No. 2| AND |Percussion Instruments|",
     "sort-key": "c-391"
   },
   {
@@ -3089,7 +3089,7 @@
       "Etude No. 3",
       "Melody"
     ],
-    "requires": "|Etude No. 3 Sheet Music| AND |Melody Instruments|",
+    "requires": "|Etude No. 3| AND |Melody Instruments|",
     "sort-key": "c-393"
   },
   {
@@ -3099,7 +3099,7 @@
       "Etude No. 3",
       "Wind"
     ],
-    "requires": "|Etude No. 3 Sheet Music| AND |Wind Instruments|",
+    "requires": "|Etude No. 3| AND |Wind Instruments|",
     "sort-key": "c-395"
   },
   {
@@ -3109,7 +3109,7 @@
       "Etude No. 3",
       "Bass"
     ],
-    "requires": "|Etude No. 3 Sheet Music| AND |Bass Instruments|",
+    "requires": "|Etude No. 3| AND |Bass Instruments|",
     "sort-key": "c-397"
   },
   {
@@ -3119,7 +3119,7 @@
       "Etude No. 3",
       "Percussion"
     ],
-    "requires": "|Etude No. 3 Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Etude No. 3| AND |Percussion Instruments|",
     "sort-key": "c-399"
   },
   {
@@ -3129,7 +3129,7 @@
       "Etude No. 4",
       "Melody"
     ],
-    "requires": "|Etude No. 4 Sheet Music| AND |Melody Instruments|",
+    "requires": "|Etude No. 4| AND |Melody Instruments|",
     "sort-key": "c-401"
   },
   {
@@ -3139,7 +3139,7 @@
       "Etude No. 4",
       "Wind"
     ],
-    "requires": "|Etude No. 4 Sheet Music| AND |Wind Instruments|",
+    "requires": "|Etude No. 4| AND |Wind Instruments|",
     "sort-key": "c-403"
   },
   {
@@ -3149,7 +3149,7 @@
       "Etude No. 4",
       "Bass"
     ],
-    "requires": "|Etude No. 4 Sheet Music| AND |Bass Instruments|",
+    "requires": "|Etude No. 4| AND |Bass Instruments|",
     "sort-key": "c-405"
   },
   {
@@ -3159,7 +3159,7 @@
       "Etude No. 4",
       "Percussion"
     ],
-    "requires": "|Etude No. 4 Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Etude No. 4| AND |Percussion Instruments|",
     "sort-key": "c-407"
   },
   {
@@ -3169,7 +3169,7 @@
       "Ode to Joy",
       "Melody"
     ],
-    "requires": "|Ode to Joy Sheet Music| AND |Melody Instruments|",
+    "requires": "|Ode to Joy| AND |Melody Instruments|",
     "sort-key": "c-409"
   },
   {
@@ -3179,7 +3179,7 @@
       "Ode to Joy",
       "Wind"
     ],
-    "requires": "|Ode to Joy Sheet Music| AND |Wind Instruments|",
+    "requires": "|Ode to Joy| AND |Wind Instruments|",
     "sort-key": "c-411"
   },
   {
@@ -3189,7 +3189,7 @@
       "Ode to Joy",
       "Bass"
     ],
-    "requires": "|Ode to Joy Sheet Music| AND |Bass Instruments|",
+    "requires": "|Ode to Joy| AND |Bass Instruments|",
     "sort-key": "c-413"
   },
   {
@@ -3199,7 +3199,7 @@
       "Ode to Joy",
       "Percussion"
     ],
-    "requires": "|Ode to Joy Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Ode to Joy| AND |Percussion Instruments|",
     "sort-key": "c-415"
   },
   {
@@ -3209,7 +3209,7 @@
       "Happy Birthday to You",
       "Melody"
     ],
-    "requires": "|Happy Birthday to You Sheet Music| AND |Melody Instruments|",
+    "requires": "|Happy Birthday to You| AND |Melody Instruments|",
     "sort-key": "c-417"
   },
   {
@@ -3219,7 +3219,7 @@
       "Happy Birthday to You",
       "Wind"
     ],
-    "requires": "|Happy Birthday to You Sheet Music| AND |Wind Instruments|",
+    "requires": "|Happy Birthday to You| AND |Wind Instruments|",
     "sort-key": "c-419"
   },
   {
@@ -3229,7 +3229,7 @@
       "Happy Birthday to You",
       "Bass"
     ],
-    "requires": "|Happy Birthday to You Sheet Music| AND |Bass Instruments|",
+    "requires": "|Happy Birthday to You| AND |Bass Instruments|",
     "sort-key": "c-421"
   },
   {
@@ -3239,7 +3239,7 @@
       "Happy Birthday to You",
       "Percussion"
     ],
-    "requires": "|Happy Birthday to You Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Happy Birthday to You| AND |Percussion Instruments|",
     "sort-key": "c-423"
   },
   {
@@ -3249,7 +3249,7 @@
       "Days of Love",
       "Melody"
     ],
-    "requires": "|Days of Love Sheet Music| AND |Melody Instruments|",
+    "requires": "|Days of Love| AND |Melody Instruments|",
     "sort-key": "c-425"
   },
   {
@@ -3259,7 +3259,7 @@
       "Days of Love",
       "Wind"
     ],
-    "requires": "|Days of Love Sheet Music| AND |Wind Instruments|",
+    "requires": "|Days of Love| AND |Wind Instruments|",
     "sort-key": "c-427"
   },
   {
@@ -3269,7 +3269,7 @@
       "Days of Love",
       "Bass"
     ],
-    "requires": "|Days of Love Sheet Music| AND |Bass Instruments|",
+    "requires": "|Days of Love| AND |Bass Instruments|",
     "sort-key": "c-429"
   },
   {
@@ -3279,7 +3279,7 @@
       "Days of Love",
       "Percussion"
     ],
-    "requires": "|Days of Love Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Days of Love| AND |Percussion Instruments|",
     "sort-key": "c-431"
   },
   {
@@ -3289,7 +3289,7 @@
       "Dragon Dance",
       "Melody"
     ],
-    "requires": "|Dragon Dance Sheet Music| AND |Melody Instruments|",
+    "requires": "|Dragon Dance| AND |Melody Instruments|",
     "sort-key": "c-433"
   },
   {
@@ -3299,7 +3299,7 @@
       "Dragon Dance",
       "Wind"
     ],
-    "requires": "|Dragon Dance Sheet Music| AND |Wind Instruments|",
+    "requires": "|Dragon Dance| AND |Wind Instruments|",
     "sort-key": "c-435"
   },
   {
@@ -3309,7 +3309,7 @@
       "Dragon Dance",
       "Bass"
     ],
-    "requires": "|Dragon Dance Sheet Music| AND |Bass Instruments|",
+    "requires": "|Dragon Dance| AND |Bass Instruments|",
     "sort-key": "c-437"
   },
   {
@@ -3319,7 +3319,7 @@
       "Dragon Dance",
       "Percussion"
     ],
-    "requires": "|Dragon Dance Sheet Music| AND |Percussion Instruments|",
+    "requires": "|Dragon Dance| AND |Percussion Instruments|",
     "sort-key": "c-439"
   },
   {

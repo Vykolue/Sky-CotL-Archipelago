@@ -1,6 +1,6 @@
 # Gameplay
 You can play Sky: Children of the Light on any device<br />
-This guide is intended to expain the gameplay for version 0.3.0 of the apworld, and may not apply to other versions
+This guide is intended to expain the gameplay for version 0.4.0 of the apworld, and may not apply to other versions
 
 Be aware that hard mode includes some incredibly difficult and/or unintuitive skips in the logic
 
@@ -52,6 +52,9 @@ Locked based on YAML settings without having received the item:
     - butterfly
     - angry
 - instruments and sheet music `(off if sheet music sanity is off)`
+
+Note: these item categories may appear in the Manual Client even when they are toggled off<br />
+If you toggled the setting off, you can ignore the corresponding item category
 
 Forbidden if used to gain a significant advantage:
 - piggy rocket
