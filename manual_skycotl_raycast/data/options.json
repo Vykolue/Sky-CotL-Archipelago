@@ -53,22 +53,12 @@
         },
         "emote_locks": {
             "description": [
-                "Require Rescue Spirit items to use Regular Spirit Emotes",
+                "Require Rescue Spirit items to use emotes that affect the logic of the game",
                 "",
-                "Some checks are locked behind having a certain emote"
+                "These include the butterfly and angry emotes"
             ],
             "type": "Toggle",
             "default": true,
-            "group": "Locks"
-        },
-        "seasonal_emote_locks": {
-            "description": [
-                "Require Rescue Seasonal Spirit items to use Seasonal Emotes",
-                "",
-                "These are considered filler items and may be left out of the game"
-            ],
-            "type": "Toggle",
-            "default": false,
             "group": "Locks"
         },
         "cosmetic_locks": {
@@ -181,6 +171,9 @@
             "group": "Traps"
         },
         
+        "enabled_music_sheets": {
+            "group": "Sheet Music Sanity"
+        },
         "include_melody": {
             "description": [
                 "Play the melody part of music sheets to earn checks",

@@ -1,6 +1,6 @@
 # Gameplay
 You can play Sky: Children of the Light on any device<br />
-This guide is intended to expain the gameplay for version 0.4.0 of the apworld, and may not apply to other versions
+This guide is intended to expain the gameplay for version 0.4.1 of the apworld, and may not apply to other versions
 
 Be aware that hard mode includes some incredibly difficult and/or unintuitive skips in the logic
 
@@ -12,8 +12,17 @@ Don't send checks you didn't earn
 Don't use items that haven't been unlocked<br />
 See below for a list of locked items
 
-You shouldn't have a friend drag you through a locked Spirit Gate
+You shouldn't have a friend drag you somewhere you can't get on your own
 
+## Game Modes
+There are currently 2 game modes: Winged Light Run, and Sheet Music Sanity<br />
+Each game mode has corresponding locations and a win condition<br />
+These are made to be played independently or combined into one game however you like<br />
+If you choose multiple, you can win by meeting any included game mode's win condition
+
+Don't toggle every game mode off
+
+## Winged Light Sanity
 "Find Children of Light" means that you must be close enough to collect it, but you aren't required to actually collect it<br />
 (if you already have it, or prefer not to)
 
@@ -27,17 +36,16 @@ If you don't know how many you have, it is best to undershoot or default to 1<br
 If you undershoot, locations may be considered out-of-logic when they are actually accessible<br />
 If you overshoot, locations may be considered in-logic when they are inaccessible
 
-## Game Modes
-There are currently 2 game modes: Winged Light Run, and Sheet Music Sanity<br />
-Each game mode has corresponding locations and a win condition<br />
-These are made to be played independently or combined into one game however you like<br />
-If you choose multiple, you can win by meeting any included game mode's win condition
+## Sheet Music Sanity
+Play the music sheet on the specified instrument to earn checks<br />
+You can decide on how accurately you need to play each piece to earn the check for it, 
+or you can earn the check simply by completing it
+
+You can use the instrument and music sheet provided in the Daily Music Challenge even if you haven't received the corresponding item(s)
 
 You may run into errors if you do not include enough music sheets or instrument types in standalone Sheet Music Sanity
 
-Don't toggle every game mode off
-
-## Which items are locked?
+## Locked Items
 Always locked without having received the item:
 - realms
 - the Wandering Carnival area
@@ -150,7 +158,7 @@ In the future, I intend to place this item in a "goal" song
 
 If playing with multiple game modes, any of the applicable win conditions unlock the "Goal Completed" location
 
-## How does Death Link work?
+## Death Link
 Death Link is an option you can enable in your YAML `(off by default)`<br />
 When enabled, if you or anyone else with Death Link enabled dies in their game, 
 every other player with Death Link will also die
