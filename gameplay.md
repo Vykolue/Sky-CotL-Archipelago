@@ -154,7 +154,8 @@ To enter the Gate of Eden, you need to obtain at least 20 "Winged Light" items<b
 Winged Light items have no other affect on the game, and you are free to use more than what you received in the Eye of Eden
 
 In the Sheet Music Sanity mode, the current win condition is to obtain the "Music Goal Key" macguffin item<br />
-In the future, I intend to place this item in a "goal" song
+In the future, I intend to place this item in a "goal" song<br />
+For now, you can use [Plando](https://archipelago.gg/tutorial/Archipelago/plando_en) to place the item in one of your songs if you'd rather it not be in a random location
 
 If playing with multiple game modes, any of the applicable win conditions unlock the "Goal Completed" location
 
@@ -163,7 +164,7 @@ Death Link is an option you can enable in your YAML `(off by default)`<br />
 When enabled, if you or anyone else with Death Link enabled dies in their game, 
 every other player with Death Link will also die
 
-You do not have to send a Death Link for every scenerio I listed. 
+You do not have to send a Death Link for every scenario I listed. 
 Do whatever makes the most sense to you
 
 You can send a Death Link when:
