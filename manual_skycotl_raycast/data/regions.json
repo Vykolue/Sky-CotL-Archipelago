@@ -109,7 +109,7 @@
       "Trials"
     ],
     "connects_to": [],
-    "requires": "|Isle of Dawn Unlock| AND ((|@Wedges:5| AND |@Wedge Capacity:5|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)}) OR |Cave of Prophecies Updrafts|)"
+    "requires": "|Isle of Dawn Unlock| AND |@Trial of Air Entrance Methods:1|"
   },
   "Trial of Fire": {
     "category": [

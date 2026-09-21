@@ -1,5 +1,5 @@
 CHANGES:
 
-Removed an option that no longer does anything
+split winged light events into individual events for each method
 
-Added more info about how sheet music sanity works
+added categories for various skip difficulties

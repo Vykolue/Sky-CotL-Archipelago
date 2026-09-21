@@ -1,8 +1,6 @@
 # Gameplay
 You can play Sky: Children of the Light on any device<br />
-This guide is intended to expain the gameplay for version 0.4.1 of the apworld, and may not apply to other versions
-
-Be aware that hard mode includes some incredibly difficult and/or unintuitive skips in the logic
+This guide is intended to expain the gameplay for version 0.5.0 of the apworld, and may not apply to other versions
 
 See the [Setup Guide](https://github.com/Vykolue/Sky-CotL-Archipelago/blob/main/README.md) for more information on how to set up the game and prerequisites
 
@@ -102,6 +100,11 @@ Always available to use:
 I intend to add logic for some of these in a future update<br />
 If you use any forbidden items or have hard mode off, 
 you may to be able to get some things out-of-logic
+
+## Skips
+For the most part, something is considered a skip if it is neither intended nor obvious
+Skips never require forbidden items and are categorized based on how difficult they are to execute
+If you get stuck, [this playlist](https://www.youtube.com/playlist?list=PLUFegD_D8fTM) shows how to do most skips
 
 ## How does ___ item/lock work?
 Shortcut locks will lock the following areas' shortcuts from being used without the shortcut item:

@@ -1,12 +1,31 @@
 [
   {
+    "name": "Aviary WL 1 without skip",
+    "category": [
+      "Aviary Village",
+      "Aviary WL 1 Methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Wandering Carnival"
+  },
+  {
+    "name": "Aviary WL 1 gliding skip",
+    "category": [
+      "Aviary Village",
+      "Aviary WL 1 Methods",
+      "Medium Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Wandering Carnival"
+  },
+  {
     "name": "Aviary Child of Light #1",
     "category": [
       "Aviary Village",
       "Actual WL",
       "Wandering Carnival Children of Light"
     ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Aviary WL 1 Methods:1|",
     "region": "Wandering Carnival"
   },
   {
@@ -30,14 +49,62 @@
     "region": "Passage Rock"
   },
   {
+    "name": "Isle WL 2 without skip",
+    "category": [
+      "Isle of Dawn",
+      "Isle WL 2 Methods"
+    ],
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
+    "region": "Passage Rock"
+  },
+  {
+    "name": "Isle WL 2 wind wall skip",
+    "category": [
+      "Isle of Dawn",
+      "Isle WL 2 Methods",
+      "Hard Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Passage Rock"
+  },
+  {
     "name": "Isle Child of Light #2",
     "category": [
       "Isle of Dawn",
       "Actual WL",
       "Passage Rock Children of Light"
     ],
-    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Isle WL 2 Methods:1|",
     "region": "Passage Rock"
+  },
+  {
+    "name": "Isle WL 3 without skip",
+    "category": [
+      "Isle of Dawn",
+      "Isle WL 3 Methods"
+    ],
+    "requires": "|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
+    "region": "Dawn Circle"
+  },
+  {
+    "name": "Isle WL 3 wedge skip",
+    "category": [
+      "Isle of Dawn",
+      "Isle WL 3 Methods",
+      "Trivial Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Dawn Circle"
+  },
+  {
+    "name": "Isle WL 3 climbing skip",
+    "category": [
+      "Isle of Dawn",
+      "Isle WL 3 Methods",
+      "Medium Skips"
+    ],
+    "requires": "",
+    "region": "Dawn Circle"
   },
   {
     "name": "Isle Child of Light #3",
@@ -46,7 +113,7 @@
       "Actual WL",
       "Dawn Circle Children of Light"
     ],
-    "requires": "(|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Isle WL 3 Methods:1|",
     "region": "Dawn Circle"
   },
   {
@@ -70,13 +137,32 @@
     "region": "Dawn Circle"
   },
   {
+    "name": "Isle WL 5 without skip",
+    "category": [
+      "Isle of Dawn",
+      "Isle WL 5 Methods"
+    ],
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
+    "region": "Dawn Overlook"
+  },
+  {
+    "name": "Isle WL 5 with skip",
+    "category": [
+      "Isle of Dawn",
+      "Isle WL 5 Methods",
+      "Medium Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Dawn Overlook"
+  },
+  {
     "name": "Isle Child of Light #5",
     "category": [
       "Isle of Dawn",
       "Actual WL",
       "Dawn Overlook Children of Light"
     ],
-    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Isle WL 5 Methods:1|",
     "region": "Dawn Overlook"
   },
   {
@@ -150,7 +236,7 @@
       "Actual WL",
       "Butterfly Fields Children of Light"
     ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
+    "requires": "",
     "region": "Butterfly Fields"
   },
   {
@@ -184,14 +270,52 @@
     "region": "Prairie Village"
   },
   {
+    "name": "Prairie WL 7 without skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 7 Methods"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Prairie Heights"
+  },
+  {
+    "name": "Prairie WL 7 with skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 7 Methods",
+      "Hard Skips"
+    ],
+    "requires": "",
+    "region": "Prairie Heights"
+  },
+  {
     "name": "Prairie Child of Light #7",
     "category": [
       "Daylight Prairie",
       "Actual WL",
       "Prairie Heights Children of Light"
     ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Prairie WL 7 Methods:1|",
     "region": "Prairie Heights"
+  },
+  {
+    "name": "Prairie WL 8 without skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 8 Methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Temple of the Prairie"
+  },
+  {
+    "name": "Prairie WL 8 with skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 8 Methods",
+      "Trivial Skips"
+    ],
+    "requires": "",
+    "region": "Temple of the Prairie"
   },
   {
     "name": "Prairie Child of Light #8",
@@ -200,7 +324,26 @@
       "Actual WL",
       "Temple of the Prairie Children of Light"
     ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Prairie WL 8 Methods:1|",
+    "region": "Temple of the Prairie"
+  },
+  {
+    "name": "Prairie WL 9 without skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 9 Methods"
+    ],
+    "requires": "|@Wedges:8| AND |@Wedge Capacity:8|",
+    "region": "Temple of the Prairie"
+  },
+  {
+    "name": "Prairie WL 9 wind wall skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 9 Methods",
+      "Expert Skips"
+    ],
+    "requires": "",
     "region": "Temple of the Prairie"
   },
   {
@@ -210,8 +353,27 @@
       "Actual WL",
       "Temple of the Prairie Children of Light"
     ],
-    "requires": "(|@Wedges:8| AND |@Wedge Capacity:8|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Prairie WL 9 Methods:1|",
     "region": "Temple of the Prairie"
+  },
+  {
+    "name": "Prairie WL 10 without skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 10 Methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Prairie Cave"
+  },
+  {
+    "name": "Prairie WL 10 with skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 10 Methods",
+      "Hard Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Prairie Cave"
   },
   {
     "name": "Prairie Child of Light #10",
@@ -220,7 +382,26 @@
       "Actual WL",
       "Prairie Cave Children of Light"
     ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Prairie WL 10 Methods:1|",
+    "region": "Prairie Cave"
+  },
+  {
+    "name": "Prairie WL 11 without skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 11 Methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Prairie Cave"
+  },
+  {
+    "name": "Prairie WL 11 with skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 11 Methods",
+      "Trivial Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Prairie Cave"
   },
   {
@@ -230,8 +411,27 @@
       "Actual WL",
       "Prairie Cave Children of Light"
     ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Prairie WL 11 Methods:1|",
     "region": "Prairie Cave"
+  },
+  {
+    "name": "Prairie WL 12 without skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 12 Methods"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Bird Nest"
+  },
+  {
+    "name": "Prairie WL 12 0 wedge skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 12 Methods",
+      "Easy Skips"
+    ],
+    "requires": "",
+    "region": "Bird Nest"
   },
   {
     "name": "Prairie Child of Light #12",
@@ -240,7 +440,7 @@
       "Actual WL",
       "Bird Nest Children of Light"
     ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Prairie WL 12 Methods:1|",
     "region": "Bird Nest"
   },
   {
@@ -344,13 +544,51 @@
     "region": "Prairie Peaks"
   },
   {
+    "name": "Prairie WL 23 without skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 23 Methods"
+    ],
+    "requires": "|@Wedges:7| AND |@Wedge Capacity:7|",
+    "region": "Prairie Peaks"
+  },
+  {
+    "name": "Prairie WL 23 with skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 23 Methods",
+      "Expert Skips"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Prairie Peaks"
+  },
+  {
     "name": "Prairie Child of Light #23",
     "category": [
       "Daylight Prairie",
       "Actual WL",
       "Prairie Peaks Children of Light"
     ],
-    "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Prairie WL 23 Methods:1|",
+    "region": "Prairie Peaks"
+  },
+  {
+    "name": "Prairie WL 24 without skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 24 Methods"
+    ],
+    "requires": "|@Wedges:8| AND |@Wedge Capacity:8|",
+    "region": "Prairie Peaks"
+  },
+  {
+    "name": "Prairie WL 24 with skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 24 Methods",
+      "Expert Skips"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Prairie Peaks"
   },
   {
@@ -360,8 +598,26 @@
       "Actual WL",
       "Prairie Peaks Children of Light"
     ],
-    "requires": "(|@Wedges:8| AND |@Wedge Capacity:8|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Prairie WL 24 Methods:1|",
     "region": "Prairie Peaks"
+  },
+  {
+    "name": "Forest WL 1 without skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 1 Methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Forest Courtyard"
+  },
+  {
+    "name": "Forest WL 1 with skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 1 Methods"
+    ],
+    "requires": "Medium Skips",
+    "region": "Forest Courtyard"
   },
   {
     "name": "Forest Child of Light #1",
@@ -370,7 +626,7 @@
       "Actual WL",
       "Forest Courtyard Children of Light"
     ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Forest WL 1 Methods:1|",
     "region": "Forest Courtyard"
   },
   {
@@ -384,13 +640,51 @@
     "region": "Forest Courtyard"
   },
   {
+    "name": "Forest WL 3 without skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 3 Methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Forest Brook"
+  },
+  {
+    "name": "Forest WL 3 with skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 3 Methods",
+      "Easy Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Forest Brook"
+  },
+  {
     "name": "Forest Child of Light #3",
     "category": [
       "Hidden Forest",
       "Actual WL",
       "Forest Brook Children of Light"
     ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Forest WL 3 Methods:1|",
+    "region": "Forest Brook"
+  },
+  {
+    "name": "Forest WL 4 without skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 4 Methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Forest Brook"
+  },
+  {
+    "name": "Forest WL 4 with skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 4 Methods",
+      "Easy Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Forest Brook"
   },
   {
@@ -400,7 +694,26 @@
       "Actual WL",
       "Forest Brook Children of Light"
     ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Forest WL 4 Methods:1|",
+    "region": "Forest Brook"
+  },
+  {
+    "name": "Forest WL 5 without skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 5 Methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Forest Brook"
+  },
+  {
+    "name": "Forest WL 5 with skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 5 Methods",
+      "Medium Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Forest Brook"
   },
   {
@@ -410,7 +723,7 @@
       "Actual WL",
       "Forest Brook Children of Light"
     ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Forest WL 5 Methods:1|",
     "region": "Forest Brook"
   },
   {
@@ -424,13 +737,61 @@
     "region": "Forest Brook"
   },
   {
+    "name": "Forest WL 7 without skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 7 Methods"
+    ],
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
+    "region": "Boneyard"
+  },
+  {
+    "name": "Forest WL 7 with skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 7 Methods",
+      "Trivial Skips"
+    ],
+    "requires": "",
+    "region": "Boneyard"
+  },
+  {
     "name": "Forest Child of Light #7",
     "category": [
       "Hidden Forest",
       "Actual WL",
       "Boneyard Children of Light"
     ],
-    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Forest WL 7 Methods:1|",
+    "region": "Boneyard"
+  },
+  {
+    "name": "Forest WL 8 without skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 8 Methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2| AND (|@Regular Forest Spirit:4| OR {YamlDisabled(spirit_gate_locks)})",
+    "region": "Boneyard"
+  },
+  {
+    "name": "Forest WL 8 spirit gate skip only",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 8 Methods",
+      "Trivial Skips"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Boneyard"
+  },
+  {
+    "name": "Forest WL 8 both skips",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 8 Methods",
+      "Hard Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Boneyard"
   },
   {
@@ -440,7 +801,7 @@
       "Actual WL",
       "Boneyard Children of Light"
     ],
-    "requires": "((|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})) AND (|@Regular Forest Spirit:4| OR {YamlDisabled(spirit_gate_locks)})",
+    "requires": "|@Forest WL 8 Methods:1|",
     "region": "Boneyard"
   },
   {
@@ -464,13 +825,32 @@
     "region": "Elevated Clearing"
   },
   {
+    "name": "Forest WL 11 without skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 11 Methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Elevated Clearing"
+  },
+  {
+    "name": "Forest WL 11 with skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 11 Methods",
+      "Easy Skips"
+    ],
+    "requires": "",
+    "region": "Elevated Clearing"
+  },
+  {
     "name": "Forest Child of Light #11",
     "category": [
       "Hidden Forest",
       "Actual WL",
       "Elevated Clearing Children of Light"
     ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Forest WL 11 Methods:1|",
     "region": "Elevated Clearing"
   },
   {
@@ -484,13 +864,51 @@
     "region": "Blue Bird Theater"
   },
   {
+    "name": "Forest WL 13 without skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 13 Methods"
+    ],
+    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Forest WL 13 with skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 13 Methods",
+      "Hard Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Forest Cavern"
+  },
+  {
     "name": "Forest Child of Light #13",
     "category": [
       "Hidden Forest",
       "Actual WL",
       "Forest Cavern Children of Light"
     ],
-    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Forest WL 13 Methods:1|",
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Forest WL 14 without skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 14 Methods"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Forest WL 14 with skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 14 Methods",
+      "Medium Skips"
+    ],
+    "requires": "",
     "region": "Forest Cavern"
   },
   {
@@ -500,7 +918,26 @@
       "Actual WL",
       "Forest Cavern Children of Light"
     ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Forest WL 14 Methods:1|",
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Forest WL 15 without skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 15 Methods"
+    ],
+    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Forest WL 15 with skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 15 Methods",
+      "Medium Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Forest Cavern"
   },
   {
@@ -510,7 +947,7 @@
       "Actual WL",
       "Forest Cavern Children of Light"
     ],
-    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Forest WL 15 Methods:1|",
     "region": "Forest Cavern"
   },
   {
@@ -544,13 +981,32 @@
     "region": "The Treehouse"
   },
   {
+    "name": "Forest WL 19 without skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 19 Methods"
+    ],
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
+    "region": "The Treehouse"
+  },
+  {
+    "name": "Forest WL 19 with skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 19 Methods",
+      "Easy Skips"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "The Treehouse"
+  },
+  {
     "name": "Forest Child of Light #19",
     "category": [
       "Hidden Forest",
       "Actual WL",
       "The Treehouse Children of Light"
     ],
-    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Forest WL 19 Methods:1|",
     "region": "The Treehouse"
   },
   {
@@ -565,13 +1021,32 @@
     "region": "The Wind Paths"
   },
   {
+    "name": "Forest WL 21 without skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 21 Methods"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "The Wind Paths"
+  },
+  {
+    "name": "Forest WL 21 with skip",
+    "category": [
+      "Hidden Forest",
+      "Forest WL 21 Methods",
+      "Expert Skips"
+    ],
+    "requires": "",
+    "region": "The Wind Paths"
+  },
+  {
     "name": "Forest Child of Light #21",
     "category": [
       "Hidden Forest",
       "Actual WL",
       "The Wind Paths Children of Light"
     ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Forest WL 21 Methods:1|",
     "region": "The Wind Paths"
   },
   {
@@ -671,13 +1146,60 @@
     "region": "Temple of the Valley"
   },
   {
+    "name": "Valley WL 10 without skip",
+    "category": [
+      "Valley of Triumph",
+      "Valley WL 10 Methods"
+    ],
+    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
+    "region": "Temple of the Valley"
+  },
+  {
+    "name": "Valley WL 10 with skip",
+    "category": [
+      "Valley of Triumph",
+      "Valley WL 10 Methods",
+      "Hard Skips"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Temple of the Valley"
+  },
+  {
     "name": "Valley Child of Light #10",
     "category": [
       "Valley of Triumph",
       "Actual WL",
       "Temple of the Valley Children of Light"
     ],
-    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Valley WL 10 Methods:1|",
+    "region": "Temple of the Valley"
+  },
+  {
+    "name": "Valley WL 11 spirit method",
+    "category": [
+      "Valley of Triumph",
+      "Valley WL 11 Methods"
+    ],
+    "requires": "|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
+    "region": "Temple of the Valley"
+  },
+  {
+    "name": "Valley WL 11 flying method",
+    "category": [
+      "Valley of Triumph",
+      "Valley WL 11 Methods"
+    ],
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
+    "region": "Temple of the Valley"
+  },
+  {
+    "name": "Valley WL 11 flying skip",
+    "category": [
+      "Valley of Triumph",
+      "Valley WL 11 Methods",
+      "Easy Skips"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Temple of the Valley"
   },
   {
@@ -687,7 +1209,7 @@
       "Actual WL",
       "Temple of the Valley Children of Light"
     ],
-    "requires": "(|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:3| AND |@Wedge Capacity:3|)",
+    "requires": "|@Valley WL 11 Methods:1|",
     "region": "Temple of the Valley"
   },
   {
@@ -701,13 +1223,61 @@
     "region": "Village of Dreams"
   },
   {
+    "name": "Valley WL 13 without skip",
+    "category": [
+      "Valley of Triumph",
+      "Valley WL 13 Methods"
+    ],
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
+    "region": "Village of Dreams"
+  },
+  {
+    "name": "Valley WL 13 with skip",
+    "category": [
+      "Valley of Triumph",
+      "Valley WL 13 Methods",
+      "Medium Skips"
+    ],
+    "requires": "",
+    "region": "Village of Dreams"
+  },
+  {
     "name": "Valley Child of Light #13",
     "category": [
       "Valley of Triumph",
       "Actual WL",
       "Village of Dreams Children of Light"
     ],
-    "requires": "(|@Wedges:3| AND |@Wedge Capacity:3|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Valley WL 13 Methods:1|",
+    "region": "Village of Dreams"
+  },
+  {
+    "name": "Valley WL 14 without skip",
+    "category": [
+      "Valley of Triumph",
+      "Valley WL 14 Methods"
+    ],
+    "requires": "|@Wedges:7| AND |@Wedge Capacity:7|",
+    "region": "Village of Dreams"
+  },
+  {
+    "name": "Valley WL 14 front side skip",
+    "category": [
+      "Valley of Triumph",
+      "Valley WL 14 Methods",
+      "Medium Skips"
+    ],
+    "requires": "|@Wedges:5| AND |@Wedge Capacity:5|",
+    "region": "Village of Dreams"
+  },
+  {
+    "name": "Valley WL 14 gliding skip",
+    "category": [
+      "Valley of Triumph",
+      "Valley WL 14 Methods",
+      "Expert Skips"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Village of Dreams"
   },
   {
@@ -717,7 +1287,7 @@
       "Actual WL",
       "Village of Dreams Children of Light"
     ],
-    "requires": "(|@Wedges:7| AND |@Wedge Capacity:7|) OR (|@Wedges:2| AND |@Wedge Capacity:2| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Valley WL 14 Methods:1|",
     "region": "Village of Dreams"
   },
   {
@@ -731,13 +1301,32 @@
     "region": "Hermit Valley"
   },
   {
+    "name": "Valley WL 16 without skip",
+    "category": [
+      "Valley of Triumph",
+      "Valley WL 16 methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Hermit Valley"
+  },
+  {
+    "name": "Valley WL 16 with skip",
+    "category": [
+      "Valley of Triumph",
+      "Valley WL 16 methods",
+      "Trivial Skips"
+    ],
+    "requires": "",
+    "region": "Hermit Valley"
+  },
+  {
     "name": "Valley Child of Light #16",
     "category": [
       "Valley of Triumph",
       "Actual WL",
       "Hermit Valley Children of Light"
     ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Valley WL 16 Methods:1|",
     "region": "Hermit Valley"
   },
   {
@@ -761,13 +1350,32 @@
     "region": "The Outer Bailey"
   },
   {
+    "name": "Wasteland WL 2 without skip",
+    "category": [
+      "Golden Wasteland",
+      "Wasteland WL 2 Methods"
+    ],
+    "requires": "|@Wedges:8| AND |@Wedge Capacity:8|",
+    "region": "The Outer Bailey"
+  },
+  {
+    "name": "Wasteland WL 2 with skip",
+    "category": [
+      "Golden Wasteland",
+      "Wasteland WL 2 Methods",
+      "Hard Skips"
+    ],
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
+    "region": "The Outer Bailey"
+  },
+  {
     "name": "Wasteland Child of Light #2",
     "category": [
       "Golden Wasteland",
       "Actual WL",
       "The Outer Bailey Children of Light"
     ],
-    "requires": "(|@Wedges:8| AND |@Wedge Capacity:8|) OR (|@Wedges:3| AND |@Wedge Capacity:3| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Wasteland WL 2 Methods:1|",
     "region": "The Outer Bailey"
   },
   {
@@ -791,13 +1399,51 @@
     "region": "The Graveyard"
   },
   {
+    "name": "Wasteland WL 5 without skip",
+    "category": [
+      "Golden Wasteland",
+      "Wasteland WL 5 Methods"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "The Graveyard"
+  },
+  {
+    "name": "Wasteland WL 5 with skip",
+    "category": [
+      "Golden Wasteland",
+      "Wasteland WL 5 Methods",
+      "Easy Skips"
+    ],
+    "requires": "",
+    "region": "The Graveyard"
+  },
+  {
     "name": "Wasteland Child of Light #5",
     "category": [
       "Golden Wasteland",
       "Actual WL",
       "The Graveyard Children of Light"
     ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Wasteland WL 5 Methods:1|",
+    "region": "The Graveyard"
+  },
+  {
+    "name": "Wasteland WL 6 without skip",
+    "category": [
+      "Golden Wasteland",
+      "Wasteland WL 6 Methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "The Graveyard"
+  },
+  {
+    "name": "Wasteland WL 6 with skip",
+    "category": [
+      "Golden Wasteland",
+      "Wasteland WL 6 Methods",
+      "Easy Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "The Graveyard"
   },
   {
@@ -807,7 +1453,7 @@
       "Actual WL",
       "The Graveyard Children of Light"
     ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Wasteland WL 6 Methods:1|",
     "region": "The Graveyard"
   },
   {
@@ -841,13 +1487,32 @@
     "region": "Crab Fields"
   },
   {
+    "name": "Wasteland WL 10 without skip",
+    "category": [
+      "Golden Wasteland",
+      "Wasteland WL 10 Methods"
+    ],
+    "requires": "|@Wedges:8| AND |@Wedge Capacity:8|",
+    "region": "Crab Fields"
+  },
+  {
+    "name": "Wasteland WL 10 with skip",
+    "category": [
+      "Golden Wasteland",
+      "Wasteland WL 10 Methods",
+      "Hard Skips"
+    ],
+    "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
+    "region": "Crab Fields"
+  },
+  {
     "name": "Wasteland Child of Light #10",
     "category": [
       "Golden Wasteland",
       "Actual WL",
       "Crab Fields Children of Light"
     ],
-    "requires": "(|@Wedges:8| AND |@Wedge Capacity:8|) OR (|@Wedges:3| AND |@Wedge Capacity:3| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Wasteland WL 10 Methods:1|",
     "region": "Crab Fields"
   },
   {
@@ -891,13 +1556,32 @@
     "region": "Temple of the Wasteland"
   },
   {
+    "name": "Wasteland WL 15 without skip",
+    "category": [
+      "Golden Wasteland",
+      "Wasteland WL 15 Methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Forgotten Ark"
+  },
+  {
+    "name": "Wasteland WL 15 with skip",
+    "category": [
+      "Golden Wasteland",
+      "Wasteland WL 15 Methods",
+      "Medium Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Forgotten Ark"
+  },
+  {
     "name": "Wasteland Child of Light #15",
     "category": [
       "Golden Wasteland",
       "Actual WL",
       "Forgotten Ark Children of Light"
     ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Wasteland WL 15 Methods:1|",
     "region": "Forgotten Ark"
   },
   {
@@ -911,13 +1595,32 @@
     "region": "Forgotten Ark"
   },
   {
+    "name": "Wasteland WL 17 without skip",
+    "category": [
+      "Golden Wasteland",
+      "Wasteland WL 17 Methods"
+    ],
+    "requires": "|@Wedges:6| AND |@Wedge Capacity:6|",
+    "region": "Treasure Reef"
+  },
+  {
+    "name": "Wasteland WL 17 with skip",
+    "category": [
+      "Golden Wasteland",
+      "Wasteland WL 17 Methods",
+      "Hard Skips"
+    ],
+    "requires": "|@Wedges:5| AND |@Wedge Capacity:5|",
+    "region": "Treasure Reef"
+  },
+  {
     "name": "Wasteland Child of Light #17",
     "category": [
       "Golden Wasteland",
       "Actual WL",
       "Treasure Reef Children of Light"
     ],
-    "requires": "(|@Wedges:6| AND |@Wedge Capacity:6|) OR (|@Wedges:5| AND |@Wedge Capacity:5| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Wasteland WL 17 Methods:1|",
     "region": "Treasure Reef"
   },
   {
@@ -941,13 +1644,32 @@
     "region": "Vault Rest"
   },
   {
+    "name": "Vault WL 2 without skip",
+    "category": [
+      "Vault of Knowledge",
+      "Vault WL 2 Methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Lower Vault"
+  },
+  {
+    "name": "Vault WL 2 relive spirit skip",
+    "category": [
+      "Vault of Knowledge",
+      "Vault WL 2 Methods",
+      "Medium Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Lower Vault"
+  },
+  {
     "name": "Vault Child of Light #2",
     "category": [
       "Vault of Knowledge",
       "Actual WL",
       "Lower Vault Children of Light"
     ],
-    "requires": "(|@Wedges:2| AND |@Wedge Capacity:2|) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Vault WL 2 Methods:1|",
     "region": "Lower Vault"
   },
   {
@@ -1011,13 +1733,51 @@
     "region": "Vault Archive"
   },
   {
+    "name": "Vault WL 9 without skip",
+    "category": [
+      "Vault of Knowledge",
+      "Vault WL 9 Methods"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Starlight Desert"
+  },
+  {
+    "name": "Vault WL 9 with skip",
+    "category": [
+      "Vault of Knowledge",
+      "Vault WL 9 Methods",
+      "Medium Skips"
+    ],
+    "requires": "",
+    "region": "Starlight Desert"
+  },
+  {
     "name": "Vault Child of Light #9",
     "category": [
       "Vault of Knowledge",
       "Actual WL",
       "Starlight Desert Children of Light"
     ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Vault WL 9 Methods:1|",
+    "region": "Starlight Desert"
+  },
+  {
+    "name": "Vault WL 10 without skip",
+    "category": [
+      "Vault of Knowledge",
+      "Vault WL 10 Methods"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Starlight Desert"
+  },
+  {
+    "name": "Vault WL 10 with skip",
+    "category": [
+      "Vault of Knowledge",
+      "Vault WL 10 Methods",
+      "Medium Skips"
+    ],
+    "requires": "",
     "region": "Starlight Desert"
   },
   {
@@ -1027,7 +1787,7 @@
       "Actual WL",
       "Starlight Desert Children of Light"
     ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Vault WL 10 Methods:1|",
     "region": "Starlight Desert"
   },
   {
@@ -1041,13 +1801,32 @@
     "region": "Starlight Desert"
   },
   {
+    "name": "Vault WL 12 without skip",
+    "category": [
+      "Vault of Knowledge",
+      "Vault WL 12 Methods"
+    ],
+    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
+    "region": "Repository of Refuge"
+  },
+  {
+    "name": "Vault WL 12 with skip",
+    "category": [
+      "Vault of Knowledge",
+      "Vault WL 12 Methods",
+      "Medium Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Repository of Refuge"
+  },
+  {
     "name": "Vault Child of Light #12",
     "category": [
       "Vault of Knowledge",
       "Actual WL",
       "Repository of Refuge Children of Light"
     ],
-    "requires": "(|@Wedges:4| AND |@Wedge Capacity:4|) OR (|@Wedges:3| AND |@Wedge Capacity:3| AND {YamlEnabled(hard_mode)})",
+    "requires": "|@Vault WL 12 Methods:1|",
     "region": "Repository of Refuge"
   },
   {
@@ -1061,13 +1840,32 @@
     "region": "Crescent Oasis"
   },
   {
+    "name": "Vault WL 14 without skip",
+    "category": [
+      "Vault of Knowledge",
+      "Vault WL 14 Methods"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Crescent Oasis"
+  },
+  {
+    "name": "Vault WL 14 with skip",
+    "category": [
+      "Vault of Knowledge",
+      "Vault WL 14 Methods",
+      "Easy Skips"
+    ],
+    "requires": "",
+    "region": "Crescent Oasis"
+  },
+  {
     "name": "Vault Child of Light #14",
     "category": [
       "Vault of Knowledge",
       "Actual WL",
       "Crescent Oasis Children of Light"
     ],
-    "requires": "(|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)}",
+    "requires": "|@Vault WL 14 Methods:1|",
     "region": "Crescent Oasis"
   },
   {
@@ -1089,6 +1887,33 @@
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Moominvalley"
+  },
+  {
+    "name": "Trial of Air entrance without skip",
+    "category": [
+      "Isle of Dawn",
+      "Trial of Air Entrance Methods"
+    ],
+    "requires": "|@Wedges:5| AND |@Wedge Capacity:5|",
+    "region": "Cave of Prophecies"
+  },
+  {
+    "name": "Trial of Air entrance flying skip",
+    "category": [
+      "Isle of Dawn",
+      "Trial of Air Entrance Methods"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Cave of Prophecies"
+  },
+  {
+    "name": "Trial of Air entrance updrafts skip",
+    "category": [
+      "Isle of Dawn",
+      "Trial of Air Entrance Methods"
+    ],
+    "requires": "|Cave of Prophecies Updrafts|",
+    "region": "Cave of Prophecies"
   },
   {
     "name": "Wing Level 1",
