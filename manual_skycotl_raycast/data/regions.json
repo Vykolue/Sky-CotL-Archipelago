@@ -71,7 +71,7 @@
       "Dawn Overlook",
       "Temple of the Isle End"
     ],
-    "requires": "|Isle of Dawn Unlock| AND ((|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)})"
+    "requires": "|Isle of Dawn Unlock| AND |@Isle Ramp Methods:1|"
   },
   "Dawn Overlook": {
     "connects_to": [
@@ -254,7 +254,7 @@
     "connects_to": [
       "Sacred Pond"
     ],
-    "requires": "|Hidden Forest Unlock| AND ((|@Wedges:1| AND |@Wedge Capacity:1|) OR {YamlEnabled(hard_mode)})"
+    "requires": "|Hidden Forest Unlock| AND |@Jelly Bridge Methods:1|"
   },
   "Sacred Pond": {
     "connects_to": [
@@ -380,7 +380,7 @@
       "The Battlefield",
       "The Graveyard"
     ],
-    "requires": "|Golden Wasteland Unlock| AND ((|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}) OR (|@Wedges:1| AND |@Wedge Capacity:1| AND {YamlEnabled(hard_mode)}))"
+    "requires": "|Golden Wasteland Unlock| AND |@Crab Fields Entrance Methods:1|"
   },
   "Forgotten Ark": {
     "connects_to": [

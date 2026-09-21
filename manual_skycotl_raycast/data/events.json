@@ -78,42 +78,13 @@
     "region": "Passage Rock"
   },
   {
-    "name": "Isle WL 3 without skip",
-    "category": [
-      "Isle of Dawn",
-      "Isle WL 3 Methods"
-    ],
-    "requires": "|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
-    "region": "Dawn Circle"
-  },
-  {
-    "name": "Isle WL 3 wedge skip",
-    "category": [
-      "Isle of Dawn",
-      "Isle WL 3 Methods",
-      "Trivial Skips"
-    ],
-    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
-    "region": "Dawn Circle"
-  },
-  {
-    "name": "Isle WL 3 climbing skip",
-    "category": [
-      "Isle of Dawn",
-      "Isle WL 3 Methods",
-      "Medium Skips"
-    ],
-    "requires": "",
-    "region": "Dawn Circle"
-  },
-  {
     "name": "Isle Child of Light #3",
     "category": [
       "Isle of Dawn",
       "Actual WL",
       "Dawn Circle Children of Light"
     ],
-    "requires": "|@Isle WL 3 Methods:1|",
+    "requires": "|@Isle Ramp Methods:1|",
     "region": "Dawn Circle"
   },
   {
@@ -1889,6 +1860,35 @@
     "region": "Moominvalley"
   },
   {
+    "name": "Isle Ramp without skip",
+    "category": [
+      "Isle of Dawn",
+      "Isle Ramp Methods"
+    ],
+    "requires": "|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
+    "region": "Dawn Circle"
+  },
+  {
+    "name": "Isle Ramp wedge skip",
+    "category": [
+      "Isle of Dawn",
+      "Isle Ramp Methods",
+      "Trivial Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Dawn Circle"
+  },
+  {
+    "name": "Isle Ramp climbing skip",
+    "category": [
+      "Isle of Dawn",
+      "Isle Ramp Methods",
+      "Medium Skips"
+    ],
+    "requires": "",
+    "region": "Dawn Circle"
+  },
+  {
     "name": "Trial of Air entrance without skip",
     "category": [
       "Isle of Dawn",
@@ -1914,6 +1914,44 @@
     ],
     "requires": "|Cave of Prophecies Updrafts|",
     "region": "Cave of Prophecies"
+  },
+  {
+    "name": "Jelly Bridge without skip",
+    "category": [
+      "Hidden Forest",
+      "Jelly Bridge Methods"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Boneyard"
+  },
+  {
+    "name": "Jelly Bridge with skip",
+    "category": [
+      "Hidden Forest",
+      "Jelly Bridge Methods",
+      "Easy Skips"
+    ],
+    "requires": "",
+    "region": "Boneyard"
+  },
+  {
+    "name": "Crab Fields entrance spirit gate method",
+    "category": [
+      "Golden Wasteland",
+      "Crab Fields Entrance Methods"
+    ],
+    "requires": "|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
+    "region": "The Graveyard"
+  },
+  {
+    "name": "Crab Fields entrance wedge method",
+    "category": [
+      "Golden Wasteland",
+      "Crab Fields Entrance Methods",
+      "Easy Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "The Graveyard"
   },
   {
     "name": "Wing Level 1",
