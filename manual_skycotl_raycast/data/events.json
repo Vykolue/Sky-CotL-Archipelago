@@ -585,9 +585,10 @@
     "name": "Forest WL 1 with skip",
     "category": [
       "Hidden Forest",
-      "Forest WL 1 Methods"
+      "Forest WL 1 Methods",
+      "Medium Skips"
     ],
-    "requires": "Medium Skips",
+    "requires": "",
     "region": "Forest Courtyard"
   },
   {
@@ -1275,7 +1276,7 @@
     "name": "Valley WL 16 without skip",
     "category": [
       "Valley of Triumph",
-      "Valley WL 16 methods"
+      "Valley WL 16 Methods"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Hermit Valley"
@@ -1284,7 +1285,7 @@
     "name": "Valley WL 16 with skip",
     "category": [
       "Valley of Triumph",
-      "Valley WL 16 methods",
+      "Valley WL 16 Methods",
       "Trivial Skips"
     ],
     "requires": "",

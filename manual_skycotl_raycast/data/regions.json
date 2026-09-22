@@ -129,7 +129,7 @@
       "Butterfly Fields",
       "Temple of the Isle End"
     ],
-    "requires": "|Daylight Prairie Unlock| AND (|@Wedges:1| AND |@Wedge Capacity:1|)"
+    "requires": "|Daylight Prairie Unlock|"
   },
   "Butterfly Fields": {
     "connects_to": [
