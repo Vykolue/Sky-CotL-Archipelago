@@ -102,7 +102,7 @@ If you use any forbidden items or have hard mode off,
 you may to be able to get some things out-of-logic
 
 ## Skips
-For the most part, something is considered a skip if it is neither intended nor obvious
+For the most part, something is considered a skip if it is neither intended nor obvious<br />
 Skips never require forbidden items and are categorized based on how difficult they are to execute
 
 The options are:
