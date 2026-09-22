@@ -115,22 +115,22 @@
             "description": [
                 "What is the hardest difficulty of skips you want included?",
                 "",
-                "None: no skips will be included",
-                "Trivial: very easy if you know what to do",
-                "Easy: pretty easy, but may have one slightly difficult aspect",
-                "Medium: average difficulty, most skips fall under this category",
-                "Hard: may take several tries, even if you know what to do",
-                "Expert: very difficult to do consistently, even with practice"
+                "none: no skips will be included",
+                "trivial: very easy if you know what to do",
+                "easy: pretty easy, but may have one slightly difficult aspect",
+                "medium: average difficulty, most skips fall under this category",
+                "hard: may take several tries, even if you know what to do",
+                "expert: very difficult to do consistently, even with practice"
             ],
             "type": "Choice",
             "default": 0,
             "values": {
-                "None": 0,
-                "Trivial": 1,
-                "Easy": 2,
-                "Medium": 3,
-                "Hard": 4,
-                "Expert": 5
+                "none": 0,
+                "trivial": 1,
+                "easy": 2,
+                "medium": 3,
+                "hard": 4,
+                "expert": 5
             },
             "group": "Extra Challenges"
         },

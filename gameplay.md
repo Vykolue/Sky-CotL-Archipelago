@@ -106,12 +106,12 @@ For the most part, something is considered a skip if it is neither intended nor 
 Skips never require forbidden items and are categorized based on how difficult they are to execute
 
 The options are:
-- "None": no skips will be included
-- "Trivial": very easy if you know what to do
-- "Easy": pretty easy, but may have one slightly difficult aspect
-- "Medium": average difficulty, most skips fall under this category
-- "Hard": may take several tries, even if you know what to do
-- "Expert": very difficult to do consistently, even with practice
+- "none": no skips will be included
+- "trivial": very easy if you know what to do
+- "easy": pretty easy, but may have one slightly difficult aspect
+- "medium": average difficulty, most skips fall under this category
+- "hard": may take several tries, even if you know what to do
+- "expert": very difficult to do consistently, even with practice
 
 If you get stuck, [this playlist](https://www.youtube.com/playlist?list=PLUFegD_D8fTM) shows how to do most skips
 
