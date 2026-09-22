@@ -111,7 +111,7 @@ The options are:
 - "Easy": pretty easy, but may have one slightly difficult aspect
 - "Medium": average difficulty, most skips fall under this category
 - "Hard": may take several tries, even if you know what to do
-- "Expert": very difficult to do consistently, even with practice"
+- "Expert": very difficult to do consistently, even with practice
 
 If you get stuck, [this playlist](https://www.youtube.com/playlist?list=PLUFegD_D8fTM) shows how to do most skips
 
