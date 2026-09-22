@@ -104,6 +104,15 @@ you may to be able to get some things out-of-logic
 ## Skips
 For the most part, something is considered a skip if it is neither intended nor obvious
 Skips never require forbidden items and are categorized based on how difficult they are to execute
+
+The options are:
+- "None": no skips will be included
+- "Trivial": very easy if you know what to do
+- "Easy": pretty easy, but may have one slightly difficult aspect
+- "Medium": average difficulty, most skips fall under this category
+- "Hard": may take several tries, even if you know what to do
+- "Expert": very difficult to do consistently, even with practice"
+
 If you get stuck, [this playlist](https://www.youtube.com/playlist?list=PLUFegD_D8fTM) shows how to do most skips
 
 ## How does ___ item/lock work?

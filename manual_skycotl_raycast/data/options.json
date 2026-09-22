@@ -111,12 +111,27 @@
             "default": true,
             "group": "Extra Challenges"
         },
-        "hard_mode": {
+        "maximum_skip_difficulty": {
             "description": [
-                "Less items will be provided for reaching hard-to-reach places"
+                "What is the hardest difficulty of skips you want included?",
+                "",
+                "None: no skips will be included",
+                "Trivial: very easy if you know what to do",
+                "Easy: pretty easy, but may have one slightly difficult aspect",
+                "Medium: average difficulty, most skips fall under this category",
+                "Hard: may take several tries, even if you know what to do",
+                "Expert: very difficult to do consistently, even with practice"
             ],
-            "type": "Toggle",
-            "default": false,
+            "type": "Choice",
+            "default": 0,
+            "values": {
+                "None": 0,
+                "Trivial": 1,
+                "Easy": 2,
+                "Medium": 3,
+                "Hard": 4,
+                "Expert": 5
+            },
             "group": "Extra Challenges"
         },
 

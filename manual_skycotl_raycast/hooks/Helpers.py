@@ -6,11 +6,27 @@ from BaseClasses import MultiWorld
 # Return True to enable the category, False to disable it, or None to use the default behavior
 def before_is_category_enabled(multiworld: MultiWorld, player: int, category_name: str) -> Optional[bool]:
     from ..Items import item_name_groups
+    from ..Helpers import get_option_value
+
+    if category_name == "Trivial Skips":
+        # If maximum_skip_difficulty == 0, all skips are disabled
+        return get_option_value(multiworld, player, "maximum_skip_difficulty") >= 1
+    if category_name == "Easy Skips":
+        # Easy Skips needs easy (2), medium (3), hard (4), or expert (5) enabled
+        return get_option_value(multiworld, player, "maximum_skip_difficulty") >= 2
+    if category_name == "Medium Skips":
+        return get_option_value(multiworld, player, "maximum_skip_difficulty") >= 3
+    if category_name == "Hard Skips":
+        return get_option_value(multiworld, player, "maximum_skip_difficulty") >= 4
+    if category_name == "Expert Skips":
+        return get_option_value(multiworld, player, "maximum_skip_difficulty") >= 5
+
     if category_name in item_name_groups["Sheet Music"]:
         # This category is the name of a music sheet
         from ..Helpers import get_option_value
         enabled_music_sheets = get_option_value(multiworld, player, "enabled_music_sheets")
         return category_name in enabled_music_sheets
+    
     return None
 
 # Use this if you want to override the default behavior of is_option_enabled
