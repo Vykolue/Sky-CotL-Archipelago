@@ -3,7 +3,8 @@
     "name": "Aviary WL 1 without skip",
     "category": [
       "Aviary Village",
-      "Aviary WL 1 Methods"
+      "Aviary WL 1 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Wandering Carnival"
@@ -13,7 +14,8 @@
     "category": [
       "Aviary Village",
       "Aviary WL 1 Methods",
-      "Medium Skips"
+      "Medium Skips",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Wandering Carnival"
@@ -23,7 +25,8 @@
     "category": [
       "Aviary Village",
       "Actual WL",
-      "Wandering Carnival Children of Light"
+      "Wandering Carnival Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Aviary WL 1 Methods:1|",
     "region": "Wandering Carnival"
@@ -52,7 +55,8 @@
     "name": "Isle WL 2 without skip",
     "category": [
       "Isle of Dawn",
-      "Isle WL 2 Methods"
+      "Isle WL 2 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
     "region": "Passage Rock"
@@ -62,7 +66,8 @@
     "category": [
       "Isle of Dawn",
       "Isle WL 2 Methods",
-      "Hard Skips"
+      "Hard Skips",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Passage Rock"
@@ -72,10 +77,41 @@
     "category": [
       "Isle of Dawn",
       "Actual WL",
-      "Passage Rock Children of Light"
+      "Passage Rock Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Isle WL 2 Methods:1|",
     "region": "Passage Rock"
+  },
+  {
+    "name": "Isle Ramp without skip",
+    "category": [
+      "Isle of Dawn",
+      "Isle Ramp Methods"
+    ],
+    "requires": "|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
+    "region": "Dawn Circle"
+  },
+  {
+    "name": "Isle Ramp wedge skip",
+    "category": [
+      "Isle of Dawn",
+      "Isle Ramp Methods",
+      "Trivial Skips",
+      "Needs Cape"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Dawn Circle"
+  },
+  {
+    "name": "Isle Ramp climbing skip",
+    "category": [
+      "Isle of Dawn",
+      "Isle Ramp Methods",
+      "Medium Skips"
+    ],
+    "requires": "",
+    "region": "Dawn Circle"
   },
   {
     "name": "Isle Child of Light #3",
@@ -108,20 +144,53 @@
     "region": "Dawn Circle"
   },
   {
-    "name": "Isle WL 5 without skip",
+    "name": "Isle WL 5 puzzle wingless",
     "category": [
       "Isle of Dawn",
-      "Isle WL 5 Methods"
+      "Isle WL 5 Methods",
+      "Medium Skips"
+    ],
+    "requires": "",
+    "region": "Dawn Overlook"
+  },
+  {
+    "name": "Isle WL 5 puzzle 0 wedge",
+    "category": [
+      "Isle of Dawn",
+      "Isle WL 5 Methods",
+      "Easy Skips",
+      "Needs Cape"
+    ],
+    "requires": "",
+    "region": "Dawn Overlook"
+  },
+  {
+    "name": "Isle WL 5 puzzle 1 wedge",
+    "category": [
+      "Isle of Dawn",
+      "Isle WL 5 Methods",
+      "Needs Cape"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Dawn Overlook"
+  },
+  {
+    "name": "Isle WL 5 flying easy",
+    "category": [
+      "Isle of Dawn",
+      "Isle WL 5 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
     "region": "Dawn Overlook"
   },
   {
-    "name": "Isle WL 5 with skip",
+    "name": "Isle WL 5 flying hard",
     "category": [
       "Isle of Dawn",
       "Isle WL 5 Methods",
-      "Medium Skips"
+      "Medium Skips",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Dawn Overlook"
@@ -157,6 +226,36 @@
     ],
     "requires": "",
     "region": "Trial of Earth"
+  },
+  {
+    "name": "Trial of Air entrance without skip",
+    "category": [
+      "Isle of Dawn",
+      "Trial of Air Entrance Methods",
+      "Needs Cape"
+    ],
+    "requires": "|@Wedges:5| AND |@Wedge Capacity:5|",
+    "region": "Cave of Prophecies"
+  },
+  {
+    "name": "Trial of Air entrance flying skip",
+    "category": [
+      "Isle of Dawn",
+      "Trial of Air Entrance Methods",
+      "Hard Skips",
+      "Needs Cape"
+    ],
+    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
+    "region": "Cave of Prophecies"
+  },
+  {
+    "name": "Trial of Air entrance with updrafts",
+    "category": [
+      "Isle of Dawn",
+      "Trial of Air Entrance Methods"
+    ],
+    "requires": "|Cave of Prophecies Updrafts|",
+    "region": "Cave of Prophecies"
   },
   {
     "name": "Isle Child of Light #8",
@@ -244,13 +343,25 @@
     "name": "Prairie WL 7 without skip",
     "category": [
       "Daylight Prairie",
-      "Prairie WL 7 Methods"
+      "Prairie WL 7 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Prairie Heights"
   },
   {
-    "name": "Prairie WL 7 with skip",
+    "name": "Prairie WL 7 0 wedge skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 7 Methods",
+      "Easy Skips",
+      "Needs Cape"
+    ],
+    "requires": "",
+    "region": "Prairie Heights"
+  },
+  {
+    "name": "Prairie WL 7 wingless skip",
     "category": [
       "Daylight Prairie",
       "Prairie WL 7 Methods",
@@ -273,7 +384,8 @@
     "name": "Prairie WL 8 without skip",
     "category": [
       "Daylight Prairie",
-      "Prairie WL 8 Methods"
+      "Prairie WL 8 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Temple of the Prairie"
@@ -302,7 +414,8 @@
     "name": "Prairie WL 9 without skip",
     "category": [
       "Daylight Prairie",
-      "Prairie WL 9 Methods"
+      "Prairie WL 9 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:8| AND |@Wedge Capacity:8|",
     "region": "Temple of the Prairie"
@@ -312,7 +425,8 @@
     "category": [
       "Daylight Prairie",
       "Prairie WL 9 Methods",
-      "Expert Skips"
+      "Expert Skips",
+      "Needs Cape"
     ],
     "requires": "",
     "region": "Temple of the Prairie"
@@ -322,7 +436,8 @@
     "category": [
       "Daylight Prairie",
       "Actual WL",
-      "Temple of the Prairie Children of Light"
+      "Temple of the Prairie Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Prairie WL 9 Methods:1|",
     "region": "Temple of the Prairie"
@@ -331,7 +446,8 @@
     "name": "Prairie WL 10 without skip",
     "category": [
       "Daylight Prairie",
-      "Prairie WL 10 Methods"
+      "Prairie WL 10 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Prairie Cave"
@@ -341,7 +457,8 @@
     "category": [
       "Daylight Prairie",
       "Prairie WL 10 Methods",
-      "Hard Skips"
+      "Hard Skips",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Prairie Cave"
@@ -351,7 +468,8 @@
     "category": [
       "Daylight Prairie",
       "Actual WL",
-      "Prairie Cave Children of Light"
+      "Prairie Cave Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Prairie WL 10 Methods:1|",
     "region": "Prairie Cave"
@@ -360,7 +478,8 @@
     "name": "Prairie WL 11 without skip",
     "category": [
       "Daylight Prairie",
-      "Prairie WL 11 Methods"
+      "Prairie WL 11 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Prairie Cave"
@@ -370,7 +489,8 @@
     "category": [
       "Daylight Prairie",
       "Prairie WL 11 Methods",
-      "Trivial Skips"
+      "Trivial Skips",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Prairie Cave"
@@ -380,7 +500,8 @@
     "category": [
       "Daylight Prairie",
       "Actual WL",
-      "Prairie Cave Children of Light"
+      "Prairie Cave Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Prairie WL 11 Methods:1|",
     "region": "Prairie Cave"
@@ -389,7 +510,8 @@
     "name": "Prairie WL 12 without skip",
     "category": [
       "Daylight Prairie",
-      "Prairie WL 12 Methods"
+      "Prairie WL 12 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Bird Nest"
@@ -399,7 +521,18 @@
     "category": [
       "Daylight Prairie",
       "Prairie WL 12 Methods",
-      "Easy Skips"
+      "Easy Skips",
+      "Needs Cape"
+    ],
+    "requires": "",
+    "region": "Bird Nest"
+  },
+  {
+    "name": "Prairie WL 12 wingless skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 12 Methods",
+      "Medium Skips"
     ],
     "requires": "",
     "region": "Bird Nest"
@@ -415,14 +548,54 @@
     "region": "Bird Nest"
   },
   {
+    "name": "Prairie WL 13 without skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 13 Methods",
+      "Needs Cape"
+    ],
+    "requires": "",
+    "region": "Bird Nest"
+  },
+  {
+    "name": "Prairie WL 13 wingless skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 13 Methods",
+      "Easy Skips"
+    ],
+    "requires": "",
+    "region": "Bird Nest"
+  },
+  {
     "name": "Prairie Child of Light #13",
     "category": [
       "Daylight Prairie",
       "Actual WL",
       "Bird Nest Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Prairie WL 13 Methods:1|",
     "region": "Bird Nest"
+  },
+  {
+    "name": "Prairie WL 14 without skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 14 Methods",
+      "Needs Cape"
+    ],
+    "requires": "",
+    "region": "Sanctuary Islands"
+  },
+  {
+    "name": "Prairie WL 14 wingless skip",
+    "category": [
+      "Daylight Prairie",
+      "Prairie WL 14 Methods",
+      "Hard Skips"
+    ],
+    "requires": "",
+    "region": "Sanctuary Islands"
   },
   {
     "name": "Prairie Child of Light #14",
@@ -431,7 +604,7 @@
       "Actual WL",
       "Sanctuary Islands Children of Light"
     ],
-    "requires": "",
+    "requires": "|@Prairie WL 14 Methods:1|",
     "region": "Sanctuary Islands"
   },
   {
@@ -469,7 +642,8 @@
     "category": [
       "Daylight Prairie",
       "Actual WL",
-      "Sanctuary Islands Children of Light"
+      "Sanctuary Islands Children of Light",
+      "Needs Cape"
     ],
     "requires": "",
     "region": "Sanctuary Islands"
@@ -499,7 +673,8 @@
     "category": [
       "Daylight Prairie",
       "Actual WL",
-      "Sanctuary Islands Children of Light"
+      "Sanctuary Islands Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Sanctuary Islands"
@@ -518,7 +693,8 @@
     "name": "Prairie WL 23 without skip",
     "category": [
       "Daylight Prairie",
-      "Prairie WL 23 Methods"
+      "Prairie WL 23 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:7| AND |@Wedge Capacity:7|",
     "region": "Prairie Peaks"
@@ -528,7 +704,8 @@
     "category": [
       "Daylight Prairie",
       "Prairie WL 23 Methods",
-      "Expert Skips"
+      "Expert Skips",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Prairie Peaks"
@@ -538,7 +715,8 @@
     "category": [
       "Daylight Prairie",
       "Actual WL",
-      "Prairie Peaks Children of Light"
+      "Prairie Peaks Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Prairie WL 23 Methods:1|",
     "region": "Prairie Peaks"
@@ -547,7 +725,8 @@
     "name": "Prairie WL 24 without skip",
     "category": [
       "Daylight Prairie",
-      "Prairie WL 24 Methods"
+      "Prairie WL 24 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:8| AND |@Wedge Capacity:8|",
     "region": "Prairie Peaks"
@@ -557,7 +736,8 @@
     "category": [
       "Daylight Prairie",
       "Prairie WL 24 Methods",
-      "Expert Skips"
+      "Expert Skips",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Prairie Peaks"
@@ -567,7 +747,8 @@
     "category": [
       "Daylight Prairie",
       "Actual WL",
-      "Prairie Peaks Children of Light"
+      "Prairie Peaks Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Prairie WL 24 Methods:1|",
     "region": "Prairie Peaks"
@@ -576,7 +757,8 @@
     "name": "Forest WL 1 without skip",
     "category": [
       "Hidden Forest",
-      "Forest WL 1 Methods"
+      "Forest WL 1 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Forest Courtyard"
@@ -586,7 +768,8 @@
     "category": [
       "Hidden Forest",
       "Forest WL 1 Methods",
-      "Medium Skips"
+      "Medium Skips",
+      "Needs Cape"
     ],
     "requires": "",
     "region": "Forest Courtyard"
@@ -596,7 +779,8 @@
     "category": [
       "Hidden Forest",
       "Actual WL",
-      "Forest Courtyard Children of Light"
+      "Forest Courtyard Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Forest WL 1 Methods:1|",
     "region": "Forest Courtyard"
@@ -615,7 +799,8 @@
     "name": "Forest WL 3 without skip",
     "category": [
       "Hidden Forest",
-      "Forest WL 3 Methods"
+      "Forest WL 3 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Forest Brook"
@@ -625,7 +810,8 @@
     "category": [
       "Hidden Forest",
       "Forest WL 3 Methods",
-      "Easy Skips"
+      "Easy Skips",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Forest Brook"
@@ -635,7 +821,8 @@
     "category": [
       "Hidden Forest",
       "Actual WL",
-      "Forest Brook Children of Light"
+      "Forest Brook Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Forest WL 3 Methods:1|",
     "region": "Forest Brook"
@@ -644,7 +831,8 @@
     "name": "Forest WL 4 without skip",
     "category": [
       "Hidden Forest",
-      "Forest WL 4 Methods"
+      "Forest WL 4 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Forest Brook"
@@ -654,7 +842,8 @@
     "category": [
       "Hidden Forest",
       "Forest WL 4 Methods",
-      "Easy Skips"
+      "Easy Skips",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Forest Brook"
@@ -664,7 +853,8 @@
     "category": [
       "Hidden Forest",
       "Actual WL",
-      "Forest Brook Children of Light"
+      "Forest Brook Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Forest WL 4 Methods:1|",
     "region": "Forest Brook"
@@ -673,7 +863,8 @@
     "name": "Forest WL 5 without skip",
     "category": [
       "Hidden Forest",
-      "Forest WL 5 Methods"
+      "Forest WL 5 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Forest Brook"
@@ -683,7 +874,8 @@
     "category": [
       "Hidden Forest",
       "Forest WL 5 Methods",
-      "Medium Skips"
+      "Medium Skips",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Forest Brook"
@@ -693,7 +885,8 @@
     "category": [
       "Hidden Forest",
       "Actual WL",
-      "Forest Brook Children of Light"
+      "Forest Brook Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Forest WL 5 Methods:1|",
     "region": "Forest Brook"
@@ -712,7 +905,8 @@
     "name": "Forest WL 7 without skip",
     "category": [
       "Hidden Forest",
-      "Forest WL 7 Methods"
+      "Forest WL 7 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:3| AND |@Wedge Capacity:3|",
     "region": "Boneyard"
@@ -741,7 +935,8 @@
     "name": "Forest WL 8 without skip",
     "category": [
       "Hidden Forest",
-      "Forest WL 8 Methods"
+      "Forest WL 8 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2| AND (|@Regular Forest Spirit:4| OR {YamlDisabled(spirit_gate_locks)})",
     "region": "Boneyard"
@@ -751,7 +946,8 @@
     "category": [
       "Hidden Forest",
       "Forest WL 8 Methods",
-      "Trivial Skips"
+      "Trivial Skips",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Boneyard"
@@ -761,7 +957,8 @@
     "category": [
       "Hidden Forest",
       "Forest WL 8 Methods",
-      "Hard Skips"
+      "Hard Skips",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Boneyard"
@@ -771,7 +968,8 @@
     "category": [
       "Hidden Forest",
       "Actual WL",
-      "Boneyard Children of Light"
+      "Boneyard Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Forest WL 8 Methods:1|",
     "region": "Boneyard"
@@ -800,7 +998,8 @@
     "name": "Forest WL 11 without skip",
     "category": [
       "Hidden Forest",
-      "Forest WL 11 Methods"
+      "Forest WL 11 Methods",
+      "Needs Cape"
     ],
     "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
     "region": "Elevated Clearing"
@@ -931,6 +1130,25 @@
     ],
     "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
     "region": "Forest Cavern"
+  },
+  {
+    "name": "Jelly Bridge without skip",
+    "category": [
+      "Hidden Forest",
+      "Jelly Bridge Methods"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "Boneyard"
+  },
+  {
+    "name": "Jelly Bridge with skip",
+    "category": [
+      "Hidden Forest",
+      "Jelly Bridge Methods",
+      "Easy Skips"
+    ],
+    "requires": "",
+    "region": "Boneyard"
   },
   {
     "name": "Forest Child of Light #17",
@@ -1449,6 +1667,25 @@
     "region": "The Graveyard"
   },
   {
+    "name": "Crab Fields entrance spirit gate method",
+    "category": [
+      "Golden Wasteland",
+      "Crab Fields Entrance Methods"
+    ],
+    "requires": "|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
+    "region": "The Graveyard"
+  },
+  {
+    "name": "Crab Fields entrance wedge method",
+    "category": [
+      "Golden Wasteland",
+      "Crab Fields Entrance Methods",
+      "Easy Skips"
+    ],
+    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
+    "region": "The Graveyard"
+  },
+  {
     "name": "Wasteland Child of Light #9",
     "category": [
       "Golden Wasteland",
@@ -1859,100 +2096,6 @@
     ],
     "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
     "region": "Moominvalley"
-  },
-  {
-    "name": "Isle Ramp without skip",
-    "category": [
-      "Isle of Dawn",
-      "Isle Ramp Methods"
-    ],
-    "requires": "|@Regular Isle Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
-    "region": "Dawn Circle"
-  },
-  {
-    "name": "Isle Ramp wedge skip",
-    "category": [
-      "Isle of Dawn",
-      "Isle Ramp Methods",
-      "Trivial Skips"
-    ],
-    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
-    "region": "Dawn Circle"
-  },
-  {
-    "name": "Isle Ramp climbing skip",
-    "category": [
-      "Isle of Dawn",
-      "Isle Ramp Methods",
-      "Medium Skips"
-    ],
-    "requires": "",
-    "region": "Dawn Circle"
-  },
-  {
-    "name": "Trial of Air entrance without skip",
-    "category": [
-      "Isle of Dawn",
-      "Trial of Air Entrance Methods"
-    ],
-    "requires": "|@Wedges:5| AND |@Wedge Capacity:5|",
-    "region": "Cave of Prophecies"
-  },
-  {
-    "name": "Trial of Air entrance flying skip",
-    "category": [
-      "Isle of Dawn",
-      "Trial of Air Entrance Methods"
-    ],
-    "requires": "|@Wedges:2| AND |@Wedge Capacity:2|",
-    "region": "Cave of Prophecies"
-  },
-  {
-    "name": "Trial of Air entrance updrafts skip",
-    "category": [
-      "Isle of Dawn",
-      "Trial of Air Entrance Methods"
-    ],
-    "requires": "|Cave of Prophecies Updrafts|",
-    "region": "Cave of Prophecies"
-  },
-  {
-    "name": "Jelly Bridge without skip",
-    "category": [
-      "Hidden Forest",
-      "Jelly Bridge Methods"
-    ],
-    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
-    "region": "Boneyard"
-  },
-  {
-    "name": "Jelly Bridge with skip",
-    "category": [
-      "Hidden Forest",
-      "Jelly Bridge Methods",
-      "Easy Skips"
-    ],
-    "requires": "",
-    "region": "Boneyard"
-  },
-  {
-    "name": "Crab Fields entrance spirit gate method",
-    "category": [
-      "Golden Wasteland",
-      "Crab Fields Entrance Methods"
-    ],
-    "requires": "|@Regular Wasteland Spirit:1| OR {YamlDisabled(spirit_gate_locks)}",
-    "region": "The Graveyard"
-  },
-  {
-    "name": "Crab Fields entrance wedge method",
-    "category": [
-      "Golden Wasteland",
-      "Crab Fields Entrance Methods",
-      "Easy Skips"
-    ],
-    "requires": "|@Wedges:1| AND |@Wedge Capacity:1|",
-    "region": "The Graveyard"
   },
   {
     "name": "Wing Level 1",

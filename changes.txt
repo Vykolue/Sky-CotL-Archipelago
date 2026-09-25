@@ -1,7 +1,2 @@
 CHANGES:
 
-split winged light events into individual events for each method
-
-added categories for various skip difficulties
-
-added hook and yaml option for skips

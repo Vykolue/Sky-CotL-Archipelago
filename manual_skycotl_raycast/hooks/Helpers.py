@@ -8,6 +8,10 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
     from ..Items import item_name_groups
     from ..Helpers import get_option_value
 
+    if get_option_value(multiworld, player, "wingless_mode") and "Skips" in category_name:
+        # Turns on all skips for wingless players to make it easier to remove inaccessible locations
+        return True
+
     if category_name == "Trivial Skips":
         # If maximum_skip_difficulty == 0, all skips are disabled
         return get_option_value(multiworld, player, "maximum_skip_difficulty") >= 1

@@ -86,6 +86,14 @@
             "default": 1,
             "group": "Other Options"
         },
+        "wingless_mode": {
+            "description": [
+                "The logic will assume you are wingless"
+            ],
+            "type": "Toggle",
+            "default": true,
+            "group": "Other Options"
+        },
         "trials": {
             "description": [
                 "Include the Trials as locations in the game"
