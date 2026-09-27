@@ -91,7 +91,7 @@
                 "The logic will assume you are wingless"
             ],
             "type": "Toggle",
-            "default": true,
+            "default": false,
             "group": "Other Options"
         },
         "trials": {
