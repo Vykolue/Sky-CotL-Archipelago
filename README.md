@@ -100,20 +100,7 @@ You can see checks you send and receive in real time under the "Archipelago" tab
 Items you receive will also show up under "Items Received" in the "Manual" tab<br />
 You can see hints in the "Hints" tab
 
-More information on the gameplay can be found [here](https://github.com/Vykolue/Sky-CotL-Archipelago/blob/main/gameplay.md)
-
-### Prerequisites
-You may run into impossible scenerios if your account has not:
-- relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
-- unlocked shortcuts for The Wind Paths, The Treehouse, and Harmony Hall `(including Aviary Village connections)`
-- progressed through the first three Cave of Prophecy quests `(this only applies if Trials are toggled on)`
-- progressed through the Vault of Knowledge
-
-You may also be required to:
-- complete all Nine-Colored Deer quests
-- complete all Season of Moomin quests
-
-Capeless/Wingless gameplay is not fully supported, however, you can leave auto-collect Winged Light out of the game
+More information on the gameplay and prerequisites can be found [here](https://github.com/Vykolue/Sky-CotL-Archipelago/blob/main/gameplay.md)
 
 ### Tips
 - You can use "!hint {item_name}" in the command line to find out where the specified item is

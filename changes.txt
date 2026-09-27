@@ -3,3 +3,9 @@ CHANGES:
 added a category for locations and events that require a cape
 
 removed auto winged light option and replaced with wingless option
+
+removed wedge items in wingless mode
+
+updated the gameplay guide
+
+moved prerequisites to gameplay guide

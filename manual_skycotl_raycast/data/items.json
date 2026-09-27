@@ -120,7 +120,8 @@
         "count": 9,
         "name": "Wedge",
         "category": [
-            "Wedges"
+            "Wedges",
+            "Needs Cape"
         ],
         "progression": "{YamlEnabled(winged_light_run)}",
         "sort-key": "b-other-items-0"

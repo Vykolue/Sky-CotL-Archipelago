@@ -120,7 +120,9 @@
                 "easy: pretty easy, but may have one slightly difficult aspect",
                 "medium: average difficulty, most skips fall under this category",
                 "hard: may take several tries, even if you know what to do",
-                "expert: very difficult to do consistently, even with practice"
+                "expert: very difficult to do consistently, even with practice",
+                "",
+                "To simplify the logic, all skips will be enabled when wingless_mode is on"
             ],
             "type": "Choice",
             "default": 0,
