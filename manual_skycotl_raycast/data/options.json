@@ -102,14 +102,6 @@
             "default": true,
             "group": "Other Options"
         },
-        "auto_collect_winged_light": {
-            "description": [
-                "Include auto-collect Winged Light as locations in the game"
-            ],
-            "type": "Toggle",
-            "default": true,
-            "group": "Other Options"
-        },
 
         "daily_music_challenge": {
             "description": [

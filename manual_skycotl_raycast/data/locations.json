@@ -13,7 +13,8 @@
     "name": "Wandering Carnival Find 2 Children of Light",
     "category": [
       "Aviary Village",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Wandering Carnival Children of Light:2|",
     "region": "Wandering Carnival",
@@ -33,7 +34,8 @@
     "name": "Passage Rock Find 2 Children of Light",
     "category": [
       "Isle of Dawn",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Passage Rock Children of Light:2|",
     "region": "Passage Rock",
@@ -207,7 +209,8 @@
     "name": "Temple of the Prairie Find 2 Children of Light",
     "category": [
       "Daylight Prairie",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Temple of the Prairie Children of Light:2|",
     "region": "Temple of the Prairie",
@@ -217,7 +220,8 @@
     "name": "Prairie Cave Find 1 Child of Light",
     "category": [
       "Daylight Prairie",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Prairie Cave Children of Light:1|",
     "region": "Prairie Cave",
@@ -227,7 +231,8 @@
     "name": "Prairie Cave Find 2 Children of Light",
     "category": [
       "Daylight Prairie",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Prairie Cave Children of Light:2|",
     "region": "Prairie Cave",
@@ -317,7 +322,8 @@
     "name": "Sanctuary Islands Find 7 Children of Light",
     "category": [
       "Daylight Prairie",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Sanctuary Islands Children of Light:7|",
     "region": "Sanctuary Islands",
@@ -327,7 +333,8 @@
     "name": "Sanctuary Islands Find 8 Children of Light",
     "category": [
       "Daylight Prairie",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Sanctuary Islands Children of Light:8|",
     "region": "Sanctuary Islands",
@@ -347,7 +354,8 @@
     "name": "Prairie Peaks Find 2 Children of Light",
     "category": [
       "Daylight Prairie",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Prairie Peaks Children of Light:2|",
     "region": "Prairie Peaks",
@@ -357,7 +365,8 @@
     "name": "Prairie Peaks Find 3 Children of Light",
     "category": [
       "Daylight Prairie",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Prairie Peaks Children of Light:3|",
     "region": "Prairie Peaks",
@@ -377,7 +386,8 @@
     "name": "Forest Courtyard Find 2 Children of Light",
     "category": [
       "Hidden Forest",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Forest Courtyard Children of Light:2|",
     "region": "Forest Courtyard",
@@ -397,7 +407,8 @@
     "name": "Forest Brook Find 2 Children of Light",
     "category": [
       "Hidden Forest",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Forest Brook Children of Light:2|",
     "region": "Forest Brook",
@@ -407,7 +418,8 @@
     "name": "Forest Brook Find 3 Children of Light",
     "category": [
       "Hidden Forest",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Forest Brook Children of Light:3|",
     "region": "Forest Brook",
@@ -417,7 +429,8 @@
     "name": "Forest Brook Find 4 Children of Light",
     "category": [
       "Hidden Forest",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Forest Brook Children of Light:4|",
     "region": "Forest Brook",
@@ -447,7 +460,8 @@
     "name": "Boneyard Find 3 Children of Light",
     "category": [
       "Hidden Forest",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Boneyard Children of Light:3|",
     "region": "Boneyard",
@@ -497,7 +511,8 @@
     "name": "Forest Cavern Find 2 Children of Light",
     "category": [
       "Hidden Forest",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Forest Cavern Children of Light:2|",
     "region": "Forest Cavern",
@@ -507,7 +522,8 @@
     "name": "Forest Cavern Find 3 Children of Light",
     "category": [
       "Hidden Forest",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Forest Cavern Children of Light:3|",
     "region": "Forest Cavern",
@@ -517,7 +533,8 @@
     "name": "Forest Cavern Find 4 Children of Light",
     "category": [
       "Hidden Forest",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Forest Cavern Children of Light:4|",
     "region": "Forest Cavern",
@@ -527,7 +544,8 @@
     "name": "Sacred Pond Find 1 Child of Light",
     "category": [
       "Hidden Forest",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Sacred Pond Children of Light:1|",
     "region": "Sacred Pond",
@@ -547,7 +565,8 @@
     "name": "The Treehouse Find 2 Children of Light",
     "category": [
       "Hidden Forest",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@The Treehouse Children of Light:2|",
     "region": "The Treehouse",
@@ -568,7 +587,8 @@
     "category": [
       "Hidden Forest",
       "Find Children of Light",
-      "Auto-Collect Winged Light"
+      "Auto-Collect Winged Light",
+      "Needs Cape"
     ],
     "requires": "|@The Wind Paths Children of Light:2|",
     "region": "The Wind Paths",
@@ -579,7 +599,8 @@
     "category": [
       "Valley of Triumph",
       "Find Children of Light",
-      "Auto-Collect Winged Light"
+      "Auto-Collect Winged Light",
+      "Needs Cape"
     ],
     "requires": "|@Valley Rest Children of Light:1|",
     "region": "Valley Rest",
@@ -610,7 +631,8 @@
     "category": [
       "Valley of Triumph",
       "Find Children of Light",
-      "Auto-Collect Winged Light"
+      "Auto-Collect Winged Light",
+      "Needs Cape"
     ],
     "requires": "|@Lower Valley Track Children of Light:1|",
     "region": "Lower Valley Track",
@@ -620,7 +642,8 @@
     "name": "The Citadel Find 1 Child of Light",
     "category": [
       "Valley of Triumph",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@The Citadel Children of Light:1|",
     "region": "The Citadel",
@@ -631,7 +654,8 @@
     "category": [
       "Valley of Triumph",
       "Find Children of Light",
-      "Auto-Collect Winged Light"
+      "Auto-Collect Winged Light",
+      "Needs Cape"
     ],
     "requires": "|@The Citadel Children of Light:2|",
     "region": "The Citadel",
@@ -642,7 +666,8 @@
     "category": [
       "Valley of Triumph",
       "Find Children of Light",
-      "Auto-Collect Winged Light"
+      "Auto-Collect Winged Light",
+      "Needs Cape"
     ],
     "requires": "|@Upper Valley Track Children of Light:1|",
     "region": "Upper Valley Track",
@@ -653,7 +678,8 @@
     "category": [
       "Valley of Triumph",
       "Find Children of Light",
-      "Auto-Collect Winged Light"
+      "Auto-Collect Winged Light",
+      "Needs Cape"
     ],
     "requires": "|@Upper Valley Track Children of Light:2|",
     "region": "Upper Valley Track",
@@ -673,7 +699,8 @@
     "name": "Temple of the Valley Find 2 Children of Light",
     "category": [
       "Valley of Triumph",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Temple of the Valley Children of Light:2|",
     "region": "Temple of the Valley",
@@ -684,7 +711,8 @@
     "category": [
       "Valley of Triumph",
       "Find Children of Light",
-      "Auto-Collect Winged Light"
+      "Auto-Collect Winged Light",
+      "Needs Cape"
     ],
     "requires": "|@Temple of the Valley Children of Light:3|",
     "region": "Temple of the Valley",
@@ -714,7 +742,8 @@
     "name": "Village of Dreams Find 3 Children of Light",
     "category": [
       "Valley of Triumph",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Village of Dreams Children of Light:3|",
     "region": "Village of Dreams",
@@ -734,7 +763,8 @@
     "name": "Hermit Valley Find 2 Children of Light",
     "category": [
       "Valley of Triumph",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Hermit Valley Children of Light:2|",
     "region": "Hermit Valley",
@@ -764,7 +794,8 @@
     "name": "The Outer Bailey Find 2 Children of Light",
     "category": [
       "Golden Wasteland",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@The Outer Bailey Children of Light:2|",
     "region": "The Outer Bailey",
@@ -824,7 +855,8 @@
     "name": "The Graveyard Find 6 Children of Light",
     "category": [
       "Golden Wasteland",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@The Graveyard Children of Light:6|",
     "region": "The Graveyard",
@@ -854,7 +886,8 @@
     "name": "Crab Fields Find 3 Children of Light",
     "category": [
       "Golden Wasteland",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Crab Fields Children of Light:3|",
     "region": "Crab Fields",
@@ -904,7 +937,8 @@
     "name": "Forgotten Ark Find 2 Children of Light",
     "category": [
       "Golden Wasteland",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Forgotten Ark Children of Light:2|",
     "region": "Forgotten Ark",
@@ -924,7 +958,8 @@
     "name": "Treasure Reef Find 2 Children of Light",
     "category": [
       "Golden Wasteland",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Treasure Reef Children of Light:2|",
     "region": "Treasure Reef",
@@ -944,7 +979,8 @@
     "name": "Lower Vault Find 1 Child of Light",
     "category": [
       "Vault of Knowledge",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Lower Vault Children of Light:1|",
     "region": "Lower Vault",
@@ -964,7 +1000,8 @@
     "name": "Upper Vault Find 2 Children of Light",
     "category": [
       "Vault of Knowledge",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Upper Vault Children of Light:2|",
     "region": "Upper Vault",
@@ -974,7 +1011,8 @@
     "name": "Upper Vault Find 3 Children of Light",
     "category": [
       "Vault of Knowledge",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Upper Vault Children of Light:3|",
     "region": "Upper Vault",
@@ -994,7 +1032,8 @@
     "name": "Vault Archive Find 1 Child of Light",
     "category": [
       "Vault of Knowledge",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Vault Archive Children of Light:1|",
     "region": "Vault Archive",
@@ -1004,7 +1043,8 @@
     "name": "Vault Archive Find 2 Children of Light",
     "category": [
       "Vault of Knowledge",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Vault Archive Children of Light:2|",
     "region": "Vault Archive",
@@ -1024,7 +1064,8 @@
     "name": "Starlight Desert Find 2 Children of Light",
     "category": [
       "Vault of Knowledge",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Starlight Desert Children of Light:2|",
     "region": "Starlight Desert",
@@ -1034,7 +1075,8 @@
     "name": "Starlight Desert Find 3 Children of Light",
     "category": [
       "Vault of Knowledge",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Starlight Desert Children of Light:3|",
     "region": "Starlight Desert",
@@ -1044,7 +1086,8 @@
     "name": "Repository of Refuge Find 1 Child of Light",
     "category": [
       "Vault of Knowledge",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Repository of Refuge Children of Light:1|",
     "region": "Repository of Refuge",
@@ -1084,7 +1127,8 @@
     "name": "Moominvalley Find 1 Child of Light",
     "category": [
       "Vault of Knowledge",
-      "Find Children of Light"
+      "Find Children of Light",
+      "Needs Cape"
     ],
     "requires": "|@Moominvalley Children of Light:1|",
     "region": "Moominvalley",
