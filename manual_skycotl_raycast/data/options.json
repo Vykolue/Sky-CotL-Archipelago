@@ -53,7 +53,7 @@
         },
         "emote_locks": {
             "description": [
-                "Require Rescue Spirit items to use emotes that affect the logic of the game",
+                "Require emote items to use emotes that affect the logic of the game",
                 "",
                 "These include the butterfly and angry emotes"
             ],
@@ -70,11 +70,19 @@
             "group": "Locks"
         },
 
+        "wingless_mode": {
+            "description": [
+                "The logic will assume you are wingless"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Other Options"
+        },
         "starting_winged_light": {
             "description": [
                 "How many Winged Light do you start with?",
                 "",
-                "This only includes Winged Light from Wing Buffs, Orbit / Pity Room, and Shattering Shard Memories"
+                "This only includes Winged Light from Eden, Wing Buffs, Orbit / Pity Room, and Shattering Shard Memories"
             ],
             "type": "Range",
             "range_start": 0,
@@ -84,14 +92,6 @@
                 "orbit_winged_light_only": 1
             },
             "default": 1,
-            "group": "Other Options"
-        },
-        "wingless_mode": {
-            "description": [
-                "The logic will assume you are wingless"
-            ],
-            "type": "Toggle",
-            "default": false,
             "group": "Other Options"
         },
         "trials": {

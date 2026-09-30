@@ -1269,7 +1269,7 @@
       "The Wind Paths Children of Light",
       "Needs Cape"
     ],
-    "requires": "{YamlEnabled(auto_collect_winged_light)}",
+    "requires": "",
     "region": "The Wind Paths"
   },
   {
@@ -1401,7 +1401,7 @@
       "Temple of the Valley Children of Light",
       "Needs Cape"
     ],
-    "requires": "{YamlEnabled(auto_collect_winged_light)}",
+    "requires": "",
     "region": "Temple of the Valley"
   },
   {
