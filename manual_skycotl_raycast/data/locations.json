@@ -13,8 +13,7 @@
     "name": "Wandering Carnival Find 2 Children of Light",
     "category": [
       "Aviary Village",
-      "Find Children of Light",
-      "Needs Cape"
+      "Find Children of Light"
     ],
     "requires": "|@Wandering Carnival Children of Light:2|",
     "region": "Wandering Carnival",

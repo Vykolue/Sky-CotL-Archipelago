@@ -21,12 +21,21 @@
     "region": "Wandering Carnival"
   },
   {
+    "name": "Aviary WL 1 wingless skip",
+    "category": [
+      "Aviary Village",
+      "Aviary WL 1 Methods",
+      "Medium Skips"
+    ],
+    "requires": "",
+    "region": "Wandering Carnival"
+  },
+  {
     "name": "Aviary Child of Light #1",
     "category": [
       "Aviary Village",
       "Actual WL",
-      "Wandering Carnival Children of Light",
-      "Needs Cape"
+      "Wandering Carnival Children of Light"
     ],
     "requires": "|@Aviary WL 1 Methods:1|",
     "region": "Wandering Carnival"
@@ -1033,6 +1042,44 @@
     ],
     "requires": "",
     "region": "Blue Bird Theater"
+  },
+  {
+    "name": "Forest Cavern elevated clearing entrance",
+    "category": [
+      "Hidden Forest",
+      "Forest Cavern Entrance Methods",
+      "Needs Cape"
+    ],
+    "requires": "(|Angry Emote| OR {YamlDisabled(emote_locks)}) AND (|@Wedges:4| AND |@Wedge Capacity:4|)",
+    "region": "Elevated Clearing"
+  },
+  {
+    "name": "Forest Cavern wind paths entrance",
+    "category": [
+      "Hidden Forest",
+      "Forest Cavern Entrance Methods"
+    ],
+    "requires": "|The Wind Paths Shortcuts|",
+    "region": "The Wind Paths"
+  },
+  {
+    "name": "Elevated Clearing forest cavern entrance",
+    "category": [
+      "Hidden Forest",
+      "Elevated Clearing Entrance Methods",
+      "Needs Cape"
+    ],
+    "requires": "|@Wedges:4| AND |@Wedge Capacity:4|",
+    "region": "Forest Cavern"
+  },
+  {
+    "name": "Elevated Clearing forest brook entrance",
+    "category": [
+      "Hidden Forest",
+      "Elevated Clearing Entrance Methods"
+    ],
+    "requires": "|@Regular Forest Spirit:8| OR {YamlDisabled(spirit_gate_locks)}",
+    "region": "Forest Brook"
   },
   {
     "name": "Forest WL 13 without skip",

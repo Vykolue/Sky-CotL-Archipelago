@@ -99,12 +99,14 @@
         "sort-key": "e-area-0-1-unlock"
     },
     {
-        "count": 30,
         "name": "Winged Light",
         "category": [
             "Winged Light"
         ],
-        "progression": "{YamlEnabled(winged_light_run)}",
+        "classification_count": {
+            "progression": 20,
+            "useful": 10
+        },
         "sort-key": "a-goal-items"
     },
     {
@@ -136,63 +138,74 @@
         "sort-key": "b-other-items-1"
     },
     {
-        "count": 3,
         "name": "Regular Isle Spirit",
         "category": [
             "Regular Isle Spirit",
             "Rescue Regular Spirit"
         ],
-        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(spirit_gate_locks)}",
+        "classification_count": {
+            "progression": 2,
+            "useful": 1
+        },
         "sort-key": "c-spirit-a-regular-0"
     },
     {
-        "count": 8,
         "name": "Regular Prairie Spirit",
         "category": [
             "Regular Prairie Spirit",
             "Rescue Regular Spirit"
         ],
-        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(spirit_gate_locks)}",
+        "classification_count": {
+            "progression": 6,
+            "useful": 2
+        },
         "sort-key": "c-spirit-a-regular-3"
     },
     {
-        "count": 8,
         "name": "Regular Forest Spirit",
         "category": [
             "Regular Forest Spirit",
             "Rescue Regular Spirit"
         ],
-        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(spirit_gate_locks)}",
+        "classification_count": {
+            "progression": 8
+        },
         "sort-key": "c-spirit-a-regular-11"
     },
     {
-        "count": 7,
         "name": "Regular Valley Spirit",
         "category": [
             "Regular Valley Spirit",
             "Rescue Regular Spirit"
         ],
-        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(spirit_gate_locks)}",
+        "classification_count": {
+            "progression": 2,
+            "useful": 5
+        },
         "sort-key": "c-spirit-a-regular-19"
     },
     {
-        "count": 6,
         "name": "Regular Wasteland Spirit",
         "category": [
             "Regular Wasteland Spirit",
             "Rescue Regular Spirit"
         ],
-        "progression": "{YamlEnabled(spirit_gate_locks)}",
+        "classification_count": {
+            "progression": 1,
+            "useful": 5
+        },
         "sort-key": "c-spirit-a-regular-26"
     },
     {
-        "count": 5,
         "name": "Regular Vault Spirit",
         "category": [
             "Regular Vault Spirit",
             "Rescue Regular Spirit"
         ],
-        "progression": "{YamlEnabled(winged_light_run)} AND {YamlEnabled(spirit_gate_locks)}",
+        "classification_count": {
+            "progression": 1,
+            "useful": 4
+        },
         "sort-key": "c-spirit-a-regular-32"
     },
     {

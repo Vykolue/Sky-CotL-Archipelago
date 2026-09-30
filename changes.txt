@@ -9,3 +9,9 @@ removed wedge items in wingless mode
 updated the gameplay guide
 
 moved prerequisites to gameplay guide
+
+fixed elevated clearing requires
+
+added carnival wingless skip
+
+made some spirit and winged light items useful instead of progression
