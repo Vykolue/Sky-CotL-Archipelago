@@ -15,3 +15,5 @@ fixed elevated clearing requires
 added carnival wingless skip
 
 made some spirit and winged light items useful instead of progression
+
+fixed bug with winged light goal key

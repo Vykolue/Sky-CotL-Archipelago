@@ -1,6 +1,6 @@
 # Gameplay
 You can play Sky: Children of the Light on any device<br />
-This guide is intended to expain the gameplay for version 0.5.0 of the apworld, and may not apply to other versions
+This guide is intended to expain the gameplay for version 0.6.0 of the apworld, and may not apply to other versions
 
 See the [Setup Guide](https://github.com/Vykolue/Sky-CotL-Archipelago/blob/main/README.md) for more information on how to set up the game
 

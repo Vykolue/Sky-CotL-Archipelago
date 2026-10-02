@@ -1139,7 +1139,7 @@
       "Goal",
       "Winged Light Run"
     ],
-    "place-item": "Winged Light Goal Key",
+    "place_item": ["Winged Light Goal Key"],
     "prehint": true,
     "requires": "",
     "region": "The Passage",
