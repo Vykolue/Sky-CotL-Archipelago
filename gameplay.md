@@ -4,7 +4,7 @@ This guide is intended to expain the gameplay for version 0.6.0 of the apworld, 
 
 See the [Setup Guide](https://github.com/Vykolue/Sky-CotL-Archipelago/blob/main/README.md) for more information on how to set up the game
 
-### Prerequisites
+## Prerequisites
 You may run into impossible scenerios if your account has not:
 - relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
 - unlocked shortcuts for The Wind Paths, The Treehouse, and Harmony Hall `(including Aviary Village connections)`
