@@ -4,6 +4,20 @@ This guide is intended to expain the gameplay for version 0.6.0 of the apworld, 
 
 See the [Setup Guide](https://github.com/Vykolue/Sky-CotL-Archipelago/blob/main/README.md) for more information on how to set up the game
 
+## Table of Contents
+- [Prerequisites](#prerequisites)
+- [Rules](#rules)
+- [Game Modes](#game-modes)
+    - [Winged Light Sanity](#winged-light-sanity)
+    - [Sheet Music Sanity](#sheet-music-sanity)
+- [Wingless Mode](#wingless-mode)
+- [Locked Items](#locked-items)
+- [Skips](#skips)
+- [How does ___ item/lock work?](#how-does-___-itemlock-work)
+- [Traps](#traps)
+- [Winning](#winning)
+- [Death Link](#death-link)
+
 ## Prerequisites
 You may run into impossible scenerios if your account has not:
 - relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
@@ -34,7 +48,7 @@ If you choose multiple, you can win by meeting any included game mode's win cond
 
 Don't toggle every game mode off
 
-## Winged Light Sanity
+### Winged Light Sanity
 "Find Children of Light" means that you must be close enough to collect it, but you aren't required to actually collect it<br />
 (if you already have it, or prefer not to)
 
@@ -48,7 +62,7 @@ If you don't know how many you have, it is best to undershoot or default to 1<br
 If you undershoot, locations may be considered out-of-logic when they are actually accessible<br />
 If you overshoot, locations may be considered in-logic when they are inaccessible
 
-## Sheet Music Sanity
+### Sheet Music Sanity
 Play the music sheet on the specified instrument to earn checks<br />
 You can decide how accurately you need to play each piece to earn the check for it, 
 or you can earn the check simply by completing it
