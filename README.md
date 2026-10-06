@@ -4,7 +4,7 @@ A Manual Archipelago for Sky: Children of the Light
 This archipelago is a [manual](https://github.com/ManualForArchipelago/Manual), meaning there is no mod and you will need to manually input all checks you get.<br />
 You will also be responsible for not using items you don't have unlocked
 
-This is mainly a setup guide. More info on how to play can be found [here](https://github.com/Vykolue/Sky-CotL-Archipelago/blob/main/gameplay.md)
+This is mainly a setup guide. More info on how to play can be found [here](/gameplay.md)
 
 ## Table of Contents
 - [Setup for Hosts](#setup-for-hosts)
@@ -112,7 +112,7 @@ You can see checks you send and receive in real time under the "Archipelago" tab
 Items you receive will also show up under "Items Received" in the "Manual" tab<br />
 You can see hints in the "Hints" tab
 
-More information on the gameplay and prerequisites can be found [here](https://github.com/Vykolue/Sky-CotL-Archipelago/blob/main/gameplay.md)
+More information on the gameplay and prerequisites can be found [here](/gameplay.md)
 
 ### Tips
 - You can use "!hint {item_name}" in the command line to find out where the specified item is
