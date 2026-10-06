@@ -6,6 +6,18 @@ You will also be responsible for not using items you don't have unlocked
 
 This is mainly a setup guide. More info on how to play can be found [here](https://github.com/Vykolue/Sky-CotL-Archipelago/blob/main/gameplay.md)
 
+## Table of Contents
+- [Setup for Hosts](#setup-for-hosts)
+- [Setup for Players](#setup-for-players)
+    - [Getting your YAML](#getting-your-yaml)
+    - [Connecting to a game](#connecting-to-a-game)
+        - [If you can't connect](#if-you-cant-connect)
+- [Playing the game](#playing-the-game)
+    - [Tips](#tips)
+    - [Using the Universal Tracker](#using-the-universal-tracker)
+- [Updating the APWorld](#updating-the-apworld)
+- [AI Usage Disclosure](#ai-usage-disclosure)
+
 ## Setup for Hosts
 Make sure you have the [Archipelago Launcher](https://github.com/ArchipelagoMW/Archipelago/releases/latest)<br />
 (The release is under "Assets" at the bottom of the page)
@@ -31,7 +43,7 @@ Hosting on the Archipelago website:
 3. The port will be listed on the room page, but it may change after a period of inactivity
 4. If your players have trouble connecting:
     - refresh the room to ensure the server is running
-    - ensure they are using the correct server and port number (for example: archipelago.gg:12345)
+    - ensure they are using the correct server and port number (for example: archipelago.gg:38281)
     - ensure the name they are using to connect matches their slot name listed under the "Name" column (case sensitive)
     - ensure they are using the correct password if you set a password
 
