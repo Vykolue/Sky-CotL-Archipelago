@@ -53,7 +53,7 @@
         },
         "emote_locks": {
             "description": [
-                "Require Rescue Spirit items to use emotes that affect the logic of the game",
+                "Require emote items to use emotes that affect the logic of the game",
                 "",
                 "These include the butterfly and angry emotes"
             ],
@@ -70,11 +70,19 @@
             "group": "Locks"
         },
 
+        "wingless_mode": {
+            "description": [
+                "The logic will assume you are wingless"
+            ],
+            "type": "Toggle",
+            "default": false,
+            "group": "Other Options"
+        },
         "starting_winged_light": {
             "description": [
                 "How many Winged Light do you start with?",
                 "",
-                "This only includes Winged Light from Wing Buffs, Orbit / Pity Room, and Shattering Shard Memories"
+                "This only includes Winged Light from Eden, Wing Buffs, Orbit / Pity Room, and Shattering Shard Memories"
             ],
             "type": "Range",
             "range_start": 0,
@@ -94,14 +102,6 @@
             "default": true,
             "group": "Other Options"
         },
-        "auto_collect_winged_light": {
-            "description": [
-                "Include auto-collect Winged Light as locations in the game"
-            ],
-            "type": "Toggle",
-            "default": true,
-            "group": "Other Options"
-        },
 
         "daily_music_challenge": {
             "description": [
@@ -115,22 +115,24 @@
             "description": [
                 "What is the hardest difficulty of skips you want included?",
                 "",
-                "None: no skips will be included",
-                "Trivial: very easy if you know what to do",
-                "Easy: pretty easy, but may have one slightly difficult aspect",
-                "Medium: average difficulty, most skips fall under this category",
-                "Hard: may take several tries, even if you know what to do",
-                "Expert: very difficult to do consistently, even with practice"
+                "none: no skips will be included",
+                "trivial: very easy if you know what to do",
+                "easy: pretty easy, but may have one slightly difficult aspect",
+                "medium: average difficulty, most skips fall under this category",
+                "hard: may take several tries, even if you know what to do",
+                "expert: very difficult to do consistently, even with practice",
+                "",
+                "To simplify the logic, all skips will be enabled when wingless_mode is on"
             ],
             "type": "Choice",
             "default": 0,
             "values": {
-                "None": 0,
-                "Trivial": 1,
-                "Easy": 2,
-                "Medium": 3,
-                "Hard": 4,
-                "Expert": 5
+                "none": 0,
+                "trivial": 1,
+                "easy": 2,
+                "medium": 3,
+                "hard": 4,
+                "expert": 5
             },
             "group": "Extra Challenges"
         },

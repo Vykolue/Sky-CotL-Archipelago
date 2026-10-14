@@ -30,7 +30,10 @@
         "hidden": true
     },
     "Auto-Collect Winged Light": {
-        "yaml_option": ["auto_collect_winged_light"],
+        "hidden": true
+    },
+    "Needs Cape": {
+        "yaml_option": ["!wingless_mode"],
         "hidden": true
     },
 

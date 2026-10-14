@@ -1,7 +1,19 @@
 CHANGES:
 
-split winged light events into individual events for each method
+added a category for locations and events that require a cape
 
-added categories for various skip difficulties
+removed auto winged light option and replaced with wingless option
 
-added hook and yaml option for skips
+removed wedge items in wingless mode
+
+updated the gameplay guide
+
+moved prerequisites to gameplay guide
+
+fixed elevated clearing requires
+
+added carnival wingless skip
+
+made some spirit and winged light items useful instead of progression
+
+fixed bug with winged light goal key

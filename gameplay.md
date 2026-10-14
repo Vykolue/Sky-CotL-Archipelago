@@ -1,8 +1,36 @@
 # Gameplay
 You can play Sky: Children of the Light on any device<br />
-This guide is intended to expain the gameplay for version 0.5.0 of the apworld, and may not apply to other versions
+This guide is intended to expain the gameplay for version 0.6.0 of the apworld, and may not apply to other versions
 
-See the [Setup Guide](https://github.com/Vykolue/Sky-CotL-Archipelago/blob/main/README.md) for more information on how to set up the game and prerequisites
+See the [Setup Guide](/README.md) for more information on how to set up the game
+
+## Table of Contents
+- [Prerequisites](#prerequisites)
+- [Rules](#rules)
+- [Game Modes](#game-modes)
+    - [Winged Light Sanity](#winged-light-sanity)
+    - [Sheet Music Sanity](#sheet-music-sanity)
+- [Wingless Mode](#wingless-mode)
+- [Locked Items](#locked-items)
+- [Skips](#skips)
+- [How does ___ item/lock work?](#how-does-___-itemlock-work)
+- [Traps](#traps)
+- [Winning](#winning)
+- [Death Link](#death-link)
+
+## Prerequisites
+You may run into impossible scenerios if your account has not:
+- relived enough Base Spirit Memories to unlock all Spirit Gates and use emotes required to enter certain areas
+- unlocked shortcuts for The Wind Paths, The Treehouse, and Harmony Hall `(including Aviary Village connections)`
+- progressed through the first three Cave of Prophecy quests `(this only applies if Trials are toggled on)`
+- progressed through the Vault of Knowledge
+
+You may also be required to:
+- complete all Nine-Colored Deer quests
+- complete all Season of Moomin quests
+
+Capeless/Wingless gameplay is supported<br />
+See below for details
 
 ## Rules
 Don't send checks you didn't earn
@@ -20,7 +48,7 @@ If you choose multiple, you can win by meeting any included game mode's win cond
 
 Don't toggle every game mode off
 
-## Winged Light Sanity
+### Winged Light Sanity
 "Find Children of Light" means that you must be close enough to collect it, but you aren't required to actually collect it<br />
 (if you already have it, or prefer not to)
 
@@ -34,14 +62,26 @@ If you don't know how many you have, it is best to undershoot or default to 1<br
 If you undershoot, locations may be considered out-of-logic when they are actually accessible<br />
 If you overshoot, locations may be considered in-logic when they are inaccessible
 
-## Sheet Music Sanity
+### Sheet Music Sanity
 Play the music sheet on the specified instrument to earn checks<br />
-You can decide on how accurately you need to play each piece to earn the check for it, 
+You can decide how accurately you need to play each piece to earn the check for it, 
 or you can earn the check simply by completing it
 
 You can use the instrument and music sheet provided in the Daily Music Challenge even if you haven't received the corresponding item(s)
 
 You may run into errors if you do not include enough music sheets or instrument types in standalone Sheet Music Sanity
+
+## Wingless Mode
+Enabling this option will make the logic assume that you will never have a cape/wing throughout the game<br />
+You can use forbidden items to enter the Gate of Eden, but you still need to obtain 20 "Winged Light" macguffin items first<br />
+Other locations that would require forbidden items, as well as auto-collect Winged Light, are removed from the game<br />
+Go near enough that you could collect a Winged Light to count the check for it<br />
+If you prefer not to enter the Point of No Return, you can win by simply reaching it instead<br />
+This mode **automatically enables all skips** in order to simplify the logic<br />
+All other rules and prerequisites are identical for wingless and winged players
+
+Note that having a cape and not using it is different than not having one at all<br />
+Using the invisible cape spell is also different
 
 ## Locked Items
 Always locked without having received the item:
@@ -98,7 +138,7 @@ Always available to use:
 - dyed outfits
 
 I intend to add logic for some of these in a future update<br />
-If you use any forbidden items or have hard mode off, 
+If you use forbidden items or have skips turned off, 
 you may to be able to get some things out-of-logic
 
 ## Skips
@@ -106,12 +146,12 @@ For the most part, something is considered a skip if it is neither intended nor 
 Skips never require forbidden items and are categorized based on how difficult they are to execute
 
 The options are:
-- "None": no skips will be included
-- "Trivial": very easy if you know what to do
-- "Easy": pretty easy, but may have one slightly difficult aspect
-- "Medium": average difficulty, most skips fall under this category
-- "Hard": may take several tries, even if you know what to do
-- "Expert": very difficult to do consistently, even with practice
+- "none": no skips will be included
+- "trivial": very easy if you know what to do
+- "easy": pretty easy, but may have one slightly difficult aspect
+- "medium": average difficulty, most skips fall under this category
+- "hard": may take several tries, even if you know what to do
+- "expert": very difficult to do consistently, even with practice
 
 If you get stuck, [this playlist](https://www.youtube.com/playlist?list=PLUFegD_D8fTM) shows how to do most skips
 
@@ -156,7 +196,14 @@ Forgot How to Jump: `(on by default)`
 
 Move Using Emotes: `(on by default)`
 - you cannot walk normally or fly for the next 3 minutes
-- the movement options you have are emotes that change the way you move (i.e. skipping, tiptoeing, somersault, moping, cartwheel, flight run, slow walk)
+- the movement options you have are emotes that change the way you move
+    - skipping
+    - tiptoeing
+    - somersault
+    - moping
+    - cartwheel
+    - flight run
+    - slow walk
 - you can used emotes you haven't received for this
 
 ## Winning

@@ -228,7 +228,7 @@
       "Forest Cavern",
       "Forest Brook"
     ],
-    "requires": "|Hidden Forest Unlock| AND ((|@Regular Forest Spirit:8| OR {YamlDisabled(spirit_gate_locks)}) OR (|The Wind Paths Shortcuts|))"
+    "requires": "|Hidden Forest Unlock| AND |@Elevated Clearing Entrance Methods:1|"
   },
   "Blue Bird Theater": {
     "connects_to": [],
@@ -239,7 +239,7 @@
       "The Wind Paths",
       "Elevated Clearing"
     ],
-    "requires": "|Hidden Forest Unlock| AND (((|Angry Emote| OR {YamlDisabled(emote_locks)}) AND (|@Regular Forest Spirit:8| OR {YamlDisabled(spirit_gate_locks)}) AND (|@Wedges:4| AND |@Wedge Capacity:4|)) OR (|The Wind Paths Shortcuts|))"
+    "requires": "|Hidden Forest Unlock| AND |@Forest Cavern Entrance Methods:1|"
   },
   "Boneyard": {
     "connects_to": [
