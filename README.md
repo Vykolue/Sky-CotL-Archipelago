@@ -153,6 +153,8 @@ Make sure that all Sky: CotL players and the host are using the same version of 
 It is a good idea to update your YAML at the same time you update the apworld, 
 as options may change between versions
 
-## AI Usage Disclosure
-If I am searching for how to do something specific and I come across an AI generated response that accomplishes my goal, I will ocassionally use it or adapt it<br />
-That is the only situation I know of where I may use AI in this apworld
+## AI Disclosure
+If I am searching for how to do something specific and I come across an AI generated response that accomplishes my goal, I will occasionally use it or adapt it<br />
+These are usually simple functions built into python and are unlikely to be more than a single line of code<br />
+I never use an AI generated response without first testing that it works as expected<br />
+That is the only situation I know of where I may use AI in this apworld, and even then, I generally try to look for alternative sources
