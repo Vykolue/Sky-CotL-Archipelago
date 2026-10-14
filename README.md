@@ -118,7 +118,7 @@ More information on the gameplay and prerequisites can be found [here](/gameplay
 - You can use "!hint {item_name}" in the command line to find out where the specified item is
 - You will need points to afford a hint, which can be earned by sending checks
 - Use "/items" to see the names of all items
-- Press F1 to change the sort order of items and locations. 
+- Press F1 or use the "/open_settings" command to change the sort order of items and locations. 
 Changing the sort order to "natural" will use the order that I intended
 - If using Universal Tracker with accidental button press protection, 
 use "/send {location_name}" to send a location out of logic, 
