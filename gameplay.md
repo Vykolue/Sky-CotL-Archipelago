@@ -80,8 +80,8 @@ If you prefer not to enter the Point of No Return, you can win by simply reachin
 This mode **automatically enables all skips** in order to simplify the logic<br />
 All other rules and prerequisites are identical for wingless and winged players
 
-Note that having a cape and not using it is different than not having one at all<br />
-Using the invisible cape spell is also different
+Note that having a cape, and not using it, functions differently than not having one at all<br />
+Additionally, using the invisible cape spell functions exactly like a normal cape
 
 ## Locked Items
 Always locked without having received the item:
