@@ -1,10 +1,12 @@
 # Sky-CotL-Archipelago
-A Manual Archipelago for Sky: Children of the Light
+A Manual Archipelago randomizer for Sky: Children of the Light
 
-This archipelago is a [manual](https://github.com/ManualForArchipelago/Manual), meaning there is no mod and you will need to manually input all checks you get.<br />
+This archipelago is a [manual](https://github.com/ManualForArchipelago/Manual), meaning there is no mod and you will need to manually input all checks you get<br />
 You will also be responsible for not using items you don't have unlocked
 
 This is mainly a setup guide. More info on how to play can be found [here](/gameplay.md)
+
+The instructions for this randomizer contain **major spoilers** for the end of the game
 
 ## Table of Contents
 - [Setup for Hosts](#setup-for-hosts)
@@ -16,7 +18,7 @@ This is mainly a setup guide. More info on how to play can be found [here](/game
     - [Tips](#tips)
     - [Using the Universal Tracker](#using-the-universal-tracker)
 - [Updating the APWorld](#updating-the-apworld)
-- [AI Usage Disclosure](#ai-usage-disclosure)
+- [AI Disclosure](#ai-disclosure)
 
 ## Setup for Hosts
 Make sure you have the [Archipelago Launcher](https://github.com/ArchipelagoMW/Archipelago/releases/latest)<br />
